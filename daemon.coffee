@@ -5,16 +5,22 @@
 Twit = require 'twit'
 wikichanges = require 'wikichanges'
 
-# refenrece
-# https://github.com/edsu/wikichanges/blob/master/wikichanges.js
+config = require './config.json'
+pages = require './pages.json'
+
+twitter = new Twit(config)
+wikipedia = new wikichanges.WikiChanges(ircNickname: config.nick)
+
+logEdit = (edit) ->
+	d = new Date
+	delta = ""+edit.delta
+	if edit.delta > 0 then delta = '+'+delta
+	what = "#{d.getHours()}:#{d.getMinutes()}:#{d.getSeconds()}: #{edit.page} (#{delta})"
+	who = "by #{edit.user}"
+	console.log what+Array(process.stdout.columns-what.length-who.length+1).join(' ')+who
+
 main = ->
-	config = require './config.json'
-	pages = require './pages.json'
-
-	twitter = new Twit(config)
-
-	wikipedia = new wikichanges.WikiChanges(ircNickname: config.nick)
-	
+		
 	p = {}
 	for abbr, obj of pages.states
 		for title, names of obj
@@ -29,19 +35,11 @@ main = ->
 		unless edit.namespace in ['main', 'article']
 			return
 
-		log = (edit) ->
-			d = new Date
-			delta = ""+edit.delta
-			if edit.delta > 0 then delta = '+'+delta
-			what = "#{d.getHours()}:#{d.getMinutes()}:#{d.getSeconds()}: #{edit.page} (#{delta})"
-			who = "by #{edit.user}"
-			console.log what+Array(process.stdout.columns-what.length-who.length+1).join(' ')+who
-
 		if edit.channel is '#pt.wikipedia'
-			log edit
+			logEdit edit
 
 		if edit.page of p and not edit.robot and Math.abs(edit.delta) > 15
-			log edit
+			logEdit edit
 
 			console.log 'edit to'
 			status = "Página de #{edit.page} foi editada "

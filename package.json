@@ -1,0 +1,10 @@
+{
+  "name": "wikieleicoes14",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "twit": "^1.1.15",
+    "wikichanges": "^0.2.2",
+    "coffee-script": "latest"
+  },
+}
