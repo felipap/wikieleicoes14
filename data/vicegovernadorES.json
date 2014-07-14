@@ -1,0 +1,382 @@
+{
+    "vicegovernadorES": {
+        "80000000396": {
+            "ocupacao": "Professor de Ensino Superior",
+            "numeroProcesso": "495-28.2014.6.08.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 361.609,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000396/idarquivo/2765?x=140508976500080000000396",
+                    "documento": "1 - certidao1404599525902.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000396/idarquivo/2766?x=140508976500080000000396",
+                    "documento": "2 - certidao1404599525903.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000396/idarquivo/2767?x=140508976500080000000396",
+                    "documento": "3 - certidao1404599525903.pdf"
+                }
+            ],
+            "naturalidade": "CONCEI\u00c7AO DA BARRA",
+            "cnpj": "N\u00c3O INFORMADO",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/ES/candidato/80000000396",
+            "numeroProtocolo": "65942014",
+            "bens": [
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "APARTAMENTO FINANCIADO NO RESIDENCIA MOCHUARA"
+                },
+                {
+                    "valor": "R$ 128.000,00",
+                    "nome": "CASA EM ALVENARIA EM PRAIA GRANDE"
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "MODELO FIAT IDEA 2007"
+                },
+                {
+                    "valor": "R$ 23.609,00",
+                    "nome": "BANCO DO BRASIL LCJ"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PDT / PT",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405089765000"
+            },
+            "id": "80000000396",
+            "enderecoWeb": "NAO POSSUI",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "COM A FOR\u00c7A DO POVO CAPIXABA",
+            "nomeCompleto": "CELIA TAVARES",
+            "nascimento": "22/08/1965",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "CELIA TAVARES",
+            "partido": "PT"
+        },
+        "80000000007": {
+            "ocupacao": "Jornalista e Redator",
+            "numeroProcesso": "120-27.2014.6.08.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 20.000,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000007/idarquivo/57?x=140474777800080000000007",
+                    "documento": "1 - certidao1404583916217.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000007/idarquivo/58?x=140474777800080000000007",
+                    "documento": "2 - certidao1404583916218.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000007/idarquivo/59?x=140474777800080000000007",
+                    "documento": "3 - certidao1404583916218.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000007/idarquivo/60?x=140474777800080000000007",
+                    "documento": "4 - certidao1404583916219.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000007/idarquivo/61?x=140474777800080000000007",
+                    "documento": "5 - certidao1404583916219.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000007/idarquivo/62?x=140474777800080000000007",
+                    "documento": "6 - certidao1404583916220.pdf"
+                }
+            ],
+            "naturalidade": "VARZEA DA PLAMA",
+            "cnpj": "20565691000188",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/ES/candidato/80000000007",
+            "numeroProtocolo": "62152014",
+            "bens": [
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "TERRENO DE 540M2 LOTEAMENTO PARQUE RESIDENCIAL NOVA ALMEIDA"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "FIAT UNO MILLE ANO 1995/96"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "21",
+            "composicaoColigacao": "PCB / PSTU",
+            "raca": "Preta",
+            "meta": {
+                "lastUpdate": "1404747778000"
+            },
+            "id": "80000000007",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "Frente Classista e Socialista",
+            "nomeCompleto": "AURELIO CARLOS",
+            "nascimento": "27/07/1957",
+            "status": "Aguardando julgamento",
+            "codigo": "21",
+            "nomeUrna": "AURELIO CARLOS",
+            "partido": "PCB"
+        },
+        "80000000486": {
+            "ocupacao": "Pedagogo",
+            "numeroProcesso": "611-34.2014.6.08.0000",
+            "genero": "MASCULINO",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000486/idarquivo/3393?x=140511693000080000000486",
+                    "documento": "1 - certidao1404600568731.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000486/idarquivo/3394?x=140511693000080000000486",
+                    "documento": "2 - certidao1404600568731.PDF"
+                }
+            ],
+            "naturalidade": "CARIACICA",
+            "cnpj": "20578083000108",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/ES/candidato/80000000486",
+            "numeroProtocolo": "67112014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Preta",
+            "meta": {
+                "lastUpdate": "1405116930000"
+            },
+            "id": "80000000486",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "WILSON JUNIOR",
+            "nascimento": "20/08/1969",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "WILSON JUNIOR",
+            "partido": "PSOL"
+        },
+        "80000000428": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "551-61.2014.6.08.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 232.160,91",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=ES&sq_cand=10266",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=80000000439&sgUe=ES",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3004?x=140511531300080000000428",
+                    "documento": "1 - certidao1404600007144.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3005?x=140511531300080000000428",
+                    "documento": "2 - certidao1404600007144.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3006?x=140511531300080000000428",
+                    "documento": "3 - certidao1404600007145.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3007?x=140511531300080000000428",
+                    "documento": "4 - certidao1404600007145.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3008?x=140511531300080000000428",
+                    "documento": "5 - certidao1404600007146.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3009?x=140511531300080000000428",
+                    "documento": "6 - certidao1404600007146.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3010?x=140511531300080000000428",
+                    "documento": "7 - certidao1404600007146.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3011?x=140511531300080000000428",
+                    "documento": "8 - certidao1404600007147.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3012?x=140511531300080000000428",
+                    "documento": "9 - certidao1404600007147.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3013?x=140511531300080000000428",
+                    "documento": "10 - certidao1404600007148.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3014?x=140511531300080000000428",
+                    "documento": "11 - certidao1404600007148.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3015?x=140511531300080000000428",
+                    "documento": "12 - certidao1404600007149.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000428/idarquivo/3016?x=140511531300080000000428",
+                    "documento": "13 - certidao1404600007149.pdf"
+                }
+            ],
+            "naturalidade": "ITARANA",
+            "cnpj": "20577683000151",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/ES/candidato/80000000428",
+            "numeroProtocolo": "66512014",
+            "bens": [
+                {
+                    "valor": "R$ 145.291,88",
+                    "nome": "APARTAMENTO NO ED. LINDEN GARDENS, SITUADO NA AVENIDA DESEMBARGADOR DERMEVAL LYRYO, 570, APT201, MATA DA PRAIA, VIT\u00d3RIA/ES"
+                },
+                {
+                    "valor": "R$ 10.400,00",
+                    "nome": "TERRENO NA RUA JOSE MOTA FRAGA, 338, MARUIPE, VIT\u00d3RIA/ES"
+                },
+                {
+                    "valor": "R$ 36.809,74",
+                    "nome": "AQUISI\u00c7\u00c3O DE GOL 2011/2011, VALORES PAGOS EM 2012 R$4.825,62"
+                },
+                {
+                    "valor": "R$ 21.874,00",
+                    "nome": "JUNTO AO VITORIA APART HOSPITAL S/A CNPJ. 02.209.094/0001-39"
+                },
+                {
+                    "valor": "R$ 358,80",
+                    "nome": "JUNTO AO BANESTES CONTA 1.192.004/4.247.979/17.081.175"
+                },
+                {
+                    "valor": "R$ 5.115,89",
+                    "nome": "JUNTO AO BANCO DO BRASIL AG. 4884-4 CONTA 269154-X"
+                },
+                {
+                    "valor": "R$ 12.310,60",
+                    "nome": "JUNTO A MAFRE SEGURADORA DE GARANTIAS E CREDITO S/A CNPJ. 04.046.579/0001-40 EM NOME DO DEPENDENTE JOAO PEDRO SALEME COLNAGHI. CPF. 058.033.477-52"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PSDB / DEM / SD / PEN / PROS / PRP",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405115313000"
+            },
+            "id": "80000000428",
+            "enderecoWeb": "WWW.CESARCOLNAGO.COM.BR",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "O ESPIRITO SANTO PODE MUITO MAIS",
+            "nomeCompleto": "C\u00c9SAR COLNAGO",
+            "nascimento": "22/07/1958",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "C\u00c9SAR COLNAGO",
+            "partido": "PSDB"
+        },
+        "80000000285": {
+            "ocupacao": "Vereador",
+            "numeroProcesso": "405-20.2014.6.08.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 157.929,69",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=57053&sqCandidato=5791",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000285/idarquivo/1977?x=140511389400080000000285",
+                    "documento": "1 - certidao1404598388677.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000285/idarquivo/1978?x=140511389400080000000285",
+                    "documento": "2 - certidao1404598388677.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000285/idarquivo/1979?x=140511389400080000000285",
+                    "documento": "3 - certidao1404598388678.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000285/idarquivo/1980?x=140511389400080000000285",
+                    "documento": "4 - certidao1404598388678.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000285/idarquivo/1981?x=140511389400080000000285",
+                    "documento": "5 - certidao1404598388679.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000285/idarquivo/1982?x=140511389400080000000285",
+                    "documento": "6 - certidao1404598388680.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/ES/candidato/80000000285/idarquivo/1983?x=140511389400080000000285",
+                    "documento": "7 - certidao1404598388680.jpg"
+                }
+            ],
+            "naturalidade": "VIT\u00d3RIA",
+            "cnpj": "20579233000106",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/ES/candidato/80000000285",
+            "numeroProtocolo": "65042014",
+            "bens": [
+                {
+                    "valor": "R$ 81.172,53",
+                    "nome": "FINANCIAMENTO CAIXA CONTRATO: 8.0167.0004.591-0,AG: 0167-8, ENDERE\u00c7O: AV. GOV. EURICO REZENDE, 215,APT. 801,JARDIM CAMBURI - VIT\u00d3RIA/ES"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "LOTE COM \u00c1REA DE 300.00 M2 LOCALIZADO NA RUA JOS\u00c9 ANCHIETA FONTANA, LOTE 02 - QUADRA D1, SITUADO NO LOTEAMENTO DENOMINADO JARDIM CAMBURI - VIT\u00d3RIA/ES"
+                },
+                {
+                    "valor": "R$ 53.810,00",
+                    "nome": "VE\u00cdCULO FINANCIADO - RENAULT 2009/2010 1.6 PLACA MSW 6544"
+                },
+                {
+                    "valor": "R$ 2.634,04",
+                    "nome": "SALDO EM CONTA CORRENTE BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 313,12",
+                    "nome": "SALDO EM CONTA CORRENTE BANCO BRASIL"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "40",
+            "composicaoColigacao": "PSB / PSDC / PSL / PP / PRTB / PT do B / PPS / PR / PSC / PSD / PTC / PC do B / PV / PHS / PTN / PPL / PMN / PRB / PTB",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405113894000"
+            },
+            "id": "80000000285",
+            "enderecoWeb": "WWW.FABRICIOGANDINI.COM.BR",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PRA FRENTE ESP\u00cdRITO SANTO",
+            "nomeCompleto": "FABR\u00cdCIO GANDINI",
+            "nascimento": "06/01/1980",
+            "status": "Aguardando julgamento",
+            "codigo": "40",
+            "nomeUrna": "FABR\u00cdCIO GANDINI",
+            "partido": "PPS"
+        }
+    }
+}

@@ -1,0 +1,726 @@
+{
+    "governadorMA": {
+        "100000000001": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000001/idarquivo/3?x=1405195671000100000000001",
+                    "documento": "1 - proposta_governo1404399560645.pdf"
+                }
+            ],
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "numeroProcesso": "138-91.2014.6.10.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "100000000002",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MA/candidato/100000000002",
+                "nome": "ANA PAULA DE ALBUQUERQUE MARTINS"
+            },
+            "totalBensDeclarados": "R$ 330.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=100000000270&sgUe=MA",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000001/idarquivo/4?x=1405195671000100000000001",
+                    "documento": "1 - certidao1404399560646.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000001/idarquivo/5?x=1405195671000100000000001",
+                    "documento": "2 - certidao1404399560647.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000001/idarquivo/6?x=1405195671000100000000001",
+                    "documento": "3 - certidao1404399560648.pdf"
+                }
+            ],
+            "naturalidade": "S\u00c3O LUIS",
+            "cnpj": "20557975000122",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MA/candidato/100000000001",
+            "numeroProtocolo": "122992014",
+            "bens": [
+                {
+                    "valor": "R$ 300.000,00",
+                    "nome": "IMOVEL LOCALIZADO NO RES MAR DEL PLATA VINHAIS"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "AUTOMOVEL PRISMA"
+                }
+            ],
+            "limiteGastos": "R$ 0,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "16",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405195671000"
+            },
+            "id": "100000000001",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSTU",
+            "nomeCompleto": "SAULO ARCANGELI",
+            "nascimento": "25/10/1971",
+            "status": "Aguardando julgamento",
+            "codigo": "16",
+            "nomeUrna": "SAULO ARCANGELI",
+            "partido": "PSTU"
+        },
+        "100000000133": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000133/idarquivo/851?x=1405259984000100000000133",
+                    "documento": "1 - proposta_governo1404582080846.pdf"
+                }
+            ],
+            "ocupacao": "M\u00e9dico",
+            "numeroProcesso": "275-73.2014.6.10.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "100000000160",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MA/candidato/100000000160",
+                "nome": "CRISTIANA JANSEN DE MELLO FONSECA"
+            },
+            "totalBensDeclarados": "R$ 1.120.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MA&sq_cand=10479",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=100000000708&sgUe=MA",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000133/idarquivo/852?x=1405259984000100000000133",
+                    "documento": "1 - certidao1404582080847.pdf"
+                }
+            ],
+            "naturalidade": "S\u00c3O LUIS",
+            "cnpj": "20565056000109",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MA/candidato/100000000133",
+            "numeroProtocolo": "125402014",
+            "bens": [
+                {
+                    "valor": "R$ 1.000.000,00",
+                    "nome": "RUA DO FAROL, 05, APT 501, PONTA DO FAROL"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "AUTOM\u00d3VEL MERIVA, COR PRETA, ANO 2008"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "AUTOMOVEL MERIVA, COR CINZA, ANO 2008"
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "AUTOM\u00d3VEL SW4, COR PRETA, ANO 2009"
+                }
+            ],
+            "limiteGastos": "R$ 4.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "54",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405259984000"
+            },
+            "id": "100000000133",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PPL",
+            "nomeCompleto": "ZELUIS LAGO",
+            "nascimento": "25/03/1958",
+            "status": "Aguardando julgamento",
+            "codigo": "54",
+            "nomeUrna": "ZELUIS LAGO",
+            "partido": "PPL"
+        },
+        "100000000014": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000014/idarquivo/5278?x=1405085203000100000000014",
+                    "documento": "1 - proposta_governo1404934963347.pdf"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "numeroProcesso": "153-60.2014.6.10.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "100000000015",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MA/candidato/100000000015",
+                "nome": "CARLOS ORLEANS BRAND\u00c3O JUNIOR"
+            },
+            "totalBensDeclarados": "R$ 933.605,9199999999",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MA&sq_cand=10339",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=09210&sqCandidato=12876",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=100000000583&sgUe=MA",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000014/idarquivo/58?x=1405085203000100000000014",
+                    "documento": "1 - certidao1404423217748.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000014/idarquivo/59?x=1405085203000100000000014",
+                    "documento": "2 - certidao1404423217748.pdf"
+                }
+            ],
+            "naturalidade": "S\u00c3O LU\u00cdS",
+            "cnpj": "20557921000167",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MA/candidato/100000000014",
+            "numeroProtocolo": "123592014",
+            "bens": [
+                {
+                    "valor": "R$ 92.000,00",
+                    "nome": "EDIFICIO SAN MARINO, S\u00c3O LU\u00cdS/MA"
+                },
+                {
+                    "valor": "R$ 166.000,00",
+                    "nome": "EDIFICIO S\u00c3O GABRIEL, S\u00c3O LU\u00cdS/MA"
+                },
+                {
+                    "valor": "R$ 137.546,80",
+                    "nome": "JD OLHO D'\u00c0GUA, S\u00c3O LU\u00cdS/MA"
+                },
+                {
+                    "valor": "R$ 24.444,08",
+                    "nome": "EDIFICIO MONUMENTAL, S\u00c3O LU\u00cdS/MA"
+                },
+                {
+                    "valor": "R$ 328.092,66",
+                    "nome": "FLAT CONDOM\u00cdNIO - AQUIRAZ/CEAR\u00c1"
+                },
+                {
+                    "valor": "R$ 63.000,00",
+                    "nome": "HONDA CIVIC 2009"
+                },
+                {
+                    "valor": "R$ 824,20",
+                    "nome": "330 A\u00c7\u00d5ES ORDIN\u00c1RIAS - BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "IDEJ - INSTITUTO DE ESTUDOS JUR\u00cdDICOS"
+                },
+                {
+                    "valor": "R$ 2.018,84",
+                    "nome": "SALDO EM CONTA CORRENTE"
+                },
+                {
+                    "valor": "R$ 114.679,34",
+                    "nome": "ITA\u00da PREVID\u00caNCIA"
+                }
+            ],
+            "limiteGastos": "R$ 10.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "65",
+            "composicaoColigacao": "PP / SD / PROS / PSDB / PC do B / PSB / PDT / PTC / PPS",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405085203000"
+            },
+            "id": "100000000014",
+            "enderecoWeb": "www.flaviodino.com.br",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "TODOS PELO MARANH\u00c3O",
+            "nomeCompleto": "FLAVIO DINO",
+            "nascimento": "30/04/1968",
+            "status": "Aguardando julgamento",
+            "codigo": "65",
+            "nomeUrna": "FLAVIO DINO",
+            "partido": "PC do B"
+        },
+        "100000000376": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000376/idarquivo/2249?x=1405195496000100000000376",
+                    "documento": "1 - proposta_governo1404595234353.pdf"
+                }
+            ],
+            "ocupacao": "Senador",
+            "numeroProcesso": "441-08.2014.6.10.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "100000000377",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MA/candidato/100000000377",
+                "nome": "ANTONIO ARNALDO ALVES DE MELO"
+            },
+            "totalBensDeclarados": "R$ 9.881.255,979999999",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=100000000209&sgUe=MA",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000376/idarquivo/2250?x=1405195496000100000000376",
+                    "documento": "1 - certidao1404595234353.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000376/idarquivo/2251?x=1405195496000100000000376",
+                    "documento": "2 - certidao1404595234354.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000376/idarquivo/2252?x=1405195496000100000000376",
+                    "documento": "3 - certidao1404595234354.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000376/idarquivo/2253?x=1405195496000100000000376",
+                    "documento": "4 - certidao1404595234354.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000376/idarquivo/2254?x=1405195496000100000000376",
+                    "documento": "5 - certidao1404595234355.pdf"
+                }
+            ],
+            "naturalidade": "BRASILIA",
+            "cnpj": "20576409000168",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MA/candidato/100000000376",
+            "numeroProtocolo": "127932014",
+            "bens": [
+                {
+                    "valor": "R$ 138.000,00",
+                    "nome": "EDIFICIO MALIBU AV ATLATICA"
+                },
+                {
+                    "valor": "R$ 196.229,28",
+                    "nome": "CONTRUIDA  EM RIO ANIL  LOCALIZADA NO BAIRRO PIMENTA OLHO D' AGUA"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "229,05 HA DE TERRAS LOCALIZADAS NO LUGAR PERI DE BAIXO EM BACEBEIRA-MA"
+                },
+                {
+                    "valor": "R$ 1.105,04",
+                    "nome": "LOCALIZADO NO OLHO D' AGUA RUA DAS CEGONHAS Q 19 LOTE 3 S\u00c3O LUIS-MA"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "TERRENO COM 90.000,00 M2 NA CIDADE BARRA DO CORDA-MA"
+                },
+                {
+                    "valor": "R$ 3.758,00",
+                    "nome": "TERRENO LOTE NO 34 QUADRA 14 LOTEAMENTO PINDORAMA S\u00c3O LUIS - MA"
+                },
+                {
+                    "valor": "R$ 26.274,14",
+                    "nome": "LT NO 14 DA QD. 26 PROJETO DE REGULARIZA\u00c7\u00c3O URBANA OLHO D' AGUA S\u00c3O LUIS -MA"
+                },
+                {
+                    "valor": "R$ 4.546,15",
+                    "nome": "1.524,68 DE TERRAS LOCALIZADAS NO BAIRRO COHAFUMA EM S\u00c3O LUIS-MA"
+                },
+                {
+                    "valor": "R$ 1.200.000,00",
+                    "nome": "91.600,00 M2 DE TERRAS FORREIRAS A UNI\u00c3O ENCRAVADA NA AREA DENOMINADA TIBIRI-PEDREIRAS EM S\u00c3O LUIS-MA ADQUIRIDA AO BANCO DO BRADESCO PELO TOTAL DE R$ 1.200.000,00 PAGO ATE O PRESENTE R$ 637.278,30"
+                },
+                {
+                    "valor": "R$ 28.358,95",
+                    "nome": "LT 01 QD 64 DA AV. PRESIDENTE MEDICE S\u00c3O LUIS - MA"
+                },
+                {
+                    "valor": "R$ 174.958,45",
+                    "nome": "58.677,42 M DE TERRAS LOCALIZADO NO BAIRRO COHAFUMA EM S\u00c3O LUIS-MA"
+                },
+                {
+                    "valor": "R$ 349.686,19",
+                    "nome": "177.277,82M2 DE AREA LOCALIZADA NO BAIRRO COHAFUMA EM S\u00c3O LUIS-MA"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "TERRENO SITUADO NO MUNICIPIO DE BARREIRINHAS-MA NO LUGAR DENOMINADA CARNAUBAL, COM 03 HECTARES"
+                },
+                {
+                    "valor": "R$ 424.495,38",
+                    "nome": "142.367,34M DE TERRAS LOCALIZADO NO BAIRRO COHAFUMA EM S\u00c3O LUIS-MA"
+                },
+                {
+                    "valor": "R$ 345,40",
+                    "nome": "UM LOTE  NO 03 QUADRA 08 DO PROJETO DE COLONOZA\u00c7\u00c3O DE BARRA DO CORDA - MA"
+                },
+                {
+                    "valor": "R$ 20.034,73",
+                    "nome": "MARINA IN BLOCO L DEL REY SUITES  APRTO 205"
+                },
+                {
+                    "valor": "R$ 44.000,00",
+                    "nome": "AQUISI\u00c7\u00c3O DE UM HELICOPTERO ACIDENTADO (SALVADO) MARCA ROBINSON R 44 PREFIXO PR-XYZ ORIUNDO DO SINISTRO N\u00ba  115139"
+                },
+                {
+                    "valor": "R$ 38.914,00",
+                    "nome": "AQUISI\u00c7\u00c3O DE UMA EMBARCA\u00c7\u00c3O TIPO LANCHA  ESPORTE E RECREIO COM MOTOR MERCURY DENOMINADA DE LOBO"
+                },
+                {
+                    "valor": "R$ 97.450,00",
+                    "nome": "LANCHA COM MOTOR PRA RECREIO COM 7,92M COMPRIMENTO E 2,73 DE BOCA DENOMINADA TOMAHAWK"
+                },
+                {
+                    "valor": "R$ 290.000,00",
+                    "nome": "50% DE EMBARCA\u00c7AO DENOMINADA SIXSTAR ONE"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "50%  DE UMA LANCHA ESPORTE PARA RECREIO TIPO LUSO II"
+                },
+                {
+                    "valor": "R$ 950,00",
+                    "nome": "UM REBOQUE CARROCEIRA PLACA NO HPL-2952"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "50 (CINQUENTA) A\u00c7\u00d5ES DA MAFE ENERGIA E PARTICIPA\u00c7\u00d5ES S/A"
+                },
+                {
+                    "valor": "R$ 11.180,09",
+                    "nome": "A\u00c7\u00d5ES DA EMPRESA D. CAJU CNB"
+                },
+                {
+                    "valor": "R$ 12.500,00",
+                    "nome": "12500 QUOTAS CO CAPITAL SOCIAL DA EMPRESA INDUSTRIA VALE DO SOL  LTDA, EM NOME DO MEU FILHO MENOR LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 246,00",
+                    "nome": "246 QUOTAS DE CAPITAL NA RADIO E TV DIFURORA DO MA"
+                },
+                {
+                    "valor": "R$ 52.700,00",
+                    "nome": "52700 QUOTAS DA DIFUSORA INCORPORA\u00c7\u00c3O E CONSTRU\u00c7\u00c3O LTDA"
+                },
+                {
+                    "valor": "R$ 26.528,94",
+                    "nome": "AQUISI\u00c7\u00c3O  DE COTA DO CONSORCIO DE IMOVEIS HSBC BRASIL"
+                },
+                {
+                    "valor": "R$ 4.900,00",
+                    "nome": "4900 QUOTAS DO CAPITAL DA EMPRESA DIFUSORA ADMINISTA\u00c7\u00c3O HOTELARIA LTDA."
+                },
+                {
+                    "valor": "R$ 4.000,00",
+                    "nome": "4000 QUOTAS DE CAPITAL NA FIRMA INTEL INFORMA\u00c7\u00d5ES TELECOMUNICA\u00c7\u00d5ES LTDA."
+                },
+                {
+                    "valor": "R$ 65.900,00",
+                    "nome": "64800 QUOTAS DA RADIO CURIMA LTDA QUE FORAM CONVERTIDAS PARA 32999"
+                },
+                {
+                    "valor": "R$ 1.300,00",
+                    "nome": "1300 QUOTAS  DE CAPITAL DA EDSON LOB\u00c3O FILHO"
+                },
+                {
+                    "valor": "R$ 999,60",
+                    "nome": "9996 QUOTAS DA IDEIAFIXA PROPAGANDA E MAKETING LTDA"
+                },
+                {
+                    "valor": "R$ 7.500,00",
+                    "nome": "7500 QUOTAS DO CAPITAL SOCIAL DA EMPRESA ESCOLA ANA GOMES LTDA-ME EM NOME DO FILHO LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "1000 COTAS DA COOPERGAS EM PORTO FRANCO - MA"
+                },
+                {
+                    "valor": "R$ 12.500,00",
+                    "nome": "12500 QUOTAS DO CAPITAL SOCIAL DA MINERADORA VALE DO SOL, EM NOME DO MEU FILHO MENOR LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 11.440,00",
+                    "nome": "11440 QUOTAS DE CAPITAL DA RADIO E TV NORTE SUL LTDA."
+                },
+                {
+                    "valor": "R$ 8.909,53",
+                    "nome": "AQUISI\u00c7\u00c3O DE COTA DE CONSORCIO DE IMOVEIS HSBC BRASIL"
+                },
+                {
+                    "valor": "R$ 7.500,00",
+                    "nome": "QUOTAS DO CAPITAL SOCIAL DA EMPRESA MINERADORA PEDRA DO ROSARIO LTDA"
+                },
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "80000 QUOTA NA EMPRESA AGROPECUARIA E REFLORESTADORA OURO BRANCO LTDA"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "50.000 QUOTAS NO CAPITAL SOCIAL DA METAL A\u00c7O LTDA EM NOME DO DEPENDENTE FILHO LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "15000 QUOTAS DO CAPITAL SOCIAL EMPRESA ESCOLA ANA GOMES LTDA"
+                },
+                {
+                    "valor": "R$ 12.500,00",
+                    "nome": "12500 QUOTAS DO CAPITAL SOCIAL DA REFLORESTADORA VALE DO SOL, EM NOME DO MEU FILHO MENOR LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 90.558,02",
+                    "nome": "CAPITAL EMPRESA EML ASSES E PARTICIPAL\u00c7OES LTDA"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "6000 QUOTAS DE CAPUTAL  NA RADIO GUAJAJARAS DE BARRA DO CORDA"
+                },
+                {
+                    "valor": "R$ 427,48",
+                    "nome": "CONTA POUPAN\u00c7A NO HSBC EM NOME DO DEPENDENTE LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 425,60",
+                    "nome": "SALDO NA CONTA POUPAN\u00c7A DO BANCO DO BRASIL EM NOME DO DEPENDENTE LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 4.330.000,00",
+                    "nome": "APLICA\u00c7\u00c3O NO FI"
+                },
+                {
+                    "valor": "R$ 111.794,92",
+                    "nome": "AQUISI\u00c7\u00c3O  EM AGOSTO/02 DE 01 APARTAMENTO UND. 501 LOCALIZADO EM ATINS BARREIRINHAS-MA  EDFICIO FLAT RESIDENCE"
+                },
+                {
+                    "valor": "R$ 2.558,97",
+                    "nome": "PGBL NO HSBC LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 34.300,00",
+                    "nome": "VGBL EM NOME DO DEPENDENTE LUCAS LOB\u00c3O"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "HERAN\u00c7A DE 101 APOLICE DE TITULO AO PORTADOR DIVIDA P\u00daBLICA COMPRADA PELO MEU AVO EMITIDA EM 1902 A 1926 VALOR SIMBOLICO DE R$ 1000"
+                },
+                {
+                    "valor": "R$ 600.000,00",
+                    "nome": "CREDITO NA EMPRESA ESCOLA ANA GOMES LTDA."
+                },
+                {
+                    "valor": "R$ 260.000,00",
+                    "nome": "CREDITO NA EMPRESA METAL A\u00c7O LTDA. EM NOME DO DEPENDENTE FILHO LUCAS LOBAO"
+                },
+                {
+                    "valor": "R$ 266.194,75",
+                    "nome": "PREVIDENCIA PLANO JOVEM DO BANCO HSBS"
+                },
+                {
+                    "valor": "R$ 3.915,45",
+                    "nome": "SALDO EM CONTA CORRENTE NO BANCO RURAL"
+                },
+                {
+                    "valor": "R$ 39.755,84",
+                    "nome": "CREDITO EM CONTA CORRENTE JUNTO A EMPRESA INTEL INFORMA\u00c7\u00d5ES TELELFONICAS"
+                },
+                {
+                    "valor": "R$ 46.975,53",
+                    "nome": "DEPOSITO EM CONTA CORRENTE HSBC"
+                },
+                {
+                    "valor": "R$ 34.800,00",
+                    "nome": "CREDITO EM CONTA CORRENTE JUNTO A EMPRESA RADIO GUJAJARAS DE BARRA DO CORDA"
+                },
+                {
+                    "valor": "R$ 85.000,00",
+                    "nome": "DINHEIRO EM CAIXA"
+                },
+                {
+                    "valor": "R$ 15.644,80",
+                    "nome": "TITULO DE CAPITALIZA\u00c7\u00c3O NO HSBC"
+                },
+                {
+                    "valor": "R$ 266.194,75",
+                    "nome": "PGBL BANCO RURAL S/A INVESPREV SEGUROS E PREVIDENCIA S/A"
+                }
+            ],
+            "limiteGastos": "R$ 50.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PSL / PEN / PSDC / PRP / PTN / PMN / PSC / PHS / PRTB / PR / PRB / DEM / PSD / PV / PT / PTB / PT do B",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405195496000"
+            },
+            "id": "100000000376",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PRA FRENTE MARANH\u00c3O",
+            "nomeCompleto": "LOB\u00c3O FILHO",
+            "nascimento": "19/09/1964",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "LOB\u00c3O FILHO",
+            "partido": "PMDB"
+        },
+        "100000000534": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000534/idarquivo/3450?x=1405186213000100000000534",
+                    "documento": "1 - proposta_governo1404601503797.pdf"
+                }
+            ],
+            "ocupacao": "Professor de Ensino Fundamental",
+            "numeroProcesso": "709-62.2014.6.10.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "100000000535",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MA/candidato/100000000535",
+                "nome": "FRANCINALDO LEITE"
+            },
+            "totalBensDeclarados": "R$ 20.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=08893&sqCandidato=12988",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=100000000744&sgUe=MA",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000534/idarquivo/3451?x=1405186213000100000000534",
+                    "documento": "1 - certidao1404601503797.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000534/idarquivo/3452?x=1405186213000100000000534",
+                    "documento": "2 - certidao1404601503797.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000534/idarquivo/3453?x=1405186213000100000000534",
+                    "documento": "3 - certidao1404601503798.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000534/idarquivo/3454?x=1405186213000100000000534",
+                    "documento": "4 - certidao1404601503798.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000534/idarquivo/3455?x=1405186213000100000000534",
+                    "documento": "5 - certidao1404601503799.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000534/idarquivo/3456?x=1405186213000100000000534",
+                    "documento": "6 - certidao1404601503799.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000534/idarquivo/3457?x=1405186213000100000000534",
+                    "documento": "7 - certidao1404601503800.jpg"
+                }
+            ],
+            "naturalidade": "S\u00c3O JOS\u00c9 DE RIBAMAR",
+            "cnpj": "20581582000154",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MA/candidato/100000000534",
+            "numeroProtocolo": "130042014",
+            "bens": [
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "FORD FIESTA ROCAM. PRETO."
+                }
+            ],
+            "limiteGastos": "R$ 50.000,00",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "21",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405186213000"
+            },
+            "id": "100000000534",
+            "enderecoWeb": "PROFJOSIVALDO21.BLOGSPOT.COM",
+            "estadoCivil": "Separado(a) judicialmente",
+            "coligacao": "PCB",
+            "nomeCompleto": "PROF.JOSIVALDO",
+            "nascimento": "14/12/1966",
+            "status": "Aguardando julgamento",
+            "codigo": "21",
+            "nomeUrna": "PROF.JOSIVALDO",
+            "partido": "PCB"
+        },
+        "100000000200": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000200/idarquivo/1076?x=1405103068000100000000200",
+                    "documento": "1 - proposta_governo1404591787245.pdf"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "numeroProcesso": "370-06.2014.6.10.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "100000000201",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MA/candidato/100000000201",
+                "nome": "ODIVIO DA SILVA REZENDE NETO"
+            },
+            "totalBensDeclarados": "R$ 149.298,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000200/idarquivo/1077?x=1405103068000100000000200",
+                    "documento": "1 - certidao1404591787245.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000200/idarquivo/1078?x=1405103068000100000000200",
+                    "documento": "2 - certidao1404591787246.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000200/idarquivo/1079?x=1405103068000100000000200",
+                    "documento": "3 - certidao1404591787246.pdf"
+                }
+            ],
+            "naturalidade": "S\u00c3O LU\u00cdS",
+            "cnpj": "20574496000114",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MA/candidato/100000000200",
+            "numeroProtocolo": "126092014",
+            "bens": [
+                {
+                    "valor": "R$ 109.298,00",
+                    "nome": "CASA NO BAIRRO APEADOURO"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "CARRO TROLLER 2008"
+                }
+            ],
+            "limiteGastos": "R$ 50.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405103068000"
+            },
+            "id": "100000000200",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "PEDROSA",
+            "nascimento": "21/01/1970",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "PEDROSA",
+            "partido": "PSOL"
+        }
+    }
+}

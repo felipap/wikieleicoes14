@@ -1,0 +1,787 @@
+{
+    "senadorGO": {
+        "90000000026": {
+            "suplente": {
+                "numero": "90000000027",
+                "nome": "SEBASTI\u00c3O BRAZ DA CUNHA DOS REIS",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/GO/candidato/90000000027"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404916957000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/GO/candidato/90000000026",
+            "nomeCompleto": "AGUIMAR JENU\u00cdNO",
+            "nascimento": "13/04/1960",
+            "naturalidade": "IPOR\u00c1",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "APARTAMENTO COND RES KALIPSO NOVA SUI\u00c7A GOIANIA"
+                },
+                {
+                    "valor": "R$ 4.164,36",
+                    "nome": "UMA GLEBA DE TERRA FAZ SANTA MARTA IPOR\u00c1 GO"
+                },
+                {
+                    "valor": "R$ 48.578,09",
+                    "nome": "UMA GLEBA DE TERRA FAZENDA SANTA MARTA IPOR\u00c1"
+                },
+                {
+                    "valor": "R$ 2.775,88",
+                    "nome": "UMA GLEBA DE TERRA FAZENDA SANTA MARTA MUN. IPOR\u00c1"
+                },
+                {
+                    "valor": "R$ 40.278,37",
+                    "nome": "UMA GLEBA DE TERRA SITUADA FAZ SANTA MARTA IPOR\u00c1"
+                },
+                {
+                    "valor": "R$ 33.310,69",
+                    "nome": "UMA GLEBA DE TERRA FAZENDA VALE DA LIMEIRA IPOR\u00c1"
+                },
+                {
+                    "valor": "R$ 2.300,00",
+                    "nome": "UMA PARTE DE TERRAS FAZENDA SANTA MARTA IPOR\u00c1"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "UM BOXE DE GARAGEM GOIANIA"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "MOTOCICLETA HONDA CG 125 FAN"
+                },
+                {
+                    "valor": "R$ 105.000,00",
+                    "nome": "QUOTAS EMPRESA CALIANDRA CONSTRUTORA"
+                },
+                {
+                    "valor": "R$ 1.605.000,00",
+                    "nome": "QUOTAS EMPRESA CALIANDRA CONSTRUTORA ALT. CONTR"
+                },
+                {
+                    "valor": "R$ 13.821,42",
+                    "nome": "QUOTAS DA COOPERATIVA AGROINDUSTRIAL DOS PROD RURAIS DO SUDOESTE GOIANO COMIGO"
+                },
+                {
+                    "valor": "R$ 7.527,17",
+                    "nome": "QUOTA BB CONSORCIO DE AUTOMOVEIS"
+                },
+                {
+                    "valor": "R$ 4.317,59",
+                    "nome": "SALDO APLICADO EM OUROCAP TORCIDA"
+                },
+                {
+                    "valor": "R$ 57.521,81",
+                    "nome": "CALIANDRA CONSTRUTORA LTDA, REFERENTE EMPRESTIMO PESSOAL PARTICULAR CONCEDIDO"
+                },
+                {
+                    "valor": "R$ 179,78",
+                    "nome": "SALDO EM CONTA CORRENTE BRADESCO"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404483100629.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000026/idarquivo/122?x=140491695700090000000026"
+                }
+            ],
+            "partido": "PSB",
+            "numeroProcesso": "311-45.2014.6.09.0000",
+            "codigo": "401",
+            "raca": "Branca",
+            "numeroProtocolo": "297822014",
+            "coligacao": "PARTICIPA\u00c7\u00c3O POPULAR",
+            "composicaoColigacao": "PSB / PSC / PRP",
+            "numeroUrna": "401",
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "cnpj": "20560893000137",
+            "limiteGastos": "R$ 5.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "90000000026",
+            "totalBensDeclarados": "R$ 2.428.775,159999999",
+            "nomeUrna": "AGUIMAR JENU\u00cdNO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "90000000605": {
+            "suplente": {
+                "numero": "90000000610",
+                "nome": "LUIZ CARLOS DO CARMO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/GO/candidato/90000000610"
+            },
+            "enderecoWeb": "www.ronaldocaiado.com.br",
+            "meta": {
+                "lastUpdate": "1405079940000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/GO/candidato/90000000605",
+            "nomeCompleto": "RONALDO CAIADO",
+            "nascimento": "25/09/1949",
+            "naturalidade": "ANAPOLIS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 285.280,00",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 73,70% DE UM IMOVEL DENOMINADO GON\u00c7ALO NO MUNICIPIO DE MARA ROSA - GO"
+                },
+                {
+                    "valor": "R$ 10.562,40",
+                    "nome": "FAZENDA DENOMINADA LAGO BONITA NO RIO TESOURAS, NO MUNICIPIO DE CRIX\u00c1S/MOZARL\u00c2NDIA"
+                },
+                {
+                    "valor": "R$ 269.379,12",
+                    "nome": "FAZENDA DENOMINADA CONQUISTA, NO MUNICIPIO DE ITABERAI - GO"
+                },
+                {
+                    "valor": "R$ 56.080,00",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 20% DE UM IMOVEL RURAL DENOMINADO FURNA DA ON\u00c7A, CONSTITUIDA POR DIVERSAS PATES NA FAZENDA POSSE E NOVA AURORA NO MUNICIPIO DE NEROPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 1.173,60",
+                    "nome": "FAZENDA DENOMINADA ESCALADA NO MUNICIPIO DE MARA ROSA"
+                },
+                {
+                    "valor": "R$ 44.518,01",
+                    "nome": "FAZENDA DENOMINADA SEGREDO, NO MUNICIPIO DE NOVA CRIX\u00c1S - GO"
+                },
+                {
+                    "valor": "R$ 699.524,56",
+                    "nome": "FAZENDA DENOMINADA SANTA MARIA, NO MUNICIPIO DE NOVA CRIX\u00c1S"
+                },
+                {
+                    "valor": "R$ 196.682,83",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 9,08% DE UMA GLEBA DENOMINADA FAZENDA CRISPIM OU LIMOEIRO, EM HIDROLINA-GO"
+                },
+                {
+                    "valor": "R$ 35.711,94",
+                    "nome": "50% DE UMA SALA COMERCIAL NO BUENO MEDICAL CENTER NA RUA T-29, QD, 34, LT. 06/07, SETOR BUENO, GOI\u00c2NIA-GO"
+                },
+                {
+                    "valor": "R$ 600.000,00",
+                    "nome": "FAZENDA DENOMINADA FAZENDA ALDEIA MARIA, EM MARA ROSA"
+                },
+                {
+                    "valor": "R$ 243.037,95",
+                    "nome": "LOTE N. 04 E 05, QD. J1, NO LOTEAMENTO ALPHAVILLE FLAMBOYANT, GOIANIA-GO"
+                },
+                {
+                    "valor": "R$ 285.280,00",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 20% DE UM IMOVEL DENOMINADO FURNA DA ON\u00c7A NO MUNICIPIO DE NEROPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 34.000,00",
+                    "nome": "16,66% DE UMA GLEBA DE TERRAS, DENOMINADA GLEBA 2, PROVENIENTE DA UNIFICA\u00c7\u00c3O DA FAZENDA GODOIS, BOA VISTA OU AGUA FRIA E DA GLEBA DE TERRAS DA FAZENDA ANTAS, ANTIGA BOA VISTA, EM ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 3.286,43",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DE UM LOTE URBANO, N\u00ba. 01, QD. 14, BAIRRO ALVORADA, EM ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 27.329,71",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DE UMA CASA RESIDENCIAL, AV. CONTORNO COM A TRAV. DA RUA CORONEL BATISTA EM ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 2.632,59",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DO LOTE URBANO N.18, QD.14, BAIRRO ALVORADA, ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 34.185,33",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DE UMA CASA RESIDENCIAL NA AV. XAVIER DE ALMEIDA EM ANAPOLIS-GO, MATRICULA N\u00ba. 7801"
+                },
+                {
+                    "valor": "R$ 13.750,00",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DE UM IMOVEL DENOMINADO FAZENDA CABECEIRA DO CAPIVARA E CORREGO DO MEIO, NO MUNICIPIO DE NEROPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 4.170,84",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DE UM LOTE URBANO, N.02, QD. 14, BAIRRO ALVORADA, ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 108.259,75",
+                    "nome": "FAZENDA DENOMINADA S\u00c3O BENTO DO LIMOEIRO, AMERICANO DO BRASIL-GO"
+                },
+                {
+                    "valor": "R$ 213.920,00",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 20% DE UMA GLEBA DE TERRAS NA FAZENDA FURNA DA ON\u00c7A, EM ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 2.744,43",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DE UM LOTE URBANO, N. 16, QD. 14, BAIRRO ALVORADA, ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 2.520,74",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DO LOTE URBANO N\u00ba. 17, QD. 14, BAIRRO ALVORADA, ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 5.492,26",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DO TERRENO URBANO NA RUA CORONEL BATISTA AT\u00c9 A AVENIDA CONTORNO EM ANAPOLIS-GO"
+                },
+                {
+                    "valor": "R$ 74.000,00",
+                    "nome": "HYUNDAI AZERA COMPLETO ANO/MOD.10/11 GA74 CHASSIS KMHFC41DBBA540610"
+                },
+                {
+                    "valor": "R$ 90.000,00",
+                    "nome": "TRATOR KOMATSU D50, SERIE 53998"
+                },
+                {
+                    "valor": "R$ 21.000,00",
+                    "nome": "TRATOR AGRICOLA CBT, MODE. 8440, ANO 1988"
+                },
+                {
+                    "valor": "R$ 7.100,00",
+                    "nome": "UMA MOTO HONDA NXR 150 BROS KS, ANO MODELO 2008"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "TRATOR VALMET 128 4X4"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "TRATOR VALMET MOD. 85 ID, ANO 1979"
+                },
+                {
+                    "valor": "R$ 3.636.615,00",
+                    "nome": "BOVINOS E BUFALINOS, QUANTIDADE  3539 CABE\u00c7AS"
+                },
+                {
+                    "valor": "R$ 103.400,00",
+                    "nome": "ASININOS, EQUINOS E MUARES QUANTIDADE 84 CABE\u00c7AS"
+                },
+                {
+                    "valor": "R$ 4.640,34",
+                    "nome": "TRES LINHAS TELEFONICAS EM GOIANIA-GO"
+                },
+                {
+                    "valor": "R$ 11.390,45",
+                    "nome": "CAPITAL SOCILA NA COOPERATIVA DE CREDITO RURAL GOIASCARNE LTDA"
+                },
+                {
+                    "valor": "R$ 50,20",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 14,67% DO LOTE DE A\u00c7\u00d5ES DA EMPRESA TELECOMUNICA\u00c7\u00d5ES BRASILEIRAS S/A"
+                },
+                {
+                    "valor": "R$ 83,33",
+                    "nome": "BEM ADQUIRIDO DO ESPOLIO DE EDENVAL RAMOS CAIADO SENDO 16,66% DO LOTE DE 50 A\u00c7\u00d5ES ESCRITURAIS DO BANCO BRADESCO S/A"
+                },
+                {
+                    "valor": "R$ 100,68",
+                    "nome": "7,733% DAS COMPANHIA COLONIZADORA PASTORIL AGRICOLA REFORMISTA COMPAR EM NOME DE SUA FILHA MARIA DE CARVALHO RAMOS CAIADO"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "A\u00c7\u00d5ES DA EMPRESA CAYADO EMPREENDIMENTOS IMOBILIARIOS SPE S/A"
+                },
+                {
+                    "valor": "R$ 100,68",
+                    "nome": "7,733% DAS A\u00c7\u00d5ES DA COMPANHIA COLONIZADORA PASTORIL AGRICOLA REFORMISTA COMPAR EM NOME DE SUA FILHA MARCELA DE CARVALHO RAMOS CAIADO"
+                },
+                {
+                    "valor": "R$ 1.294,72",
+                    "nome": "QUOTAS (1000) DE CAPITAL SOCIAL NA COOPERCAMPI-COOPERATIVA AGROPECUARIA REGIONAL DE CAMPINORTE"
+                },
+                {
+                    "valor": "R$ 6.084,00",
+                    "nome": "APLICA\u00c7\u00c3O FINANCEIRAS RDB/CDB ITAU UNIBANCO S/A"
+                },
+                {
+                    "valor": "R$ 20,00",
+                    "nome": "TITULO DE CAPITALIZA\u00c7\u00c3O NO BANCO DO BRASIL S/A"
+                },
+                {
+                    "valor": "R$ 10,00",
+                    "nome": "SALDO EM CONTA CORRENTE NO BANCO ITAU UNIBANCO S/A"
+                },
+                {
+                    "valor": "R$ 2.050,00",
+                    "nome": "SALDO EM CONTA CORRENTE NO BANCO DO BRASIL S/A"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404588134604.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2681?x=140507994000090000000605"
+                },
+                {
+                    "documento": "2 - certidao1404588134604.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2682?x=140507994000090000000605"
+                },
+                {
+                    "documento": "3 - certidao1404588134605.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2683?x=140507994000090000000605"
+                },
+                {
+                    "documento": "4 - certidao1404588134605.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2684?x=140507994000090000000605"
+                },
+                {
+                    "documento": "5 - certidao1404588134606.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2685?x=140507994000090000000605"
+                },
+                {
+                    "documento": "6 - certidao1404588134606.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2686?x=140507994000090000000605"
+                },
+                {
+                    "documento": "7 - certidao1404588134607.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2687?x=140507994000090000000605"
+                },
+                {
+                    "documento": "8 - certidao1404588134607.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2688?x=140507994000090000000605"
+                },
+                {
+                    "documento": "9 - certidao1404588134608.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000605/idarquivo/2689?x=140507994000090000000605"
+                }
+            ],
+            "partido": "DEM",
+            "numeroProcesso": "615-44.2014.6.09.0000",
+            "codigo": "251",
+            "raca": "Branca",
+            "numeroProtocolo": "304612014",
+            "coligacao": "AMOR POR GOIAS",
+            "composicaoColigacao": "PMDB / DEM / SD / PC do B / PRTB / PTN / PPL",
+            "numeroUrna": "251",
+            "ocupacao": "M\u00e9dico",
+            "cnpj": "20565873000159",
+            "limiteGastos": "R$ 15.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "90000000605",
+            "totalBensDeclarados": "R$ 7.232.461,89",
+            "nomeUrna": "RONALDO CAIADO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=GO&sq_cand=10017"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=90000000105&sgUe=GO"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "90000000512": {
+            "suplente": {
+                "numero": "90000000513",
+                "nome": "AUGUSTINHO SCHEFFER DA ROSA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/GO/candidato/90000000513"
+            },
+            "enderecoWeb": "WWW.FACEBOOK.COM/ELBER.S.ARAUJO",
+            "meta": {
+                "lastUpdate": "1404838292000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/GO/candidato/90000000512",
+            "nomeCompleto": "ELBER SAMPAIO",
+            "nascimento": "23/09/1966",
+            "naturalidade": "ANAPOLIS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 17.000,00",
+                    "nome": "VW GOL 2004"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "VW GOL 1997"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404582351290.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000512/idarquivo/2179?x=140483829200090000000512"
+                },
+                {
+                    "documento": "2 - certidao1404582351291.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000512/idarquivo/2180?x=140483829200090000000512"
+                },
+                {
+                    "documento": "3 - certidao1404582351291.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000512/idarquivo/2181?x=140483829200090000000512"
+                },
+                {
+                    "documento": "4 - certidao1404582351292.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000512/idarquivo/2182?x=140483829200090000000512"
+                },
+                {
+                    "documento": "5 - certidao1404582351293.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000512/idarquivo/2183?x=140483829200090000000512"
+                },
+                {
+                    "documento": "6 - certidao1404582351293.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000512/idarquivo/2184?x=140483829200090000000512"
+                },
+                {
+                    "documento": "7 - certidao1404582351294.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000512/idarquivo/2185?x=140483829200090000000512"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "752-26.2014.6.09.0000",
+            "codigo": "500",
+            "raca": "Branca",
+            "numeroProtocolo": "303512014",
+            "coligacao": "PSOL",
+            "composicaoColigacao": "",
+            "numeroUrna": "500",
+            "ocupacao": "Outros",
+            "cnpj": "20566499000106",
+            "limiteGastos": "R$ 100.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "90000000512",
+            "totalBensDeclarados": "R$ 27.000,0",
+            "nomeUrna": "ELBER SAMPAIO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=GO&sq_cand=10738"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=92215&sqCandidato=1103"
+                }
+            ],
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        },
+        "90000000640": {
+            "suplente": {
+                "numero": "90000000639",
+                "nome": "CYRO MIRANDA GIFFORD JUNIOR",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/GO/candidato/90000000639"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405078790000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/GO/candidato/90000000640",
+            "nomeCompleto": "VILMAR ROCHA",
+            "nascimento": "14/02/1951",
+            "naturalidade": "NIQUEL\u00c2NDIA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 45.818,20",
+                    "nome": "DUAS SALAS DE ESCRITORIO NO ED. EMPIRE CENTER EM GOIANIA"
+                },
+                {
+                    "valor": "R$ 849.237,00",
+                    "nome": "LOTE N17 NO CD ALDEIA DO VALLE EM GOI\u00c2NIA"
+                },
+                {
+                    "valor": "R$ 33.000,00",
+                    "nome": "UM LOTE NA P\u00c7A MATRIZ EM NIQUEL\u00c2NDIA"
+                },
+                {
+                    "valor": "R$ 31.800,00",
+                    "nome": "UM VEICULO VW GOL1.0 ANO 2010/2011"
+                },
+                {
+                    "valor": "R$ 89.632,32",
+                    "nome": "A\u00c7\u00d5ES ORDINARIAS NOMINATIVAS S/VALOR NOMINAL DA GOIAS ALIMENTOS S/A"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "SICOOB"
+                },
+                {
+                    "valor": "R$ 133.976,05",
+                    "nome": "SALDO EM CONTA CORRENTE BCO ITAU/BRASIL/MUTUO DOS ADVOGADOS"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "DINHEIRO EM ESP\u00c9CIE"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404589436581.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000640/idarquivo/2866?x=140507879000090000000640"
+                },
+                {
+                    "documento": "2 - certidao1404589436581.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000640/idarquivo/2867?x=140507879000090000000640"
+                },
+                {
+                    "documento": "3 - certidao1404589436582.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000640/idarquivo/2868?x=140507879000090000000640"
+                },
+                {
+                    "documento": "4 - certidao1404589436582.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000640/idarquivo/2869?x=140507879000090000000640"
+                },
+                {
+                    "documento": "5 - certidao1404589436582.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000640/idarquivo/2870?x=140507879000090000000640"
+                }
+            ],
+            "partido": "PSD",
+            "numeroProcesso": "1200-96.2014.6.09.0000",
+            "codigo": "551",
+            "raca": "Branca",
+            "numeroProtocolo": "304982014",
+            "coligacao": "Garantia de um Futuro Melhor para Goi\u00e1s",
+            "composicaoColigacao": "PRB / PP / PDT / PTB / PSL / PR / PPS / PHS / PMN / PTC / PV / PSDB / PEN / PSD / PT do B / PROS",
+            "numeroUrna": "551",
+            "ocupacao": "Deputado",
+            "cnpj": "20574020000183",
+            "limiteGastos": "R$ 12.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "90000000640",
+            "totalBensDeclarados": "R$ 1.235.463,57",
+            "nomeUrna": "VILMAR ROCHA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=GO&sq_cand=10016"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=90000000110&sgUe=GO"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "90000000318": {
+            "suplente": {
+                "numero": "90000000342",
+                "nome": "EDSON BUENO COUTINHO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/GO/candidato/90000000342"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405003106000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/GO/candidato/90000000318",
+            "nomeCompleto": "MARINA SANT'ANNA",
+            "nascimento": "14/10/1958",
+            "naturalidade": "S\u00c3O PAULO",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 113.825,86",
+                    "nome": "UM APARTAMENTO NO SETOR BUENO"
+                },
+                {
+                    "valor": "R$ 40.722,56",
+                    "nome": "UM CARRO RENAUT/SANDERO STAPWAY 2011/2012"
+                },
+                {
+                    "valor": "R$ 114.777,54",
+                    "nome": "CONTA CEF"
+                },
+                {
+                    "valor": "R$ 64.296,05",
+                    "nome": "CONTA CAIXA ECONOMICA"
+                },
+                {
+                    "valor": "R$ 1.666,83",
+                    "nome": "CONTA BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 34.003,44",
+                    "nome": "SALDO CONTA CORRENTEE CAIXA ECONOMICA"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404570226444.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000318/idarquivo/990?x=140500310600090000000318"
+                },
+                {
+                    "documento": "2 - certidao1404570226444.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000318/idarquivo/991?x=140500310600090000000318"
+                },
+                {
+                    "documento": "3 - certidao1404570226445.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000318/idarquivo/992?x=140500310600090000000318"
+                },
+                {
+                    "documento": "4 - certidao1404570226445.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000318/idarquivo/993?x=140500310600090000000318"
+                },
+                {
+                    "documento": "5 - certidao1404570226446.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000318/idarquivo/994?x=140500310600090000000318"
+                },
+                {
+                    "documento": "6 - certidao1404570226446.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000318/idarquivo/995?x=140500310600090000000318"
+                }
+            ],
+            "partido": "PT",
+            "numeroProcesso": "426-66.2014.6.09.0000",
+            "codigo": "131",
+            "raca": "Parda",
+            "numeroProtocolo": "301692014",
+            "coligacao": "PT",
+            "composicaoColigacao": "",
+            "numeroUrna": "131",
+            "ocupacao": "Advogado",
+            "cnpj": "20586898000139",
+            "limiteGastos": "R$ 15.000.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "90000000318",
+            "totalBensDeclarados": "R$ 369.292,27999999997",
+            "nomeUrna": "MARINA SANT'ANNA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=90000000617&sgUe=GO"
+                }
+            ],
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "90000000001": {
+            "suplente": {
+                "numero": "90000000004",
+                "nome": "MARIZETE PIRES DA SILVA COSTA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/GO/candidato/90000000004"
+            },
+            "enderecoWeb": "www.aldomuro.pro.br",
+            "meta": {
+                "lastUpdate": "1404916944000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/GO/candidato/90000000001",
+            "nomeCompleto": "ALDO MURO",
+            "nascimento": "28/01/1968",
+            "naturalidade": "RIO DE JANEIRO",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 217.782,25",
+                    "nome": "CASA RUA A-20, QD. 24A, LT 24 - JARDINS ATENAS"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "CASA J-45, QD. 90. LT. 24 - SETOR JAO"
+                },
+                {
+                    "valor": "R$ 32.000,00",
+                    "nome": "WALL STREET SALA E VAGA - 802 E BOX 5"
+                },
+                {
+                    "valor": "R$ 45.000,00",
+                    "nome": "WALL STREET SALA 801"
+                },
+                {
+                    "valor": "R$ 75.000,00",
+                    "nome": "FLUENCE PRI 2.0 PLACA ONB-5993/GO"
+                },
+                {
+                    "valor": "R$ 2.200,28",
+                    "nome": "BB 1126-6 12.483-3"
+                },
+                {
+                    "valor": "R$ 27.713,62",
+                    "nome": "POUPAN\u00c7A OURO 1126-6 11.919-9"
+                },
+                {
+                    "valor": "R$ 4.484,44",
+                    "nome": "ITAU 3935 25093-0"
+                },
+                {
+                    "valor": "R$ 19.322,46",
+                    "nome": "BB 1126-6 12.489-3"
+                },
+                {
+                    "valor": "R$ 20.970,90",
+                    "nome": "CONTA BB 1126-6 11.919-9"
+                },
+                {
+                    "valor": "R$ 2.417,89",
+                    "nome": "ITAU 3935 25093-0"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404473886316.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000001/idarquivo/3?x=140491694400090000000001"
+                },
+                {
+                    "documento": "2 - certidao1404473886317.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000001/idarquivo/4?x=140491694400090000000001"
+                },
+                {
+                    "documento": "3 - certidao1404473886318.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000001/idarquivo/5?x=140491694400090000000001"
+                },
+                {
+                    "documento": "4 - certidao1404473886318.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000001/idarquivo/6?x=140491694400090000000001"
+                }
+            ],
+            "partido": "PSDC",
+            "numeroProcesso": "316-67.2014.6.09.0000",
+            "codigo": "271",
+            "raca": "Branca",
+            "numeroProtocolo": "295772014",
+            "coligacao": "PSDC",
+            "composicaoColigacao": "",
+            "numeroUrna": "271",
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "cnpj": "20559572000112",
+            "limiteGastos": "R$ 5.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "90000000001",
+            "totalBensDeclarados": "R$ 566.891,8400000001",
+            "nomeUrna": "ALDO MURO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "90000000909": {
+            "suplente": {
+                "numero": "90000000910",
+                "nome": "URIAS BISPO BEZERRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/GO/candidato/90000000910"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405178425000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/GO/candidato/90000000909",
+            "nomeCompleto": "ANT\u00d4NIO NETO",
+            "naturalidade": "GOI\u00c2NIA",
+            "genero": "MASCULINO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404599308128.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000909/idarquivo/4636?x=140517842500090000000909"
+                },
+                {
+                    "documento": "2 - certidao1404599308128.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/GO/candidato/90000000909/idarquivo/4637?x=140517842500090000000909"
+                }
+            ],
+            "partido": "PCB",
+            "numeroProcesso": "1237-26.2014.6.09.0000",
+            "codigo": "210",
+            "raca": "Branca",
+            "numeroProtocolo": "307742014",
+            "coligacao": "Construindo o Poder Popular: Goi\u00e1s para os Trabalhadores",
+            "composicaoColigacao": "PCB / PSTU",
+            "numeroUrna": "210",
+            "ocupacao": "Professor de Ensino Fundamental",
+            "cnpj": "20576881000109",
+            "limiteGastos": "R$ 100.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "90000000909",
+            "nascimento": "25/02/1976",
+            "nomeUrna": "ANT\u00d4NIO NETO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

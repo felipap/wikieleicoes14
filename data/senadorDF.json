@@ -1,0 +1,699 @@
+{
+    "senadorDF": {
+        "70000000436": {
+            "suplente": {
+                "numero": "70000000437",
+                "nome": "JOSE CARLOS DE MORAES VASCONCELLOS FILHO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/DF/candidato/70000000437"
+            },
+            "enderecoWeb": "www.reguffe.com",
+            "meta": {
+                "lastUpdate": "1404767886000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/DF/candidato/70000000436",
+            "nomeCompleto": "REGUFFE",
+            "nascimento": "05/09/1972",
+            "naturalidade": "RIO DE JANEIRO",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 285.000,00",
+                    "nome": "APARTAMENTO 203, SHCSW CCSW 03, LOTE 03, BRASILIA-DF"
+                },
+                {
+                    "valor": "R$ 153.000,00",
+                    "nome": "APARTAMENTO 304, RUA 21 SUL, LOTE 09, AGUAS CLARAS, BRASILIA-DF"
+                },
+                {
+                    "valor": "R$ 1.435.000,00",
+                    "nome": "CASA N. 09, SHIS QI 25, CONJUNTO 01, BRASILIA-DF"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "AUTOMOVEL JAC J3, ANO/MODELO: 2010/2011"
+                },
+                {
+                    "valor": "R$ 15,79",
+                    "nome": "CONTA CORRENTE NO BANCO DE BRASILIA AGENCIA 0218"
+                },
+                {
+                    "valor": "R$ 3,04",
+                    "nome": "CONTA CORRENTE N\u00daMERO 5325-2, AG 5977-3, BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 76.747,32",
+                    "nome": "BRB FIF LIDER 30 DIA"
+                },
+                {
+                    "valor": "R$ 808.884,06",
+                    "nome": "BB RF LP PREMIUM EST"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404576051472.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000436/idarquivo/2901?x=140476788600070000000436"
+                },
+                {
+                    "documento": "2 - certidao1404576051473.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000436/idarquivo/2902?x=140476788600070000000436"
+                },
+                {
+                    "documento": "3 - certidao1404576051473.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000436/idarquivo/2903?x=140476788600070000000436"
+                },
+                {
+                    "documento": "4 - certidao1404576051474.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000436/idarquivo/2904?x=140476788600070000000436"
+                },
+                {
+                    "documento": "5 - certidao1404576051474.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000436/idarquivo/2905?x=140476788600070000000436"
+                },
+                {
+                    "documento": "6 - certidao1404576051475.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000436/idarquivo/2906?x=140476788600070000000436"
+                }
+            ],
+            "partido": "PDT",
+            "numeroProcesso": "578-71.2014.6.07.0000",
+            "codigo": "123",
+            "raca": "Branca",
+            "numeroProtocolo": "256392014",
+            "coligacao": "SOMOS TODOS BRAS\u00cdLIA",
+            "composicaoColigacao": "PSB / SD / PDT / PSD",
+            "numeroUrna": "123",
+            "ocupacao": "Deputado",
+            "cnpj": "20568106000101",
+            "limiteGastos": "R$ 3.500.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "70000000436",
+            "totalBensDeclarados": "R$ 2.793.650,21",
+            "nomeUrna": "REGUFFE",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=DF&sq_cand=10639"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=70000000996&sgUe=DF"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "70000000161": {
+            "suplente": {
+                "numero": "70000000162",
+                "nome": "SILVIO SOARES FILHO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/DF/candidato/70000000162"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404907233000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/DF/candidato/70000000161",
+            "nomeCompleto": "ROBSON",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "RIO DE JANEIRO",
+            "genero": "MASCULINO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404569517329.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000161/idarquivo/1481?x=140490723300070000000161"
+                },
+                {
+                    "documento": "2 - certidao1404569517330.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000161/idarquivo/1482?x=140490723300070000000161"
+                },
+                {
+                    "documento": "3 - certidao1404569517330.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000161/idarquivo/1483?x=140490723300070000000161"
+                }
+            ],
+            "partido": "PSTU",
+            "numeroProcesso": "278-12.2014.6.07.0000",
+            "codigo": "160",
+            "raca": "Preta",
+            "numeroProtocolo": "253502014",
+            "coligacao": "PSTU",
+            "composicaoColigacao": "",
+            "numeroUrna": "160",
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "cnpj": "20566213000192",
+            "limiteGastos": "R$ 20.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "70000000161",
+            "nascimento": "12/04/1970",
+            "nomeUrna": "ROBSON",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=DF&sq_cand=10134"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=70000000003&sgUe=DF"
+                }
+            ]
+        },
+        "70000000820": {
+            "suplente": {
+                "numero": "70000000821",
+                "nome": "MANOEL FERREIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/DF/candidato/70000000821"
+            },
+            "enderecoWeb": "geraldo@magela13.com.br",
+            "meta": {
+                "lastUpdate": "1404769562000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/DF/candidato/70000000820",
+            "nomeCompleto": "MAGELA",
+            "nascimento": "26/12/1956",
+            "naturalidade": "PATO DE MINAS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 218.210,48",
+                    "nome": "APTO LOCALIZADO NA SQN 313 BLOCO G APT 204"
+                },
+                {
+                    "valor": "R$ 405.000,00",
+                    "nome": "CASA SITUADA NA SHIN QI 07 CONJUNTO 11 CASA 20"
+                },
+                {
+                    "valor": "R$ 4.580,21",
+                    "nome": "LOTE SITUADO NA RUA VARGINHA Q 12 BAIRRO PADE EUSTAQUIO"
+                },
+                {
+                    "valor": "R$ 4.580,21",
+                    "nome": "LOTE SITUADO NA RUA 64 BAIRRO NOVA FLORESTA CIDADE PATOS DE MINAS"
+                },
+                {
+                    "valor": "R$ 56.000,00",
+                    "nome": "VEICULO GM/BLAZER ADVANTAGE ANO 2004 MODELO 2005"
+                },
+                {
+                    "valor": "R$ 50,00",
+                    "nome": "UMA LINHA TELEFONICA NA CIDADE DE BRASILIA"
+                },
+                {
+                    "valor": "R$ 50,00",
+                    "nome": "UMA LINHA TELEFONICA"
+                },
+                {
+                    "valor": "R$ 314.265,66",
+                    "nome": "SALDO EM CONTA BANCO DO BRASIL BB CP ESTILO"
+                },
+                {
+                    "valor": "R$ 341.694,50",
+                    "nome": "APLICA\u00c7\u00c3O BANCO DO BRASIL S/A BB CP ESTILO"
+                },
+                {
+                    "valor": "R$ 844.885,50",
+                    "nome": "APLICA\u00c7\u00d5ES NO BANCO BB RF"
+                },
+                {
+                    "valor": "R$ 21.386,61",
+                    "nome": "APLICA\u00c7\u00c3O BANCO DO BRASIL S/A BB REF DI"
+                },
+                {
+                    "valor": "R$ 117.500,00",
+                    "nome": "SALDO EM CONTA CORRENTE BANCO DO BRASIL BB CDB"
+                },
+                {
+                    "valor": "R$ 76.338,56",
+                    "nome": "APLICA\u00c7\u00c3O BANCO DO BRASIL S/A BB REF DI PLUS"
+                },
+                {
+                    "valor": "R$ 76.255,16",
+                    "nome": "SALDO EM CONTA CORRENTE BANCO DO BRASIL BB DI PLUS EST"
+                },
+                {
+                    "valor": "R$ 27.112,54",
+                    "nome": "CONTA CORRENTE BRASILPREV VGBL"
+                },
+                {
+                    "valor": "R$ 1.286.777,62",
+                    "nome": "APLICA\u00c7\u00c3O BB RF LP"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404592318913.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000820/idarquivo/4990?x=140476956200070000000820"
+                },
+                {
+                    "documento": "2 - certidao1404592318913.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000820/idarquivo/4991?x=140476956200070000000820"
+                },
+                {
+                    "documento": "3 - certidao1404592318914.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000820/idarquivo/4992?x=140476956200070000000820"
+                }
+            ],
+            "partido": "PT",
+            "numeroProcesso": "914-75.2014.6.07.0000",
+            "codigo": "131",
+            "raca": "Branca",
+            "numeroProtocolo": "260462014",
+            "coligacao": "RESPEITO POR BRAS\u00cdLIA",
+            "composicaoColigacao": "PT / PMDB / PRB / PC do B / PRP / PPL / PV / PP / PTN / PT do B / PSC / PROS / PTC / PSL / PHS / PEN",
+            "numeroUrna": "131",
+            "ocupacao": "Deputado",
+            "cnpj": "20592489000145",
+            "limiteGastos": "R$ 30.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "70000000820",
+            "totalBensDeclarados": "R$ 3.794.687,05",
+            "nomeUrna": "MAGELA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=DF&sq_cand=10363"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=70000000992&sgUe=DF"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "70000000146": {
+            "suplente": {
+                "numero": "70000000147",
+                "nome": "WESLIAN DO PERP\u00c9TUO SOCORRO PELES RORIZ",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/DF/candidato/70000000147"
+            },
+            "enderecoWeb": "www.senador gim.com.br",
+            "meta": {
+                "lastUpdate": "1405091287000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/DF/candidato/70000000146",
+            "nomeCompleto": "GIM ARGELLO",
+            "nascimento": "05/04/1962",
+            "naturalidade": "S\u00c3O VICENTE",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 95.000,00",
+                    "nome": "APART HOTEL LOCALIZADO EM BRASILIA"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "SALA COMERCIAL LOCALIZADA EM BRASILIA"
+                },
+                {
+                    "valor": "R$ 1.800.000,00",
+                    "nome": "AQUISI\u00c7\u00c3O DAS LOJAS LOCALIZADAS EM BRASILIA"
+                },
+                {
+                    "valor": "R$ 180.000,00",
+                    "nome": "LOJA COMERCIAL LOCALIZADA EM BRASILIA"
+                },
+                {
+                    "valor": "R$ 1.225.863,00",
+                    "nome": "LOJAS COMERCIAIS LOCALIZADAS EM BRASILIA"
+                },
+                {
+                    "valor": "R$ 170.000,00",
+                    "nome": "VEICULO  PAJERO PLACA JIX 0018-DF"
+                },
+                {
+                    "valor": "R$ 164.000,00",
+                    "nome": "BANCO DO BRASIL AG 4882-8 - LCA POS CDI"
+                },
+                {
+                    "valor": "R$ 46.500,00",
+                    "nome": "BANCO DO BRASIL AG 4882-8 CDB DI"
+                },
+                {
+                    "valor": "R$ 3.549,98",
+                    "nome": "OUROCAP BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 800.000,00",
+                    "nome": "DINHEIRO EM ESP\u00c9CIE"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404490649420.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000146/idarquivo/1335?x=140509128700070000000146"
+                },
+                {
+                    "documento": "2 - certidao1404490649421.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000146/idarquivo/1336?x=140509128700070000000146"
+                },
+                {
+                    "documento": "3 - certidao1404490649421.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000146/idarquivo/1337?x=140509128700070000000146"
+                },
+                {
+                    "documento": "4 - certidao1404490649421.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000146/idarquivo/1338?x=140509128700070000000146"
+                },
+                {
+                    "documento": "5 - certidao1404490649422.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000146/idarquivo/1339?x=140509128700070000000146"
+                }
+            ],
+            "partido": "PTB",
+            "numeroProcesso": "156-96.2014.6.07.0000",
+            "codigo": "144",
+            "raca": "Branca",
+            "numeroProtocolo": "252732014",
+            "coligacao": "UNI\u00c3O E FOR\u00c7A",
+            "composicaoColigacao": "PTB / PR / DEM / PRTB / PPS / PMN",
+            "numeroUrna": "144",
+            "ocupacao": "Senador",
+            "cnpj": "20560088000103",
+            "limiteGastos": "R$ 10.000.000,00",
+            "estadoCivil": "Separado(a) judicialmente",
+            "id": "70000000146",
+            "totalBensDeclarados": "R$ 4.504.912,98",
+            "nomeUrna": "GIM ARGELLO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=DF&sq_cand=10526"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "70000000986": {
+            "suplente": {
+                "numero": "70000000987",
+                "nome": "WANDER RODRIGUES SOBRINHO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/DF/candidato/70000000987"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405031689000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/DF/candidato/70000000986",
+            "nomeCompleto": "SANDRA QUEZADO",
+            "nascimento": "01/08/1954",
+            "naturalidade": "RIO DE JANEIRO",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 781.727,62",
+                    "nome": "SQSW 300 BLOCO R 404 - ADQUIRIDO DE VECON CONSTRUTORA E INCORPORADORA LTDA - NF 178793 FINANCIADO POR SANTANDER BANESPA S/A EM 60 MESES"
+                },
+                {
+                    "valor": "R$ 121.101,39",
+                    "nome": "APARTAMENTO 401 E VAGA DE GARAGE 04 LOTES 1 E 3, CONJUNTO 16, QUADRA 301, ALAMEDA GRAVATA , AGUAS CLARAS- DF- LIVRO 0621, FLS 009/018 PROT 078174 CARTORIO DO 5O.OFICIO DE NOTAS DO DISTRITO FEDERAL ADQ"
+                },
+                {
+                    "valor": "R$ 354,59",
+                    "nome": "LOTE RURAL N 15 QUADRA O LOTEAMENTO JARDIM VILA RICA.PE BERNARDO - GO ADQUIRIDO EM 22/04/1983"
+                },
+                {
+                    "valor": "R$ 115.000,00",
+                    "nome": "LOJA 210 E BOX DE GARAGEM N\u00ba 63 ED. VIA IMPORT CENTER \u0096 SAI TRECHO 5 LOTES 5/35. "
+                },
+                {
+                    "valor": "R$ 33.000,00",
+                    "nome": "AUTOMOVEL FIESTA HACHT MARCA FORD ANO 2009 MOD 2010 ADQUIRIDO DE MOTO AGRICOLA SLAVIEIRO S.A FINANCIADO PELO BANCO FINASA BMC S/A JA QUITADO"
+                },
+                {
+                    "valor": "R$ 40.490,00",
+                    "nome": "CAMIONETE SAVEIRO 1.6 CE MARCA VOLKSWAGEM ANO 2009 MOD 2010 FINANCIADO PELO BANCO SAFRA S.A - ADQUIRIDO DE BRAVESA BRASILIA VEICULOS S.A"
+                },
+                {
+                    "valor": "R$ 37.840,00",
+                    "nome": "AUTOMOVEL PEUGEOT 206 PRESENCE 1.4F, ADQUIRIDO DE PREMIERE DISTRIBUIDORA DE VEICULOS LTDA FINANCIADO PELA SANTANDER BANESPA SA EM 60 MESES"
+                },
+                {
+                    "valor": "R$ 91.000,00",
+                    "nome": "AUTOMOVEL HONDA CR-V AT ANO 2011 MODELO 2011 ADQUIRIDO DE DF VEICULOS LTD"
+                },
+                {
+                    "valor": "R$ 58.500,00",
+                    "nome": "AUTOMOVEL HONDA FIT TWIST-AT ANO 2012 MOD 2013 - ADQUIRIDO DE DF VEICULOS LTDA"
+                },
+                {
+                    "valor": "R$ 137,00",
+                    "nome": "DIREITOS DE USO DE LINHA TELEFONICA MOVEL CELULAR"
+                },
+                {
+                    "valor": "R$ 904,72",
+                    "nome": "DIREITOS DE USO DE LINHA TELEFONICA DA TELEBRASILIA 3341-5084"
+                },
+                {
+                    "valor": "R$ 89,32",
+                    "nome": "50 A\u00c7\u00d5ES ORDIN\u00c1RIAS NOMINATIVAS DA PIRELLI CABOS S.A. "
+                },
+                {
+                    "valor": "R$ 80,00",
+                    "nome": "50 A\u00c7OES ORDINARIAS NOMINADAS DA PIRELLI CABOS S.A CGC 61.150.751/0001-89, ATUALMENTE DESIGNADA PRUSMIAN TELEC C SIST DO BR"
+                },
+                {
+                    "valor": "R$ 8.892,00",
+                    "nome": "QUOTAS DA EMPRESA PRO AUDIRE PRODUCOES DE AUDIO E VIDEO LTDA, CNPJ 06.194.670/0001-72 EM NOME DE CARLOS ANTONIO QUEZADO SOARES"
+                },
+                {
+                    "valor": "R$ 13.334,73",
+                    "nome": "BANCO DO BRASIL, AG 5977-3 C/POUPANCA POUPEX 5081-4"
+                },
+                {
+                    "valor": "R$ 18.816,01",
+                    "nome": "BANCO DO BRASIL, AG 5977-3 C/C 5081-4"
+                },
+                {
+                    "valor": "R$ 152.567,55",
+                    "nome": "CAIXA ECONOMICA FEDERAL AG. 0005-1 - CP 01300711583-0"
+                },
+                {
+                    "valor": "R$ 16.271,85",
+                    "nome": "CONTA CORRENTE CAIXA ECONOMICA FEDERAL AG 2301-9 C/C"
+                },
+                {
+                    "valor": "R$ 115.593,10",
+                    "nome": "BANCO DO BRASIL"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404598222740.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000986/idarquivo/5835?x=140503168900070000000986"
+                },
+                {
+                    "documento": "2 - certidao1404598222740.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000986/idarquivo/5836?x=140503168900070000000986"
+                }
+            ],
+            "partido": "PSDB",
+            "numeroProcesso": "968-41.2014.6.07.0000",
+            "codigo": "456",
+            "raca": "Branca",
+            "numeroProtocolo": "263082014",
+            "coligacao": "SERIEDADE PARA MUDAR",
+            "composicaoColigacao": "PSDB / PPS / PSDC",
+            "numeroUrna": "456",
+            "ocupacao": "Outros",
+            "cnpj": "20579245000122",
+            "limiteGastos": "R$ 0,00",
+            "estadoCivil": "Casado(a)",
+            "id": "70000000986",
+            "totalBensDeclarados": "R$ 1.605.699,8800000004",
+            "nomeUrna": "SANDRA QUEZADO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "70000000812": {
+            "suplente": {
+                "numero": "70000000815",
+                "nome": "VALMIR BARBOSA DA SILVA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/DF/candidato/70000000815"
+            },
+            "enderecoWeb": "www.pco.org.br",
+            "meta": {
+                "lastUpdate": "1404934704000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/DF/candidato/70000000812",
+            "nomeCompleto": "EXPEDITO MENDON\u00c7A",
+            "nascimento": "22/11/1960",
+            "naturalidade": "PIRAPORA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 9.000,00",
+                    "nome": "CHEVROLET, MODELO IPANEMA, 96/97"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404592017417.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000812/idarquivo/4956?x=140493470400070000000812"
+                },
+                {
+                    "documento": "2 - certidao1404592017417.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000812/idarquivo/4957?x=140493470400070000000812"
+                },
+                {
+                    "documento": "3 - certidao1404592017418.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000812/idarquivo/4958?x=140493470400070000000812"
+                }
+            ],
+            "partido": "PCO",
+            "numeroProcesso": "1333-95.2014.6.07.0000",
+            "codigo": "290",
+            "raca": "Branca",
+            "numeroProtocolo": "260352014",
+            "coligacao": "PCO",
+            "composicaoColigacao": "",
+            "numeroUrna": "290",
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "cnpj": "20574260000188",
+            "limiteGastos": "R$ 30.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "70000000812",
+            "totalBensDeclarados": "R$ 9.000,0",
+            "nomeUrna": "EXPEDITO MENDON\u00c7A",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "70000000181": {
+            "suplente": {
+                "numero": "70000000182",
+                "nome": "TATIANA DE PINO ALBUQUERQUE MARANH\u00c3O",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/DF/candidato/70000000182"
+            },
+            "enderecoWeb": "www.aldemario.adv.br",
+            "meta": {
+                "lastUpdate": "1404767750000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/DF/candidato/70000000181",
+            "nomeCompleto": "ALDEMARIO",
+            "nascimento": "30/04/1966",
+            "naturalidade": "MACEI\u00d3",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "METADE DE APTO EM AGU\u00c1S CLARAS"
+                },
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "38,26% DA CASA E TERRENO NO PARK WAY"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "FORD/ECOSPORT"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404570060787.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000181/idarquivo/1568?x=140476775000070000000181"
+                },
+                {
+                    "documento": "2 - certidao1404570060787.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000181/idarquivo/1569?x=140476775000070000000181"
+                },
+                {
+                    "documento": "3 - certidao1404570060788.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000181/idarquivo/1570?x=140476775000070000000181"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "225-31.2014.6.07.0000",
+            "codigo": "500",
+            "raca": "Branca",
+            "numeroProtocolo": "253742014",
+            "coligacao": "PSOL",
+            "composicaoColigacao": "",
+            "numeroUrna": "500",
+            "ocupacao": "Advogado",
+            "cnpj": "20566990000137",
+            "limiteGastos": "R$ 250.000,00",
+            "estadoCivil": "Separado(a) judicialmente",
+            "id": "70000000181",
+            "totalBensDeclarados": "R$ 750.000,0",
+            "nomeUrna": "ALDEMARIO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "70000000156": {
+            "suplente": {
+                "numero": "70000000158",
+                "nome": "MARIA DE FATIMA FERNANDES GUIMAR\u00c3ES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/DF/candidato/70000000158"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404767724000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/DF/candidato/70000000156",
+            "nomeCompleto": "JAMIL MAGARI",
+            "nascimento": "30/10/1956",
+            "naturalidade": "RINOPOLIS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 16.000,00",
+                    "nome": "GOL 1.0 G4 2008/2009"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404569187004.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000156/idarquivo/1454?x=140476772400070000000156"
+                },
+                {
+                    "documento": "2 - certidao1404569187005.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000156/idarquivo/1455?x=140476772400070000000156"
+                },
+                {
+                    "documento": "3 - certidao1404569187006.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000156/idarquivo/1456?x=140476772400070000000156"
+                },
+                {
+                    "documento": "4 - certidao1404569187006.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000156/idarquivo/1457?x=140476772400070000000156"
+                },
+                {
+                    "documento": "5 - certidao1404569187006.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/DF/candidato/70000000156/idarquivo/1458?x=140476772400070000000156"
+                }
+            ],
+            "partido": "PCB",
+            "numeroProcesso": "217-54.2014.6.07.0000",
+            "codigo": "211",
+            "raca": "Branca",
+            "numeroProtocolo": "253422014",
+            "coligacao": "PCB",
+            "composicaoColigacao": "",
+            "numeroUrna": "211",
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "cnpj": "20573128000151",
+            "limiteGastos": "R$ 10.000,00",
+            "estadoCivil": "Divorciado(a)",
+            "id": "70000000156",
+            "totalBensDeclarados": "R$ 16.000,0",
+            "nomeUrna": "JAMIL MAGARI",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=DF&sq_cand=10001"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

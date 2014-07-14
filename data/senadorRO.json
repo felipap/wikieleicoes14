@@ -1,0 +1,940 @@
+{
+    "senadorRO": {
+        "220000000005": {
+            "suplente": {
+                "numero": "220000000006",
+                "nome": "LUIZ AUGUSTO OLIVEIRA DA SILVA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RO/candidato/220000000006"
+            },
+            "enderecoWeb": "WWW.FACEBOOK/ALUIZIOVIDAL.RO",
+            "meta": {
+                "lastUpdate": "1405201187000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RO/candidato/220000000005",
+            "nomeCompleto": "ALUIZIO VIDAL",
+            "nascimento": "20/05/1968",
+            "naturalidade": "DOURADOS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "AV RIO MADEIRA, 4086, BLOCO 02-LOTE 646"
+                },
+                {
+                    "valor": "R$ 28.000,00",
+                    "nome": "FIAT MODELO GAND SIENA ANO 2013 PLACA NDP3837"
+                },
+                {
+                    "valor": "R$ 2.118,15",
+                    "nome": "ACOES DA CBLC ATIVOS EM CUSTODIA"
+                },
+                {
+                    "valor": "R$ 6.112,00",
+                    "nome": "ACOES VALE DO RIO DOCE"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404487877717.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000005/idarquivo/39?x=1405201187000220000000005"
+                },
+                {
+                    "documento": "2 - certidao1404487877717.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000005/idarquivo/40?x=1405201187000220000000005"
+                },
+                {
+                    "documento": "3 - certidao1404487877718.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000005/idarquivo/41?x=1405201187000220000000005"
+                },
+                {
+                    "documento": "4 - certidao1404487877718.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000005/idarquivo/42?x=1405201187000220000000005"
+                },
+                {
+                    "documento": "5 - certidao1404487877719.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000005/idarquivo/43?x=1405201187000220000000005"
+                },
+                {
+                    "documento": "6 - certidao1404487877720.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000005/idarquivo/44?x=1405201187000220000000005"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "520-51.2014.6.22.0000",
+            "codigo": "500",
+            "raca": "Branca",
+            "numeroProtocolo": "128272014",
+            "coligacao": "FRENTE DE ESQUERDA PSOL/PSTU",
+            "composicaoColigacao": "PSOL / PSTU",
+            "numeroUrna": "500",
+            "ocupacao": "Sacerdote ou Membro de Ordem ou Seita Religiosa",
+            "cnpj": "20561383000184",
+            "limiteGastos": "R$ 500.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "220000000005",
+            "totalBensDeclarados": "R$ 61.230,15",
+            "nomeUrna": "ALUIZIO VIDAL",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RO&sq_cand=10170"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=220000000030&sgUe=RO"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "220000000460": {
+            "suplente": {
+                "numero": "220000000461",
+                "nome": "CLAUDEMIR DIAS DE CARVALHO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RO/candidato/220000000461"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404684025000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RO/candidato/220000000460",
+            "nomeCompleto": "WALTER",
+            "nascimento": "05/04/1958",
+            "naturalidade": "CORA\u00c7\u00c3O DE JESUS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 45.000,00",
+                    "nome": "VEICULO PEUGEOT 2013"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404669093337.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000460/idarquivo/2472?x=1404684025000220000000460"
+                },
+                {
+                    "documento": "2 - certidao1404669093338.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000460/idarquivo/2473?x=1404684025000220000000460"
+                },
+                {
+                    "documento": "3 - certidao1404669093338.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000460/idarquivo/2474?x=1404684025000220000000460"
+                },
+                {
+                    "documento": "4 - certidao1404669093339.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000460/idarquivo/2475?x=1404684025000220000000460"
+                }
+            ],
+            "partido": "DEM",
+            "numeroProcesso": "585-46.2014.6.22.0000",
+            "codigo": "255",
+            "raca": "Parda",
+            "numeroProtocolo": "133832014",
+            "coligacao": "DEM",
+            "composicaoColigacao": "",
+            "numeroUrna": "255",
+            "ocupacao": "Advogado",
+            "cnpj": "20577504000186",
+            "limiteGastos": "R$ 2.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "220000000460",
+            "totalBensDeclarados": "R$ 45.000,0",
+            "nomeUrna": "WALTER",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "220000000189": {
+            "suplente": {
+                "numero": "220000000190",
+                "nome": "ASSIS GURGACZ",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RO/candidato/220000000190"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405090605000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RO/candidato/220000000189",
+            "nomeCompleto": "ACIR GURGACZ",
+            "nascimento": "25/02/1962",
+            "naturalidade": "CASCAVEL",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 528.372,38",
+                    "nome": "APARTAMENTO ADQ. ENGECO ENGENHARIA E CONST. LTDA. - MANAUS - AM"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "TERRENO C/ 1100 M2 LOCALIZADO NA RUA B, S/N MARINAS DOCE VIDA, QD 001 LT 003 FACE Q 10002E BOA VISTA DA APARECIDA-PR."
+                },
+                {
+                    "valor": "R$ 26.880,00",
+                    "nome": "LOTE URBANO N. 01 A 10 DA QUADRA 3.025 SETOR 02-07 EM JI-PARANA-RO. ADQUIRIDO EM 01/04/97 POR R$ 26.880,00"
+                },
+                {
+                    "valor": "R$ 6.400,00",
+                    "nome": "CH\u00c1CARA N 52 LOCALIZADA NO MUNIC\u00cdPIO DE JI-PARAN\u00c1 REGISTRADA SOB N 34116 AS FLS 33 DO LIVRO PROT. 1E EM 07/12/2004"
+                },
+                {
+                    "valor": "R$ 60.612,00",
+                    "nome": "LOTE N 01 QUADRA 52-A  LOCALIZADO EM JI-PARANA-RO REGISTRADO NO CART\u00d3RIO DE REGISTRO DE IM\u00d3VEIS SOB N 32841 FLS 91 PROT 1D E 29/01/2004"
+                },
+                {
+                    "valor": "R$ 4.500,00",
+                    "nome": "CH\u00c1CARA URBANA LOCALIZADA NO SETOR NAZARETH C/ 20.000M2"
+                },
+                {
+                    "valor": "R$ 42.000,00",
+                    "nome": "LOTE URBANO LOCALIZADO AS MARGENS DO RIO MACHADO - BAIRRO URUP\u00c1 - SETOR 02 - JI-PARAN\u00c1 - RO C/ 750M2"
+                },
+                {
+                    "valor": "R$ 4.599,67",
+                    "nome": "LOTE 0\u00c1REA 05 \u00c1REA DE CH\u00c1CARAS - ARIQUEMES - RO"
+                },
+                {
+                    "valor": "R$ 8.300,00",
+                    "nome": "IM\u00d3VEL TERRA URBANO LOTE CH\u00c1CARA N 34 SETOR NAZAR\u00c9 COM \u00c1REA DE 36.462 M2 ESCRITURA LIVRO N 10 FLS 031"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "LOTE URBANO LOCALIZADO AS MARGENS DO RIO MACHADO - BAIRRO URUP\u00c1 - SETOR 02 - JI-PARAN\u00c1 - RO C/ 720M2"
+                },
+                {
+                    "valor": "R$ 7.520,00",
+                    "nome": "LOTE RURAL N. 96 SETOR NAZAR\u00c9 EM JI-PARANA-RO. ADQUIRIDO EM 02/96"
+                },
+                {
+                    "valor": "R$ 19.474,14",
+                    "nome": "LOTE RURAL N. 52 SETOR NAZAR\u00c9 EM JI-PARANA-RO. ADQUIRIDO EM 02/88"
+                },
+                {
+                    "valor": "R$ 19.474,14",
+                    "nome": "LOTE RURAL N. 22 SETOR NAZAR\u00c9 EM JI-PARANA-RO. ADQUIRIDO EM 11/87"
+                },
+                {
+                    "valor": "R$ 24.145,00",
+                    "nome": "LOTE RURAL NO 12 GL 02 ESTRADA BELMONT - PORTO VELHO - RO., C/ 480,6250HA."
+                },
+                {
+                    "valor": "R$ 9.331,20",
+                    "nome": "30% LOTE DE TERRAS N 090 SEC\u00c7\u00c3O B GLEBA PYRINEOS JI-PARAN\u00c1 - RO ESCRITURA PUBLICA N E093 FLS N 078"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "LOTE N 87-A SEC\u00c7\u00c3O B GLEBA PYRINEOS COM \u00c1REA DE 71,5331 HA ADQ SR JOSE CAMILO DOS SANTOS CPF 200.492.346-68 EM 01/10/2004"
+                },
+                {
+                    "valor": "R$ 11.500,00",
+                    "nome": "LOTE RURAL 91-A SETOR B GLEBA PYRINEOS, COM \u00c1REA DE 48,4 HECTARES ADQ. EM COMUM COM SR. ASSIS GURGACZ CPF. 005858319-04 POR R$ 23.000,00 PARTE DO DECLARANTE R$11.500,00"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "GLEBA DE TERRAS SITUADA NO MUNIC\u00cdPIO DE PORTO VELHO  SITIO NOVA VISTA"
+                },
+                {
+                    "valor": "R$ 336.000,00",
+                    "nome": "AQUISI\u00c7\u00c3O LOTE DE TERRA RURAL NO MUNIC\u00cdPIO DE ENVIRA - AM COM \u00c1REA DE 10.000 HC"
+                },
+                {
+                    "valor": "R$ 504.000,00",
+                    "nome": "AQUISI\u00c7\u00c3O LOTE DE TERRA RURAL NO MUNIC\u00cdPIO DE ENVIRA - AM COM \u00c1REA DE 15.000 HA"
+                },
+                {
+                    "valor": "R$ 641.000,00",
+                    "nome": "AQUISI\u00c7\u00c3O LOTE DE TERRA RURAL NO MUNIC\u00cdPIO DE ENVIRA - AM COM \u00c1REA DE 5.500 HA"
+                },
+                {
+                    "valor": "R$ 9.800,00",
+                    "nome": "CH\u00c1CARA N 22 LOCALIZADA EM JI-PARANA-RO REGISTRADA CART\u00d3RIO REGISTRO IM\u00d3VEL SOB N 34114 FLS 33 PROTOCOLO 1E EM 07/12/2004"
+                },
+                {
+                    "valor": "R$ 79.398,16",
+                    "nome": "SITIO CASCAVEL, LINHA 98 \u00c1REA DE 485,5 HECTARES CONSTITU\u00cdDO POR DIVERSOS LOTES RURAIS EM S\u00c3O MIGUEL DO GUAPORE-RO. ADQUIRIDO EM 1989 - VALOR DIAT R$ 94.500,00"
+                },
+                {
+                    "valor": "R$ 19.474,14",
+                    "nome": "LOTE RURAL N. 23 SETOR NAZAR\u00c9 EM JI-PARANA-RO. ADQUIRIDO EM 02/88"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "LOTE RURAL NO 80-A SEC\u00c7\u00c3O-B GLEBA PYRINEOS COM \u00c1REA DE 7,9954 HECTARES EM JI-PARAN\u00c1 - RO  ADQ.  DE JOANITA FREITAS N. GON\u00c7ALVES CPF NO 190.527.402-59 EM 16/03/2000"
+                },
+                {
+                    "valor": "R$ 6.900,00",
+                    "nome": "30% DO LOTE DE TERRAS N 91-A DA SEC\u00c7\u00c3O B, GLEBA PYRINEOS - JI-PARAN\u00c1 RO  ESCRITURA LIVRO N 06 FLS 032"
+                },
+                {
+                    "valor": "R$ 202.000,00",
+                    "nome": "APARTAMENTO EM CONSTRU\u00c7\u00c3O ADQ. NO EDIF\u00cdCIO BURLE MAX CNPJ: 13.372.653/0001-43 - MAIS R$ 50.108,33  PAGOS NO ANO BASE - APTO 62 B"
+                },
+                {
+                    "valor": "R$ 191.000,00",
+                    "nome": "APTO 102 B - APARTAMENTO EM CONSTRU\u00c7\u00c3O ADQ. NO EDIF\u00cdCIO BURLE MAX CNPJ: 13.372.653/0001-43"
+                },
+                {
+                    "valor": "R$ 85.000,00",
+                    "nome": "AQUISI\u00c7\u00c3O IM\u00d3VEL SR. JOSE GIOVANNI VAILANT CAPILA LOTE 03 QUADRA 04-A SETOR 02.02 URUP\u00c1 RUA ALUIZIO FERREIRA - JI-PARAN\u00c1/RO - 1068,80 M2"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "MOTO AQU\u00c1TICA JET SKI"
+                },
+                {
+                    "valor": "R$ 21.650,00",
+                    "nome": "CH\u00c1CARA N 23 LOCALIZADA EM JI-PARANA-RO REGISTRADA NO CART\u00d3RIO DE REGISTRO DE IM\u00d3VEL SOB N 34115 FLS 33 DO LIVRO 1E EM 07/12/2004"
+                },
+                {
+                    "valor": "R$ 75.000,00",
+                    "nome": "COMPRA IM\u00d3VEL DO SR. JOSE GIOVANNI VAILANT CAPILA LOTE N. 02 QUADRA 04-A, SETOR 02 URUP\u00c1 RUA ALUIZIO FERREIRA JI-PARAN\u00c1/RO - 960,80 M2 ADQ. EM 13/01/2010"
+                },
+                {
+                    "valor": "R$ 1.280,00",
+                    "nome": "REBOQUE P/ JET SKI PLACA NDQ 9744"
+                },
+                {
+                    "valor": "R$ 64.773,36",
+                    "nome": "COMPRA CROSS FOX PLACA NCX 2299 FINANCIADO"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "TRIO EL\u00c9TRICO CRG/REBOQUE/T. RECREAT - MARCA  REB/RECRUSUL PLACA CBR4872 ANO 1972 ADQ. 12/2005"
+                },
+                {
+                    "valor": "R$ 408.050,00",
+                    "nome": "VEICULO BMW 750 PLACA OHO-0012 ANO 2011 MODELO 2012 ADQ DE EURO IMPORT COM E SERV. LTDA., CF. NF. NO 23012,"
+                },
+                {
+                    "valor": "R$ 111.149,04",
+                    "nome": "VEICULO L200 TRITON - NOQ 0009 - CDC HSBC CONTRATO 5290603700"
+                },
+                {
+                    "valor": "R$ 119.212,16",
+                    "nome": "AQUISI\u00c7\u00c3O CAPTIVA SPORT - PRATA - 2010/2011 -CHASSI 3GNFLME77AS581075 - SENDO PAGO R$- 50.000,00 E FINANCIADO EM 24 PARCELAS DE R$- 2.883,84,"
+                },
+                {
+                    "valor": "R$ 54.830,00",
+                    "nome": "AQUISI\u00c7\u00c3O VEICULO BMW M5 TOURING ANO FAB MOD 1995/1995 COR PRETA CHASSI WBSC38M4SSBB00452 FINANCIADA PELO BANCO SAFRA CONTRATO 0440033287"
+                },
+                {
+                    "valor": "R$ 24.000,00",
+                    "nome": "COMPRA VEICULO FIAT UNO NDY 1135 - 2009/2009"
+                },
+                {
+                    "valor": "R$ 72.325,24",
+                    "nome": "AUTOM\u00d3VEL PEUGEOT 307 SD GRIFFE ADQUIRIDO EM 18/06/2007 DA PREMIERE DISTRIBUIDORA DE VE\u00cdCULOS LTDA."
+                },
+                {
+                    "valor": "R$ 480.000,00",
+                    "nome": "AERONAVE MARCA PT-JGA NO DOS CERTIFICADOS (CM-CA) FABRICANTE MITSUBISHI, ANO FABR 1973 MODELO UM-2B-25 NUMERO DE SERIE 268, CATEGORIA DE REGISTRO TPP, CATEGORIA DE HOMOLOGA\u00c7\u00c3O NORMAL."
+                },
+                {
+                    "valor": "R$ 520.804,47",
+                    "nome": "COMPRA AERONAVE  *PP-AMG"
+                },
+                {
+                    "valor": "R$ 8.100,00",
+                    "nome": "ESTEIRA REEBOK ADQ. EQUIP TECH ELETRO ELETR\u00d4NICOS LTDA. NF 2389"
+                },
+                {
+                    "valor": "R$ 22.000,00",
+                    "nome": "ROLEX HERREN CHRONOGRAF DAYTONA"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "COMPRA MOTOR E UM GRUPO GERADOR - MADEIRAS POPINHAKI LTDA. NF 029"
+                },
+                {
+                    "valor": "R$ 110.000,00",
+                    "nome": "116.044 A\u00c7\u00d5ES ORDIN\u00c1RIAS NOMINATIVAS DO FRIGOARI FRIGORIFICO DE ARIQUEMES S/A-CNPJ: 12.227.611/0001-58"
+                },
+                {
+                    "valor": "R$ 1.216.975,50",
+                    "nome": "A\u00c7\u00d5ES NA FIRMA GRAMAZON GRANITOS DA AMAZ\u00d4NIA S/A. CGC. 84.583.137/0001-06 SUBSCRITA EM 12/97. SUBSCRITA EM 05/98 R$ 260.636,00"
+                },
+                {
+                    "valor": "R$ 207.000,00",
+                    "nome": "COTAS DE CAPITAL NA EMPRESA FASUL ENSINO SUPERIOR LTDA. CNPJ 03.554.221/0001-08 VLR R$- 207.000,00 RECEBIDO EM DOA\u00c7\u00c3O DO PAI SR. ASSIS GURGACZ CPF 005.858.319-04"
+                },
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "25% COTAS DE CAPITAL DA EMPRESA CIASAB - CONSTRUTORA LTDA. CNPJ 09.079.267/0001-90 EM NOME DA C\u00d4NJUGE ANA MARIA CARDOSO GURGACZ"
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "COTAS COOPERATIVA DE CREDITO DE JI-PARAN\u00c1 JI-CRED C/ COMPRA COTAS EM 2008"
+                },
+                {
+                    "valor": "R$ 17.680,00",
+                    "nome": "QUOTAS DE CAPITAL NA FIRMA CAPITAL DO CAF\u00c9 T. COLETIVO DE PASSAGEIROS LTDA. CGC. 34.473.546/0001-81"
+                },
+                {
+                    "valor": "R$ 13.532,45",
+                    "nome": "QUOTAS DE PARTICIPA\u00c7\u00c3O NA FIRMA LA-PARAGUAYA DE TRANSPORTE SRL. SEDE EM ASSUNCAO-PARAGUAY"
+                },
+                {
+                    "valor": "R$ 6.049,41",
+                    "nome": "QUOTAS DE CAPITAL NA FIRMA IMPORTADORA CASCAVEL LTDA. CGC. 63.650.113/0001-52"
+                },
+                {
+                    "valor": "R$ 125.040,00",
+                    "nome": "QUOTAS DE CAPITAL NA FIRMA EDITORA DI\u00c1RIO DA AMAZ\u00d4NIA LTDA. CNPJ NO  63.763.296/0001-12-INTEGRALIZADO R$ 121.478,07 PROVENIENTE DE RESERVAS DE CAPITAL - EM NOME DO C\u00d4NJUGE ANA MARIA GURGACZ"
+                },
+                {
+                    "valor": "R$ 30.719,00",
+                    "nome": "QUOTAS DA COOPERATIVA DE CREDITO EMPRES\u00c1RIOS DE JI-PARAN\u00c1-RO CNPJ 08.044.854/0001-81"
+                },
+                {
+                    "valor": "R$ 628.794,00",
+                    "nome": "QUOTAS DE CAPITAL NA FIRMA COEXP-COMERCIO E CONSTRU\u00c7\u00c3O LTDA. CNPJ NO 34.769.737/0001-52.  INTEGRALIZADA EM 10/2001"
+                },
+                {
+                    "valor": "R$ 93.000,00",
+                    "nome": "QUOTAS DE CAPITAL DA FIRMA AMAZ\u00d4NIA PUBLICIDADE LTDA. CNPJ NO 84.626.571/0001-26 INTEGRALIZADO EM 08/2001 R$ 24.000,00 SENDO INTEGRALIZADO R$- 45.000,00 CONF. S\u00c9TIMA ALTERA\u00c7\u00c3O"
+                },
+                {
+                    "valor": "R$ 205,99",
+                    "nome": "POUPAN\u00c7A HSBC 0529-45154-38"
+                },
+                {
+                    "valor": "R$ 1.658.128,62",
+                    "nome": "APLICA\u00c7\u00c3O FINANCEIRA DE RENDA FIXA E BOX - BANCO DAYCOVAL S/A CNPJ: 62.232.889/0001-90 - TRANSF. PARA ESPOSA CONTA 502656-5 AG. 0001-9"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "APLICA\u00c7\u00c3O RENDA FIXA BANCO JI-CRED JI-PARAN\u00c1"
+                },
+                {
+                    "valor": "R$ 4.074,75",
+                    "nome": "SALDO CONTA CORRENTE COOPERATIVA CREDITO JI-PARAN\u00c1 LTDA. JI-CRED CONTA 34809-0"
+                },
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "VALOR EM MOEDA"
+                },
+                {
+                    "valor": "R$ 42.300,00",
+                    "nome": "MOEDA EM D\u00d3LAR E EUROS"
+                },
+                {
+                    "valor": "R$ 3.472,04",
+                    "nome": "SALDO CONTA CORRENTE BANCO DAYCOVAL CONTA EM NOME DA ESPOSA ANA MARIA C. GURGACZ AG. 0001-9 CONTA 502656-5"
+                },
+                {
+                    "valor": "R$ 418.000,00",
+                    "nome": "ADIANTAMENTO P/ AUMENTO CAPITAL EDITORA DI\u00c1RIO CNPJ 63.763.296/0001-12 SENDO 130.000,00 EM 2006 E 144.000,00 EM 2007 E R$- 144.000,00 EM 2008"
+                },
+                {
+                    "valor": "R$ 1.879,92",
+                    "nome": "ADIANTAMENTO PARA FUTURO AUMENTO DE CAPITAL (AFAC) EFETUADO NA FRIGOARI FRIGORIFICO ARIQUEMES S/A CNPJ: 12.227.611/0001,56"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404595351538.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000189/idarquivo/1052?x=1405090605000220000000189"
+                },
+                {
+                    "documento": "2 - certidao1404595351538.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000189/idarquivo/1053?x=1405090605000220000000189"
+                },
+                {
+                    "documento": "3 - certidao1404595351539.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000189/idarquivo/1054?x=1405090605000220000000189"
+                },
+                {
+                    "documento": "4 - certidao1404595351539.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000189/idarquivo/1055?x=1405090605000220000000189"
+                },
+                {
+                    "documento": "5 - certidao1404595351540.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000189/idarquivo/1056?x=1405090605000220000000189"
+                }
+            ],
+            "partido": "PDT",
+            "numeroProcesso": "391-46.2014.6.22.0000",
+            "codigo": "123",
+            "raca": "Branca",
+            "numeroProtocolo": "130862014",
+            "coligacao": "RONDONIA NO CAMINHO CERTO",
+            "composicaoColigacao": "PMDB / PDT / PSB / PTN / PTB / PC do B / PRTB / PSL / PRP",
+            "numeroUrna": "123",
+            "ocupacao": "Senador",
+            "cnpj": "20582829000157",
+            "limiteGastos": "R$ 10.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "220000000189",
+            "totalBensDeclarados": "R$ 10.913.706,78",
+            "nomeUrna": "ACIR GURGACZ",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RO&sq_cand=10063"
+                }
+            ],
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        },
+        "220000000121": {
+            "suplente": {
+                "numero": "220000000122",
+                "nome": "LINDOMAR CARREIRO DA SILVA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RO/candidato/220000000122"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405080514000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RO/candidato/220000000121",
+            "nomeCompleto": "MOREIRA MENDES",
+            "nascimento": "19/07/1946",
+            "naturalidade": "SAO PAULO",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 170.578,09",
+                    "nome": "APARTAMENTO CONDOMINIOO RESIDENCIAL IGUA\u00c7U"
+                },
+                {
+                    "valor": "R$ 40.821,00",
+                    "nome": "IMOVEL RESIDENCIAL VILA GUILHERME AV ELIAS GORAYEB 1727"
+                },
+                {
+                    "valor": "R$ 77.163,00",
+                    "nome": "RUA ALMIRANTE BARROSO EM PVH/RO"
+                },
+                {
+                    "valor": "R$ 121.436,40",
+                    "nome": "IMIVEL RESIDENCIAL NA RUA MAJOR AMARANTE 871 PVH RO"
+                },
+                {
+                    "valor": "R$ 37.295,98",
+                    "nome": "IMOVEL RESIDENCIAL NA RUA ALVARO MAIA"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "TERRENO URBANO 15X30 SETOR 04 QUADRA 02 CANDEIAS DO JAMARI"
+                },
+                {
+                    "valor": "R$ 4.000,00",
+                    "nome": "TERRENO URBANO 30X30 CANDEIAS DO JAMARI"
+                },
+                {
+                    "valor": "R$ 26.200,00",
+                    "nome": "TERRENO URBANO NA RUA MAJOR AMARANTE 861 COM 288M\u00b2"
+                },
+                {
+                    "valor": "R$ 39.780,27",
+                    "nome": "FAZENDA 3 CAPELAS II"
+                },
+                {
+                    "valor": "R$ 62.874,00",
+                    "nome": "FAZENDA 3 CAPELAS"
+                },
+                {
+                    "valor": "R$ 1.589,17",
+                    "nome": "PROJETO ALTO MADEIRA DETOR CACHOEIRA SAMUEL AGREGADO A FAZENDA 3 CAPELAS"
+                },
+                {
+                    "valor": "R$ 190.578,09",
+                    "nome": "50% IMOVEL COMERCIAL RUA PAULO LEAL 474, PVH/RO"
+                },
+                {
+                    "valor": "R$ 82.000,00",
+                    "nome": "VEICULO VOLVO V40 4 PORTAS"
+                },
+                {
+                    "valor": "R$ 42.614,33",
+                    "nome": "JOIAS DE FAMILIA"
+                },
+                {
+                    "valor": "R$ 17.500,00",
+                    "nome": "CAPITAL SOCIAL MOREIRA MENDES IMOVEL E CONSULTORIA LTDA EM ARIQUEMES"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "EMPRESA VERDI MATAS EMPREENDIMENTOS IMOBILIARIOS LTDA"
+                },
+                {
+                    "valor": "R$ 1.250,00",
+                    "nome": "S/S MENDES E JURADOS ADVOGADOS ASS"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "TRES CAPELAS ADMINISTRA\u00c7AO E TURISMO LTDA"
+                },
+                {
+                    "valor": "R$ 1.290,20",
+                    "nome": "MOREIRA MENDES IMOVEIS E ADMINISTRA\u00c7AO ILIMITADA ARIQUEMES"
+                },
+                {
+                    "valor": "R$ 1.742,07",
+                    "nome": "SALDO EM CARTOES PRE PAGOS"
+                },
+                {
+                    "valor": "R$ 8.622,40",
+                    "nome": "BANCO SANTANDER"
+                },
+                {
+                    "valor": "R$ 12.272,67",
+                    "nome": "CONTA CORRENTE BB AGENCIA 4884 C/C 269515-4"
+                },
+                {
+                    "valor": "R$ 31.777,00",
+                    "nome": "BANK OF AMERICA"
+                },
+                {
+                    "valor": "R$ 300.000,00",
+                    "nome": "DINHEIRO EM COFRE RESIDENCIAL"
+                },
+                {
+                    "valor": "R$ 29.720,00",
+                    "nome": "DINHEIRO EM ESPECIE NO COFRE U$ 24.800,00"
+                },
+                {
+                    "valor": "R$ 304.096,59",
+                    "nome": "EMPRESTIMO REALIZADO MENSALMENTE A EMPRESA 3 CAPELAS ADM E TUIR ILIMITADA"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404589004439.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000121/idarquivo/679?x=1405080514000220000000121"
+                },
+                {
+                    "documento": "2 - certidao1404589004439.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000121/idarquivo/680?x=1405080514000220000000121"
+                },
+                {
+                    "documento": "3 - certidao1404589004440.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000121/idarquivo/681?x=1405080514000220000000121"
+                },
+                {
+                    "documento": "4 - certidao1404589004440.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000121/idarquivo/682?x=1405080514000220000000121"
+                },
+                {
+                    "documento": "5 - certidao1404589004441.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000121/idarquivo/683?x=1405080514000220000000121"
+                },
+                {
+                    "documento": "6 - certidao1404589004441.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000121/idarquivo/684?x=1405080514000220000000121"
+                },
+                {
+                    "documento": "7 - certidao1404589004442.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000121/idarquivo/685?x=1405080514000220000000121"
+                },
+                {
+                    "documento": "8 - certidao1404589004442.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000121/idarquivo/686?x=1405080514000220000000121"
+                }
+            ],
+            "partido": "PSD",
+            "numeroProcesso": "223-44.2014.6.22.0000",
+            "codigo": "555",
+            "raca": "Branca",
+            "numeroProtocolo": "129882014",
+            "coligacao": "FRENTE MUDA ROND\u00d4NIA",
+            "composicaoColigacao": "PSDB / PSDC / PSD / PEN / PMN / PT do B / PRB / SD / PHS",
+            "numeroUrna": "555",
+            "ocupacao": "Deputado",
+            "cnpj": "20604603000100",
+            "limiteGastos": "R$ 15.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "220000000121",
+            "totalBensDeclarados": "R$ 1.657.201,26",
+            "nomeUrna": "MOREIRA MENDES",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RO&sq_cand=10412"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=220000000296&sgUe=RO"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "220000000277": {
+            "suplente": {
+                "numero": "220000000278",
+                "nome": "JANIO DE ALENCAR TORRES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/RO/candidato/220000000278"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404911753000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RO/candidato/220000000277",
+            "nomeCompleto": "IVONE CASSOL",
+            "nascimento": "07/10/1960",
+            "naturalidade": "ABELARDO LUZ",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "LOTE DE TERRA URBANA, N\u00ba 72, QD 128, ST 003 ROLIM DE MOURA"
+                },
+                {
+                    "valor": "R$ 400.000,00",
+                    "nome": "LOTE RURAL 1/20C, GB 34, ST ROLIM DE MOURA, PROJETO INTEGRADO GY- PARANA, EM SANTA LUZIA D\u00b4OESTE"
+                },
+                {
+                    "valor": "R$ 306.746,94",
+                    "nome": "LOTES DE TERRA ZONA URBANA N\u00baS: 181; 227 E 242, QD 128; ST 003; AV. NS; ROLIM DE MOURA"
+                },
+                {
+                    "valor": "R$ 37.500,00",
+                    "nome": "25% DE 769,0861HA DE UMA SERVID\u00c3O FLORESTAL LOTE 92 GB CORUMBIARA, ST 08 LH 105 - VILHENA"
+                },
+                {
+                    "valor": "R$ 42.000,00",
+                    "nome": "LOTE URBANO 315, QUADRA 19, SETOR 003, COM AREA DE 800M2, A AV MACAPA C/ RUA BARAO DE MELGACO EM ROLIM DE MOURA - RO, COM RESIDENCIA EM ALVENARIA COM AREA DE 152,80M2, ADQ EM 10.05.1997."
+                },
+                {
+                    "valor": "R$ 15.291,00",
+                    "nome": "LOTE RURAL 04/A-1 GLEBA 6, SETOR PARECIS, PF CORUMBIARA, EM SANTA LUZIA DO OESTE - RO, COM 589,0HA., ADQ EM 07/2002"
+                },
+                {
+                    "valor": "R$ 9.896,00",
+                    "nome": "LOTE RURAL 10, GLEBA 06, SETOR PARECIS, PF CORUMBIARA, FAZ PAU DALHO, GLEBA CORUMBIARA, COM 381,2HA., ADQ EM 07/2002"
+                },
+                {
+                    "valor": "R$ 16.336,00",
+                    "nome": "LOTE RURAL 11 DA GLEBA 6, SETOR PARECIS DO PF CORUMBIARA, EM SANTA LUZIA DO OESTE -RO, COM AREA DE 629,0HA., ADQ EM 07/2002"
+                },
+                {
+                    "valor": "R$ 900.057,69",
+                    "nome": "IMOVEL EM CONSTRU\u00c7\u00c3O, TERRENO URBANO LOTE 644, QD 37, ST 08, COND. P. MADEIRA - PORTO VELHO"
+                },
+                {
+                    "valor": "R$ 33.880,00",
+                    "nome": "LOTE RURAL 02, GLEBA 06, SETOR PARECIS, PF CORUMBIARA, FAZENDA CHAPADAO EM SANTA LUZIA DO OESTE -RO, COM AREA DE 1.305,1HA., ADQ EM 07/2002"
+                },
+                {
+                    "valor": "R$ 27.522,00",
+                    "nome": "LOTES DE TERRAS URBANO DE NO. 262 QUADRA 19, NO SETOR 003, ZONA FISCAL NO. 001, LOCALIZADO NA RUA BARAO DE MELGACO (T.V) BAIRRO CENTRO, ROLIM DE MOURA -"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "FRA\u00c7\u00c3O IDEAL DE LOTES DE TERRA URBANA, LOTE 265, QD 128, ST 003, ROLIM DE MOURA"
+                },
+                {
+                    "valor": "R$ 415.000,00",
+                    "nome": "LOTE DE TERRA URBANO, QD 37 ST 08, CONDOMINIO PORTO MADEIRA"
+                },
+                {
+                    "valor": "R$ 4.738,00",
+                    "nome": "LOTE RURAL 11-A DA GLEBA 6, SETOR PARECIS DO PF CORUMBIARA, EM SANTA LUZIA DO OESTE - RO, COM AREA DE 182,5HA., ADQ EM 07/2002"
+                },
+                {
+                    "valor": "R$ 18.159,00",
+                    "nome": "LOTE RURAL 03, GLEBA 06, SETOR PARECIS PF CORUMBIARA EM SANTA LUZIA DO OESTE -RO, COM AREA DE 699,5 HA., ADQ EM 07/2002"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "LOTE RURAL 05-F-1, GLEBA 14, DO PROJETO INTEGRADO DE COLONIZACAO GY-PARANA, SETOR ROLIM DE MOURA"
+                },
+                {
+                    "valor": "R$ 379.000,00",
+                    "nome": "VEICULO MARCA PORSCHE, MOD. CAYENNE, S1"
+                },
+                {
+                    "valor": "R$ 56.000,00",
+                    "nome": "MOTOCICLETA AQU\u00c1TICA NOVA A JATO DE PROPULS\u00c3O ADQUIRIDO EM 21/05/2009"
+                },
+                {
+                    "valor": "R$ 160.000,00",
+                    "nome": "VEICULO MARCA TOYOTA MOD HILUX SW4 2010/2010"
+                },
+                {
+                    "valor": "R$ 63.000,00",
+                    "nome": "VEICULO TOYOTA COROLLA XLI AUTOMATICO ADQURIDO 16/03/2010"
+                },
+                {
+                    "valor": "R$ 160.000,00",
+                    "nome": "VEICULO MARCA MMC MOD PAJERO FULL APE 3.2 ANO 2010, PLACA NEG-2730"
+                },
+                {
+                    "valor": "R$ 37.044,80",
+                    "nome": "VEICULO MARCA VW/VOYAGE 2011 COR PRETA"
+                },
+                {
+                    "valor": "R$ 75.000,00",
+                    "nome": "VEICULO MARCA TOYOTA MOD COROLLA XEI AUT ADIQUIRIDO EM 09/02/2010"
+                },
+                {
+                    "valor": "R$ 170.000,00",
+                    "nome": "VEICULO MARCA TOYOTA HILUX SW4 PLACA OHS-0011"
+                },
+                {
+                    "valor": "R$ 170.000,00",
+                    "nome": "VEICULO MARCA TOYOTA MOD SW4 4X4 SRV PLACA NCS-0011"
+                },
+                {
+                    "valor": "R$ 420.000,00",
+                    "nome": "VEICULO MARCA BMW/MOD X6 AWD"
+                },
+                {
+                    "valor": "R$ 325.000,00",
+                    "nome": "VEICULO MARCA MB, MOD ML 350, PLACA OHP-0111"
+                },
+                {
+                    "valor": "R$ 1.464.830,00",
+                    "nome": "70,00% COTAS DO CAPITAL SOCIAL DA EMPRESA HIDROELETRICA ANGELO CASSOL LTDA, ALTA FLORESTA DO OESTE"
+                },
+                {
+                    "valor": "R$ 9.000.000,00",
+                    "nome": "PART. FORMA\u00c7\u00c3O CAPITAL SOCIAL EMPRESA HIDROELETRICA CACHIMBO ALTO LTDA CNPJ: 08.264.991/0001-21"
+                },
+                {
+                    "valor": "R$ 1.447.600,00",
+                    "nome": "61,60 % COTAS DO CAPITAL SOCIAL DA EMPRESA ELETROSSOL CENTRAIS ELETRICAS CASSOL LTDA. - CNPJ: 02.301.444/0001-92"
+                },
+                {
+                    "valor": "R$ 235.280,00",
+                    "nome": "QUOTAS DE 3,33% N\u00ba 1102 RELACIONADO AO CONDOMINIO RESIDENCIAL SOLAR DAS CASTANHEIRAS SITO A RUA AYMOR\u00c9S, 317 - PORTO VELHO"
+                },
+                {
+                    "valor": "R$ 20.021.260,00",
+                    "nome": "9.300.000 E/OU 62,00% COTAS DO CAPITAL SOCIAL DA EMPRESA HIDROSSOL - HIDROELETRICAS CASSOL LTDA. - CNPJ: 04.267.560/0001- 68,"
+                },
+                {
+                    "valor": "R$ 271.600,00",
+                    "nome": "27,16% COTAS DO CAPITAL SOCIAL DA EMPRESA CENTRAIS ELETRICAS FIGUEIRAO LTDA. , CNPJ 07.530.227/0001-98"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "5.000 E/OU 50,00% COTAS DO CAPITAL SOCIAL DA EMPRESA RADIO PLANALTO DE VILHENA LTDA, CNPJ 22850663000138, CONFORME QUARTA ALTERACAO CONTRATUAL. NO ANO DE 2000."
+                },
+                {
+                    "valor": "R$ 3.025.953,00",
+                    "nome": "33,51% COTAS DO CAPITAL SOCIAL DA EMPRESA CASSOL CENTRAIS ELETRICAS LTDA, CNPJ 22845499000170,"
+                },
+                {
+                    "valor": "R$ 54.500,00",
+                    "nome": "CDB DI BANCO DO BRASIL C/C 29845-X EM NOME DO CONJUGE"
+                },
+                {
+                    "valor": "R$ 5.500,00",
+                    "nome": "BANCO DO BRASIL AG 1406-0"
+                },
+                {
+                    "valor": "R$ 75.000,00",
+                    "nome": "SALDO EM VGBL BANCO DO BRASIL AG 1406-0"
+                },
+                {
+                    "valor": "R$ 394.500,00",
+                    "nome": "BANCO DO BRASIL AGENCIA 1406-0 - C/C: 28280-4"
+                },
+                {
+                    "valor": "R$ 43.382,00",
+                    "nome": "OUROCAP"
+                },
+                {
+                    "valor": "R$ 1.645.000,00",
+                    "nome": "CREDITO A RECEBER DE KARINE CASSOL CFE CONTRATO MUTUO"
+                },
+                {
+                    "valor": "R$ 1.750.500,00",
+                    "nome": "EMPRERSTIMO MUTUO JULIANA M. CASSOL"
+                },
+                {
+                    "valor": "R$ 39.000,00",
+                    "nome": "CREDITO A RECEBER EMPRESA GC ENHENHARIA E CONST LTDA"
+                },
+                {
+                    "valor": "R$ 1.389.739,62",
+                    "nome": "EMP\u00b4RESTIMO EFETUADO A EMPRESA HIDROEL\u00c9TRICA ANGELO CASSOL LTDA CNPJ: 04.856.326/0001-76"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "EMPRESTIMO MUTO A CASSOL CENTRAIS EL\u00c9TRICAS LTDA"
+                },
+                {
+                    "valor": "R$ 9.289.778,00",
+                    "nome": "CREDITO A RECEBER DECORRENTE DA VENDA DE GADO"
+                },
+                {
+                    "valor": "R$ 290.236,19",
+                    "nome": "VALOR A RECEBER CONFORME CONTRATO DE MUTUO ENTRE AS PARTES IVO JUNIOR CASSOL"
+                },
+                {
+                    "valor": "R$ 8.916,72",
+                    "nome": "BANCO DO BRASIL C/C 29845-X EM NOME DO CONJUGE"
+                },
+                {
+                    "valor": "R$ 6.715,39",
+                    "nome": "SALDO EM CONTA CORRENTE DO BASA"
+                },
+                {
+                    "valor": "R$ 58.639,72",
+                    "nome": "SALDO EM CONTA CORRENTE BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 6.872,58",
+                    "nome": "SALDO C/C BANCO DO BRASIL S/A IVO NARCISO CASSOL"
+                },
+                {
+                    "valor": "R$ 3.774,81",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 296,65",
+                    "nome": "SALDO C/C BANCO DO BRASIL S/A IVO NARCISO CASSOL C/C 16430-5"
+                },
+                {
+                    "valor": "R$ 1.388.500,00",
+                    "nome": "DINHEIRO EM ESPECIE"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404597917987.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000277/idarquivo/1531?x=1404911753000220000000277"
+                },
+                {
+                    "documento": "2 - certidao1404597917988.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000277/idarquivo/1532?x=1404911753000220000000277"
+                },
+                {
+                    "documento": "3 - certidao1404597917988.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000277/idarquivo/1533?x=1404911753000220000000277"
+                },
+                {
+                    "documento": "4 - certidao1404597917988.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RO/candidato/220000000277/idarquivo/1534?x=1404911753000220000000277"
+                }
+            ],
+            "partido": "PP",
+            "numeroProcesso": "126-44.2014.6.22.0000",
+            "codigo": "111",
+            "raca": "Branca",
+            "numeroProtocolo": "131852014",
+            "coligacao": "O RESPEITO ESTA DE VOLTA",
+            "composicaoColigacao": "PP / PR / PPS / PROS / PV / PTC / SD",
+            "numeroUrna": "111",
+            "ocupacao": "Empres\u00e1rio",
+            "cnpj": "20580826000184",
+            "limiteGastos": "R$ 10.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "220000000277",
+            "totalBensDeclarados": "R$ 56.276.546,10999999",
+            "nomeUrna": "IVONE CASSOL",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Ensino Fundamental completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

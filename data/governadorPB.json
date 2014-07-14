@@ -1,0 +1,599 @@
+{
+    "governadorPB": {
+        "150000000010": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000010/idarquivo/47?x=1404925116000150000000010",
+                    "documento": "1 - proposta_governo1404484081939.pdf"
+                }
+            ],
+            "ocupacao": "Assistente Social",
+            "numeroProcesso": "110-85.2014.6.15.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "150000000019",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PB/candidato/150000000019",
+                "nome": "MARCOS ANT\u00d4NIO DE OLIVEIRA DIAS"
+            },
+            "totalBensDeclarados": "R$ 252.928,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000010/idarquivo/48?x=1404925116000150000000010",
+                    "documento": "1 - certidao1404484081940.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000010/idarquivo/49?x=1404925116000150000000010",
+                    "documento": "2 - certidao1404484081941.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000010/idarquivo/50?x=1404925116000150000000010",
+                    "documento": "3 - certidao1404484081941.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000010/idarquivo/51?x=1404925116000150000000010",
+                    "documento": "4 - certidao1404484081942.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000010/idarquivo/52?x=1404925116000150000000010",
+                    "documento": "5 - certidao1404484081943.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000010/idarquivo/53?x=1404925116000150000000010",
+                    "documento": "6 - certidao1404484081943.pdf"
+                }
+            ],
+            "naturalidade": "IGUATU",
+            "cnpj": "20562095000144",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PB/candidato/150000000010",
+            "numeroProtocolo": "198832014",
+            "bens": [
+                {
+                    "valor": "R$ 220.328,00",
+                    "nome": "APARTAMENTO EM CONSTRU\u00c7\u00c3O - N\u00c3O QUITADO"
+                },
+                {
+                    "valor": "R$ 32.600,00",
+                    "nome": "AUTOM\u00d3VEL FIESTA ROCAN 2014 - MARCA FORD"
+                }
+            ],
+            "limiteGastos": "R$ 500.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404925116000"
+            },
+            "id": "150000000010",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "T\u00c1RCIO",
+            "nascimento": "31/10/1977",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "T\u00c1RCIO",
+            "partido": "PSOL"
+        },
+        "150000000404": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2039?x=1404919429000150000000404",
+                    "documento": "1 - proposta_governo1404594446982.pdf"
+                }
+            ],
+            "ocupacao": "Deputado",
+            "numeroProcesso": "573-27.2014.6.15.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "150000000371",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PB/candidato/150000000371",
+                "nome": "OLAVO DE SOUZA LIMA FILHO"
+            },
+            "totalBensDeclarados": "R$ 339.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PB&sq_cand=10063",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=150000000540&sgUe=PB",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2040?x=1404919429000150000000404",
+                    "documento": "1 - certidao1404594446983.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2041?x=1404919429000150000000404",
+                    "documento": "2 - certidao1404594446983.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2042?x=1404919429000150000000404",
+                    "documento": "3 - certidao1404594446984.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2043?x=1404919429000150000000404",
+                    "documento": "4 - certidao1404594446984.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2044?x=1404919429000150000000404",
+                    "documento": "5 - certidao1404594446985.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2045?x=1404919429000150000000404",
+                    "documento": "6 - certidao1404594446985.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2046?x=1404919429000150000000404",
+                    "documento": "7 - certidao1404594446986.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2047?x=1404919429000150000000404",
+                    "documento": "8 - certidao1404594446986.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2048?x=1404919429000150000000404",
+                    "documento": "9 - certidao1404594446987.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2049?x=1404919429000150000000404",
+                    "documento": "10 - certidao1404594446987.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000404/idarquivo/2050?x=1404919429000150000000404",
+                    "documento": "11 - certidao1404594446988.pdf"
+                }
+            ],
+            "naturalidade": "RECIFE",
+            "cnpj": "20575498000128",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PB/candidato/150000000404",
+            "numeroProtocolo": "202842014",
+            "bens": [
+                {
+                    "valor": "R$ 339.000,00",
+                    "nome": "APARTAMENTO NO BAIRRO  BANC\u00c1RIOS (FINANCIADO)"
+                }
+            ],
+            "limiteGastos": "R$ 10.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "90",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404919429000"
+            },
+            "id": "150000000404",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PROS",
+            "nomeCompleto": "MAJOR F\u00c1BIO",
+            "nascimento": "04/11/1969",
+            "status": "Aguardando julgamento",
+            "codigo": "90",
+            "nomeUrna": "MAJOR F\u00c1BIO",
+            "partido": "PROS"
+        },
+        "150000000156": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000156/idarquivo/781?x=1404774408000150000000156",
+                    "documento": "1 - proposta_governo1404588787633.pdf"
+                }
+            ],
+            "ocupacao": "Senador",
+            "numeroProcesso": "245-97.2014.6.15.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "150000000157",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PB/candidato/150000000157",
+                "nome": "ANTONIO ROBERTO DE SOUSA PAULINO"
+            },
+            "totalBensDeclarados": "R$ 976.556,4600000001",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PB&sq_cand=10206",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=150000000338&sgUe=PB",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000156/idarquivo/782?x=1404774408000150000000156",
+                    "documento": "1 - certidao1404588787633.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000156/idarquivo/783?x=1404774408000150000000156",
+                    "documento": "2 - certidao1404588787634.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000156/idarquivo/784?x=1404774408000150000000156",
+                    "documento": "3 - certidao1404588787634.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000156/idarquivo/785?x=1404774408000150000000156",
+                    "documento": "4 - certidao1404588787635.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000156/idarquivo/786?x=1404774408000150000000156",
+                    "documento": "5 - certidao1404588787635.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000156/idarquivo/787?x=1404774408000150000000156",
+                    "documento": "6 - certidao1404588787636.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000156/idarquivo/788?x=1404774408000150000000156",
+                    "documento": "7 - certidao1404588787636.pdf"
+                }
+            ],
+            "naturalidade": "CAMPINA GRANDE",
+            "cnpj": "20571611000105",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PB/candidato/150000000156",
+            "numeroProtocolo": "200602014",
+            "bens": [
+                {
+                    "valor": "R$ 438.463,62",
+                    "nome": "APTO 502 EDF. RIO GUARAPIRA, FINANCIADO, SITUADO NA PRAIA DO PO\u00c7O - CABEDELO-PB"
+                },
+                {
+                    "valor": "R$ 156.779,78",
+                    "nome": "APTO N\u00ba 507 LOCALIZADO NO EMPREENDIMENTO RESIDENCIAL RESERVA PARQUE NOROESTE, BRASILIA-DF, O QUAL FOI PERMUTADO POR SALA COML ENDERE\u00c7O SIG QDA. 02 LOTE 420 EDF. CITY OFFICE LOJA 24 BRASILIA-DF FIN."
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "01 PROPRIEDADE RURAL DENOMINADA CAMPO DE BOI, SITUADA NA CIDADE DE QUEIMADAS-PB"
+                },
+                {
+                    "valor": "R$ 86.488,90",
+                    "nome": "01 VEICULO SW4 HILUX TOYOTA PLACA JKN 1591-PB FINANCIADA"
+                },
+                {
+                    "valor": "R$ 130.000,00",
+                    "nome": "01 VEICULO VERA CUZ MOD. 2011 PLACA MON 2801-PB"
+                },
+                {
+                    "valor": "R$ 4.950,00",
+                    "nome": "QUOTA DA FIRMA DAMASCO PANIFICADORA E CONFEITARIA LTDA CNPJ 05.768.469/0001-19"
+                },
+                {
+                    "valor": "R$ 9.500,00",
+                    "nome": "NA FIRMA CAMPO DE BOI PECUARIA AGRICOLA LTDA"
+                },
+                {
+                    "valor": "R$ 374,16",
+                    "nome": "BANCO DE BRASILIA"
+                }
+            ],
+            "limiteGastos": "R$ 25.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PT",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404774408000"
+            },
+            "id": "150000000156",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "RENOVA\u00c7\u00c3O DE VERDADE",
+            "nomeCompleto": "VITAL",
+            "nascimento": "21/09/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "VITAL",
+            "partido": "PMDB"
+        },
+        "150000000407": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000407/idarquivo/2062?x=1405028478000150000000407",
+                    "documento": "1 - proposta_governo1404597489084.pdf"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "numeroProcesso": "566-35.2014.6.15.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "150000000408",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PB/candidato/150000000408",
+                "nome": "RUY MANUEL CARNEIRO BARBOSA DE ACA BELCHIOR"
+            },
+            "totalBensDeclarados": "R$ 874.430,49",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PB&sq_cand=10055",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=150000000288&sgUe=PB",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000407/idarquivo/2063?x=1405028478000150000000407",
+                    "documento": "1 - certidao1404597489085.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000407/idarquivo/2064?x=1405028478000150000000407",
+                    "documento": "2 - certidao1404597489085.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000407/idarquivo/2065?x=1405028478000150000000407",
+                    "documento": "3 - certidao1404597489085.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000407/idarquivo/2066?x=1405028478000150000000407",
+                    "documento": "4 - certidao1404597489086.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000407/idarquivo/2067?x=1405028478000150000000407",
+                    "documento": "5 - certidao1404597489086.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000407/idarquivo/2068?x=1405028478000150000000407",
+                    "documento": "6 - certidao1404597489087.pdf"
+                }
+            ],
+            "naturalidade": "CAMPINA GRANDE",
+            "cnpj": "20581727000117",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PB/candidato/150000000407",
+            "numeroProtocolo": "203212014",
+            "bens": [
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "UM APARTAMENTO EM CONSTRU\u00c7\u00c3O, EM JO\u00c3O PESSOA, NO BAIRRO DO MIRAMAR, COM ENTREGA PREVISTA PARA OUTUBRO DE 2015, ADQUIRIDO EM MAR\u00c7O DE 2014, FINANCIADO \u00c0 CONSTRUTORA, COM PAGAMENTO DE UMA PARCELA"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "UM APARTAMENTO EM CONSTRU\u00c7\u00c3O, EM CAMPINA GRANDE, NO BAIRRO DO MIRANTE, COM ENTREGA PREVISTA PARA OUTUBRO DE 2018, ADQUIRIDO EM ABRIL DE 2014, FINANCIADO \u00c0 CONSTRUTORA, COM PAGAMENTO DE UMA PARCELA"
+                },
+                {
+                    "valor": "R$ 57.193,00",
+                    "nome": "UM AUTOM\u00d3VEL MINI COOPER 2013, FINANCIADO AO BANCO DO BRASIL, COM PAGAMENTO QUITADO DE R$ 57.193,00"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "QUOTAS DE CAPITAL DA SOCIEDADE DE ADVOGADOS DENOMINADO: CUNHA LIMA & TARGINO ADVOGADOS ASSOCIADOS CNPJ 10.687.295/0001-70"
+                },
+                {
+                    "valor": "R$ 5.693,18",
+                    "nome": "CONTA CORRENTE BANCO DO BRASIL S/A"
+                },
+                {
+                    "valor": "R$ 6.687,07",
+                    "nome": "APLICA\u00c7\u00c3O DE RENDA FIXA NO BANCO REAL"
+                },
+                {
+                    "valor": "R$ 584.756,44",
+                    "nome": "SALDO EM BRASILPREV PGBL \u00bf BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "BB AGRO NEGOCIO - LCA POS CDI"
+                },
+                {
+                    "valor": "R$ 100,80",
+                    "nome": "POUPAN\u00c7A OURO DO BANCO DO BRASIL"
+                }
+            ],
+            "limiteGastos": "R$ 18.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "45",
+            "composicaoColigacao": "PSDB / PEN / PR / PTB / PSD / SD / PMN / PPS / PT do B / PTN / PRB / PSDC / PSC / PP",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405028478000"
+            },
+            "id": "150000000407",
+            "enderecoWeb": "WWW.CASSIOCUNHALIMA.COM.BR",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "A VONTADE DO POVO",
+            "nomeCompleto": "CASSIO CUNHA LIMA",
+            "nascimento": "05/04/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "45",
+            "nomeUrna": "CASSIO CUNHA LIMA",
+            "partido": "PSDB"
+        },
+        "150000000052": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000052/idarquivo/282?x=1404941891000150000000052",
+                    "documento": "1 - proposta_governo1404575726158.pdf"
+                }
+            ],
+            "ocupacao": "Governador",
+            "numeroProcesso": "138-53.2014.6.15.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "150000000053",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PB/candidato/150000000053",
+                "nome": "ANA L\u00cdGIA COSTA FELICIANO"
+            },
+            "totalBensDeclarados": "R$ 1.405.603,8199999998",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=20516&sqCandidato=3613",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=150000000286&sgUe=PB",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000052/idarquivo/283?x=1404941891000150000000052",
+                    "documento": "1 - certidao1404575726159.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000052/idarquivo/284?x=1404941891000150000000052",
+                    "documento": "2 - certidao1404575726160.pdf"
+                }
+            ],
+            "naturalidade": "JOAO PESSOA",
+            "cnpj": "20570801000108",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PB/candidato/150000000052",
+            "numeroProtocolo": "199542014",
+            "bens": [
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "Apartamento n\u00ba 501 do Edf. Saint Paul, localizado na Rua \u00c1urea, n\u00ba 72, Cabo Branco, Jo\u00e3o Pessoa-PB."
+                },
+                {
+                    "valor": "R$ 350.000,00",
+                    "nome": "UMA CASA NA RUA DESPORTISTA AURELIO ROCHA N 655, BAIRRO DOS ESTADOS, JOAO PESSOA-PB"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "DOIS TERRENOS LOTES 23 E 25, SITUADOS NA RUA DOS CAJUEIROS, PONTA DOS SEIXAS, JOAO PESSOA-PB"
+                },
+                {
+                    "valor": "R$ 7.347,60",
+                    "nome": "UM TERRENO COM 6 HA SIYUADA NO MUNICIPIO DE BANANEIRAS COM BENFEITRIAS"
+                },
+                {
+                    "valor": "R$ 61.451,78",
+                    "nome": "UM AUTOMOVEL GM TRACKER 2.0 ANO 2007 PLACA MOP-9577"
+                },
+                {
+                    "valor": "R$ 13,86",
+                    "nome": "CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 52.012,36",
+                    "nome": "BANCO DO BRASIL PLUS ESTILO"
+                },
+                {
+                    "valor": "R$ 19.996,00",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 1.173,09",
+                    "nome": "CONTA CORRENTE NA CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 123.818,63",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 559.790,50",
+                    "nome": "BANCO DO BRASIL"
+                }
+            ],
+            "limiteGastos": "R$ 25.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "40",
+            "composicaoColigacao": "PSB / PT / PDT / DEM / PRTB / PRP / PV / PSL / PC do B / PHS / PPL",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404941891000"
+            },
+            "id": "150000000052",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "A FOR\u00c7A DO TRABALHO",
+            "nomeCompleto": "RICARDO COUTINHO",
+            "nascimento": "18/11/1960",
+            "status": "Aguardando julgamento",
+            "codigo": "40",
+            "nomeUrna": "RICARDO COUTINHO",
+            "partido": "PSB"
+        },
+        "150000000331": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000331/idarquivo/1534?x=1404774408000150000000331",
+                    "documento": "1 - proposta_governo1404592958974.pdf"
+                }
+            ],
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "numeroProcesso": "304-85.2014.6.15.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "150000000334",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PB/candidato/150000000334",
+                "nome": "LENA LEITE DIAS"
+            },
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PB&sq_cand=10291",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000331/idarquivo/1535?x=1404774408000150000000331",
+                    "documento": "1 - certidao1404592958975.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000331/idarquivo/1536?x=1404774408000150000000331",
+                    "documento": "2 - certidao1404592958975.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000331/idarquivo/1537?x=1404774408000150000000331",
+                    "documento": "3 - certidao1404592958976.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000331/idarquivo/1538?x=1404774408000150000000331",
+                    "documento": "4 - certidao1404592958976.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000331/idarquivo/1539?x=1404774408000150000000331",
+                    "documento": "5 - certidao1404592958977.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000331/idarquivo/1540?x=1404774408000150000000331",
+                    "documento": "6 - certidao1404592958977.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PB/candidato/150000000331/idarquivo/1541?x=1404774408000150000000331",
+                    "documento": "7 - certidao1404592958978.pdf"
+                }
+            ],
+            "naturalidade": "JO\u00c3O PESSOA",
+            "cnpj": "20574637000107",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PB/candidato/150000000331",
+            "numeroProtocolo": "202402014",
+            "limiteGastos": "R$ 40.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "16",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404774408000"
+            },
+            "id": "150000000331",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSTU",
+            "nomeCompleto": "ANTONIO RADICAL",
+            "nascimento": "03/07/1967",
+            "status": "Aguardando julgamento",
+            "codigo": "16",
+            "nomeUrna": "ANTONIO RADICAL",
+            "partido": "PSTU"
+        }
+    }
+}

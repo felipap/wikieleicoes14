@@ -1,0 +1,378 @@
+{
+    "governadorAC": {
+        "10000000003": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000003/idarquivo/7?x=140519532200010000000003",
+                    "documento": "1 - proposta_governo1404406196167.pdf"
+                }
+            ],
+            "ocupacao": "Deputado",
+            "numeroProcesso": "75-18.2014.6.01.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "10000000004",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AC/candidato/10000000004",
+                "nome": "ANTONIA ROJAS SALES"
+            },
+            "totalBensDeclarados": "R$ 1.579.724,31",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AC&sq_cand=10181",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=10000000205&sgUe=AC",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000003/idarquivo/8?x=140519532200010000000003",
+                    "documento": "1 - certidao1404406196168.pdf"
+                }
+            ],
+            "naturalidade": "FRANCA",
+            "cnpj": "20557814000139",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/AC/candidato/10000000003",
+            "numeroProtocolo": "51072014",
+            "bens": [
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "APTO. NO RESIDENCIAL BURITI, EM RIO BRANCO-AC"
+                },
+                {
+                    "valor": "R$ 33.000,00",
+                    "nome": "AUTOM\u00d3VEL FOX 1.6, PRATA, PLACA JGT-9382"
+                },
+                {
+                    "valor": "R$ 125.000,00",
+                    "nome": "AUTOM\u00d3VEL FRONTIER"
+                },
+                {
+                    "valor": "R$ 120.042,04",
+                    "nome": "BB RF LP PREMIUM EST"
+                },
+                {
+                    "valor": "R$ 52.321,38",
+                    "nome": "BB REF DI PLUS EST"
+                },
+                {
+                    "valor": "R$ 44.455,85",
+                    "nome": "SALDO EM CONTA CORRENTE, BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 2.131,99",
+                    "nome": "SALDO EM CONTA NO BANCO DO BRASIL CP ESTILO"
+                },
+                {
+                    "valor": "R$ 50.873,05",
+                    "nome": "SALDO EM CONTA NO BANCO ITA\u00da"
+                },
+                {
+                    "valor": "R$ 651.900,00",
+                    "nome": "DINHEIRO EM ESP\u00c9CIE"
+                }
+            ],
+            "limiteGastos": "R$ 5.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "45",
+            "composicaoColigacao": "PMDB / PSDB / PT do B / PSC / PTC / PPS / PR / SD / PP / PSD",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405195322000"
+            },
+            "id": "10000000003",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "Por Um Acre Melhor",
+            "nomeCompleto": "M\u00c1RCIO BITTAR",
+            "nascimento": "28/06/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "45",
+            "nomeUrna": "M\u00c1RCIO BITTAR",
+            "partido": "PSDB"
+        },
+        "10000000146": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000146/idarquivo/790?x=140511381100010000000146",
+                    "documento": "1 - proposta_governo1404571261117.pdf"
+                }
+            ],
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "numeroProcesso": "201-68.2014.6.01.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "10000000140",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AC/candidato/10000000140",
+                "nome": "DANISCLEIA MENDON\u00c7A NOGUEIRA"
+            },
+            "totalBensDeclarados": "R$ 52.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=01392&sqCandidato=39",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000146/idarquivo/791?x=140511381100010000000146",
+                    "documento": "1 - certidao1404571261118.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000146/idarquivo/792?x=140511381100010000000146",
+                    "documento": "2 - certidao1404571261119.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000146/idarquivo/793?x=140511381100010000000146",
+                    "documento": "3 - certidao1404571261120.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000146/idarquivo/794?x=140511381100010000000146",
+                    "documento": "4 - certidao1404571261120.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000146/idarquivo/795?x=140511381100010000000146",
+                    "documento": "5 - certidao1404571261121.pdf"
+                }
+            ],
+            "naturalidade": "TARAUACA",
+            "cnpj": "20572059000161",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/AC/candidato/10000000146",
+            "numeroProtocolo": "52912014",
+            "bens": [
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "TERRENO"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "SELTA 2002"
+                }
+            ],
+            "limiteGastos": "R$ 100.000,00",
+            "Grauinstrucao": "Superior incompleto",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405113811000"
+            },
+            "id": "10000000146",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "ANTONIO ROCHA",
+            "nascimento": "22/04/1974",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "ANTONIO ROCHA",
+            "partido": "PSOL"
+        },
+        "10000000152": {
+            "ocupacao": "Governador",
+            "numeroProcesso": "219-89.2014.6.01.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "10000000153",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AC/candidato/10000000153",
+                "nome": "MARIA NAZARETH MELLO DE ARAUJO LAMBERT"
+            },
+            "totalBensDeclarados": "R$ 476.611,84",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AC&sq_cand=10028",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=10000000122&sgUe=AC",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000152/idarquivo/828?x=140476678200010000000152",
+                    "documento": "1 - certidao1404572403907.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000152/idarquivo/829?x=140476678200010000000152",
+                    "documento": "2 - certidao1404572403907.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000152/idarquivo/830?x=140476678200010000000152",
+                    "documento": "3 - certidao1404572403908.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000152/idarquivo/831?x=140476678200010000000152",
+                    "documento": "4 - certidao1404572403908.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000152/idarquivo/832?x=140476678200010000000152",
+                    "documento": "5 - certidao1404572403909.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000152/idarquivo/833?x=140476678200010000000152",
+                    "documento": "6 - certidao1404572403910.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000152/idarquivo/834?x=140476678200010000000152",
+                    "documento": "7 - certidao1404572403910.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000152/idarquivo/835?x=140476678200010000000152",
+                    "documento": "8 - certidao1404572403911.pdf"
+                }
+            ],
+            "naturalidade": "RIO BRANCO",
+            "cnpj": "20569983000199",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/AC/candidato/10000000152",
+            "numeroProtocolo": "53102014",
+            "bens": [
+                {
+                    "valor": "R$ 434.421,94",
+                    "nome": "CONSTRU\u00c7\u00c3O DE UM IMOVEL RESIDENCIAL NA ALAMEDA DAS ACACIAS Q 1 LOTE 10 CHACARA IPE DISTRITO INDUSTRIAL"
+                },
+                {
+                    "valor": "R$ 35.900,00",
+                    "nome": "UM AUTOMOVEL DE PASSEIO MARCA HONDA MODELO FIT LXL FLEX"
+                },
+                {
+                    "valor": "R$ 2.680,32",
+                    "nome": "CADERNETA DE POUPAN\u00c7A NO NOME DO FILHO VIRGILIO O. M.N. VIANA"
+                },
+                {
+                    "valor": "R$ 2.420,71",
+                    "nome": "CADERNETA DE POUPAN\u00c7A NO BANCO DO BRASIL NO NOME DA FILHA CATARINA  C.O.M.N VIANA"
+                },
+                {
+                    "valor": "R$ 1.188,87",
+                    "nome": "CONTA CORRENTE NA CAIXA ECONOMICA FEDERAL"
+                }
+            ],
+            "limiteGastos": "R$ 7.850.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PDT / PRB / PT / PSL / PTN / PSDC / PHS / PSB / PRP / PEN / PPL / PC do B / PROS / PTB",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404766782000"
+            },
+            "id": "10000000152",
+            "enderecoWeb": "@ti\u00e3o_13",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "Frente Popular do Acre",
+            "nomeCompleto": "TI\u00c3O VIANA",
+            "nascimento": "09/02/1961",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "TI\u00c3O VIANA",
+            "partido": "PT"
+        },
+        "10000000364": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000364/idarquivo/3285?x=140484126200010000000364",
+                    "documento": "1 - proposta_governo1405096267163.pdf"
+                }
+            ],
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "numeroProcesso": "398-23.2014.6.01.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "10000000353",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AC/candidato/10000000353",
+                "nome": "HENRIQUE AFONSO SOARES LIMA"
+            },
+            "totalBensDeclarados": "R$ 893.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AC&sq_cand=10275",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=01392&sqCandidato=313",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=10000000130&sgUe=AC",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000364/idarquivo/2262?x=140484126200010000000364",
+                    "documento": "1 - certidao1404579228672.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000364/idarquivo/2263?x=140484126200010000000364",
+                    "documento": "2 - certidao1404579228672.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000364/idarquivo/2264?x=140484126200010000000364",
+                    "documento": "3 - certidao1404579228673.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000364/idarquivo/2265?x=140484126200010000000364",
+                    "documento": "4 - certidao1404579228673.pdf"
+                }
+            ],
+            "naturalidade": "BELA VISTA DO PARAISO",
+            "cnpj": "20570522000136",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/AC/candidato/10000000364",
+            "numeroProtocolo": "54912014",
+            "bens": [
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "LOTE URBANO MEDINDO 1.764M2 SITUADO NA RUA JOS\u00c9 DE DEUS, 394 ACREL\u00c2NDIA-AC"
+                },
+                {
+                    "valor": "R$ 400.000,00",
+                    "nome": "DOIS LOTES DE TERRAS RURAL N\u00daMERO 265/267  COM PASTAGEM SITUADO NO RAMAL DO BIGODE KM 23 ACREL\u00c2NDIA - ACRE"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "MOTOCICLETA HONDA CG 125 2010"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "MARCA TOYOTA MODELO COROLA 2008"
+                },
+                {
+                    "valor": "R$ 210.000,00",
+                    "nome": "SEMOVENTES: 250 CABE\u00c7AS DE BOVINOS MACHOS E F\u00caMEAS"
+                }
+            ],
+            "limiteGastos": "R$ 3.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "25",
+            "composicaoColigacao": "DEM / PV / PMN",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404841262000"
+            },
+            "id": "10000000364",
+            "enderecoWeb": "tiaoboalom@bol.com.br",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PRODUZIR PARA EMPREGAR",
+            "nomeCompleto": "BOCALOM",
+            "nascimento": "18/05/1953",
+            "status": "Aguardando julgamento",
+            "codigo": "25",
+            "nomeUrna": "BOCALOM",
+            "partido": "DEM"
+        }
+    }
+}

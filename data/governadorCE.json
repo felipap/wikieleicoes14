@@ -1,0 +1,980 @@
+{
+    "governadorCE": {
+        "60000000764": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000764/idarquivo/4190?x=140493577300060000000764",
+                    "documento": "1 - proposta_governo1404598402032.pdf"
+                }
+            ],
+            "ocupacao": "Deputado",
+            "numeroProcesso": "852-62.2014.6.06.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "60000000766",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/CE/candidato/60000000766",
+                "nome": "MARIA IZOLDA CELA DE ARRUDA COELHO"
+            },
+            "totalBensDeclarados": "R$ 534.576,6499999999",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=60000000434&sgUe=CE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000764/idarquivo/4191?x=140493577300060000000764",
+                    "documento": "1 - certidao1404598402032.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000764/idarquivo/4192?x=140493577300060000000764",
+                    "documento": "2 - certidao1404598402033.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000764/idarquivo/4193?x=140493577300060000000764",
+                    "documento": "3 - certidao1404598402033.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000764/idarquivo/4194?x=140493577300060000000764",
+                    "documento": "4 - certidao1404598402034.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000764/idarquivo/4195?x=140493577300060000000764",
+                    "documento": "5 - certidao1404598402034.jpg"
+                }
+            ],
+            "naturalidade": "CRATO",
+            "cnpj": "20581598000167",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/CE/candidato/60000000764",
+            "numeroProtocolo": "260742014",
+            "bens": [
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "APARTAMENTO RESIDENCIAL - EDIFICIO FLOR DA PAISAGEM"
+                },
+                {
+                    "valor": "R$ 127.736,00",
+                    "nome": "SALA COMERCIAL NO EMPREENDIMENTO OFFICE CARIRI"
+                },
+                {
+                    "valor": "R$ 990,25",
+                    "nome": "CDB - BANCO BRADESCO - AG 610 CC 753-6"
+                },
+                {
+                    "valor": "R$ 99,48",
+                    "nome": "POUPAN\u00c7A BRADESCO - CONTA 7535 - AG 610"
+                },
+                {
+                    "valor": "R$ 17.674,42",
+                    "nome": "BR VIP ESTILO - BANCO DO BRASIL - AG 47325 CC: 21848-0"
+                },
+                {
+                    "valor": "R$ 23.076,50",
+                    "nome": "DEPOSITO EM CONTA CORRENTE STILO - AG 4732-5 E CC: 21848-0"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "RESERVA FINANCEIRA"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "PREVIDENCIA - BRASILPREV"
+                }
+            ],
+            "limiteGastos": "R$ 64.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PRB / PP / PDT / PT / PTB / PSL / PRTB / PHS / PMN / PTC / PV / PEN / PPL / PSD / PC do B / PT do B / SD / PROS",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404935773000"
+            },
+            "id": "60000000764",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PARA O CEARA SEGUIR MUDANDO",
+            "nomeCompleto": "CAMILO",
+            "nascimento": "03/06/1968",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "CAMILO",
+            "partido": "PT"
+        },
+        "60000000093": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000093/idarquivo/455?x=140477100300060000000093",
+                    "documento": "1 - proposta_governo1404582987406.pdf"
+                }
+            ],
+            "ocupacao": "Deputado",
+            "numeroProcesso": "30097",
+            "genero": "FEMININO",
+            "suplente": {
+                "numero": "60000000094",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/CE/candidato/60000000094",
+                "nome": "LEONARDO DE BAYMA REBOU\u00c7AS"
+            },
+            "totalBensDeclarados": "R$ 1.077.236,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=13897&sqCandidato=7484",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=60000000438&sgUe=CE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000093/idarquivo/456?x=140477100300060000000093",
+                    "documento": "1 - certidao1404582987408.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000093/idarquivo/457?x=140477100300060000000093",
+                    "documento": "2 - certidao1404582987408.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000093/idarquivo/458?x=140477100300060000000093",
+                    "documento": "3 - certidao1404582987409.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000093/idarquivo/459?x=140477100300060000000093",
+                    "documento": "4 - certidao1404582987409.PDF"
+                }
+            ],
+            "naturalidade": "FORTALEZA",
+            "cnpj": "20570501000110",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/CE/candidato/60000000093",
+            "numeroProtocolo": "253262014",
+            "bens": [
+                {
+                    "valor": "R$ 600.000,00",
+                    "nome": "APTO SITUADO NA RUA MANOEL FIRMINO SAMPAIO 50 - APTO 301"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "TERRENO SITIO LAGOA DE CIMA 1800M\u00b2 - EUZEBIO - ADQUIRIDO 1992"
+                },
+                {
+                    "valor": "R$ 34.996,00",
+                    "nome": "UNO WEY 2011"
+                },
+                {
+                    "valor": "R$ 65.940,00",
+                    "nome": "COROLLA ANO 2011 - ADQUIRIDO 2011 - FINANCIADO"
+                },
+                {
+                    "valor": "R$ 109.000,00",
+                    "nome": "HONDA CRV EXL - AUTOM\u00c1TICO 13/13 - PRETO - FINANCIADO EM 24 X 2698,00 - BANCO SAFRA"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "LAND ROVER DISCOVERY 3 ANO 2009"
+                },
+                {
+                    "valor": "R$ 44.300,00",
+                    "nome": "APLICA\u00c7\u00c3O"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "SALDO"
+                },
+                {
+                    "valor": "R$ 85.000,00",
+                    "nome": "REFERENTE VENDA SALA COMERCIAL ED. SUL AMERICA - CENTRO"
+                }
+            ],
+            "limiteGastos": "R$ 9.500.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "40",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404771003000"
+            },
+            "id": "60000000093",
+            "enderecoWeb": "www.elianenovais.com.br",
+            "estadoCivil": "Vi\u00favo(a)",
+            "coligacao": "PSB",
+            "nomeCompleto": "ELIANE NOVAIS",
+            "nascimento": "17/04/1958",
+            "status": "Aguardando julgamento",
+            "codigo": "40",
+            "nomeUrna": "ELIANE NOVAIS",
+            "partido": "PSB"
+        },
+        "60000000377": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1654?x=140508608300060000000377",
+                    "documento": "1 - proposta_governo1404592385079.pdf"
+                }
+            ],
+            "ocupacao": "Banc\u00e1rio e Economi\u00e1rio",
+            "numeroProcesso": "507-96.2014.6.06.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "60000000418",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/CE/candidato/60000000418",
+                "nome": "BENEDITO OLIVEIRA VIANA"
+            },
+            "totalBensDeclarados": "R$ 88.060,99999999999",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=CE&sq_cand=10261",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=13897&sqCandidato=2420",
+                    "ano": "2008"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1655?x=140508608300060000000377",
+                    "documento": "1 - certidao1404592385080.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1656?x=140508608300060000000377",
+                    "documento": "2 - certidao1404592385080.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1657?x=140508608300060000000377",
+                    "documento": "3 - certidao1404592385081.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1658?x=140508608300060000000377",
+                    "documento": "4 - certidao1404592385081.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1659?x=140508608300060000000377",
+                    "documento": "5 - certidao1404592385082.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1660?x=140508608300060000000377",
+                    "documento": "6 - certidao1404592385082.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1661?x=140508608300060000000377",
+                    "documento": "7 - certidao1404592385082.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000377/idarquivo/1662?x=140508608300060000000377",
+                    "documento": "8 - certidao1404592385083.pdf"
+                }
+            ],
+            "naturalidade": "FORTALEZA",
+            "cnpj": "20572576000130",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/CE/candidato/60000000377",
+            "numeroProtocolo": "256722014",
+            "bens": [
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "CORSA SEDAN"
+                },
+                {
+                    "valor": "R$ 1,69",
+                    "nome": "POUPEX NO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 1.990,22",
+                    "nome": "POUPAN\u00c7A OURO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "CDB DI NO BANCO BRASIL"
+                },
+                {
+                    "valor": "R$ 31.620,43",
+                    "nome": "FINANCIAMENTO IMOBILIARIO NA CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 67,02",
+                    "nome": "CAPITAL INTEGRALIZADO NA COOPERFORT"
+                },
+                {
+                    "valor": "R$ 15.121,21",
+                    "nome": "PARTICIPA\u00c7\u00c3O EM LUCROS E RESULTADOS"
+                },
+                {
+                    "valor": "R$ 5.757,44",
+                    "nome": "PREVI CAIXA DOS FUNCION\u00c1RIOS DO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 2.337,68",
+                    "nome": "CASSI CAIXA DE ASSISTENCIA DOS FUNCION\u00c1RIO DO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 5.165,31",
+                    "nome": "13\u00ba SALARIO"
+                }
+            ],
+            "limiteGastos": "R$ 300.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "PSTU / PCB / PSOL",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405086083000"
+            },
+            "id": "60000000377",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "Frente de Esquerda Socialista",
+            "nomeCompleto": "AILTON LOPES",
+            "nascimento": "22/04/1978",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "AILTON LOPES",
+            "partido": "PSOL"
+        },
+        "60000000603": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000603/idarquivo/3139?x=140493330800060000000603",
+                    "documento": "1 - proposta_governo1404594736922.pdf"
+                }
+            ],
+            "ocupacao": "Senador",
+            "numeroProcesso": "952-17.2014.6.06.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "60000000604",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/CE/candidato/60000000604",
+                "nome": "ROBERTO SOARES PESSOA"
+            },
+            "totalBensDeclarados": "R$ 99.022.714,9",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=CE&sq_cand=10350",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=60000000154&sgUe=CE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000603/idarquivo/3140?x=140493330800060000000603",
+                    "documento": "1 - certidao1404594736922.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000603/idarquivo/3141?x=140493330800060000000603",
+                    "documento": "2 - certidao1404594736923.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000603/idarquivo/3142?x=140493330800060000000603",
+                    "documento": "3 - certidao1404594736926.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000603/idarquivo/3143?x=140493330800060000000603",
+                    "documento": "4 - certidao1404594736926.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000603/idarquivo/3144?x=140493330800060000000603",
+                    "documento": "5 - certidao1404594736927.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000603/idarquivo/3145?x=140493330800060000000603",
+                    "documento": "6 - certidao1404594736927.jpeg"
+                }
+            ],
+            "naturalidade": "LAVRAS DA MANGABEIRA",
+            "cnpj": "20579189000126",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/CE/candidato/60000000603",
+            "numeroProtocolo": "259092014",
+            "bens": [
+                {
+                    "valor": "R$ 1.262.827,00",
+                    "nome": "RUA VIANA DO CASTELO. BELO HORIZONTE-MF"
+                },
+                {
+                    "valor": "R$ 4.300.000,00",
+                    "nome": "TIPO DUPLEX , SITUADO NA SQN 303 PROJE\u00c7\u00c3O ASA NORTE. BRAS\u00cdLIA-DF"
+                },
+                {
+                    "valor": "R$ 1.470.000,00",
+                    "nome": "SITUADO NA SQSW. SUDOESTE. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "TIPO SINGLE, SITUADO NA AV. BEIRA MAR, 4260 - MUCURIPE.FORTALEZA/CE"
+                },
+                {
+                    "valor": "R$ 6.000.000,00",
+                    "nome": "RESIDENCIAL SITO NO SHIS QL 08 CONJUNTO 4"
+                },
+                {
+                    "valor": "R$ 516.313,88",
+                    "nome": "RESIDENCIAL SITO NO SHIS QL 08 CONJUNTO 04. BRAS\u00cdLIA-DF"
+                },
+                {
+                    "valor": "R$ 1.184.480,88",
+                    "nome": "LOTE SITO NO SIA TECHO 2. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 1.298.458,50",
+                    "nome": "UM LOTE, SITO NO LOTE 01, CONJ. C, QS 401. SAMAMBAIA-DF"
+                },
+                {
+                    "valor": "R$ 16.000,00",
+                    "nome": "UM LOTE COM 4.000M2, SITUADO NA RUA MARIA ZILDA GON\u00c7ALVES LEITE. LAVRAS DA MANGABEIRA/CE"
+                },
+                {
+                    "valor": "R$ 330.000,00",
+                    "nome": "GLEBA DE TERRA RURAL . LUGAR DENOMINADO CACHOEIRA, NA FAZENDA TABOQUINHA."
+                },
+                {
+                    "valor": "R$ 1.298.458,50",
+                    "nome": "SITO MO LOTE 02 CONJ. C QUADRA QS. SAMAMBAIA/DF"
+                },
+                {
+                    "valor": "R$ 1.184.480,88",
+                    "nome": "UM LOTE SITO A SIA TRECHO 02. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 260.000,00",
+                    "nome": "UMA SALA DO EMPREENDIMENTO DENOMINADO CORPORATE PLAZA BUSINNES CENTES, SITO A AV. SANTOS DUMONT.FORTALEZA/CE"
+                },
+                {
+                    "valor": "R$ 780.000,00",
+                    "nome": "TR\u00caS SALAS DO EMPREENDIMENTO DENOMINADO CORPORATE PLAZA BUSINNESS CENTER. SITO NA AV. SANTOS DUMONT. FORTALEZA/CE"
+                },
+                {
+                    "valor": "R$ 2.252.756,75",
+                    "nome": "EM ANDAMENTO NO LOTE SIA TRECHO 2. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 2.252.756,75",
+                    "nome": "EM ANDAMENTO NO LOTE SIA TRECHO 02. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 30.372,27",
+                    "nome": "COMERCIAL SITO A SAAN QUADRA 01. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 246.469,98",
+                    "nome": "COMERCIAL SITO NO SAAN QUADRA 3 BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 5.150,00",
+                    "nome": "UM IM\u00d3VEL RURAL DENOMINADO BAU. MUNIC\u00cdPIO CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 800.000,00",
+                    "nome": "RURAL DENOMONADO FAZENDA CATINGUEIRO GRANDE. NA ESTRADA CORUMB\u00c1. CORUMB\u00c1 DE GOI\u00c1S"
+                },
+                {
+                    "valor": "R$ 6.518,92",
+                    "nome": "RURAL DENOMINADO COCAL. CORUMBA/GO"
+                },
+                {
+                    "valor": "R$ 296.000,00",
+                    "nome": "RURAL DENOMINADO S\u00c3O LUIZ. CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 34.096,09",
+                    "nome": "RURAL DENOMINADO FAZENDA CATINGUEIRO GRANDE. MUNIC\u00cdPIO DE CORUMBA/GO."
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "RURAL DENOMINADO FAZENDA MATA DO CORUMBA. MUNIC\u00cdPIO DE CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 121.026,00",
+                    "nome": "RURAL DENOMINADO CONGONHAS DOS BUENOS E BUENOS. MUNIC CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 800.000,00",
+                    "nome": "RURAL DENOMINADO RETIRO-CERCADO E CONGONHA DOS ALVES. CORUMB\u00c1 DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO S\u00c3O LUIZ-PARTE-MORRO QUEBRADO, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO FAZENDA CHAPADINHA, ALEXANIA-GO"
+                },
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO FAZENDA CERCADO, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO SAO JOAO OU S\u00c3O LUIZ, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO S\u00c3O JO\u00c3O, S\u00c3O LUIS, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 33.151,45",
+                    "nome": "IMOVEL RURAL DENOMINADO CERCADO E RETIRO, CORUMBA DE GOIAS-GO"
+                },
+                {
+                    "valor": "R$ 34.513,95",
+                    "nome": "RURAL. FAZENDA SANTO ANT\u00d4NIO DO RIO DO OURO, SEPULTURA, BA\u00da, S\u00c3O LUIZ, MUNIC\u00cdPIO DE ALEXANIA/GO E CORUMB\u00c1 DE GOIAS"
+                },
+                {
+                    "valor": "R$ 386.720,53",
+                    "nome": "FAZENDA SANTA M\u00d4NICA. ALEXANIA/GO"
+                },
+                {
+                    "valor": "R$ 4.143,43",
+                    "nome": "PARTE DE UM IM\u00d3VEL RURAL NO S\u00cdTIO VARZEA GRANDE. LAVRAS DA MAGABEIRA/CE"
+                },
+                {
+                    "valor": "R$ 441.966,31",
+                    "nome": "COMERCIAL SITO NA SAAN QUADRA 3 BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 18.005,00",
+                    "nome": "RURAL DENOMINADO PASTO GRANDE. MUNICIPIO DE CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 49.617,45",
+                    "nome": "RURAL DENOMINADO FAZENDA CONGONHAS PARAISO II. CORUMBA/GO"
+                },
+                {
+                    "valor": "R$ 41.188,21",
+                    "nome": "RURAL DENOMINADO BEIJA M\u00c3O . MUNIC DE CORIMBA DE GOI\u00c1S/GO."
+                },
+                {
+                    "valor": "R$ 70.822,00",
+                    "nome": "RURAL DENOMINADO COCAL-PARTE. MUNC. DE CORUMB\u00c1 DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "RURAL DENOMINADO BAU. MUNIC\u00cdPIO CORUMB\u00c1 DE GOIAS/GO."
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO CAPUAVA, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 230.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO LAGES DO RIO D OURO, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO OLARIA, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 13.387,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO S\u00c3O LUIZ, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO MATO DA CRUZ, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 90.000,00",
+                    "nome": "FAZENDA S\u00c3O GERALDO, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 5.779,08",
+                    "nome": "IMOVEL RURAL DENOMINADO CONGONHA DOS ALVES, CORUMBA DE GOIAS-GO"
+                },
+                {
+                    "valor": "R$ 5.524,59",
+                    "nome": "PARTE DE UM IM\u00d3VEL RURAL, S\u00cdTIO LAGES. LAVRAS DA MANGABEIRA/CE"
+                },
+                {
+                    "valor": "R$ 11.049,15",
+                    "nome": "COMERCIAL SITO NA RUA DR. PAULINO AUGUSTO DUTRA DE MORAIS. LAVRAS DA MANGABEIRA/CE"
+                },
+                {
+                    "valor": "R$ 46.834,41",
+                    "nome": "RURAL DENOMINADO FAZENDA CONGONHAS DO GALV\u00c3O. CORUMBA DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 283.440,12",
+                    "nome": "RURAL DENOMINADO S\u00c3O LUIZ. MUNIC\u00cdPIO DE CORUMBA-GO"
+                },
+                {
+                    "valor": "R$ 20.800,00",
+                    "nome": "RURAL DENOMINADO CONGONHAS DOS ALVES. CORUMB\u00c1 DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 35.835,00",
+                    "nome": "RURAL DENOMINADO CONGONHA DOS BUENOS. MUNIC\u00cdPIO DE CORUMBA/GO"
+                },
+                {
+                    "valor": "R$ 95.000,00",
+                    "nome": "RURAL DENOMINADO CAPUAVA MUNIC CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 8.317,92",
+                    "nome": "RURAL DENOMINADO BEIJA M\u00c3O. MUNIC\u00cdPIO DE CORUMB\u00c1 DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 2.500,00",
+                    "nome": "RURAL DENOMINADO S\u00c3O LUIZ. MUNIC\u00cdPIO DE CORUMBA DE GOIAS/GO."
+                },
+                {
+                    "valor": "R$ 4.300,00",
+                    "nome": "RURAL DENOMINADO BA\u00da. MUNIC\u00cdPIO DE CORUMB\u00c1 DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "RURAL DENOMINADO FUNIL, COM 2. MUNIC\u00cdPIO DE CORUMB\u00c1 DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO S\u00c3O JO\u00c3O(PARTE), CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 6.400,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO S\u00c3O LUIS, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 4.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO S\u00c3O LUIZ OU S\u00c3O JO\u00c3O DO RIO DO OURO, ALEXANIA-GO"
+                },
+                {
+                    "valor": "R$ 18.518,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO BA\u00da,FUNIL, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO OLARIA E MATO DO MEIO, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 6.308,74",
+                    "nome": "IMOVEL RURAL DENOMINADO 3B-CONGONHA DOS LAGES, CORUMBA DE GOIAS-GO"
+                },
+                {
+                    "valor": "R$ 746,27",
+                    "nome": "IMOVEL RURAL DENOMINADO LAGES, CORUMBA DE GOIAS-GO"
+                },
+                {
+                    "valor": "R$ 4.100.000,00",
+                    "nome": "COMERCIAL SITO NO TRECHO 3 SIA/SUL QUADRA 02. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 2.209,84",
+                    "nome": "PARTE DE UM IMOVEL RURAL NO S\u00cdTIO VARZEA GRANDE. LAVRAS DA MANGABEIRA/CE"
+                },
+                {
+                    "valor": "R$ 240.750,00",
+                    "nome": "RURAL DENOMINADO RETIRO. MUNIC\u00cdPIO CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 20.190,00",
+                    "nome": "RURAL DENOMINADO COCAL-PARTE. MUNIC\u00cdPIO DE CORUMB\u00c1 DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 30.840,00",
+                    "nome": "RURAL DENOMINADO S\u00c3O LUIZ. MUNICIPIO CORUMBA DE GOIAS/GO."
+                },
+                {
+                    "valor": "R$ 2.571,29",
+                    "nome": "RURAL DENOMINADO CONGONHA DOS ALVES. CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 25.580,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO SEPULTURA, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 3.500,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO BA\u00da, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 2.191,00",
+                    "nome": "IMOVEL RURAL DENOMINADO CONGONHA DOS BUENOS OU BUENOS E OLARIA, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 30.037,52",
+                    "nome": "IMOVEL RURAL DENOMINADO PASTO GRANDE, CORUMBA DE GOIAS-GO"
+                },
+                {
+                    "valor": "R$ 50.268,70",
+                    "nome": "RURAL DENOMINADO FAZENDA BA\u00da, SITO NO MUNIC\u00cdPIO DE CORUMBA DE GOIAS"
+                },
+                {
+                    "valor": "R$ 287.312,59",
+                    "nome": "RURAL DENOMINADO FAZENDA CONGONHAS, SITO NO MUNIC\u00cdPIO DE CORUMBA DE GOIAS"
+                },
+                {
+                    "valor": "R$ 530.000,00",
+                    "nome": "COMERCIAL SITO NA QUADRA N\u00ba 116 BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 31.280,34",
+                    "nome": "RURAL DENOMINADO COCAL. MUNIC. CORUMBA-GO"
+                },
+                {
+                    "valor": "R$ 30.321,77",
+                    "nome": "RURAL DENOMINADO CONGONHAS DO GALV\u00c3O. MUNIC CORUMBA/GO"
+                },
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "RURAL DENOMINADO SANTO ANT\u00d4NIO, CAP\u00d5ES, BARREIRO E LAVA PES. MUNIC DE CORUMBA/GO"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "RURAL DENOMINADO S\u00c3O LUIZ. MUNIC\u00cdPIO DE CORUMB\u00c1 DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 34.288,80",
+                    "nome": "RURAL DENOMINADO FAZENDA CONGONHA DOS ALVES. CORUMB\u00c1 DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 1.500,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO BEIJA M\u00c3O, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 6.176,82",
+                    "nome": "IMOVEL RURAL DENOMINADO LAGES E CONGONHAS, CORUMBA DE GOIAS-GO"
+                },
+                {
+                    "valor": "R$ 16.575,72",
+                    "nome": "FAZENDA CONGONHA DOS ALVES, CORUMBA DE GOIAS-GO"
+                },
+                {
+                    "valor": "R$ 3.981,15",
+                    "nome": "RURAL. FAZENDA S\u00c3O LUIZ. ALEXANIA/GO"
+                },
+                {
+                    "valor": "R$ 138.114,48",
+                    "nome": "IM\u00d3VEL RURAL FAZENDA MANUELLA. CRUMB\u00c1 DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 1.389.101,75",
+                    "nome": "COMERCIAL SITO NO CONJUNTO B DA QUADRA 01 SETOR INDUSTRIAL BERNARDO SAIAO. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 21.287,00",
+                    "nome": "RURAL DENOMINADO MATA DO CORUMBA. CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 215.000,00",
+                    "nome": "RURAL DENOMINADO MATA DO RIO CORUMB\u00c1. CORUMB\u00c1 DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 2.500,00",
+                    "nome": "RURAL DENOMINADO FUNIL. MUNIC\u00cdPIO DE CORUMB\u00c1 DE GOI\u00c1S/GO."
+                },
+                {
+                    "valor": "R$ 9.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO CONGONHAS DOS ALVES, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 15.468,83",
+                    "nome": "PARTE DE UM IM\u00d3VEL RURAL, VARZEA GRANDE. LAVRAS DA MANGABEIRA/CE"
+                },
+                {
+                    "valor": "R$ 400.000,00",
+                    "nome": "COMERCIAL CONSTITUIDO DO LOTE 01 DA VIA ANM. BRAS\u00cdLIA DF"
+                },
+                {
+                    "valor": "R$ 12.664,33",
+                    "nome": "RURAL DENOMINADO SITIO ESTEVES FAZ COCAL. CORUMB\u00c1/GO"
+                },
+                {
+                    "valor": "R$ 10.177,93",
+                    "nome": "RURAL DENOMINADO CATINGUEIRO GRANDE. MUNIC CORUMBA/GO"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "RURAL DENOMINADO FUNIL. MUNIC. CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 15.030,00",
+                    "nome": "RURAL DENOMINADO S\u00c3O LUIZ. MUNC. CORUMB\u00c1 DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 31.000,00",
+                    "nome": "RURAL DENOMINADO CONGONHA DOS ALVES. CORUMB\u00c1 DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 9.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO CONGONHA DOS ALVES, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 4.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO RETIRO, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 18.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO FUNIL, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 327.000,00",
+                    "nome": "COMERCIAL SITO NO SAAN QD 03. BRAS\u00cdLIA/DF"
+                },
+                {
+                    "valor": "R$ 52.580,78",
+                    "nome": "RURAL DENOMINADO FAZ. BEIJA M\u00c3O. MUNIC. CORUMBA/GO"
+                },
+                {
+                    "valor": "R$ 6.949,36",
+                    "nome": "RURAL DENOMINADO CATINGUEIRO GRANDE. CORUMBA/GO"
+                },
+                {
+                    "valor": "R$ 296.000,00",
+                    "nome": "RURAL DENOMINADO CAPUAVA. MUNIC CORUMBA/GO."
+                },
+                {
+                    "valor": "R$ 565.406,00",
+                    "nome": "RURAL DENOMINADO S\u00c3O LUIZ. MUNIC DE CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "RURAL DENOMINADO CONGONHAS NO LOCAL DENOMINADO FAZENDA PADIA. MUNIC. CORUMBA DE GOIAS/GO"
+                },
+                {
+                    "valor": "R$ 20.941,00",
+                    "nome": "RURAL DENOMINADO COGONHA DOAS ALVES. CORUMB\u00c1 DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 180.000,00",
+                    "nome": "RURAL DENOMINADO MATA DA CORUMBA. MUNIC\u00cdPIO DE CORUMB\u00c1 DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 4.044,00",
+                    "nome": "RURAL DENOMINADO LAGES DO RIO DO OURO. MUNC. CORUMB\u00c1 DE GOI\u00c1S/GO"
+                },
+                {
+                    "valor": "R$ 13.480,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO LAGES DO RIO DO OURO, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 5.536,94",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO COCAL,CONGONHAS,LAGES DOS BICUDOS, CORUMB\u00c1 DE GOI\u00c1S-GO"
+                },
+                {
+                    "valor": "R$ 97.630,78",
+                    "nome": "FAZENDA BAU,LAGES,BUENOS E LAGES DOS BICUDOS,CORUMBA DE GOIAS-GO"
+                },
+                {
+                    "valor": "R$ 320.979,31",
+                    "nome": "MARCA LAND ROVER ANO 2011/2011, I/LR R. ROVER SPORT 3.0. FINANCIADO PELO BANCO BRADESCO FINANCIAMENTO."
+                },
+                {
+                    "valor": "R$ 17.000,00",
+                    "nome": "TIPO CAMIONETA, MARCA TOYOTA BANDEIRANTE, ANO 91/92."
+                },
+                {
+                    "valor": "R$ 123.000,00",
+                    "nome": "MARCA MERCEDES BENZ ANO 2011/2012"
+                },
+                {
+                    "valor": "R$ 707,15",
+                    "nome": "PREFIXO 248"
+                },
+                {
+                    "valor": "R$ 707,15",
+                    "nome": "PREFIXO 245."
+                },
+                {
+                    "valor": "R$ 5.094.433,00",
+                    "nome": "AQUISI\u00c7\u00c3O DE SEMOVENTES"
+                },
+                {
+                    "valor": "R$ 4.232.060,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O DE 96,00%SOBRE O CAPITAL DE R$ 4.400.000,00 NAS COTAS DE CAPITAL NA FIRMA SANTA MONICA AGROPECU\u00c1RIA E SERVI\u00c7OS LTDA."
+                },
+                {
+                    "valor": "R$ 2.608.188,25",
+                    "nome": "PARTICIPA\u00c7\u00c3O DE 46,73% NA SOCIEDADE DATERRA VE\u00cdCULOS"
+                },
+                {
+                    "valor": "R$ 19.763.000,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O DE 99,99% NA SOCIEDADE REMMO PARTICIPA\u00c7\u00d5ES S/A"
+                },
+                {
+                    "valor": "R$ 7.248.528,00",
+                    "nome": "APORTE PARA FUTURO AUMENTO DO CAPITAL SOCIAL NA SOCIEDADE SANTA MONICA AGROPECU\u00c1RIA E SERVI\u00c7OS LTDA."
+                },
+                {
+                    "valor": "R$ 2.543.546,75",
+                    "nome": "A RECEBER DA CONFEDERAL VIGIL\u00c2NCIA E TRANSPORTE DE VALORES LTDA."
+                },
+                {
+                    "valor": "R$ 13.398.026,00",
+                    "nome": "SALDO BANCO DE BRAS\u00cdLIA S/A EM 31/12/2013"
+                },
+                {
+                    "valor": "R$ 186.375,23",
+                    "nome": "SALDO BANCO DO BRASIL S/A REF DI PLUS EM 31/12/2013"
+                },
+                {
+                    "valor": "R$ 2.100.000,00",
+                    "nome": "SALDO BANCO DO BRASIL S/A AGRONEG\u00d3CIO-LCA POS CDI-APLICA\u00c7\u00c3O EM 31/12/2013"
+                },
+                {
+                    "valor": "R$ 400.000,00",
+                    "nome": "A RECEBER DE LUIS A. A. DA COSTA PINTO"
+                },
+                {
+                    "valor": "R$ 3.405,47",
+                    "nome": "BANCO DO BRASIL S/A"
+                },
+                {
+                    "valor": "R$ 2.528,17",
+                    "nome": "SALDO BCO DO BRASIL S/A"
+                },
+                {
+                    "valor": "R$ 7.237,41",
+                    "nome": "SALDO BANCO DE BRAS\u00cdLIA S/A EM 31/12/2013 CONTA MOVIMENTO"
+                },
+                {
+                    "valor": "R$ 138,72",
+                    "nome": "SALDO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 10.353,95",
+                    "nome": "SALDO BANCO DO BRASIL S/A"
+                },
+                {
+                    "valor": "R$ 72.783,72",
+                    "nome": "SALDO BANCO DO BRASIL S/A EM 31/12/2013"
+                },
+                {
+                    "valor": "R$ 49.041,94",
+                    "nome": "SALDO CAIXA ECON\u00d4MICA FEDERAL - CEF"
+                },
+                {
+                    "valor": "R$ 158.500,00",
+                    "nome": "DISPONIBILIDADE FINANCEIRA  EM 31/12/2013"
+                },
+                {
+                    "valor": "R$ 11.788,95",
+                    "nome": "SLDO BCO DO BRASIL SA X-OURO CAPI ESTILO PREMIO"
+                },
+                {
+                    "valor": "R$ 1.527.862,00",
+                    "nome": "SALDO NO BRASILPREV SEGUROS E PREVID\u00caNCIA S/A EM 31/12/2013"
+                }
+            ],
+            "limiteGastos": "R$ 67.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PSC / DEM / PSDC / PRP / PSDB / PR / PTN / PPS",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404933308000"
+            },
+            "id": "60000000603",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "CEAR\u00c1 DE TODOS",
+            "nomeCompleto": "EUN\u00cdCIO",
+            "nascimento": "30/09/1952",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "EUN\u00cdCIO",
+            "partido": "PMDB"
+        }
+    }
+}

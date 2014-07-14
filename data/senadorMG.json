@@ -1,0 +1,1112 @@
+{
+    "senadorMG": {
+        "130000001160": {
+            "suplente": {
+                "numero": "130000001161",
+                "nome": "HERCULES MARQUES DE S\u00c1",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MG/candidato/130000001161"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404992958000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MG/candidato/130000001160",
+            "nomeCompleto": "EDILSON NASCIMENTO",
+            "nascimento": "09/05/1969",
+            "naturalidade": "BELO HORIZONTE",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 140.000,00",
+                    "nome": "EM BELO HORIZONTE / MG"
+                },
+                {
+                    "valor": "R$ 36.000,00",
+                    "nome": "POLO SEDAN 2013"
+                }
+            ],
+            "partido": "PT do B",
+            "numeroProcesso": "1500-47.2014.6.13.0000",
+            "codigo": "700",
+            "raca": "Branca",
+            "numeroProtocolo": "1491472014",
+            "coligacao": "+MINAS",
+            "composicaoColigacao": "PT do B / PRP / PHS / PEN",
+            "numeroUrna": "700",
+            "ocupacao": "Outros",
+            "cnpj": "20581923000191",
+            "limiteGastos": "R$ 5.000.000,00",
+            "estadoCivil": "Separado(a) judicialmente",
+            "id": "130000001160",
+            "totalBensDeclarados": "R$ 176.000,0",
+            "nomeUrna": "EDILSON NASCIMENTO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=49174&sqCandidato=31632"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=130000001126&sgUe=MG"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "130000000295": {
+            "suplente": {
+                "numero": "130000000297",
+                "nome": "ANDREA CARLA FERREIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MG/candidato/130000000297"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404992587000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MG/candidato/130000000295",
+            "nomeCompleto": "GERALDO BATATA",
+            "nascimento": "13/12/1972",
+            "naturalidade": "CURVELO",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 130.000,00",
+                    "nome": "APARTAMENTO RESIDENCIAL FINANCIADO PELA CEF"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "UM CARRO FINANCIADO PELA BVFINANCEIRA N\u00c3O QUITADO"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404584367852.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000295/idarquivo/2242?x=1404992587000130000000295"
+                },
+                {
+                    "documento": "2 - certidao1404584367852.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000295/idarquivo/2243?x=1404992587000130000000295"
+                },
+                {
+                    "documento": "3 - certidao1404584367853.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000295/idarquivo/2244?x=1404992587000130000000295"
+                },
+                {
+                    "documento": "4 - certidao1404584367854.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000295/idarquivo/2245?x=1404992587000130000000295"
+                },
+                {
+                    "documento": "5 - certidao1404584367855.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000295/idarquivo/2246?x=1404992587000130000000295"
+                }
+            ],
+            "partido": "PSTU",
+            "numeroProcesso": "651-75.2014.6.13.0000",
+            "codigo": "161",
+            "raca": "Branca",
+            "numeroProtocolo": "1483552014",
+            "coligacao": "FRENTE DE ESQUERDA SOCIALISTA",
+            "composicaoColigacao": "PSTU / PSOL",
+            "numeroUrna": "161",
+            "ocupacao": "Trabalhador Metal\u00fargico e Sider\u00fargico",
+            "cnpj": "20568685000184",
+            "limiteGastos": "R$ 200.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "130000000295",
+            "totalBensDeclarados": "R$ 150.000,0",
+            "nomeUrna": "GERALDO BATATA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=43710&sqCandidato=42612"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=130000001118&sgUe=MG"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        },
+        "130000001246": {
+            "suplente": {
+                "numero": "130000001184",
+                "nome": "IGOR GEOVANE VERSIANI LADEIA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/MG/candidato/130000001184"
+            },
+            "enderecoWeb": "margaridavieira@uol.com.br",
+            "meta": {
+                "lastUpdate": "1404992988000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MG/candidato/130000001246",
+            "nomeCompleto": "MARGARIDA VIEIRA",
+            "nascimento": "31/12/1948",
+            "naturalidade": "BELO HORIZONTE",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 800.000,00",
+                    "nome": "CASA RESIDENCIAL (DOMICILIO)"
+                },
+                {
+                    "valor": "R$ 32.000,00",
+                    "nome": "PEUGEOT 207 2011"
+                },
+                {
+                    "valor": "R$ 38.000,00",
+                    "nome": "VEICULO VOLKSWAGEN FOX 2014"
+                },
+                {
+                    "valor": "R$ 2.549,00",
+                    "nome": "CDB DI"
+                },
+                {
+                    "valor": "R$ 23.700,00",
+                    "nome": "POUPANCA OURO BRANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "CONTA CORRENTE BANCO DO BRASIL COM INVESTIMENTO AUTOMATICO DE REGASTE"
+                },
+                {
+                    "valor": "R$ 3.200,00",
+                    "nome": "OUROCAP"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404596715681.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001246/idarquivo/6020?x=1404992988000130000001246"
+                },
+                {
+                    "documento": "2 - certidao1404596715682.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001246/idarquivo/6021?x=1404992988000130000001246"
+                },
+                {
+                    "documento": "3 - certidao1404596715683.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001246/idarquivo/6022?x=1404992988000130000001246"
+                },
+                {
+                    "documento": "4 - certidao1404596715683.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001246/idarquivo/6023?x=1404992988000130000001246"
+                }
+            ],
+            "partido": "PSB",
+            "numeroProcesso": "1196-48.2014.6.13.0000",
+            "codigo": "400",
+            "raca": "Branca",
+            "numeroProtocolo": "1492612014",
+            "coligacao": "MINAS QUER MUDAN\u00c7A",
+            "composicaoColigacao": "PSB / PPL / PRTB",
+            "numeroUrna": "400",
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "cnpj": "20575240000121",
+            "limiteGastos": "R$ 0,00",
+            "estadoCivil": "Casado(a)",
+            "id": "130000001246",
+            "totalBensDeclarados": "R$ 911.449,0",
+            "nomeUrna": "MARGARIDA VIEIRA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MG&sq_cand=10514"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "130000001760": {
+            "suplente": {
+                "numero": "130000001769",
+                "nome": "JOSE FRANCISCO NERES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MG/candidato/130000001769"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405181881000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MG/candidato/130000001760",
+            "nomeCompleto": "PABLO LIMA",
+            "nascimento": "16/01/1978",
+            "naturalidade": "CAMPOS ALTOS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 21.000,00",
+                    "nome": "VW VOYAGE 1.0 2009"
+                },
+                {
+                    "valor": "R$ 500,00",
+                    "nome": "PETROBR\u00c1S"
+                },
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 100,00",
+                    "nome": "BANCO CAIXA ECONOMICA FEDERAL"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404670674617.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001760/idarquivo/7001?x=1405181881000130000001760"
+                },
+                {
+                    "documento": "2 - certidao1404670674618.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001760/idarquivo/7002?x=1405181881000130000001760"
+                },
+                {
+                    "documento": "3 - certidao1404670674618.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001760/idarquivo/7003?x=1405181881000130000001760"
+                },
+                {
+                    "documento": "4 - certidao1404670674619.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001760/idarquivo/7004?x=1405181881000130000001760"
+                }
+            ],
+            "partido": "PCB",
+            "numeroProcesso": "2052-12.2014.6.13.0000",
+            "codigo": "210",
+            "raca": "Branca",
+            "numeroProtocolo": "1498512014",
+            "coligacao": "PCB",
+            "composicaoColigacao": "",
+            "numeroUrna": "210",
+            "ocupacao": "Professor de Ensino Superior",
+            "cnpj": "20589746000190",
+            "limiteGastos": "R$ 500.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "130000001760",
+            "totalBensDeclarados": "R$ 101.600,0",
+            "nomeUrna": "PABLO LIMA",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "130000001777": {
+            "suplente": {
+                "numero": "130000001778",
+                "nome": "ALEXANDRE SILVEIRA DE OLIVEIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MG/candidato/130000001778"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404830326000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MG/candidato/130000001777",
+            "nomeCompleto": "ANT\u00d4NIO ANASTASIA",
+            "nascimento": "09/05/1961",
+            "naturalidade": "BELO HORIZONTE",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "APTO. NA RUA SANTA CATARINA, 1313/701 - BAIRRO LOURDES - BH-MG"
+                },
+                {
+                    "valor": "R$ 362.000,00",
+                    "nome": "SALDO EM APLICA\u00c7\u00c3O FINANCEIRA"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404684638914.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7091?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "2 - certidao1404684638916.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7092?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "3 - certidao1404684638917.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7093?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "4 - certidao1404684638918.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7094?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "5 - certidao1404684638920.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7095?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "6 - certidao1404684638921.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7096?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "7 - certidao1404684638922.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7097?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "8 - certidao1404684638923.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7098?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "9 - certidao1404684638924.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7099?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "10 - certidao1404684638925.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7100?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "11 - certidao1404684638926.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7101?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "12 - certidao1404684638927.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7102?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "13 - certidao1404684638929.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7103?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "14 - certidao1404684638930.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7104?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "15 - certidao1404684638931.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7105?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "16 - certidao1404684638932.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7106?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "17 - certidao1404684638933.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7107?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "18 - certidao1404684638935.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7108?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "19 - certidao1404684638936.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7109?x=1404830326000130000001777"
+                },
+                {
+                    "documento": "20 - certidao1404684638937.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000001777/idarquivo/7110?x=1404830326000130000001777"
+                }
+            ],
+            "partido": "PSDB",
+            "numeroProcesso": "481-06.2014.6.13.0000",
+            "codigo": "456",
+            "raca": "Branca",
+            "numeroProtocolo": "148277/2014",
+            "coligacao": "TODOS POR MINAS",
+            "composicaoColigacao": "PSDB / PP / DEM / PSD / PTB / PPS / PV / PDT / PR / PMN / PSC / PSL / PTC / PTN / SD",
+            "numeroUrna": "456",
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "cnpj": "20572049000126",
+            "limiteGastos": "R$ 20.000.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "130000001777",
+            "totalBensDeclarados": "R$ 562.000,0",
+            "nomeUrna": "ANT\u00d4NIO ANASTASIA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MG&sq_cand=10105"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=130000000950&sgUe=MG"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "130000000532": {
+            "suplente": {
+                "numero": "130000000533",
+                "nome": "GERALDO DE VASCONCELOS",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MG/candidato/130000000533"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404767481000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MG/candidato/130000000532",
+            "nomeCompleto": "TARCISIO",
+            "naturalidade": "PISCAMBA",
+            "genero": "MASCULINO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404589303014.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000532/idarquivo/3633?x=1404767481000130000000532"
+                },
+                {
+                    "documento": "2 - certidao1404589303014.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000532/idarquivo/3634?x=1404767481000130000000532"
+                },
+                {
+                    "documento": "3 - certidao1404589303015.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000532/idarquivo/3635?x=1404767481000130000000532"
+                },
+                {
+                    "documento": "4 - certidao1404589303015.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000532/idarquivo/3636?x=1404767481000130000000532"
+                }
+            ],
+            "partido": "PSDC",
+            "numeroProcesso": "715-85.2014.6.13.0000",
+            "codigo": "270",
+            "raca": "Preta",
+            "numeroProtocolo": "1486152014",
+            "coligacao": "PSDC",
+            "composicaoColigacao": "",
+            "numeroUrna": "270",
+            "ocupacao": "Outros",
+            "cnpj": "20572765000103",
+            "limiteGastos": "R$ 800.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "130000000532",
+            "nascimento": "12/03/1963",
+            "nomeUrna": "TARCISIO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "130000000421": {
+            "suplente": {
+                "numero": "130000000422",
+                "nome": "ALCIDES CARVALHO DA CRUZ",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MG/candidato/130000000422"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404767481000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MG/candidato/130000000421",
+            "nomeCompleto": "GRA\u00c7A",
+            "naturalidade": "ALCOBA\u00c7A",
+            "genero": "FEMININO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404587135505.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2930?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "2 - certidao1404587135506.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2931?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "3 - certidao1404587135507.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2932?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "4 - certidao1404587135507.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2933?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "5 - certidao1404587135508.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2934?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "6 - certidao1404587135508.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2935?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "7 - certidao1404587135509.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2936?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "8 - certidao1404587135509.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2937?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "9 - certidao1404587135510.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2938?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "10 - certidao1404587135511.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2939?x=1404767481000130000000421"
+                },
+                {
+                    "documento": "11 - certidao1404587135511.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000421/idarquivo/2940?x=1404767481000130000000421"
+                }
+            ],
+            "partido": "PCO",
+            "numeroProcesso": "707-11.2014.6.13.0000",
+            "codigo": "290",
+            "raca": "Preta",
+            "numeroProtocolo": "1485032014",
+            "coligacao": "PCO",
+            "composicaoColigacao": "",
+            "numeroUrna": "290",
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "cnpj": "20567963000189",
+            "limiteGastos": "R$ 25.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "130000000421",
+            "nascimento": "09/05/1954",
+            "nomeUrna": "GRA\u00c7A",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "130000000910": {
+            "suplente": {
+                "numero": "130000000911",
+                "nome": "MARIA INES DE PAIVA DANTAS RODRIGUES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MG/candidato/130000000911"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404920481000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MG/candidato/130000000910",
+            "nomeCompleto": "JOSU\u00c9 ALENCAR",
+            "nascimento": "25/12/1963",
+            "naturalidade": "UB\u00c1",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 38.892,27",
+                    "nome": "12,5% APARTAMENTO EM BELO HORIZONTE"
+                },
+                {
+                    "valor": "R$ 74.774,84",
+                    "nome": "16,66% APARTAMENTO RIO DE JANEIRO/RJ"
+                },
+                {
+                    "valor": "R$ 61.911,57",
+                    "nome": "12,5% CASA EM BELO HORIZONTE/MG"
+                },
+                {
+                    "valor": "R$ 69.020,98",
+                    "nome": "16,66% DE 1/3 DE UMA GLEBA DE TERRAS URBANAS ANTES RURAL NOVA LIMA/MG"
+                },
+                {
+                    "valor": "R$ 4.435,72",
+                    "nome": "16,66% DE UMA SALA EM MURIA\u00c9/MG"
+                },
+                {
+                    "valor": "R$ 1.169,86",
+                    "nome": "16,66% DE UMA SALA (SOBRELOJA) EM MURIA\u00c9/MG"
+                },
+                {
+                    "valor": "R$ 15.208,58",
+                    "nome": "16,66% DE LOJA EM MURIA\u00c9/MG"
+                },
+                {
+                    "valor": "R$ 3.802,14",
+                    "nome": "16,66% GARAGEM EM MURIA\u00c9/MG"
+                },
+                {
+                    "valor": "R$ 757.455,00",
+                    "nome": "OBJETOS DE ARTE"
+                },
+                {
+                    "valor": "R$ 66.000,00",
+                    "nome": "BRINCO"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "BRACELETE"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "QUADRO"
+                },
+                {
+                    "valor": "R$ 6.300,00",
+                    "nome": "UM PA COL.BABYLOVE"
+                },
+                {
+                    "valor": "R$ 9.000,00",
+                    "nome": "UMA MESA A.C.B. ANTIGUIDADES"
+                },
+                {
+                    "valor": "R$ 96.200,00",
+                    "nome": "REL\u00d3GIO"
+                },
+                {
+                    "valor": "R$ 55.000,00",
+                    "nome": "COLAR"
+                },
+                {
+                    "valor": "R$ 400,00",
+                    "nome": "LINHA TELEF\u00d4NICA CELULAR"
+                },
+                {
+                    "valor": "R$ 3.931,56",
+                    "nome": "UMA LINHA TELEF\u00d4NICA"
+                },
+                {
+                    "valor": "R$ 1.600,00",
+                    "nome": "UMA LINHA  TELEF\u00d4NICA"
+                },
+                {
+                    "valor": "R$ 2.356,00",
+                    "nome": "UMA BANDEIJA REDONDA E UMA RETANGULAR"
+                },
+                {
+                    "valor": "R$ 352,90",
+                    "nome": "CAMERA DIGITAL WEBCAN"
+                },
+                {
+                    "valor": "R$ 5.500,00",
+                    "nome": "UM MICROTRATOR"
+                },
+                {
+                    "valor": "R$ 569,00",
+                    "nome": "UM APARELHO   CELULAR"
+                },
+                {
+                    "valor": "R$ 1.400,00",
+                    "nome": "ESTEIRA"
+                },
+                {
+                    "valor": "R$ 5.200,00",
+                    "nome": "1 ELIPTICO"
+                },
+                {
+                    "valor": "R$ 3.996,28",
+                    "nome": "2 TVS LED"
+                },
+                {
+                    "valor": "R$ 4.550,00",
+                    "nome": "ELIPTICO"
+                },
+                {
+                    "valor": "R$ 1.199,00",
+                    "nome": "APARELHO       CELULAR"
+                },
+                {
+                    "valor": "R$ 2.099,00",
+                    "nome": "MICRO COMPUTADOR E SEUS COMPONENTES"
+                },
+                {
+                    "valor": "R$ 3.230,00",
+                    "nome": "UMA BANDEIJA COM AL\u00c7A BEALHARNAIS"
+                },
+                {
+                    "valor": "R$ 6.900,00",
+                    "nome": "ESTEIRA PACE MASTER PRO SELECT"
+                },
+                {
+                    "valor": "R$ 199,00",
+                    "nome": "APARELHO     CELULAR"
+                },
+                {
+                    "valor": "R$ 1.514,00",
+                    "nome": "UM  APARELHO CELULAR"
+                },
+                {
+                    "valor": "R$ 709,00",
+                    "nome": "UM APARELHO CELULAR"
+                },
+                {
+                    "valor": "R$ 315,00",
+                    "nome": "MONITOR"
+                },
+                {
+                    "valor": "R$ 649,99",
+                    "nome": "APARELHO CELULAR"
+                },
+                {
+                    "valor": "R$ 2.099,00",
+                    "nome": "1 TV  LED"
+                },
+                {
+                    "valor": "R$ 373,68",
+                    "nome": "16,66% DE UMA DESPENSA EM MURIA\u00c9/MG"
+                },
+                {
+                    "valor": "R$ 10.200,00",
+                    "nome": "UMA POLTRONA JANSEN"
+                },
+                {
+                    "valor": "R$ 7.900,00",
+                    "nome": "ESTEIRA PACE MASTER"
+                },
+                {
+                    "valor": "R$ 5.500,00",
+                    "nome": "MICROTRATOR"
+                },
+                {
+                    "valor": "R$ 4.999,99",
+                    "nome": "1 TV LED"
+                },
+                {
+                    "valor": "R$ 799,00",
+                    "nome": "APARELHO   CELULAR"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1 A\u00c7\u00c3O DA FIA\u00c7\u00c3O CANADA S/A"
+                },
+                {
+                    "valor": "R$ 0,01",
+                    "nome": "1 A\u00c7\u00c3O PN DA TELE NORTE LESTE PARTICIPA\u00c7\u00d5ES S/A"
+                },
+                {
+                    "valor": "R$ 27,34",
+                    "nome": "1 A\u00c7\u00c3O DA BERGAMO INDUSTRIAL S/A"
+                },
+                {
+                    "valor": "R$ 12.577,57",
+                    "nome": "614 A\u00c7\u00d5ES ON S/RV.NOMINAL DA CIA DE TECIDOS NORTE DE MINAS-COTEMINAS"
+                },
+                {
+                    "valor": "R$ 93.528,00",
+                    "nome": "3600 A\u00c7\u00d5ES PN DA PETROBRAS"
+                },
+                {
+                    "valor": "R$ 44.762,60",
+                    "nome": "1702 A\u00c7\u00d5ES PN DA PETROBRAS"
+                },
+                {
+                    "valor": "R$ 64.350,98",
+                    "nome": "5.000 A\u00c7\u00d5ES DA EMPRESA SEDA INC."
+                },
+                {
+                    "valor": "R$ 71.396,48",
+                    "nome": "8.389 A\u00c7\u00d5ES DA PN DA CIA DE TECIDOS NORTE DE MINAS - COTEMINAS"
+                },
+                {
+                    "valor": "R$ 1.820,00",
+                    "nome": "91 A\u00c7\u00d5ES DA BMF"
+                },
+                {
+                    "valor": "R$ 4.914.892,50",
+                    "nome": "3.513.253 A\u00c7\u00d5ES ON S/VR, NOMINAL EMPRESA BRIX ENERGIA E FUTURO"
+                },
+                {
+                    "valor": "R$ 8.214,30",
+                    "nome": "20.000 A\u00c7\u00d5ES ON S/VR.NOMINAL DA JOS\u00c9 ALENCAR GOMES DA SILVA, COMERCIO,PARTICIPA\u00c7\u00d5ES E EMPREENDIMENTOS"
+                },
+                {
+                    "valor": "R$ 62.165,67",
+                    "nome": "1.100 A\u00c7\u00d5ES ON PETROBRAS"
+                },
+                {
+                    "valor": "R$ 1.278,77",
+                    "nome": "100 A\u00c7\u00d5ES ON EMBRAER"
+                },
+                {
+                    "valor": "R$ 300,00",
+                    "nome": "300 A\u00c7\u00d5ES ON S/VR NOMINAL DA BRIX ENERGIA E FUTUROS S/A"
+                },
+                {
+                    "valor": "R$ 0,01",
+                    "nome": "1095 A\u00c7\u00d5ES PE DA EMBRATEL PARTICIPA\u00c7\u00d5ES S/A"
+                },
+                {
+                    "valor": "R$ 0,01",
+                    "nome": "1095 A\u00c7\u00d5ES OE DA EMBRATEL PARTICIPA\u00c7\u00d5ES S/A"
+                },
+                {
+                    "valor": "R$ 1.113,45",
+                    "nome": "23,370 A\u00c7\u00d5ES PNN DO BANCO NACIONAL/UNIBANCO S/A"
+                },
+                {
+                    "valor": "R$ 81.598.992,00",
+                    "nome": "38.990.512 A\u00c7\u00d5ES ON VR.NOMINAL DA SEDA S/A, SUBSC.E INTEGRALIZADAS"
+                },
+                {
+                    "valor": "R$ 2,00",
+                    "nome": "2 A\u00c7\u00d5ES DA COTEMINAS S/A"
+                },
+                {
+                    "valor": "R$ 9,24",
+                    "nome": "1.816 A\u00c7\u00d5ES DA TELEF\u00d4NICA CARATINGA"
+                },
+                {
+                    "valor": "R$ 224,98",
+                    "nome": "350 A\u00c7\u00d5ES DA MERCANTIL DO BRASIL FINANCEIRA"
+                },
+                {
+                    "valor": "R$ 120,56",
+                    "nome": "1 A\u00c7\u00c3O PN DO BANCO DE CR\u00c9DITO REAL DE MINAS GERAIS S/A"
+                },
+                {
+                    "valor": "R$ 2,00",
+                    "nome": "02 A\u00c7\u00d5ES ON DA CIA DE TECIDOS SANTANENSE"
+                },
+                {
+                    "valor": "R$ 24,19",
+                    "nome": "2 A\u00c7\u00d5ES PE DA MENDES JUNIOR (AGRUPAMENTO 1000/1)"
+                },
+                {
+                    "valor": "R$ 52,00",
+                    "nome": "2 A\u00c7\u00d5ES ON DA CIA FIA\u00c7\u00c3O E TECIDOS CEDRO E CACHOEIRA"
+                },
+                {
+                    "valor": "R$ 7,37",
+                    "nome": "3 A\u00c7\u00d5ES ON DA CIA FIA\u00c7\u00c3O E TECIDOS CEDRO E CACHOEIRA"
+                },
+                {
+                    "valor": "R$ 2.763,13",
+                    "nome": "3323 A\u00c7\u00d5ES PN S/VR NOMINAL DA EMPRESA NACIONAL DE COMERCIO"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1 A\u00c7\u00c3O ON SVR.NOMINAL DA CANTAGALO GENERAL GRAINS S.A."
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1 A\u00c7\u00c3O ON S/VR.NOMINAL DE SEDA S/A INTEGRALIZADA EM DINHEIRO"
+                },
+                {
+                    "valor": "R$ 333.845,75",
+                    "nome": "43208 A\u00c7\u00d5ES ON S/VR. NOMINAL DA WEMBLEY S/A."
+                },
+                {
+                    "valor": "R$ 29,50",
+                    "nome": "11 A\u00c7\u00d5ES ON DA SPRINGS GLOBAL PARTICIPA\u00c7\u00d5ES S/A"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1.094.385 A\u00c7\u00d5ES ON S/VR NOMINAL"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1 A\u00c7\u00c3O S.VR NOMINAL DA CORREDOR LOG\u00cdSTICA E INFRAESTRUTURA S.A."
+                },
+                {
+                    "valor": "R$ 0,01",
+                    "nome": "1 A\u00c7\u00c3O ON DA TELE NORTE LESTE PARTICIPA\u00c7\u00d5ES S/A"
+                },
+                {
+                    "valor": "R$ 1.947,55",
+                    "nome": "2330 A\u00c7\u00d5ES ON S/VR.NOMINAL DA EMPRESA NACIONAL DE COM. REDITO E PARTIC. S/A - ENCOPORAR"
+                },
+                {
+                    "valor": "R$ 5.473,99",
+                    "nome": "13333 A\u00c7\u00d5ES ON S/VR NOMINAL DA JOS\u00c9 ALENCAR GOMES DA SILVA"
+                },
+                {
+                    "valor": "R$ 665,01",
+                    "nome": "74 A\u00c7\u00d5ES ON S/VR.NOMINAL DA CIA DE TECIDOS NORTE DE MINAS-COTEMINAS"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1 A\u00c7\u00c3O S/VR.NOMINAL DA CGG TRADING S.A."
+                },
+                {
+                    "valor": "R$ 559,51",
+                    "nome": "1363 A\u00c7\u00d5ES PN S/VR.NOMINAL DA JOS\u00c9 DE ALENCAR GOMES DA SILVA"
+                },
+                {
+                    "valor": "R$ 821.005,94",
+                    "nome": "86032 A\u00c7\u00d5ES ON S/VR.NOMINAL DA WEMBLEY S/A"
+                },
+                {
+                    "valor": "R$ 112,69",
+                    "nome": "136.000 A\u00c7\u00d5ES PNB"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1 A\u00c7\u00c3O ADQUIRIDA DA ENCORPAR S/A"
+                },
+                {
+                    "valor": "R$ 5.367,07",
+                    "nome": "200 A\u00c7\u00d5ES ON DA CYREKA REALT."
+                },
+                {
+                    "valor": "R$ 625.151,38",
+                    "nome": "73486 A\u00c7\u00d5ES PN S/VR.NOMINAL DA CIA TECIDOS NORTE DE MINAS-COTEMINAS"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1 QUOTA DE CAPITAL DA FAZENDA DO CANTAGALO"
+                },
+                {
+                    "valor": "R$ 690.000,00",
+                    "nome": "690.000 QUOTAS DE VALOR NOMINAL R$ 1,OO DO CAPITAL SOCIAL DA EMPRESA AAURA DESENVOLVIMENTO DE SOFTWARE LTDA."
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "1 QUOTA DA AMERICAN SPRSWEAR LTDA."
+                },
+                {
+                    "valor": "R$ 4.104,32",
+                    "nome": "APLICA\u00c7\u00c3O SUPER PREMIUM RENDA FIXA"
+                },
+                {
+                    "valor": "R$ 24.601,92",
+                    "nome": "10% DA COMPRA DE 2 T\u00cdTULOS PATRIMONIAIS DA SOCIEDADE H. DE T."
+                },
+                {
+                    "valor": "R$ 59.815,33",
+                    "nome": "SALDO"
+                },
+                {
+                    "valor": "R$ 57.627,91",
+                    "nome": "SERVICOS FINANCEIROS DTVM S/A"
+                },
+                {
+                    "valor": "R$ 0,37",
+                    "nome": "SALDO"
+                },
+                {
+                    "valor": "R$ 55.459,00",
+                    "nome": "FGTS"
+                },
+                {
+                    "valor": "R$ 1.327,28",
+                    "nome": "SALDO C.C"
+                },
+                {
+                    "valor": "R$ 1.738,60",
+                    "nome": "SALDO"
+                },
+                {
+                    "valor": "R$ 93.762,50",
+                    "nome": "SALDO C.C."
+                },
+                {
+                    "valor": "R$ 3.390,08",
+                    "nome": "SALDO   EM C.C."
+                },
+                {
+                    "valor": "R$ 11.912,97",
+                    "nome": "SALDO"
+                },
+                {
+                    "valor": "R$ 26.375,13",
+                    "nome": "SALDO"
+                },
+                {
+                    "valor": "R$ 16.061,16",
+                    "nome": "SALDO EM    C.C."
+                },
+                {
+                    "valor": "R$ 520.197,31",
+                    "nome": "SALDO (DEPENDENTE)"
+                },
+                {
+                    "valor": "R$ 0,29",
+                    "nome": "SALDO      C.C."
+                },
+                {
+                    "valor": "R$ 150,00",
+                    "nome": "SALDO EM  C.C."
+                },
+                {
+                    "valor": "R$ 6.090,01",
+                    "nome": "SALDO EM C.C."
+                },
+                {
+                    "valor": "R$ 19,67",
+                    "nome": "SALDO C.C."
+                },
+                {
+                    "valor": "R$ 71.763,52",
+                    "nome": "SALDO C.C."
+                },
+                {
+                    "valor": "R$ 8.081,03",
+                    "nome": "SALDO     C.C."
+                },
+                {
+                    "valor": "R$ 189.438,45",
+                    "nome": "EMPRESTIMO CONCEDIDO A AAURA DESENVOLVIMENTO DE SOFTWARE LTDA.."
+                },
+                {
+                    "valor": "R$ 85.466,67",
+                    "nome": "EMPRESTIMO CONCEDIDO A AAURA DESENVOLVIMENTO DE SOFTWARE LTDA."
+                },
+                {
+                    "valor": "R$ 77.124,01",
+                    "nome": "EMPR\u00c9STIMO CONCEDIDO A B.G.S."
+                },
+                {
+                    "valor": "R$ 92.866,48",
+                    "nome": "EMPR\u00c9STIMO (M\u00daTUO) CONCEDIDO A SEDA S/A"
+                },
+                {
+                    "valor": "R$ 3.706.968,00",
+                    "nome": "EMPRESTIMO CONCEDIDO A SEDA INC. CONF."
+                },
+                {
+                    "valor": "R$ 65.000,00",
+                    "nome": "S.F.G.CLUB"
+                },
+                {
+                    "valor": "R$ 34.000,00",
+                    "nome": "PATRIMONIAL C. H."
+                },
+                {
+                    "valor": "R$ 34.000,00",
+                    "nome": "H. DE T."
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404595231231.JPG",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5000?x=1404920481000130000000910"
+                },
+                {
+                    "documento": "2 - certidao1404595231232.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5001?x=1404920481000130000000910"
+                },
+                {
+                    "documento": "3 - certidao1404595231232.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5002?x=1404920481000130000000910"
+                },
+                {
+                    "documento": "4 - certidao1404595231233.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5003?x=1404920481000130000000910"
+                },
+                {
+                    "documento": "5 - certidao1404595231234.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5004?x=1404920481000130000000910"
+                },
+                {
+                    "documento": "6 - certidao1404595231234.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5005?x=1404920481000130000000910"
+                },
+                {
+                    "documento": "7 - certidao1404595231235.JPG",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5006?x=1404920481000130000000910"
+                },
+                {
+                    "documento": "8 - certidao1404595231236.JPG",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5007?x=1404920481000130000000910"
+                },
+                {
+                    "documento": "9 - certidao1404595231236.JPG",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MG/candidato/130000000910/idarquivo/5008?x=1404920481000130000000910"
+                }
+            ],
+            "partido": "PMDB",
+            "numeroProcesso": "1273-57.2014.6.13.0000",
+            "codigo": "150",
+            "raca": "Branca",
+            "numeroProtocolo": "1489182014",
+            "coligacao": "MINAS PRA VOC\u00ca",
+            "composicaoColigacao": "PT / PMDB / PC do B / PROS / PRB",
+            "numeroUrna": "150",
+            "ocupacao": "Empres\u00e1rio",
+            "cnpj": "20576635000149",
+            "limiteGastos": "R$ 6.200.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "130000000910",
+            "totalBensDeclarados": "R$ 96.067.847,92999999",
+            "nomeUrna": "JOSU\u00c9 ALENCAR",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

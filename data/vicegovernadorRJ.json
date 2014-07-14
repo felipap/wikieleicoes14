@@ -1,0 +1,560 @@
+{
+    "vicegovernadorRJ": {
+        "190000001650": {
+            "ocupacao": "Senador",
+            "numeroProcesso": "1189-88.2014.6.19.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 11.345.837,420000002",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RJ&sq_cand=10151",
+                    "ano": "2006"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001650/idarquivo/6374?x=1404992313000190000001650",
+                    "documento": "1 - certidao1404597984059.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001650/idarquivo/6375?x=1404992313000190000001650",
+                    "documento": "2 - certidao1404597984059.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001650/idarquivo/6376?x=1404992313000190000001650",
+                    "documento": "3 - certidao1404597984060.pdf"
+                }
+            ],
+            "naturalidade": "S\u00c3O JO\u00c3O DEL REY",
+            "cnpj": "20580147000105",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000001650",
+            "numeroProtocolo": "768562014",
+            "bens": [
+                {
+                    "valor": "R$ 58.425,09",
+                    "nome": "R BENJAMI BATISTA, N 403, RIO DE JANEIRO"
+                },
+                {
+                    "valor": "R$ 26.666,66",
+                    "nome": "1/3 R PAULO BARBOSA, N300, AP 803, PETROP\u00d3LIS /RJ - DOA\u00c7\u00c3O DE MARIA DE LOURDES NUNES DE ANDRADE"
+                },
+                {
+                    "valor": "R$ 26.666,66",
+                    "nome": "1/3 R. PAULO BARBOSA, 300, AP 802, PETROPOLIS/RJ - DOADORA MARIA DE LOURDES NUNES DE ANDRADE"
+                },
+                {
+                    "valor": "R$ 171.359,31",
+                    "nome": "R ITAIPAVA, 18 , 301, RIO DE JANEIRO"
+                },
+                {
+                    "valor": "R$ 52.338,33",
+                    "nome": "1/3 R ENG RICHARD, N 12, RIO DE JANEIRO - USUFRUTO A CEC\u00cdLIA DORNELLES - DOADORA MARIA DE LOURDES DE ANDRADE"
+                },
+                {
+                    "valor": "R$ 27.576,43",
+                    "nome": "COLONIA DO MARCAL, S\u00c3O JO\u00c3O DEL REY"
+                },
+                {
+                    "valor": "R$ 4.166,33",
+                    "nome": "TERRENO, S\u00c3O JO\u00c3O DEL REY"
+                },
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "TERRENO COLONIA MARCAL, S\u00c3O JO\u00c3O DEL REY"
+                },
+                {
+                    "valor": "R$ 2.333,33",
+                    "nome": "1/3 VAGA ESTACIONAMENTO R PAULO BARBOSA, N 300, DOAOD POR MARIA DE LOURDES NUNES DE ANDRADE"
+                },
+                {
+                    "valor": "R$ 58.990,00",
+                    "nome": "SPIN GM 2013"
+                },
+                {
+                    "valor": "R$ 41.500,00",
+                    "nome": "GOLF 1.6 2003"
+                },
+                {
+                    "valor": "R$ 59.600,00",
+                    "nome": "VECTRA SENDAN ELEGANCE 2010/2011"
+                },
+                {
+                    "valor": "R$ 38.123,85",
+                    "nome": "VECTRA, SEDAN 2001"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "VOLKSWAGEN SANTANA 2001"
+                },
+                {
+                    "valor": "R$ 4.163,84",
+                    "nome": "OBRAS DE ARTE ANTES DE 1993"
+                },
+                {
+                    "valor": "R$ 16.343,44",
+                    "nome": "8 LINHAS ANTERIORES A 1992"
+                },
+                {
+                    "valor": "R$ 61,17",
+                    "nome": "PN DA CIQUINE CIA PETROQUIMICA 206 A\u00c7\u00d5ES"
+                },
+                {
+                    "valor": "R$ 1.965,38",
+                    "nome": "340 MIL A\u00c7\u00d5ES BRADESCO TRANSFORMADA EM 738 A\u00c7OES PN"
+                },
+                {
+                    "valor": "R$ 9.990,00",
+                    "nome": "9990 QUOTAS DA SOCIEDADE BFD CONSULTORES E PLANEJAMENTO EMPRESARIAL LTDA"
+                },
+                {
+                    "valor": "R$ 3.047.804,00",
+                    "nome": "ITAU PERSONALITE DI FCI FI COM CECILIA DORNELLES"
+                },
+                {
+                    "valor": "R$ 4.190.243,75",
+                    "nome": "BRADESCO PRIME DIPLUS COM CECILIA DORNELLES"
+                },
+                {
+                    "valor": "R$ 2.454.699,25",
+                    "nome": "ITAU PERSONALITE DI FIC FI"
+                },
+                {
+                    "valor": "R$ 721.359,50",
+                    "nome": "SAFRA SOBERANO DI"
+                },
+                {
+                    "valor": "R$ 240.000,00",
+                    "nome": "A RUI CAETANO DO ESPIRITO SANTO JUNIOR"
+                },
+                {
+                    "valor": "R$ 845,16",
+                    "nome": "BANCO ITAU SA CONTA CONJUNTA COM CECILIA DORNELLES"
+                },
+                {
+                    "valor": "R$ 28.220,21",
+                    "nome": "BRADESCO S/A CONTA CONJUNTA CECICILIA DORNELLES"
+                },
+                {
+                    "valor": "R$ 1.085,07",
+                    "nome": "SAFRA"
+                },
+                {
+                    "valor": "R$ 27.758,89",
+                    "nome": "COUNTRY CLUB RJ"
+                },
+                {
+                    "valor": "R$ 5.551,77",
+                    "nome": "JOCKEY CLUB"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PP / PSC / PTB / PSL / PPS / PTN / DEM / PSDC / PRTB / PHS / PMN / PTC / PRP / PSDB / PEN / PSD / SD",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404992313000"
+            },
+            "id": "190000001650",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "O RIO EM 1\u00ba LUGAR",
+            "nomeCompleto": "FRANCISCO DORNELLES",
+            "nascimento": "07/01/1935",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "FRANCISCO DORNELLES",
+            "partido": "PP"
+        },
+        "190000000137": {
+            "ocupacao": "Professor de Ensino Fundamental",
+            "numeroProcesso": "486-60.2014.6.19.0000",
+            "genero": "MASCULINO",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000137/idarquivo/822?x=1404915790000190000000137",
+                    "documento": "1 - certidao1404569328413.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000137/idarquivo/823?x=1404915790000190000000137",
+                    "documento": "2 - certidao1404569328414.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000137/idarquivo/824?x=1404915790000190000000137",
+                    "documento": "3 - certidao1404569328415.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000137/idarquivo/825?x=1404915790000190000000137",
+                    "documento": "4 - certidao1404569328415.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000137/idarquivo/826?x=1404915790000190000000137",
+                    "documento": "5 - certidao1404569328416.jpg"
+                }
+            ],
+            "naturalidade": "RIO DE JANEIRO",
+            "cnpj": "20570071000137",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000137",
+            "numeroProtocolo": "752892014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "21",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404915790000"
+            },
+            "id": "190000000137",
+            "enderecoWeb": "https://www.facebook.com/NeyNunesPCB",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PCB",
+            "nomeCompleto": "HEITOR CESAR",
+            "nascimento": "11/07/1981",
+            "status": "Aguardando julgamento",
+            "codigo": "21",
+            "nomeUrna": "HEITOR CESAR",
+            "partido": "PCB"
+        },
+        "190000000411": {
+            "ocupacao": "Vigilante",
+            "numeroProcesso": "793-14.2014.6.19.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 41.661,1",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "NITER\u00d3I",
+            "cnpj": "20573726000120",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000411",
+            "numeroProtocolo": "755892014",
+            "bens": [
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "RESID\u00caNCIA"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "CHEVETTE 1987"
+                },
+                {
+                    "valor": "R$ 23.351,10",
+                    "nome": "BB"
+                },
+                {
+                    "valor": "R$ 1.310,00",
+                    "nome": "BB"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino Fundamental completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Preta",
+            "meta": {
+                "lastUpdate": "1404833169000"
+            },
+            "id": "190000000411",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "RENAT\u00c3O DO QUILOMBO",
+            "nascimento": "08/06/1967",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "RENAT\u00c3O DO QUILOMBO",
+            "partido": "PSOL"
+        },
+        "190000000105": {
+            "ocupacao": "Serventu\u00e1rio de Justi\u00e7a",
+            "numeroProcesso": "398-22.2014.6.19.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 44.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000105/idarquivo/646?x=1404915779000190000000105",
+                    "documento": "1 - certidao1404424142185.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000105/idarquivo/647?x=1404915779000190000000105",
+                    "documento": "2 - certidao1404424142185.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000105/idarquivo/648?x=1404915779000190000000105",
+                    "documento": "3 - certidao1404424142186.pdf"
+                }
+            ],
+            "naturalidade": "RIO DE JANEIRO",
+            "cnpj": "20557681000109",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000105",
+            "numeroProtocolo": "752412014",
+            "bens": [
+                {
+                    "valor": "R$ 44.000,00",
+                    "nome": "APARTAMENTO 1102, NA RUA DOS INV\u00c1LIDOS, N\u00ba 162, CENTRO, RIO DE JANEIRO, FINANCIADO PELA CAIXA ECON\u00d4MICA FEDERAL"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "16",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404915779000"
+            },
+            "id": "190000000105",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PSTU",
+            "nomeCompleto": "MARILIA MACEDO",
+            "nascimento": "24/02/1984",
+            "status": "Aguardando julgamento",
+            "codigo": "16",
+            "nomeUrna": "MARILIA MACEDO",
+            "partido": "PSTU"
+        },
+        "190000001407": {
+            "ocupacao": "Membro das For\u00e7as Armadas",
+            "numeroProcesso": "1467-89.2014.6.19.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 971.939,27",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001407/idarquivo/5116?x=1404916336000190000001407",
+                    "documento": "1 - certidao1404596399265.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001407/idarquivo/5117?x=1404916336000190000001407",
+                    "documento": "2 - certidao1404596399265.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001407/idarquivo/5118?x=1404916336000190000001407",
+                    "documento": "3 - certidao1404596399265.jpg"
+                }
+            ],
+            "naturalidade": "S\u00c3O GON\u00c7ALO",
+            "cnpj": "20583818000191",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000001407",
+            "numeroProtocolo": "764512014",
+            "bens": [
+                {
+                    "valor": "R$ 210.000,00",
+                    "nome": "APRATAMENTO, LOCALIZADO EM CABO FRIO"
+                },
+                {
+                    "valor": "R$ 146.310,48",
+                    "nome": "APARTAMENTO, LOCALIZADO NO RIO DE JANEIRO, ADQUIRIDO PELA ENCOL EM 1992"
+                },
+                {
+                    "valor": "R$ 416.000,00",
+                    "nome": "CASA EM CONSTRU\u00c7\u00c3O EM NITER\u00d3I, ADQUIRIDO EM 1984"
+                },
+                {
+                    "valor": "R$ 5.551,77",
+                    "nome": "TERRENO LOCALIZADO EM CASIMIRO DE ABREU, RJ"
+                },
+                {
+                    "valor": "R$ 41.638,35",
+                    "nome": "TERRENO, LOCALIZADO EM ITABORA\u00cd- RJ"
+                },
+                {
+                    "valor": "R$ 53.900,00",
+                    "nome": "KIA CERATO 2010"
+                },
+                {
+                    "valor": "R$ 23.500,00",
+                    "nome": "POLO CLASSIC, 2000, PLACA KML2408"
+                },
+                {
+                    "valor": "R$ 32.600,00",
+                    "nome": "FIAT PALIO 2013"
+                },
+                {
+                    "valor": "R$ 8.327,67",
+                    "nome": "PARATI 87, PLACA MAJ 5952"
+                },
+                {
+                    "valor": "R$ 34.111,00",
+                    "nome": "POUPAN\u00c7A POUPEX"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "10",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404916336000"
+            },
+            "id": "190000001407",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PRB",
+            "nomeCompleto": "GENERAL ABREU",
+            "nascimento": "01/09/1953",
+            "status": "Aguardando julgamento",
+            "codigo": "10",
+            "nomeUrna": "GENERAL ABREU",
+            "partido": "PRB"
+        },
+        "190000000674": {
+            "ocupacao": "Outros",
+            "numeroProcesso": "909-20.2014.6.19.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 10.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RJ&sq_cand=11381",
+                    "ano": "2006"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000674/idarquivo/3706?x=1404913278000190000000674",
+                    "documento": "1 - certidao1404591797008.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000674/idarquivo/3707?x=1404913278000190000000674",
+                    "documento": "2 - certidao1404591797009.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000674/idarquivo/3708?x=1404913278000190000000674",
+                    "documento": "3 - certidao1404591797009.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000674/idarquivo/3709?x=1404913278000190000000674",
+                    "documento": "4 - certidao1404591797010.pdf"
+                }
+            ],
+            "naturalidade": "S\u00c3O PAULO",
+            "cnpj": "20574702000196",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000674",
+            "numeroProtocolo": "758682014",
+            "bens": [
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "JEEP GRAND CHEROKEE ANO 1998"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior incompleto",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PT / PV / PSB / PC do B",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404913278000"
+            },
+            "id": "190000000674",
+            "enderecoWeb": "www.lindberg13.com.br",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "COLIGA\u00c7\u00c3O FRENTE POPULAR",
+            "nomeCompleto": "ROBERTO ROCCO",
+            "nascimento": "06/06/1965",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "ROBERTO ROCCO",
+            "partido": "PV"
+        },
+        "190000000586": {
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "numeroProcesso": "790-59.2014.6.19.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 76.665,86000000002",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000586/idarquivo/3193?x=1404664899000190000000586",
+                    "documento": "1 - certidao1404591000621.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000586/idarquivo/3194?x=1404664899000190000000586",
+                    "documento": "2 - certidao1404591000622.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000586/idarquivo/3195?x=1404664899000190000000586",
+                    "documento": "3 - certidao1404591000622.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000586/idarquivo/3196?x=1404664899000190000000586",
+                    "documento": "4 - certidao1404591000622.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000586/idarquivo/3197?x=1404664899000190000000586",
+                    "documento": "5 - certidao1404591000623.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000586/idarquivo/3198?x=1404664899000190000000586",
+                    "documento": "6 - certidao1404591000623.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000586/idarquivo/3199?x=1404664899000190000000586",
+                    "documento": "7 - certidao1404591000624.pdf"
+                }
+            ],
+            "naturalidade": "RIO DE JANEIRO",
+            "cnpj": "20574084000184",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000586",
+            "numeroProtocolo": "757772014",
+            "bens": [
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "PT CRUIZER 2006 PRATA"
+                },
+                {
+                    "valor": "R$ 13.150,68",
+                    "nome": "BANCO CAIXA - FUNDO DE INVESTIMENTO"
+                },
+                {
+                    "valor": "R$ 37.524,30",
+                    "nome": "FINANCIAMENTO IMOBILIARIO,IM\u00d3VEL REGISTRADO SOB O N\u00ba1000636,ADQUIRIDO POR 279.000,00 EM 13/02/2014,COM ENTRADA DE 279.000,00.TOTAL PAGO EM 2013 = 9.624,20.SALDO DEVEDOR = 249.208,67"
+                },
+                {
+                    "valor": "R$ 10,00",
+                    "nome": "DEPOSITO EM AG: 5654 C/C: 019388 DO BANCO ITAU"
+                },
+                {
+                    "valor": "R$ 980,88",
+                    "nome": "NO BANCO DO ITAU AG: 5654 C/C: 019388"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "22",
+            "composicaoColigacao": "PR / PT do B / PROS",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404664899000"
+            },
+            "id": "190000000586",
+            "enderecoWeb": "WWW.MARCIOGARCIARJ.COM.BR",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "Alian\u00e7a Republicana e Trabalhista",
+            "nomeCompleto": "MARCIO GARCIA",
+            "nascimento": "23/07/1978",
+            "status": "Aguardando julgamento",
+            "codigo": "22",
+            "nomeUrna": "MARCIO GARCIA",
+            "partido": "PR"
+        }
+    }
+}

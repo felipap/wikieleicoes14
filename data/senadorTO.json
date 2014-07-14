@@ -1,0 +1,574 @@
+{
+    "senadorTO": {
+        "270000000124": {
+            "suplente": {
+                "numero": "270000000147",
+                "nome": "MOACIR GON\u00c7ALVES DE OLIVEIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/TO/candidato/270000000147"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405179324000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/TO/candidato/270000000124",
+            "nomeCompleto": "SARGENTO ARAG\u00c3O",
+            "nascimento": "14/10/1965",
+            "naturalidade": "SERT\u00c4NIA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 450.000,00",
+                    "nome": "IMOVEL RESIDENCIAL SITO A QUADRA 606 SUL, QI-04, AL. DICAVALCANTE, LOTE 04, SETOR SUDESTE, EM PALMAS-TO"
+                },
+                {
+                    "valor": "R$ 31.989,60",
+                    "nome": "LOTE RESIDENCIAL NO SETOR JARDIM DO PORTO, DA QUADRA 42, LOTE 25, AVENIDA A, COM 270 M2, EM PORTO NACIONAL-TO"
+                },
+                {
+                    "valor": "R$ 29.500,00",
+                    "nome": "TERRENO RURAL DENOMINADO CHACARA BEIRA LAGO III, GLEBA 20, MUNICIPIO DE PORTO NACIONAL-TO"
+                },
+                {
+                    "valor": "R$ 29.500,00",
+                    "nome": "TERRENO RURAL DENOMINADO CHACARA BEIRA LAGO III, GLEBA 19, MUNICIPIO DE PORTO NACIONAL-TO"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "CAMINHONETE AMAROK 2012/2013"
+                },
+                {
+                    "valor": "R$ 48.000,00",
+                    "nome": "CAMINHONETA NISSAN FRONTIER 4X4 SE, AZUL, ANO 2003, MODELO 2004"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "DINHEIRO EM MAOS"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404592389410.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000124/idarquivo/778?x=1405179324000270000000124"
+                },
+                {
+                    "documento": "2 - certidao1404592389410.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000124/idarquivo/779?x=1405179324000270000000124"
+                },
+                {
+                    "documento": "3 - certidao1404592389411.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000124/idarquivo/780?x=1405179324000270000000124"
+                },
+                {
+                    "documento": "4 - certidao1404592389411.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000124/idarquivo/781?x=1405179324000270000000124"
+                },
+                {
+                    "documento": "5 - certidao1404592389412.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000124/idarquivo/782?x=1405179324000270000000124"
+                },
+                {
+                    "documento": "6 - certidao1404592389412.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000124/idarquivo/783?x=1405179324000270000000124"
+                }
+            ],
+            "partido": "PROS",
+            "numeroProcesso": "269-92.2014.6.27.0000",
+            "codigo": "900",
+            "raca": "Parda",
+            "numeroProtocolo": "85542014",
+            "coligacao": "REAGE TOCANTINS",
+            "composicaoColigacao": "PROS / PTN / PPL / PMN / PSDC / PC do B / PT do B",
+            "numeroUrna": "900",
+            "ocupacao": "Deputado",
+            "cnpj": "20577658000178",
+            "limiteGastos": "R$ 8.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "270000000124",
+            "totalBensDeclarados": "R$ 888.989,6",
+            "nomeUrna": "SARGENTO ARAG\u00c3O",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=TO&sq_cand=10299"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=270000000057&sgUe=TO"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "270000000002": {
+            "suplente": {
+                "numero": "270000000006",
+                "nome": "MARIA EDILEUZA SOARES MENDES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/TO/candidato/270000000006"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405093400000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/TO/candidato/270000000002",
+            "nomeCompleto": "CEI\u00c7A",
+            "nascimento": "08/12/1974",
+            "naturalidade": "SANTA LUZIA",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 350.000,00",
+                    "nome": "CASA PR\u00d3PRIA"
+                },
+                {
+                    "valor": "R$ 7.000,00",
+                    "nome": "MOTO"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404569271279.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000002/idarquivo/9?x=1405093400000270000000002"
+                },
+                {
+                    "documento": "2 - certidao1404569271280.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000002/idarquivo/10?x=1405093400000270000000002"
+                },
+                {
+                    "documento": "3 - certidao1404569271280.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000002/idarquivo/11?x=1405093400000270000000002"
+                },
+                {
+                    "documento": "4 - certidao1404569271281.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000002/idarquivo/12?x=1405093400000270000000002"
+                },
+                {
+                    "documento": "5 - certidao1404569271281.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000002/idarquivo/13?x=1405093400000270000000002"
+                },
+                {
+                    "documento": "6 - certidao1404569271282.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000002/idarquivo/14?x=1405093400000270000000002"
+                }
+            ],
+            "partido": "PCB",
+            "numeroProcesso": "159-93.2014.6.27.0000",
+            "codigo": "211",
+            "raca": "Preta",
+            "numeroProtocolo": "84382014",
+            "coligacao": "PCB",
+            "composicaoColigacao": "",
+            "numeroUrna": "211",
+            "ocupacao": "Pedagogo",
+            "cnpj": "20573019000134",
+            "limiteGastos": "R$ 50.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "270000000002",
+            "totalBensDeclarados": "R$ 357.000,0",
+            "nomeUrna": "CEI\u00c7A",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "270000000281": {
+            "suplente": {
+                "numero": "270000000306",
+                "nome": "ALDISON WISEMAN BARROS DE LYRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/TO/candidato/270000000306"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405008819000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/TO/candidato/270000000281",
+            "nomeCompleto": "EDUARDO GOMES",
+            "nascimento": "28/04/1966",
+            "naturalidade": "ESTANCIA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 95.900,00",
+                    "nome": "LOTE LOCALIZADO A QUADRA ACSU-SO 12 QI-02 LOTE 10 PALMAS/TO"
+                },
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "IMOVEL RESIDENCIAL LOCALIZADO A QUADRA 405 SUL AL 27 LOTE 2/4 EM PALMAS/TO"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "50% DE PARTICIPA\u00c7\u00c3O DO CAPITAL SOCIAL DA EMPRESA LE\u00c3O INDUSTRIA E COMERCIO E SERVI\u00c7OS LTDA CNPJ: 00689294/0001-00"
+                },
+                {
+                    "valor": "R$ 3,67",
+                    "nome": "SALDO CONTA POUPAN\u00c7A BB"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "VALOR REFERENTE A A ADIANTAMENTO P AQUISI\u00c7\u00c3O DE UMA \u00c1REA RURAL"
+                },
+                {
+                    "valor": "R$ 8.128,29",
+                    "nome": "AQUISI\u00c7\u00c3O DE CARTA DE CR\u00c9DITO DE CONSORCIO DE AUTOMOVEIS BB"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404598957368.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2357?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "2 - certidao1404598957369.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2358?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "3 - certidao1404598957369.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2359?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "4 - certidao1404598957369.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2360?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "5 - certidao1404598957370.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2361?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "6 - certidao1404598957371.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2362?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "7 - certidao1404598957371.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2363?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "8 - certidao1404598957372.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2364?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "9 - certidao1404598957372.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2365?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "10 - certidao1404598957372.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2366?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "11 - certidao1404598957373.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2367?x=1405008819000270000000281"
+                },
+                {
+                    "documento": "12 - certidao1404598957373.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000281/idarquivo/2368?x=1405008819000270000000281"
+                }
+            ],
+            "partido": "SD",
+            "numeroProcesso": "445-71.2014.6.27.0000",
+            "codigo": "777",
+            "raca": "Branca",
+            "numeroProtocolo": "87332014",
+            "coligacao": "A MUDAN\u00c7A QUE A GENTE VE",
+            "composicaoColigacao": "PRB / PP / PDT / PTB / PSL / PSC / PR / PPS / DEM / PRTB / PHS / PTC / PSB / PRP / PSDB / PEN / SD",
+            "numeroUrna": "777",
+            "ocupacao": "Deputado",
+            "cnpj": "20580596000153",
+            "limiteGastos": "R$ 15.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "270000000281",
+            "totalBensDeclarados": "R$ 454.031,95999999996",
+            "nomeUrna": "EDUARDO GOMES",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=TO&sq_cand=10102"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=270000000249&sgUe=TO"
+                }
+            ],
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        },
+        "270000000318": {
+            "suplente": {
+                "numero": "270000000317",
+                "nome": "CELSO DAVIS DE ALMEIDA CASTRO MARQUES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/TO/candidato/270000000317"
+            },
+            "enderecoWeb": "ELVIOUFT@HOTMAIL.COM",
+            "meta": {
+                "lastUpdate": "1405180224000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/TO/candidato/270000000318",
+            "nomeCompleto": "ELVIO QUIRINO",
+            "nascimento": "22/01/1966",
+            "naturalidade": "FORMOSA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 95.000,00",
+                    "nome": "CONSTRUCAO DE CASA"
+                },
+                {
+                    "valor": "R$ 56.000,00",
+                    "nome": "LOTE NR 16 QD 07 AL 05"
+                },
+                {
+                    "valor": "R$ 160.000,00",
+                    "nome": "COTA DE 58,47 DA FAZENDA RAINHA DA SERRA ROD.GO 241 KM 19 ZONA RURAL FORMOSO-GO"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "CONSTRUCAO DE CERCAS"
+                },
+                {
+                    "valor": "R$ 0,01",
+                    "nome": "LOTE NR 11 DA QD RUA 02 RESIDENCIAL LAGUNA"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "LOTE NR 16 DA GRACIOSA ORLA 14"
+                },
+                {
+                    "valor": "R$ 2.532,45",
+                    "nome": "SALDO CONTA DA CAIXA"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "LOTE NR 10 DA QUADRA 04 RESIDENCIAL PORTAL DO LAGO"
+                },
+                {
+                    "valor": "R$ 18.000,00",
+                    "nome": "AREA RURAL DE 48,40 HECTARES LOTE 07 SAO SILVESTRE"
+                },
+                {
+                    "valor": "R$ 195.835,66",
+                    "nome": "APARTAMENTO NR 602 TEREZA AIRES"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "DINHEIRO EM ESPECIE"
+                },
+                {
+                    "valor": "R$ 318.000,00",
+                    "nome": "APARTAMENTO NR RESIDENCIAL"
+                },
+                {
+                    "valor": "R$ 34.000,00",
+                    "nome": "KIA PICANTO"
+                },
+                {
+                    "valor": "R$ 59.000,00",
+                    "nome": "CAMIONETE L200 TRITON"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "CARRO SPORTAGE TURBO"
+                },
+                {
+                    "valor": "R$ 74.000,00",
+                    "nome": "25 BEZERROS 80 VACAS"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "COTA DE 25% DE AREA RURAL DENOMINADA CHACARA PARK WAY"
+                },
+                {
+                    "valor": "R$ 0,85",
+                    "nome": "POPANACA OURO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 0,01",
+                    "nome": "CAPITALIZACAO BRADESCO"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404603097010.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000318/idarquivo/2738?x=1405180224000270000000318"
+                },
+                {
+                    "documento": "2 - certidao1404603097010.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000318/idarquivo/2739?x=1405180224000270000000318"
+                },
+                {
+                    "documento": "3 - certidao1404603097010.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000318/idarquivo/2740?x=1405180224000270000000318"
+                },
+                {
+                    "documento": "4 - certidao1404603097011.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000318/idarquivo/2741?x=1405180224000270000000318"
+                },
+                {
+                    "documento": "5 - certidao1404603097011.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000318/idarquivo/2742?x=1405180224000270000000318"
+                },
+                {
+                    "documento": "6 - certidao1404603097012.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000318/idarquivo/2743?x=1405180224000270000000318"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "476-91.2014.6.27.0000",
+            "codigo": "500",
+            "raca": "Branca",
+            "numeroProtocolo": "87642014",
+            "coligacao": "PSOL",
+            "composicaoColigacao": "",
+            "numeroUrna": "500",
+            "ocupacao": "Administrador",
+            "cnpj": "20579646000182",
+            "limiteGastos": "R$ 1.550.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "270000000318",
+            "totalBensDeclarados": "R$ 1.153.368,9800000002",
+            "nomeUrna": "ELVIO QUIRINO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=270000000346&sgUe=TO"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "270000000011": {
+            "suplente": {
+                "numero": "270000000012",
+                "nome": "DIVINO DONIZETI BORGES NOGUEIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/TO/candidato/270000000012"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405165337000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/TO/candidato/270000000011",
+            "nomeCompleto": "KATIA ABREU",
+            "nascimento": "02/02/1962",
+            "naturalidade": "GOI\u00c2NIA",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "LOTE URBANO N. 3, COM \u00c1REA DE 2.067M\u00b2 DA QUADRA ACSU NE 50, CONJUNTO 02, LOCALIZADO NA AV. LO-12, PALMAS/TO"
+                },
+                {
+                    "valor": "R$ 112.320,00",
+                    "nome": "LOTE 07, QUADRA ACSU NE 70, CONJUNTO 01, AV. TEOT\u00d4NIO SEGURADO, LOTEAMENTO PALMAS"
+                },
+                {
+                    "valor": "R$ 187.008,84",
+                    "nome": "UMA \u00c1REA NO LOTEAMENTO CRIXAS, ALIAN\u00c7A DO TOCANTINS/TO"
+                },
+                {
+                    "valor": "R$ 203.285,88",
+                    "nome": "SUITE 1505 NO COSMOPOLITAN HOE OFFICE COMPLEX, AV. TEOT\u00d4NIO SEGURADO, LOTE 13, CONJUNTO 01, PLANO DIRETOR SUL, PALMAS/TO"
+                },
+                {
+                    "valor": "R$ 614.723,44",
+                    "nome": "CH\u00c1CARA 24, SETOR LESTE, COM \u00c1REA DE 10,31HA, PALMAS/TO"
+                },
+                {
+                    "valor": "R$ 203.660,33",
+                    "nome": "SUITE 1503 NO COSMOPOLITAN HOE OFFICE COMPLEX, AV. TEOT\u00d4NIO SEGURADO, LOTE 13, CONJUNTO 01, PLANO DIRETOR SUL, PALMAS/TO"
+                },
+                {
+                    "valor": "R$ 203.285,88",
+                    "nome": "SUITE 1504 NO COSMOPOLITAN HOE OFFICE COMPLEX, AV. TEOT\u00d4NIO SEGURADO, LOTE 13, CONJUNTO 01, PLANO DIRETOR SUL, PALMAS/TO"
+                },
+                {
+                    "valor": "R$ 106.000,00",
+                    "nome": "VE\u00cdCULO HYUNDAI SONATA 2.4, COR PRATA, ANO/2011, MOD/2012"
+                },
+                {
+                    "valor": "R$ 1.823.500,00",
+                    "nome": "BB CDB DI, JUNTO AO BANCO DO BRASIL, AG. 1505-9"
+                },
+                {
+                    "valor": "R$ 11.107,44",
+                    "nome": "VALOR REFERENTE AO CUSTO DOS IM\u00d3VEIS ALIENADOS EM 04/12/08 A PRAZO, PARA A EMRPESA SOLLUS MAPITO CLI PARTICIPA\u00c7\u00d5ES LTDA"
+                },
+                {
+                    "valor": "R$ 350.000,00",
+                    "nome": "EMPR\u00c9STIMO EM FAVOR DE IRAJ\u00c1 ABREU SILVESTRE"
+                },
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "RECURSOS PR\u00d3PRIOS"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404570120306.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/93?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "2 - certidao1404570120307.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/94?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "3 - certidao1404570120307.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/95?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "4 - certidao1404570120308.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/96?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "5 - certidao1404570120309.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/97?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "6 - certidao1404570120309.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/98?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "7 - certidao1404570120310.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/99?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "8 - certidao1404570120310.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/100?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "9 - certidao1404570120311.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/101?x=1405165337000270000000011"
+                },
+                {
+                    "documento": "10 - certidao1404570120312.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/TO/candidato/270000000011/idarquivo/102?x=1405165337000270000000011"
+                }
+            ],
+            "partido": "PMDB",
+            "numeroProcesso": "212-74.2014.6.27.0000",
+            "codigo": "155",
+            "raca": "Branca",
+            "numeroProtocolo": "84482014",
+            "coligacao": "A EXPERIENCIA FAZ A MUDAN\u00c7A",
+            "composicaoColigacao": "PMDB / PT / PSD / PV",
+            "numeroUrna": "155",
+            "ocupacao": "Senador",
+            "cnpj": "20572572000152",
+            "limiteGastos": "R$ 15.000.000,00",
+            "estadoCivil": "Vi\u00favo(a)",
+            "id": "270000000011",
+            "totalBensDeclarados": "R$ 4.044.891,81",
+            "nomeUrna": "KATIA ABREU",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=TO&sq_cand=10268"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

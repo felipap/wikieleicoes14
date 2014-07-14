@@ -1,0 +1,342 @@
+{
+    "senadorAC": {
+        "10000000154": {
+            "nomeUrna": "PERP\u00c9TUA ALMEIDA",
+            "cnpj": "20570764000120",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/AC/candidato/10000000154",
+            "suplente": {
+                "numero": "10000000155",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/AC/candidato/10000000155",
+                "nome": "DAVI DO NASCIMENTO SANTIAGO"
+            },
+            "codigo": "654",
+            "raca": "Parda",
+            "composicaoColigacao": "PDT / PRB / PT / PSL / PTN / PSDC / PHS / PSB / PRP / PEN / PPL / PC do B / PROS / PTB",
+            "status": "Aguardando julgamento",
+            "partido": "PC do B",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404572403917.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000154/idarquivo/841?x=140518256200010000000154"
+                },
+                {
+                    "documento": "2 - certidao1404572403918.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000154/idarquivo/842?x=140518256200010000000154"
+                },
+                {
+                    "documento": "3 - certidao1404572403918.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000154/idarquivo/843?x=140518256200010000000154"
+                },
+                {
+                    "documento": "4 - certidao1404572403919.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000154/idarquivo/844?x=140518256200010000000154"
+                }
+            ],
+            "meta": {
+                "lastUpdate": "1405182562000"
+            },
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "id": "10000000154",
+            "limiteGastos": "R$ 4.200.000,00",
+            "nacionalidade": "Brasileira nata",
+            "coligacao": "Frente Popular do Acre",
+            "numeroProtocolo": "53142014",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AC&sq_cand=10044",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=10000000251&sgUe=AC",
+                    "ano": "2010"
+                }
+            ],
+            "naturalidade": "PORTO WALTER",
+            "numeroUrna": "654",
+            "numeroProcesso": "223-29.2014.6.01.0000",
+            "nomeCompleto": "PERP\u00c9TUA ALMEIDA",
+            "estadoCivil": "Casado(a)",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 647.324,1",
+            "ocupacao": "Deputado",
+            "nascimento": "28/12/1964",
+            "bens": [
+                {
+                    "valor": "R$ 550.000,00",
+                    "nome": "CASA NA ALAMENDA DAS ACACIAS, 50 SITUADA NO CONJUNTO IPE RIO BRANCO"
+                },
+                {
+                    "valor": "R$ 29.623,00",
+                    "nome": "AUTOMOVEL PAJERO TRY PRATA 2005/2005 PLACA JZK 4205"
+                },
+                {
+                    "valor": "R$ 13.378,00",
+                    "nome": "AUTOMOVEL GOL PLACA MZS 0345 ANO 2008, FINANCIADO PELO BANCO PANAMERICANO"
+                },
+                {
+                    "valor": "R$ 51.277,82",
+                    "nome": "CONTRATO DE RENEGOCIA\u00c7\u00c3O DE DIVIDA JUNTO A CAIXA ECONOMICA FEDERAL, NO VALOR DE R$ 51.277,82 RELATIVO AOS CONTRATOS 00,2278,1800000290-07, 002278 160,000029864, 00227801600000296.00"
+                },
+                {
+                    "valor": "R$ 3.015,93",
+                    "nome": "SALDO EM CONTA CORRENTE NO BANCO DO BRASIL ESTILO AG. 4884-4 C/C 289647-8"
+                },
+                {
+                    "valor": "R$ 29,35",
+                    "nome": "SALDO EM CONTA CORRENTE NO BANCO DO BRASIL CONGRESSO NACIONAL AG. 4884-4 C/C 269647-9"
+                }
+            ]
+        },
+        "10000000141": {
+            "nomeUrna": "PROFESSOR FORTUNATO",
+            "cnpj": "20571144000105",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/AC/candidato/10000000141",
+            "suplente": {
+                "numero": "10000000150",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/AC/candidato/10000000150",
+                "nome": "PAULO CESAR DAHU DE OLIVEIRA"
+            },
+            "codigo": "500",
+            "raca": "Ind\u00edgena",
+            "composicaoColigacao": "",
+            "status": "Aguardando julgamento",
+            "partido": "PSOL",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404571261100.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000141/idarquivo/758?x=140466942400010000000141"
+                },
+                {
+                    "documento": "2 - certidao1404571261101.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000141/idarquivo/759?x=140466942400010000000141"
+                },
+                {
+                    "documento": "3 - certidao1404571261101.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000141/idarquivo/760?x=140466942400010000000141"
+                },
+                {
+                    "documento": "4 - certidao1404571261102.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000141/idarquivo/761?x=140466942400010000000141"
+                },
+                {
+                    "documento": "5 - certidao1404571261102.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000141/idarquivo/762?x=140466942400010000000141"
+                },
+                {
+                    "documento": "6 - certidao1404571261103.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000141/idarquivo/763?x=140466942400010000000141"
+                },
+                {
+                    "documento": "7 - certidao1404571261104.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000141/idarquivo/764?x=140466942400010000000141"
+                },
+                {
+                    "documento": "8 - certidao1404571261104.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000141/idarquivo/765?x=140466942400010000000141"
+                }
+            ],
+            "meta": {
+                "lastUpdate": "1404669424000"
+            },
+            "Grauinstrucao": "Superior completo",
+            "id": "10000000141",
+            "limiteGastos": "R$ 100.000,00",
+            "nacionalidade": "Brasileira nata",
+            "coligacao": "PSOL",
+            "numeroProtocolo": "52922014",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "naturalidade": "MANAUS",
+            "numeroUrna": "500",
+            "numeroProcesso": "202-53.2014.6.01.0000",
+            "nomeCompleto": "PROFESSOR FORTUNATO",
+            "estadoCivil": "Solteiro(a)",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 242.000,0",
+            "ocupacao": "Professor de Ensino Superior",
+            "nascimento": "27/11/1967",
+            "bens": [
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "TERRENO"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "FIAT PUNTO"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "FORD FIESTA"
+                }
+            ]
+        },
+        "10000000001": {
+            "nomeUrna": "GLADSON CAMELI",
+            "cnpj": "20591411000106",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/AC/candidato/10000000001",
+            "suplente": {
+                "numero": "10000000002",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/AC/candidato/10000000002",
+                "nome": "MAILZA ASSIS DA SILVA"
+            },
+            "codigo": "111",
+            "raca": "Parda",
+            "composicaoColigacao": "PMDB / PSDB / PT do B / PSC / PTC / PPS / PR / SD / PP / PSD",
+            "status": "Aguardando julgamento",
+            "partido": "PP",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404406196146.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000001/idarquivo/3?x=140518290800010000000001"
+                }
+            ],
+            "meta": {
+                "lastUpdate": "1405182908000"
+            },
+            "Grauinstrucao": "Superior completo",
+            "id": "10000000001",
+            "limiteGastos": "R$ 5.000.000,00",
+            "nacionalidade": "Brasileira nata",
+            "coligacao": "Por Um Acre Melhor",
+            "numeroProtocolo": "51082014",
+            "enderecoWeb": "www.gladsoncameli.com.br",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AC&sq_cand=10024",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=10000000243&sgUe=AC",
+                    "ano": "2010"
+                }
+            ],
+            "naturalidade": "CRUZEIRO DO SUL",
+            "numeroUrna": "111",
+            "numeroProcesso": "76-03.2014.6.01.0000",
+            "nomeCompleto": "GLADSON CAMELI",
+            "estadoCivil": "Casado(a)",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 514.392,07",
+            "ocupacao": "Deputado",
+            "nascimento": "26/03/1978",
+            "bens": [
+                {
+                    "valor": "R$ 143.000,00",
+                    "nome": "AUTOM\u00d3VEL HILUX CD,"
+                },
+                {
+                    "valor": "R$ 18.500,00",
+                    "nome": "AUTOM\u00d3VEL FIAT UNO MILLE, MZO-8795"
+                },
+                {
+                    "valor": "R$ 148.393,20",
+                    "nome": "AUTOM\u00d3VEL TOYOTA HILUX, PLACA NXS-1122"
+                },
+                {
+                    "valor": "R$ 82.000,00",
+                    "nome": "AUTOM\u00d3VEL MERCEDES-BENZ, JHW-9891"
+                },
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "AUTOM\u00d3VEL BMW"
+                },
+                {
+                    "valor": "R$ 28.900,00",
+                    "nome": "AUTOM\u00d3VEL GOL, MZQ-7284"
+                },
+                {
+                    "valor": "R$ 8.360,00",
+                    "nome": "8360 QUOTAS DE CAPITAL SOCIAL DA EMPRESA MARMUDE CAMELI, CNPJ 04.061.171/0001-26"
+                },
+                {
+                    "valor": "R$ 148,84",
+                    "nome": "POUPEX BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 937,91",
+                    "nome": "SALDO EM CONTA BANC\u00c1RIA (BANCO DO BRASIL)"
+                },
+                {
+                    "valor": "R$ 4.152,12",
+                    "nome": "SALDO EM CONTA BANC\u00c1RIA (BANCO DO BRASIL) CONTA 278219-7"
+                }
+            ]
+        },
+        "10000000355": {
+            "nomeUrna": "DR. ROBERTO DUARTE",
+            "cnpj": "20572816000105",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/AC/candidato/10000000355",
+            "suplente": {
+                "numero": "10000000352",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/AC/candidato/10000000352",
+                "nome": "MARIA LUCENI PEREIRA RODRIGUES"
+            },
+            "codigo": "333",
+            "raca": "Branca",
+            "composicaoColigacao": "DEM / PV / PMN",
+            "status": "Aguardando julgamento",
+            "partido": "PMN",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404579228649.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000355/idarquivo/2216?x=140484457800010000000355"
+                },
+                {
+                    "documento": "2 - certidao1404579228649.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000355/idarquivo/2217?x=140484457800010000000355"
+                },
+                {
+                    "documento": "3 - certidao1404579228650.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000355/idarquivo/2218?x=140484457800010000000355"
+                },
+                {
+                    "documento": "4 - certidao1404579228650.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000355/idarquivo/2219?x=140484457800010000000355"
+                }
+            ],
+            "meta": {
+                "lastUpdate": "1404844578000"
+            },
+            "Grauinstrucao": "Superior completo",
+            "id": "10000000355",
+            "limiteGastos": "R$ 1.500.000,00",
+            "nacionalidade": "Brasileira nata",
+            "coligacao": "PRODUZIR PARA EMPREGAR",
+            "numeroProtocolo": "54932014",
+            "enderecoWeb": "WWW.ROBERTODUARTE333.COM.BR",
+            "naturalidade": "PORTO ALEGRE",
+            "numeroUrna": "333",
+            "numeroProcesso": "400-90.2014.6.01.0000",
+            "nomeCompleto": "DR. ROBERTO DUARTE",
+            "estadoCivil": "Divorciado(a)",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 257.525,0",
+            "ocupacao": "Advogado",
+            "nascimento": "25/04/1975",
+            "bens": [
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "\u00d4NIBUS GM/INVEL ANO/MODELO 1976"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "UM CASCO PARA EMBARCA\u00c7\u00c3O, FIBRA FORT FISCHER 205"
+                },
+                {
+                    "valor": "R$ 34.000,00",
+                    "nome": "MOTOR DE POPA YAMAHA MODELO 150"
+                },
+                {
+                    "valor": "R$ 195.525,00",
+                    "nome": "QUOTAS DE PARTICIPA\u00c7\u00c3O SOCIEDADE ROBERTO DUARTE ADVOGADOS E ASSOCIADOS S/S"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,458 @@
+{
+    "governadorSE": {
+        "260000000077": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000077/idarquivo/1288?x=1404923691000260000000077",
+                    "documento": "1 - proposta_governo1404766251334.pdf"
+                }
+            ],
+            "ocupacao": "Governador",
+            "numeroProcesso": "280-78.2014.6.25.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "260000000078",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/SE/candidato/260000000078",
+                "nome": "BELIVALDO CHAGAS SILVA"
+            },
+            "totalBensDeclarados": "R$ 453.016,17999999993",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=SE&sq_cand=10082",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=260000000174&sgUe=SE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000077/idarquivo/271?x=1404923691000260000000077",
+                    "documento": "1 - certidao1404587061994.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000077/idarquivo/272?x=1404923691000260000000077",
+                    "documento": "2 - certidao1404587061995.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000077/idarquivo/273?x=1404923691000260000000077",
+                    "documento": "3 - certidao1404587061995.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000077/idarquivo/274?x=1404923691000260000000077",
+                    "documento": "4 - certidao1404587061996.pdf"
+                }
+            ],
+            "naturalidade": "SANTA ROSA DE LIMA",
+            "cnpj": "20569412000154",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/SE/candidato/260000000077",
+            "numeroProtocolo": "105422014",
+            "bens": [
+                {
+                    "valor": "R$ 78.461,26",
+                    "nome": "UM APARTAMENTO ED PATMOS MACEIO ALAGOAS"
+                },
+                {
+                    "valor": "R$ 86.753,65",
+                    "nome": "UM APARTAMENTO NA AVENIDA HERMES FONTES V\u00b0 2946 COND JARDIM AMERICA"
+                },
+                {
+                    "valor": "R$ 11.103,54",
+                    "nome": "UMA CASA NA AVENIDA ADOLFO PRADO 833 SANTA ROSA DE LIMA"
+                },
+                {
+                    "valor": "R$ 155.000,00",
+                    "nome": "RUA GERVASIO ARAUJO SOUZA 613 ATALAIA"
+                },
+                {
+                    "valor": "R$ 53.000,00",
+                    "nome": "UMA CASA NA AV BEIRA RIO 565 ATALAIA NOVA"
+                },
+                {
+                    "valor": "R$ 13.879,44",
+                    "nome": "UM SITIO NO MUNICIPIO DE ITAPORANGA"
+                },
+                {
+                    "valor": "R$ 20.818,29",
+                    "nome": "UM SITIO EM ITAPORANGA D'AJUDA"
+                },
+                {
+                    "valor": "R$ 34.000,00",
+                    "nome": "UM VEICULO PEUGEOT 2005"
+                }
+            ],
+            "limiteGastos": "R$ 10.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PT / PSD / PC do B / PRTB / PDT / PRP / PROS / PSDC / PMDB / PSB / PRB",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404923691000"
+            },
+            "id": "260000000077",
+            "enderecoWeb": "pmdb-se@hotmail.com",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "AGORA \u00c9 O POVO",
+            "nomeCompleto": "JACKSON BARRETO",
+            "nascimento": "06/05/1944",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "JACKSON BARRETO",
+            "partido": "PMDB"
+        },
+        "260000000171": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000171/idarquivo/664?x=1404828114000260000000171",
+                    "documento": "1 - proposta_governo1404591387509.pdf"
+                }
+            ],
+            "ocupacao": "Empres\u00e1rio",
+            "numeroProcesso": "378-63.2014.6.25.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "260000000172",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/SE/candidato/260000000172",
+                "nome": "JOSE WELLINGTON DE OLIVEIRA"
+            },
+            "totalBensDeclarados": "R$ 1.358.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000171/idarquivo/665?x=1404828114000260000000171",
+                    "documento": "1 - certidao1404591387509.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000171/idarquivo/666?x=1404828114000260000000171",
+                    "documento": "2 - certidao1404591387510.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000171/idarquivo/667?x=1404828114000260000000171",
+                    "documento": "3 - certidao1404591387510.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000171/idarquivo/668?x=1404828114000260000000171",
+                    "documento": "4 - certidao1404591387511.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000171/idarquivo/669?x=1404828114000260000000171",
+                    "documento": "5 - certidao1404591387511.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000171/idarquivo/670?x=1404828114000260000000171",
+                    "documento": "6 - certidao1404591387512.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000171/idarquivo/671?x=1404828114000260000000171",
+                    "documento": "7 - certidao1404591387512.jpg"
+                }
+            ],
+            "naturalidade": "S\u00c3O CRIST\u00d3V\u00c3O",
+            "cnpj": "20577291000192",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/SE/candidato/260000000171",
+            "numeroProtocolo": "106402014",
+            "bens": [
+                {
+                    "valor": "R$ 1.000.000,00",
+                    "nome": "01 CASA EM SAO CRISTOVAO"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "01 COMBI 12 PASSAGEIROS 2010"
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "01 PAGERO 2010 V6"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "01 CARRETA TRUCK PALCO ANO 1980"
+                },
+                {
+                    "valor": "R$ 18.000,00",
+                    "nome": "01 CARRO FIAT MAREA 2007"
+                },
+                {
+                    "valor": "R$ 160.000,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O SOCIET\u00c1RIA NA EMPRESA CINTURA FINA PRODU\u00c7\u00d5ES E EVENTOS"
+                }
+            ],
+            "limiteGastos": "R$ 1.000.000,00",
+            "Grauinstrucao": "Superior incompleto",
+            "numeroUrna": "19",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404828114000"
+            },
+            "id": "260000000171",
+            "enderecoWeb": "www.governadorbetinho.com.br",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PTN",
+            "nomeCompleto": "BETINHO",
+            "nascimento": "02/04/1956",
+            "status": "Aguardando julgamento",
+            "codigo": "19",
+            "nomeUrna": "BETINHO",
+            "partido": "PTN"
+        },
+        "260000000073": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000073/idarquivo/239?x=1404834982000260000000073",
+                    "documento": "1 - proposta_governo1404586240610.pdf"
+                }
+            ],
+            "ocupacao": "Comerciante",
+            "numeroProcesso": "277-26.2014.6.25.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "260000000074",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/SE/candidato/260000000074",
+                "nome": "JOSE VIEIRA DA SILVA FILHO"
+            },
+            "totalBensDeclarados": "R$ 263.000,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000073/idarquivo/240?x=1404834982000260000000073",
+                    "documento": "1 - certidao1404586240611.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000073/idarquivo/241?x=1404834982000260000000073",
+                    "documento": "2 - certidao1404586240612.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000073/idarquivo/242?x=1404834982000260000000073",
+                    "documento": "3 - certidao1404586240613.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000073/idarquivo/243?x=1404834982000260000000073",
+                    "documento": "4 - certidao1404586240613.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000073/idarquivo/244?x=1404834982000260000000073",
+                    "documento": "5 - certidao1404586240614.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000073/idarquivo/1294?x=1404834982000260000000073",
+                    "documento": "6 - certidao1404921045183.jpg"
+                }
+            ],
+            "naturalidade": "RIO DE JANEIRO",
+            "cnpj": "N\u00c3O INFORMADO",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/SE/candidato/260000000073",
+            "numeroProtocolo": "105362014",
+            "bens": [
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "CASA MEDINDO 7  X 18 LOCALIZADA NA RUA D, 10 PARQUE RESIDENCIAL ROSA DO SOL - ARACAJU/SE - CEP 49.038-020"
+                },
+                {
+                    "valor": "R$ 13.000,00",
+                    "nome": "AUTOMOVEL FIAT UNO 2008 COR AZUL ESCURO"
+                }
+            ],
+            "limiteGastos": "R$ 20.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "54",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404834982000"
+            },
+            "id": "260000000073",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PPL",
+            "nomeCompleto": "AIRTON DA CGTB",
+            "nascimento": "07/01/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "54",
+            "nomeUrna": "AIRTON DA CGTB",
+            "partido": "PPL"
+        },
+        "260000000085": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000085/idarquivo/314?x=1404598380000260000000085",
+                    "documento": "1 - proposta_governo1404587499885.pdf"
+                }
+            ],
+            "ocupacao": "M\u00e9dico",
+            "numeroProcesso": "286-85.2014.6.25.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "260000000086",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/SE/candidato/260000000086",
+                "nome": "AUGUSTO DO PRADO FRANCO NETO"
+            },
+            "totalBensDeclarados": "R$ 283.701,27999999997",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=SE&sq_cand=10111",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=260000000176&sgUe=SE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000085/idarquivo/315?x=1404598380000260000000085",
+                    "documento": "1 - certidao1404587499886.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000085/idarquivo/316?x=1404598380000260000000085",
+                    "documento": "2 - certidao1404587499886.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000085/idarquivo/317?x=1404598380000260000000085",
+                    "documento": "3 - certidao1404587499887.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000085/idarquivo/318?x=1404598380000260000000085",
+                    "documento": "4 - certidao1404587499887.PDF"
+                }
+            ],
+            "naturalidade": "ITABAIANA",
+            "cnpj": "20570905000104",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/SE/candidato/260000000085",
+            "numeroProtocolo": "105482014",
+            "bens": [
+                {
+                    "valor": "R$ 114.358,19",
+                    "nome": "APARTAMENTO EM CONSTRU\u00c7\u00c3O N 1001 NO LIVING RESIDENCE"
+                },
+                {
+                    "valor": "R$ 160.000,00",
+                    "nome": "VEICULO KIA MODELO MOHAVE EX 3.0"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "DA FIRMA CLIMA-SE CLINICA MEDICA DE ANESTESIOLOGIA"
+                },
+                {
+                    "valor": "R$ 6.252,22",
+                    "nome": "UNICRED ARACAJU"
+                },
+                {
+                    "valor": "R$ 190,15",
+                    "nome": "UNICRED ARACAJU ."
+                },
+                {
+                    "valor": "R$ 1.900,72",
+                    "nome": "UNICRED ARACAJU BANCO DO BRASIL"
+                }
+            ],
+            "limiteGastos": "R$ 10.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "20",
+            "composicaoColigacao": "DEM / PSDB / PP / PT do B / PSC / PTC / PSL / PTB / SD / PV / PPS / PHS / PMN / PR / PEN",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404598380000"
+            },
+            "id": "260000000085",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "AGORA SIM",
+            "nomeCompleto": "EDUARDO AMORIM",
+            "nascimento": "17/05/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "20",
+            "nomeUrna": "EDUARDO AMORIM",
+            "partido": "PSC"
+        },
+        "260000000005": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000005/idarquivo/20?x=1404937923000260000000005",
+                    "documento": "1 - proposta_governo1404482406569.pdf"
+                }
+            ],
+            "ocupacao": "Professor de Ensino Superior",
+            "numeroProcesso": "203-69.2014.6.25.0000",
+            "genero": "FEMININO",
+            "suplente": {
+                "numero": "260000000016",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/SE/candidato/260000000016",
+                "nome": "PAULO ROBERTO DOS SANTOS AGUIAR"
+            },
+            "totalBensDeclarados": "R$ 674.800,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000005/idarquivo/21?x=1404937923000260000000005",
+                    "documento": "1 - certidao1404482406569.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000005/idarquivo/22?x=1404937923000260000000005",
+                    "documento": "2 - certidao1404482406570.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/SE/candidato/260000000005/idarquivo/23?x=1404937923000260000000005",
+                    "documento": "3 - certidao1404482406571.pdf"
+                }
+            ],
+            "naturalidade": "S\u00c3O PAULO",
+            "cnpj": "20559328000150",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/SE/candidato/260000000005",
+            "numeroProtocolo": "104332014",
+            "bens": [
+                {
+                    "valor": "R$ 350.000,00",
+                    "nome": "RESID\u00caNCIA NA RUA MANOEL ANDRADE, BAIRRO COROA DO MEIO EM ARACAJU."
+                },
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "TERRENO COM 450 M2"
+                },
+                {
+                    "valor": "R$ 38.000,00",
+                    "nome": "FORD FIESTA SEDAN, FINANCIADO"
+                },
+                {
+                    "valor": "R$ 33.300,00",
+                    "nome": "AUTOM\u00d3VEL MODELO SPIN LT, FINANCIADO, VALOR PAGO AT\u00c9 30/04/2014 33.300,00."
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "BUGGY MODELO ABAIS, ANO 1978."
+                },
+                {
+                    "valor": "R$ 2.500,00",
+                    "nome": "REBOQUE COM CARROCERIA ABERTA"
+                }
+            ],
+            "limiteGastos": "R$ 50.000,00",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "PSOL / PSTU / PCB",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404937923000"
+            },
+            "id": "260000000005",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Vi\u00favo(a)",
+            "coligacao": "FRENTE DE ESQUERDA - LUTAR PARA TRANSFORMAR SERGIPE",
+            "nomeCompleto": "PROF. S\u00d4NIA MEIRE",
+            "nascimento": "13/01/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "PROF. S\u00d4NIA MEIRE",
+            "partido": "PSOL"
+        }
+    }
+}

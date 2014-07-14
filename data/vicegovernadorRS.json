@@ -1,0 +1,651 @@
+{
+    "vicegovernadorRS": {
+        "210000000634": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "237-55.2014.6.21.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 643.511,69",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RS&sq_cand=10540",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=210000001141&sgUe=RS",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000634/idarquivo/3506?x=1404918127000210000000634",
+                    "documento": "1 - certidao1404574710079.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000634/idarquivo/3507?x=1404918127000210000000634",
+                    "documento": "2 - certidao1404574710080.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000634/idarquivo/3508?x=1404918127000210000000634",
+                    "documento": "3 - certidao1404574710080.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000634/idarquivo/3509?x=1404918127000210000000634",
+                    "documento": "4 - certidao1404574710081.jpg"
+                }
+            ],
+            "naturalidade": "S\u00c3O BORJA",
+            "cnpj": "20570459000138",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RS/candidato/210000000634",
+            "numeroProtocolo": "314832014",
+            "bens": [
+                {
+                    "valor": "R$ 137.414,42",
+                    "nome": "CONDOMINIO RESIDENCIAL S\u00c3O CAETANO - PORTO ALEGRE"
+                },
+                {
+                    "valor": "R$ 192.555,98",
+                    "nome": "LOCALIZADO EM XANGRILA FINANCIADO"
+                },
+                {
+                    "valor": "R$ 16.065,25",
+                    "nome": "LOJA EDIFICIO IPIRANGA CENTER - PORTO ALEGRE"
+                },
+                {
+                    "valor": "R$ 65.972,80",
+                    "nome": "PEUGEOT 408 - 2011/12 FINANCIADO"
+                },
+                {
+                    "valor": "R$ 62.091,60",
+                    "nome": "MARCA KIA - SOUL 1.6   - 2011 - FINANCIADO"
+                },
+                {
+                    "valor": "R$ 8.548,74",
+                    "nome": "OUROCAP - BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 42.583,38",
+                    "nome": "BANCO BRASIL RF LPPREMIUM"
+                },
+                {
+                    "valor": "R$ 3.500,00",
+                    "nome": "BANCO BRASIL CDB-I"
+                },
+                {
+                    "valor": "R$ 14.279,30",
+                    "nome": "BANRISUL"
+                },
+                {
+                    "valor": "R$ 8.019,20",
+                    "nome": "BANCO BRASIL DILP - PREM"
+                },
+                {
+                    "valor": "R$ 33.075,00",
+                    "nome": "CPF 82156271020"
+                },
+                {
+                    "valor": "R$ 33.075,00",
+                    "nome": "CPF 00389807036"
+                },
+                {
+                    "valor": "R$ 12.080,40",
+                    "nome": "BANRISUL"
+                },
+                {
+                    "valor": "R$ 4.963,43",
+                    "nome": "CC BANCO BRASIL"
+                },
+                {
+                    "valor": "R$ 9.287,19",
+                    "nome": "BRASIL PREV"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino Fundamental completo",
+            "numeroUrna": "11",
+            "composicaoColigacao": "PP / PRB / PSDB / SD",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404918127000"
+            },
+            "id": "210000000634",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "ESPERAN\u00c7A QUE UNE O RIO GRANDE",
+            "nomeCompleto": "CASSIA CARPES",
+            "nascimento": "14/06/1953",
+            "status": "Aguardando julgamento",
+            "codigo": "11",
+            "nomeUrna": "CASSIA CARPES",
+            "partido": "SD"
+        },
+        "210000000001": {
+            "ocupacao": "Servidor P\u00fablico Municipal",
+            "numeroProcesso": "128-41.2014.6.21.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 510.821,63999999996",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=85995&sqCandidato=22695",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=210000000473&sgUe=RS",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000001/idarquivo/6?x=1404818319000210000000001",
+                    "documento": "4 - certidao1404333039031.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000001/idarquivo/5?x=1404818319000210000000001",
+                    "documento": "3 - certidao1404333039031.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000001/idarquivo/4?x=1404818319000210000000001",
+                    "documento": "2 - certidao1404333039030.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000001/idarquivo/3?x=1404818319000210000000001",
+                    "documento": "1 - certidao1404333039029.jpg"
+                }
+            ],
+            "naturalidade": "CAXIAS DO SUL",
+            "cnpj": "20545378000188",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RS/candidato/210000000001",
+            "numeroProtocolo": "303202014",
+            "bens": [
+                {
+                    "valor": "R$ 148.000,00",
+                    "nome": "1 APARTAMENTO N.101 E BOX 31 SITUADO NA CONSELHEIRO DANTAS, N\u00ba 191 COM \u00c1REA TOTAL DE 116,67M2 ADQUIRIDO DE SOLIVAN PADILHA PESCADOR CPF 24872849000."
+                },
+                {
+                    "valor": "R$ 51.104,83",
+                    "nome": "01 APARTAMENTO SITUADO NA AV. BORGES DE MEDEIROS, 3200/1805 EM POA/RS FINANCIADO ATRAV\u00c9S DO BANRISUL S/A CNPJ 92.702.067/0001-96"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "59% DE UMA \u00c1REA DE TERRA COM 30.000 M2 DENOMINADA APANHADOR LOCALIZADA NO DISTRITO DE JUA, NO MUNIC\u00cdPIO DE S\u00c3O FRANCISCO DE PAULA"
+                },
+                {
+                    "valor": "R$ 154.409,30",
+                    "nome": "01 TERRENO COM CASA, CFE ESCRITURA P\u00daBLICA N\u00ba 18311-67 DE 14/07/1982"
+                },
+                {
+                    "valor": "R$ 29.801,72",
+                    "nome": "1 AUTOM\u00d3VEL FORD/FIESTA 1.6 FLEX COR PRETA ANO 2009 MODELO 2010 ADQUIRIDO EM 14/12/2009 DE FORD MOTOR COMPANY BRASIL LTDA CNPJ 03470727/001607 CFE NOTA FISCAL 53.708"
+                },
+                {
+                    "valor": "R$ 35.951,23",
+                    "nome": "CONTA DE POUPAN\u00c7A NO BANRISUL S/A"
+                },
+                {
+                    "valor": "R$ 5.225,66",
+                    "nome": "CONTA POUPAN\u00c7A NA CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 49.288,90",
+                    "nome": "APLICA\u00c7\u00c3O DE RENDA FIXA NO BANRISUL S/A"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "LETRA DE CREDITO IMOBILI\u00c1RIO - BANRISUL"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "SALDO EM CONTA CORRENTE BANRISUL"
+                },
+                {
+                    "valor": "R$ 2.039,00",
+                    "nome": "SALDO EM CONTA CORRENTE CAIXA ECONOMICA FEDERAL"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PT / PTC / PC do B / PROS / PPL / PTB / PR",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404818319000"
+            },
+            "id": "210000000001",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "UNIDADE POPULAR PELO RIO GRANDE",
+            "nomeCompleto": "ABGAIL PEREIRA",
+            "nascimento": "30/07/1960",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "ABGAIL PEREIRA",
+            "partido": "PC do B"
+        },
+        "210000000628": {
+            "ocupacao": "Professor de Ensino Superior",
+            "numeroProcesso": "1204-03.2014.6.21.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 826.374,11",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=210000001434&sgUe=RS",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000628/idarquivo/3468?x=1405189178000210000000628",
+                    "documento": "1 - certidao1404574223434.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000628/idarquivo/3469?x=1405189178000210000000628",
+                    "documento": "2 - certidao1404574223434.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000628/idarquivo/3470?x=1405189178000210000000628",
+                    "documento": "3 - certidao1404574223435.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000628/idarquivo/3471?x=1405189178000210000000628",
+                    "documento": "4 - certidao1404574223435.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000628/idarquivo/3472?x=1405189178000210000000628",
+                    "documento": "5 - certidao1404574223436.jpg"
+                }
+            ],
+            "naturalidade": "SANTA MARIA",
+            "cnpj": "20563970000102",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RS/candidato/210000000628",
+            "numeroProtocolo": "314762014",
+            "bens": [
+                {
+                    "valor": "R$ 700.000,00",
+                    "nome": "1.\tAPARTAMENTO N\u00daMERO 903 DO EDIF\u00cdCIO VILLAGE TIROL, SITO \u00c0 RUA ITOROR\u00d3, 160, EM PORTO ALEGRE"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "3.\tAUTOM\u00d3VEL GM CRUZE 2012, PLACAS DE PORTO ALEGRE DE N\u00daMERO IST- 2176"
+                },
+                {
+                    "valor": "R$ 21.319,22",
+                    "nome": "4.\tCONTA POUPAN\u00c7A N\u00daMERO 01300055729 DA CAIXA FEDERAL AG\u00caNCIA GUIA LOPES"
+                },
+                {
+                    "valor": "R$ 28.217,38",
+                    "nome": "5.\tCONTA CORRENTE N\u00daMERO 1002-01000114.4 NO BANCO SANTANDER."
+                },
+                {
+                    "valor": "R$ 2.037,51",
+                    "nome": "5.\tCONTA CORRENTE N\u00daMERO 1002-01000114.4 NO BANCO SANTANDER."
+                },
+                {
+                    "valor": "R$ 4.800,00",
+                    "nome": "7.\tDINHEIRO EM ESP\u00c9CIE."
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "21",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405189178000"
+            },
+            "id": "210000000628",
+            "enderecoWeb": "weww.pcb.org.br",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PCB",
+            "nomeCompleto": "NUBEM MEDEIROS",
+            "nascimento": "07/12/1943",
+            "status": "Aguardando julgamento",
+            "codigo": "21",
+            "nomeUrna": "NUBEM MEDEIROS",
+            "partido": "PCB"
+        },
+        "210000000288": {
+            "ocupacao": "Administrador",
+            "numeroProcesso": "192-51.2014.6.21.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 120.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000288/idarquivo/1609?x=1405004837000210000000288",
+                    "documento": "1 - certidao1404487189978.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000288/idarquivo/1610?x=1405004837000210000000288",
+                    "documento": "2 - certidao1404487189978.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000288/idarquivo/1611?x=1405004837000210000000288",
+                    "documento": "3 - certidao1404487189979.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000288/idarquivo/1612?x=1405004837000210000000288",
+                    "documento": "4 - certidao1404487189979.pdf"
+                }
+            ],
+            "naturalidade": "PORTO ALGRE",
+            "cnpj": "20562044000112",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RS/candidato/210000000288",
+            "numeroProtocolo": "310502014",
+            "bens": [
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "TERRENO COM CASA"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "33",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405004837000"
+            },
+            "id": "210000000288",
+            "enderecoWeb": "ROBERTOWILODRE.COM.BR",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PMN",
+            "nomeCompleto": "ROBERTO WILODRE",
+            "nascimento": "02/05/1978",
+            "status": "Aguardando julgamento",
+            "codigo": "33",
+            "nomeUrna": "ROBERTO WILODRE",
+            "partido": "PMN"
+        },
+        "210000000499": {
+            "ocupacao": "Aposentado (Exceto Servidor P\u00fablico)",
+            "numeroProcesso": "319-86.2014.6.21.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 200.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RS&sq_cand=10802",
+                    "ano": "2006"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000499/idarquivo/3055?x=1404826059000210000000499",
+                    "documento": "1 - certidao1404572567683.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000499/idarquivo/3056?x=1404826059000210000000499",
+                    "documento": "2 - certidao1404572567684.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000499/idarquivo/3057?x=1404826059000210000000499",
+                    "documento": "3 - certidao1404572567685.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000499/idarquivo/3058?x=1404826059000210000000499",
+                    "documento": "4 - certidao1404572567686.jpg"
+                }
+            ],
+            "naturalidade": "CRUZ ALTA",
+            "cnpj": "20567156000166",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RS/candidato/210000000499",
+            "numeroProtocolo": "313202014",
+            "bens": [
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "CASA DEALVENARIA COM TR\u00caS DORMITORIOS FINANCIADA CR$185,00"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino Fundamental completo",
+            "numeroUrna": "28",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404826059000"
+            },
+            "id": "210000000499",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "PRTB",
+            "nomeCompleto": "HERMES SOUZA",
+            "nascimento": "03/04/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "28",
+            "nomeUrna": "HERMES SOUZA",
+            "partido": "PRTB"
+        },
+        "210000000286": {
+            "ocupacao": "Advogado",
+            "numeroProcesso": "328-48.2014.6.21.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 900.000,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000286/idarquivo/1597?x=1404777534000210000000286",
+                    "documento": "1 - certidao1404486050278.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000286/idarquivo/1598?x=1404777534000210000000286",
+                    "documento": "2 - certidao1404486050278.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000286/idarquivo/1599?x=1404777534000210000000286",
+                    "documento": "3 - certidao1404486050279.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000286/idarquivo/1600?x=1404777534000210000000286",
+                    "documento": "4 - certidao1404486050279.pdf"
+                }
+            ],
+            "naturalidade": "SANTO ANTONIO DA PATRULHA",
+            "cnpj": "20560362000144",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RS/candidato/210000000286",
+            "numeroProtocolo": "310392014",
+            "bens": [
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "IMOVEL RESIDENCIAL, CIDADE DE PORTO ALEGRE"
+                },
+                {
+                    "valor": "R$ 300.000,00",
+                    "nome": "QUOTAS SOCIAIS DA EMPRESA MERCADO IMOBILIARIO LTDA"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "DINHEIRO EM ESPECIE"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "12",
+            "composicaoColigacao": "PDT / PSC / DEM / PV / PEN",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404777534000"
+            },
+            "id": "210000000286",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "O Rio Grande Merece Mais",
+            "nomeCompleto": "FLAVIO GOMES",
+            "nascimento": "18/01/1948",
+            "status": "Aguardando julgamento",
+            "codigo": "12",
+            "nomeUrna": "FLAVIO GOMES",
+            "partido": "PSC"
+        },
+        "210000000084": {
+            "ocupacao": "Engenheiro",
+            "numeroProcesso": "334-55.2014.6.21.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 3.868.208,9700000007",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000084/idarquivo/124?x=1405085844000210000000084",
+                    "documento": "1 - certidao1404480703121.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000084/idarquivo/125?x=1405085844000210000000084",
+                    "documento": "2 - certidao1404480703122.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000084/idarquivo/126?x=1405085844000210000000084",
+                    "documento": "3 - certidao1404480703122.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000084/idarquivo/127?x=1405085844000210000000084",
+                    "documento": "4 - certidao1404480703123.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000084/idarquivo/128?x=1405085844000210000000084",
+                    "documento": "5 - certidao1404480703123.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000084/idarquivo/129?x=1405085844000210000000084",
+                    "documento": "6 - certidao1404480703124.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000084/idarquivo/130?x=1405085844000210000000084",
+                    "documento": "7 - certidao1404480703124.jpg"
+                }
+            ],
+            "naturalidade": "PORTO ALEGRE",
+            "cnpj": "20587246000119",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RS/candidato/210000000084",
+            "numeroProtocolo": "307872014",
+            "bens": [
+                {
+                    "valor": "R$ 527.908,00",
+                    "nome": "CASA EM PORTO ALEGRE NA RUA CEL BORDINI 658"
+                },
+                {
+                    "valor": "R$ 85.219,60",
+                    "nome": "CAMIONETE TOYOTA HYLUX CS 4X4, DIESEL, 2013/2014"
+                },
+                {
+                    "valor": "R$ 118.000,00",
+                    "nome": "CAMIONETE MITSUBISHI L 200 TRITON 3,2 DIESEL AT, CABINE DUPLA, 2012/2013"
+                },
+                {
+                    "valor": "R$ 223.250,00",
+                    "nome": "223.350 QUOTAS DA CAIROLI EMPREENDIMENTOS E PARTICIPA\u00c7\u00d5ES LTDA"
+                },
+                {
+                    "valor": "R$ 1.422.500,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O NO CAPITAL SOCIAL DA RECONQUISTA AGROPECU\u00c1RIA LTDA"
+                },
+                {
+                    "valor": "R$ 19.692,68",
+                    "nome": "A\u00c7\u00d5ES, FUNDOS, POUPAN\u00c7AS E RENDA FIXA"
+                },
+                {
+                    "valor": "R$ 706,47",
+                    "nome": "288,540G"
+                },
+                {
+                    "valor": "R$ 265.000,00",
+                    "nome": "DIREITO DE CR\u00c9DITO JUNTO AO ESP\u00d3LIO JOS\u00c9 CAIROLI"
+                },
+                {
+                    "valor": "R$ 333.786,69",
+                    "nome": "DIREITO DE CR\u00c9DITO JUNTO A RECONQUISTA AGROPECU\u00c1RIA LTDA"
+                },
+                {
+                    "valor": "R$ 72.000,00",
+                    "nome": "DIREITO DE CR\u00c9DITO JUNTO AO FLAVIO TELLECHEA CAIROLI"
+                },
+                {
+                    "valor": "R$ 629.730,81",
+                    "nome": "SALDOS BANC\u00c1RIOS EM 01/07/2014"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "DINHEIRO EM ESP\u00c9CIE NA MINHA CASA"
+                },
+                {
+                    "valor": "R$ 20.414,72",
+                    "nome": "CONS\u00d3RCIO DE AUTOM\u00d3VEIS"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PSD / PPS / PSB / PHS / PT do B / PSL / PSDC",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405085844000"
+            },
+            "id": "210000000084",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "O NOVO CAMINHO PARA O RIO GRANDE",
+            "nomeCompleto": "CAIROLI",
+            "nascimento": "09/03/1952",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "CAIROLI",
+            "partido": "PSD"
+        },
+        "210000000057": {
+            "ocupacao": "Jornalista e Redator",
+            "numeroProcesso": "136-18.2014.6.21.0000",
+            "genero": "FEMININO",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000057/idarquivo/6168?x=1404852939000210000000057",
+                    "documento": "4 - certidao1404852934371.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000057/idarquivo/6167?x=1404852939000210000000057",
+                    "documento": "3 - certidao1404852926131.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000057/idarquivo/6166?x=1404852939000210000000057",
+                    "documento": "2 - certidao1404852919586.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RS/candidato/210000000057/idarquivo/6165?x=1404852939000210000000057",
+                    "documento": "1 - certidao1404852910955.pdf"
+                }
+            ],
+            "naturalidade": "PORTO ALEGRE",
+            "cnpj": "20558111000125",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RS/candidato/210000000057",
+            "numeroProtocolo": "306182014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "PSOL / PSTU",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404852939000"
+            },
+            "id": "210000000057",
+            "enderecoWeb": "facebook.com/gabi.tolotti",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "Frente de Esquerda - PSOL / PSTU",
+            "nomeCompleto": "GABI TOLOTTI",
+            "nascimento": "26/09/1982",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "GABI TOLOTTI",
+            "partido": "PSOL"
+        }
+    }
+}

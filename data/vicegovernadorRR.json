@@ -1,0 +1,373 @@
+{
+    "vicegovernadorRR": {
+        "230000000005": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "106-26.2014.6.23.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 3.309.844,87",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=03123&sqCandidato=584",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=230000000078&sgUe=RR",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000005/idarquivo/24?x=1405256129000230000000005",
+                    "documento": "1 - certidao1404477280003.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000005/idarquivo/25?x=1405256129000230000000005",
+                    "documento": "2 - certidao1404477280004.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000005/idarquivo/26?x=1405256129000230000000005",
+                    "documento": "3 - certidao1404477280005.pdf"
+                }
+            ],
+            "naturalidade": "TORRES",
+            "cnpj": "20559306000190",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RR/candidato/230000000005",
+            "numeroProtocolo": "21432014",
+            "bens": [
+                {
+                    "valor": "R$ 2.012.800,00",
+                    "nome": "AQUISI\u00c7\u00c3O FAZENDAS REUNIDAS ESPIRITO SANTO E FAZENDA SANTA LOURDES, REPRESENTADAS POR UMA AREA TOTAL DE 12.580 HECTARES NO MUNICIPIO DE CACHOEIRA DO ARARI - PARA"
+                },
+                {
+                    "valor": "R$ 73.000,00",
+                    "nome": "COROLLA XEI AT 2.0I FLEX ANO 2010 MODELO 2011, DA DISVECO LTDA"
+                },
+                {
+                    "valor": "R$ 127.000,00",
+                    "nome": "COMPRA DE UM VEICULO TOYOTA HYLUX CD 4X4 SRV, ANO/MODELO 2012/2012, CHASSIS 8AJFY29GXC8507278, PLACA DAK-2217, COR PRETA"
+                },
+                {
+                    "valor": "R$ 929.000,00",
+                    "nome": "99% DE PARTICIPACAO NO CAPITAL SOCIAL DA EMPRESA QUARTIERO & ALMEIDA LTDA., CNPJ 22.907.158/0001-82"
+                },
+                {
+                    "valor": "R$ 167.910,41",
+                    "nome": "BB CP ESTILO"
+                },
+                {
+                    "valor": "R$ 134,46",
+                    "nome": "POUPANCA OURO DO BANCO DO BRASIL S.A."
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "11",
+            "composicaoColigacao": "PP / PTB / DEM",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405256129000"
+            },
+            "id": "230000000005",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "\"SALVE RORAIMA\"",
+            "nomeCompleto": "PAULO QUARTIERO",
+            "nascimento": "16/07/1952",
+            "status": "Aguardando julgamento",
+            "codigo": "11",
+            "nomeUrna": "PAULO QUARTIERO",
+            "partido": "DEM"
+        },
+        "230000000254": {
+            "ocupacao": "Engenheiro",
+            "numeroProcesso": "370-43.2014.6.23.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 540.524,72",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000254/idarquivo/1242?x=1405005333000230000000254",
+                    "documento": "1 - certidao1404596585864.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000254/idarquivo/1243?x=1405005333000230000000254",
+                    "documento": "2 - certidao1404596585864.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000254/idarquivo/1244?x=1405005333000230000000254",
+                    "documento": "3 - certidao1404596585865.jpg"
+                }
+            ],
+            "naturalidade": "LONDRINA",
+            "cnpj": "20583742000102",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RR/candidato/230000000254",
+            "numeroProtocolo": "24362014",
+            "bens": [
+                {
+                    "valor": "R$ 123.000,00",
+                    "nome": "RESIDENCIA EM CONDOMINIO NO MUNICIPIO DE PACARAIMA"
+                },
+                {
+                    "valor": "R$ 199.400,00",
+                    "nome": "GALP\u00d5ES E RESIDENCIA"
+                },
+                {
+                    "valor": "R$ 67.980,00",
+                    "nome": "CAMINHONETA S-10 2005/2006"
+                },
+                {
+                    "valor": "R$ 14.000,00",
+                    "nome": "CAMINHONETEE FORD F-1000 1994"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "CAPITAL INTEGRALIZADO EM FIRMA INDIVIDUAL"
+                },
+                {
+                    "valor": "R$ 22.265,26",
+                    "nome": "CADERNETA POUPAN\u00c7A CAIXA ECONOMICA"
+                },
+                {
+                    "valor": "R$ 762,87",
+                    "nome": "CADERENETA POUPAN\u00c7A BANCO DA AMAZ\u00d4NIA"
+                },
+                {
+                    "valor": "R$ 100,00",
+                    "nome": "DEP. BANC\u00c1RIO CAIXA ECONOMICA"
+                },
+                {
+                    "valor": "R$ 1.307,34",
+                    "nome": "DEP BANC\u00c1RIO"
+                },
+                {
+                    "valor": "R$ 96.709,25",
+                    "nome": "FUNDO DE INVESTIMENTO 6800 CAIXA ECONOMICA"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PT / PDT / PC do B / PV / PTC",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405005333000"
+            },
+            "id": "230000000254",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "\u00c9 PRA FRENTE QUE SE ANDA",
+            "nomeCompleto": "ALEXANDRE HENKLAIN",
+            "nascimento": "04/12/1960",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "ALEXANDRE HENKLAIN",
+            "partido": "PDT"
+        },
+        "230000000010": {
+            "ocupacao": "Taxista",
+            "numeroProcesso": "116-70.2014.6.23.0000",
+            "genero": "MASCULINO",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000010/idarquivo/47?x=1405107049000230000000010",
+                    "documento": "1 - certidao1404569808921.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000010/idarquivo/48?x=1405107049000230000000010",
+                    "documento": "2 - certidao1404569808923.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000010/idarquivo/49?x=1405107049000230000000010",
+                    "documento": "3 - certidao1404569808924.pdf"
+                }
+            ],
+            "naturalidade": "MANAUS",
+            "cnpj": "20566538000175",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RR/candidato/230000000010",
+            "numeroProtocolo": "21822014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "PSOL / PSTU",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405107049000"
+            },
+            "id": "230000000010",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Vi\u00favo(a)",
+            "coligacao": "ALTERNATIVA DE ESQUERDA PARA RORAIMA",
+            "nomeCompleto": "LUIZ DO NENA BRASIL",
+            "nascimento": "25/08/1973",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "LUIZ DO NENA BRASIL",
+            "partido": "PSOL"
+        },
+        "230000000344": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "401-63.2014.6.23.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 4.454.828,42",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=230000000315&sgUe=RR",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000344/idarquivo/1666?x=1405001776000230000000344",
+                    "documento": "1 - certidao1404597808286.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000344/idarquivo/1667?x=1405001776000230000000344",
+                    "documento": "2 - certidao1404597808286.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000344/idarquivo/1668?x=1405001776000230000000344",
+                    "documento": "3 - certidao1404597808287.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000344/idarquivo/1669?x=1405001776000230000000344",
+                    "documento": "4 - certidao1404597808287.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RR/candidato/230000000344/idarquivo/1670?x=1405001776000230000000344",
+                    "documento": "5 - certidao1404597808288.pdf"
+                }
+            ],
+            "naturalidade": "RECIFE",
+            "cnpj": "20581826000107",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RR/candidato/230000000344",
+            "numeroProtocolo": "25302014",
+            "bens": [
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "1/4 DA CASA SITUADA NA RUA CANARINHO, 21, BOA VISTA-RR"
+                },
+                {
+                    "valor": "R$ 78.282,50",
+                    "nome": "50% DA CASA LOCALIZADA NA RUA JAMBEIRO"
+                },
+                {
+                    "valor": "R$ 550,00",
+                    "nome": "50% CASA SMDB, UNIDADE AUTONOMA B, LOTE 04, CONJ. 15 DF"
+                },
+                {
+                    "valor": "R$ 32.045,71",
+                    "nome": "50% DE TERRENO LOCALIZADO NA RUA CAPTAO JULIO BEZERRA"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "25% DO IMOVEL RURAL SITUADO NA GLEBA MURUPU"
+                },
+                {
+                    "valor": "R$ 15.414,59",
+                    "nome": "1/4 FAZENDA RECREIO EM BOA VISTA, 02 CASAS. VENDIDA PARCIALMENTE"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "50% DO LOTE DE TERRAS URBANO N 360 QD 240 PARQUE CAUME"
+                },
+                {
+                    "valor": "R$ 50.567,50",
+                    "nome": "LOTE DE TERRA URBANO 168, QUADRA 19, ZONA 06 CANARINHO"
+                },
+                {
+                    "valor": "R$ 1.016.000,00",
+                    "nome": "CASAS NOS LOTES 436 E 460 DA QD 210 RIVER PARK"
+                },
+                {
+                    "valor": "R$ 211.846,30",
+                    "nome": "TERRENOS NO LOTEAMENTO POTIGUAR SAID SALOM\u00c3O"
+                },
+                {
+                    "valor": "R$ 950.000,00",
+                    "nome": "TERRENO COM BENFEITORIAS NA RUA SURUMU , MECEJANA COM VENDA PARCIAL"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "25% QUOTAS DE CAPITAL DA FIRMA SOCIETAT PARTICIPA\u00c7\u00d5ES LTDA"
+                },
+                {
+                    "valor": "R$ 1.250,00",
+                    "nome": "25% DE COTAS DA EMPRESA NEWCO INVESTIMENTOS"
+                },
+                {
+                    "valor": "R$ 38.000,00",
+                    "nome": "95% DE COTAS DA EMPRESA BURITIS COMUNICA\u00c7\u00d5ES"
+                },
+                {
+                    "valor": "R$ 1.966,84",
+                    "nome": "EUROCAP PREMIO BB"
+                },
+                {
+                    "valor": "R$ 1.322,83",
+                    "nome": "FUNDO DE INVESTIMENTO CEF"
+                },
+                {
+                    "valor": "R$ 288.000,00",
+                    "nome": "LETRA DE CREDITO IMOBILIARIO CEF"
+                },
+                {
+                    "valor": "R$ 6.337,38",
+                    "nome": "OUROCAP 200 ANOS BB"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "CREDITO A RECEBER."
+                },
+                {
+                    "valor": "R$ 347.168,69",
+                    "nome": "CREDITO A RECEBER DA EMPRESA SOCIETAT"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "CREDITO A RECEBER"
+                },
+                {
+                    "valor": "R$ 300.000,00",
+                    "nome": "CREDITOS A RECEBER"
+                },
+                {
+                    "valor": "R$ 195.203,55",
+                    "nome": "CONTA CORRENTE BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 400.000,00",
+                    "nome": "DINHEIRO EM ESPECIE"
+                },
+                {
+                    "valor": "R$ 866,84",
+                    "nome": "CONTA CORRENTE BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 5,69",
+                    "nome": "SALDO EM CONTA CORRENTE NO BANCO DO BRASIL"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "40",
+            "composicaoColigacao": "PSB / PMDB / PSDB / PR / PRB / PSD / SD / PROS / PPS / PSC / PMN / PSDC / PT do B / PRTB / PHS / PSL / PPL / PTN / PEN / PRP",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405001776000"
+            },
+            "id": "230000000344",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "RORAIMA UNIDA",
+            "nomeCompleto": "RODRIGO JUC\u00c1",
+            "nascimento": "17/07/1981",
+            "status": "Aguardando julgamento",
+            "codigo": "40",
+            "nomeUrna": "RODRIGO JUC\u00c1",
+            "partido": "PMDB"
+        }
+    }
+}

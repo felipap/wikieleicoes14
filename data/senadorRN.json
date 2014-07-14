@@ -1,0 +1,407 @@
+{
+    "senadorRN": {
+        "200000000244": {
+            "suplente": {
+                "numero": "200000000245",
+                "nome": "JEAN-PAUL TERRA PRATES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RN/candidato/200000000245"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405008423000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RN/candidato/200000000244",
+            "nomeCompleto": "F\u00c1TIMA",
+            "nascimento": "19/05/1955",
+            "naturalidade": "NOVA PALMEIRA",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 115.000,00",
+                    "nome": "CASA NA RUA DESEMBARGADOR BENICIO FILHO 196 NATAL/RN"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "RESIDENCIAL NO CONJ. PONTA NEGRA"
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "AREA DE 48.03M\u00b2 NA RUA BAIA DE TURIACU 2229 PONTA NEGRA, NATAL/RN"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "LOTE 33 QC MED.250M\u00b2 EM CIDADE VERDE/RN"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "CHALE NA LAGOA DA ILHOTA 3629 NISIA FLORESTA/RN"
+                },
+                {
+                    "valor": "R$ 136.000,00",
+                    "nome": "HILUX PRETA 2012-DIESEL"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "FIESTA FLEX PLACA JHP 0623 ANO 2009"
+                },
+                {
+                    "valor": "R$ 42.000,00",
+                    "nome": "FIAT/PALIO WEEK ANO 2011/2012"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404591046805.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000244/idarquivo/1405?x=1405008423000200000000244"
+                },
+                {
+                    "documento": "2 - certidao1404591046806.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000244/idarquivo/1406?x=1405008423000200000000244"
+                },
+                {
+                    "documento": "3 - certidao1404591046806.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000244/idarquivo/1407?x=1405008423000200000000244"
+                },
+                {
+                    "documento": "4 - certidao1404591046807.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000244/idarquivo/1408?x=1405008423000200000000244"
+                }
+            ],
+            "partido": "PT",
+            "numeroProcesso": "378-04.2014.6.20.0000",
+            "codigo": "131",
+            "raca": "Parda",
+            "numeroProtocolo": "195132014",
+            "coligacao": "LIDERADOS PELO POVO",
+            "composicaoColigacao": "PSD / PT / PC do B / PT do B / PP / PEN / PRTB / PTC",
+            "numeroUrna": "131",
+            "ocupacao": "Deputado",
+            "cnpj": "20570447000103",
+            "limiteGastos": "R$ 15.000.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "200000000244",
+            "totalBensDeclarados": "R$ 558.000,0",
+            "nomeUrna": "F\u00c1TIMA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RN&sq_cand=10039"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=17612&sqCandidato=4104"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=200000000281&sgUe=RN"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "200000000018": {
+            "suplente": {
+                "numero": "200000000019",
+                "nome": "RICARDO BEZERRA DE FARIAS",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RN/candidato/200000000019"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404579308000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RN/candidato/200000000018",
+            "nomeCompleto": "ROBERTO RONCONI",
+            "nascimento": "09/01/1949",
+            "naturalidade": "SAO JOSE DOS CAMPOS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 180.000,00",
+                    "nome": "TERRENO COM 10 HECTARES"
+                },
+                {
+                    "valor": "R$ 16.000,00",
+                    "nome": "AUTOMOVEL MARCA FIAT MODELO SIENA COR VERMELHO ANO 2006"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404421590752.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000018/idarquivo/90?x=1404579308000200000000018"
+                },
+                {
+                    "documento": "2 - certidao1404421590752.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000018/idarquivo/91?x=1404579308000200000000018"
+                },
+                {
+                    "documento": "3 - certidao1404421590753.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000018/idarquivo/92?x=1404579308000200000000018"
+                },
+                {
+                    "documento": "4 - certidao1404421590754.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000018/idarquivo/93?x=1404579308000200000000018"
+                }
+            ],
+            "partido": "PSL",
+            "numeroProcesso": "125-16.2014.6.20.0000",
+            "codigo": "177",
+            "raca": "Branca",
+            "numeroProtocolo": "192112014",
+            "coligacao": "PSL",
+            "composicaoColigacao": "",
+            "numeroUrna": "177",
+            "ocupacao": "Terapeuta",
+            "cnpj": "20557677000132",
+            "limiteGastos": "R$ 300.000,00",
+            "estadoCivil": "Divorciado(a)",
+            "id": "200000000018",
+            "totalBensDeclarados": "R$ 196.000,0",
+            "nomeUrna": "ROBERTO RONCONI",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RN&sq_cand=10296"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        },
+        "200000000129": {
+            "suplente": {
+                "numero": "200000000128",
+                "nome": "FLAVIO JOS\u00c9 CAVALCANTI DE AZEVEDO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RN/candidato/200000000128"
+            },
+            "enderecoWeb": "www.vilmasenadora.com.br",
+            "meta": {
+                "lastUpdate": "1405106778000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RN/candidato/200000000129",
+            "nomeCompleto": "VILMA MARIA DE FARIA",
+            "nascimento": "17/02/1945",
+            "naturalidade": "MOSSORO",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 59.739,21",
+                    "nome": "APTO. NO PARTHAENON GOLDEN BEACH, RECIFE PE"
+                },
+                {
+                    "valor": "R$ 225.000,00",
+                    "nome": "APARTAMENTO NO ED ALMANARA, NATAL RN"
+                },
+                {
+                    "valor": "R$ 228.743,16",
+                    "nome": "APTO. NO ED. MONTE VERDI, RECIFE PE"
+                },
+                {
+                    "valor": "R$ 72.000,00",
+                    "nome": "APTO. ED MARIA LEITE CAVALCANTE RESIDENCE"
+                },
+                {
+                    "valor": "R$ 306.338,44",
+                    "nome": "CASA FINANCIADA, CANDEL\u00c1RIA, NATAL RN"
+                },
+                {
+                    "valor": "R$ 145.000,00",
+                    "nome": "UM AUTOMOVEL MARCA MITSHUBISHI PAJERO DAKAR, MODELO 2012, PLACA NOE 1103"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404586911588.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000129/idarquivo/615?x=1405106778000200000000129"
+                },
+                {
+                    "documento": "2 - certidao1404586911589.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000129/idarquivo/616?x=1405106778000200000000129"
+                },
+                {
+                    "documento": "3 - certidao1404586911589.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000129/idarquivo/617?x=1405106778000200000000129"
+                },
+                {
+                    "documento": "4 - certidao1404586911590.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000129/idarquivo/618?x=1405106778000200000000129"
+                },
+                {
+                    "documento": "5 - certidao1404586911591.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000129/idarquivo/619?x=1405106778000200000000129"
+                },
+                {
+                    "documento": "6 - certidao1404586911591.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000129/idarquivo/620?x=1405106778000200000000129"
+                },
+                {
+                    "documento": "7 - certidao1404586911592.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000129/idarquivo/621?x=1405106778000200000000129"
+                }
+            ],
+            "partido": "PSB",
+            "numeroProcesso": "264-65.2014.6.20.0000",
+            "codigo": "400",
+            "raca": "Branca",
+            "numeroProtocolo": "193932014",
+            "coligacao": "UNI\u00c3O PELA MUDAN\u00c7A",
+            "composicaoColigacao": "PMDB / PR / PSB / PROS / PDT / SD / PSC / PTB / PPS / PHS / PSDB / PSDC / PRB / PTN / PV / PMN / PRP",
+            "numeroUrna": "400",
+            "ocupacao": "Aposentado (Exceto Servidor P\u00fablico)",
+            "cnpj": "20565516000190",
+            "limiteGastos": "R$ 15.000.000,00",
+            "estadoCivil": "Divorciado(a)",
+            "id": "200000000129",
+            "totalBensDeclarados": "R$ 1.036.820,81",
+            "nomeUrna": "VILMA MARIA DE FARIA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RN&sq_cand=10006"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=200000000267&sgUe=RN"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "200000000099": {
+            "suplente": {
+                "numero": "200000000100",
+                "nome": "IZACY GERLANE DA SILVA MELO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RN/candidato/200000000100"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405083409000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RN/candidato/200000000099",
+            "nomeCompleto": "PROFESSOR LAILSON",
+            "nascimento": "07/07/1950",
+            "naturalidade": "NATAL",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "APARTAMENTO, NOVA PARNAMIRIM, RN"
+                },
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "CASA RESIDENCIAL, BAIRRO LAGOA NOVA - NATAL/RN"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "TERRENO NA PRAIA DE PITANGUI, EXTREMOZ/RN"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404574431372.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000099/idarquivo/462?x=1405083409000200000000099"
+                },
+                {
+                    "documento": "2 - certidao1404574431373.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000099/idarquivo/463?x=1405083409000200000000099"
+                },
+                {
+                    "documento": "3 - certidao1404574431373.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000099/idarquivo/464?x=1405083409000200000000099"
+                },
+                {
+                    "documento": "4 - certidao1404574431374.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000099/idarquivo/465?x=1405083409000200000000099"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "225-68.2014.6.20.0000",
+            "codigo": "500",
+            "raca": "Branca",
+            "numeroProtocolo": "193392014",
+            "coligacao": "PSOL",
+            "composicaoColigacao": "",
+            "numeroUrna": "500",
+            "ocupacao": "Professor e Instrutor de Forma\u00e7\u00e3o Profissional",
+            "cnpj": "20564487000142",
+            "limiteGastos": "R$ 150.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "200000000099",
+            "totalBensDeclarados": "R$ 500.000,0",
+            "nomeUrna": "PROFESSOR LAILSON",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "200000000003": {
+            "suplente": {
+                "numero": "200000000004",
+                "nome": "ALEXANDRE GUEDES FERNANDES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/RN/candidato/200000000004"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404566561000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/RN/candidato/200000000003",
+            "nomeCompleto": "ANA CELIA",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "CEARA-MIRIM",
+            "genero": "FEMININO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404415521837.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000003/idarquivo/14?x=1404566561000200000000003"
+                },
+                {
+                    "documento": "2 - certidao1404415521838.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000003/idarquivo/15?x=1404566561000200000000003"
+                },
+                {
+                    "documento": "3 - certidao1404415521838.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000003/idarquivo/16?x=1404566561000200000000003"
+                },
+                {
+                    "documento": "4 - certidao1404415521839.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000003/idarquivo/17?x=1404566561000200000000003"
+                }
+            ],
+            "partido": "PSTU",
+            "numeroProcesso": "110-47.2014.6.20.0000",
+            "codigo": "161",
+            "raca": "Preta",
+            "numeroProtocolo": "191892014",
+            "coligacao": "PSTU",
+            "composicaoColigacao": "",
+            "numeroUrna": "161",
+            "ocupacao": "Professor de Ensino Fundamental",
+            "cnpj": "20557965000197",
+            "limiteGastos": "R$ 20.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "200000000003",
+            "nascimento": "15/08/1966",
+            "nomeUrna": "ANA CELIA",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RN&sq_cand=10210"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=16519&sqCandidato=6340"
+                }
+            ]
+        }
+    }
+}

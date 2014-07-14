@@ -1,0 +1,906 @@
+{
+    "vicegovernadorMS": {
+        "120000000281": {
+            "ocupacao": "Empres\u00e1rio",
+            "numeroProcesso": "214-61.2014.6.12.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 2.721.395,6799999997",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000281/idarquivo/1690?x=1404931222000120000000281",
+                    "documento": "1 - certidao1404587581665.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000281/idarquivo/1691?x=1404931222000120000000281",
+                    "documento": "2 - certidao1404587581666.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000281/idarquivo/1692?x=1404931222000120000000281",
+                    "documento": "3 - certidao1404587581666.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000281/idarquivo/1693?x=1404931222000120000000281",
+                    "documento": "4 - certidao1404587581667.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000281/idarquivo/1694?x=1404931222000120000000281",
+                    "documento": "5 - certidao1404587581667.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000281/idarquivo/1695?x=1404931222000120000000281",
+                    "documento": "6 - certidao1404587581668.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000281/idarquivo/1696?x=1404931222000120000000281",
+                    "documento": "7 - certidao1404587581668.pdf"
+                }
+            ],
+            "naturalidade": "CAMPO GRANDE",
+            "cnpj": "N\u00c3O INFORMADO",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000281",
+            "numeroProtocolo": "204772014",
+            "bens": [
+                {
+                    "valor": "R$ 350.000,00",
+                    "nome": "918,7449 H\u00c1 DE TERRA NUA DA FAZENDA RS, RECEBIDO EM PERMUTA COM ESTACIA SANTA ALZIRA, DE ROSIRIDE MARTINS CORTADA STELINI CPF: 849.386.098-00 EM 26/07/2006"
+                },
+                {
+                    "valor": "R$ 0,01",
+                    "nome": "903,2913 HA DE TERRA MUA. SITUADA EM MIRANDA MS, ADQUIRIDA EM NOME DE MINHA FILHA THAIS MORAIS SALOMAO CPF 941.348.201-20, DE HUMBARTO CESAR FIORI FILHO E SUA MULHER CPF 004.808.738-60"
+                },
+                {
+                    "valor": "R$ 237.419,30",
+                    "nome": "25% DE TERRA NUA, DE UM TOTAL DE 1.302,2187 HA, FAZENDA PONTAL, RECEBIDA EM DOACAO DE MEUS PAIS, ANTONIO MORAIS DOS SANTOS, CPF 003.584.301-15 E DELURCE DE MOURA MORAIS, CPF 712.121.241-20"
+                },
+                {
+                    "valor": "R$ 1.200,00",
+                    "nome": "DIREITO DE USO DAS LINHAS TELEFONICAS N 724-1273, 724-3768, E 686-1015, JUNTO A TELEMS, EM 16/01/98"
+                },
+                {
+                    "valor": "R$ 82.898,00",
+                    "nome": "82.898 QUOTAS DO CAPITAL SOCIAL DA EMPRESA MORAIS E FILHOS AGROPECUARIA LTDA \u00bf CNPJ 19.312.176/0001-07 \u00bf A INTEGRALIZAR"
+                },
+                {
+                    "valor": "R$ 1.570.000,00",
+                    "nome": "1.570.000 QUOTAS DE CAPITAL, INTEGRALIZADO E A INTEGRALIZAR NA EMPRESA MORAIS DOS SANTOS EMPREENDIMENTOS E ADMINISTRACAO DE IMOVEIS PROPRIOS LTDA \u00bf CNPJ 05.434.596/0001-51"
+                },
+                {
+                    "valor": "R$ 0,01",
+                    "nome": "SALDO EM CADERNETA DE POUPANCA \u00bf BANCO SAFRA"
+                },
+                {
+                    "valor": "R$ 1.577,31",
+                    "nome": "SALDO CADERNETA DE POUPANCA HSBC"
+                },
+                {
+                    "valor": "R$ 17.600,00",
+                    "nome": "FUNDO DE RENDA FIXA DO HSBC"
+                },
+                {
+                    "valor": "R$ 4.383,90",
+                    "nome": "SALDO C/C HSBC BANK BRASIL S/A E CONTA INVESTIMENTO"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "VALOR EM MOEDA CORRENTE"
+                },
+                {
+                    "valor": "R$ 2.397,15",
+                    "nome": "TITULO DE CAPITALIZACAO DO HSBC"
+                },
+                {
+                    "valor": "R$ 350.000,00",
+                    "nome": "EMPRESTIMO A LUCIANO STUART SANTOS \u00bf CPF 502.094.341-04"
+                },
+                {
+                    "valor": "R$ 3.920,00",
+                    "nome": "PREMIOS ACUMULADO EM VGBL DO HSBC BANK BRASIL"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior incompleto",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PSB / PT do B / PSC / PHS / PRB / PRTB / PTN / PEN",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404931222000"
+            },
+            "id": "120000000281",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "MS CADA VEZ MELHOR",
+            "nomeCompleto": "PRA. JANETE MORAIS",
+            "nascimento": "19/06/1950",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "PRA. JANETE MORAIS",
+            "partido": "PSB"
+        },
+        "120000000441": {
+            "ocupacao": "Advogado",
+            "numeroProcesso": "397-32.2014.6.12.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 58.455,020000000004",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000441/idarquivo/2476?x=1404817406000120000000441",
+                    "documento": "1 - certidao1404599614733.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000441/idarquivo/2477?x=1404817406000120000000441",
+                    "documento": "2 - certidao1404599614734.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000441/idarquivo/2478?x=1404817406000120000000441",
+                    "documento": "3 - certidao1404599614734.pdf"
+                }
+            ],
+            "naturalidade": "AURIFLAMA",
+            "cnpj": "20576359000119",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000441",
+            "numeroProtocolo": "206492014",
+            "bens": [
+                {
+                    "valor": "R$ 8.190,00",
+                    "nome": "ALTOS DO INDAIA, Q 51, L(A)533,406M, FINANCIADO"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "MOTO XRE300, FINANCIADA,"
+                },
+                {
+                    "valor": "R$ 16.632,00",
+                    "nome": "FIAT PUNTO, ATRACTIVE, 2011/2011, PRETA, ALCOOL/GASOLINA, FINANCIADO"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "MOTO SUZUKI, DL650, 2010/2011, VSTRON, GASOLINA"
+                },
+                {
+                    "valor": "R$ 751,94",
+                    "nome": "CAIXA ECONOMICA FEDERAL, AGENCIA 2052, C/C 01300008722-0,"
+                },
+                {
+                    "valor": "R$ 1.831,08",
+                    "nome": "CAIXA ECONOMICA FEDERAL, AG. 2052, C/C 00001497-1"
+                },
+                {
+                    "valor": "R$ 50,00",
+                    "nome": "CAIXA ECONOMICA FEDERAL, AG 2052, C/C 00100001497-1"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "11",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404817406000"
+            },
+            "id": "120000000441",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "PP",
+            "nomeCompleto": "VIRGINIA MAGRINI",
+            "nascimento": "15/06/1959",
+            "status": "Aguardando julgamento",
+            "codigo": "11",
+            "nomeUrna": "VIRGINIA MAGRINI",
+            "partido": "PP"
+        },
+        "120000000284": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "703-98.2014.6.12.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 11.903.358,520000001",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MS&sq_cand=10210",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=120000000152&sgUe=MS",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000284/idarquivo/1715?x=1404920852000120000000284",
+                    "documento": "1 - certidao1404591511796.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000284/idarquivo/1716?x=1404920852000120000000284",
+                    "documento": "2 - certidao1404591511797.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000284/idarquivo/1717?x=1404920852000120000000284",
+                    "documento": "3 - certidao1404591511797.pdf"
+                }
+            ],
+            "naturalidade": "RIO BRILHANTE",
+            "cnpj": "20573865000154",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000284",
+            "numeroProtocolo": "204822014",
+            "bens": [
+                {
+                    "valor": "R$ 69.397,27",
+                    "nome": "UM PREDIO COMERCIAL E RESIDENCIAL C/ 420,10M2 DE CONSTRU\u00c7\u00c3O EM DOURADOS-MS"
+                },
+                {
+                    "valor": "R$ 13.879,45",
+                    "nome": "UM SAL\u00c3O COMERCIAL C/152,0 M2 DE CONSTRU\u00c7\u00c3O C/ 152,0 M2 DE CONSTRU\u00c7\u00c3O NO LOTE 11, QD 36, NA AV. 9 DE JULHO, EM FATIMA DO SUL - MS"
+                },
+                {
+                    "valor": "R$ 580.000,00",
+                    "nome": "UM PREDIO P SALAO COMERCIAL C/ 484,54M2 DE CONSTRU\u00c7\u00c3O SITO NA AV. EDUARDO ELIAS ZAHRAN, 529 EM CAMPO GRANDE-MS"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "IMOVEL COMERCIAL 489,433 M\u00b2 NO LOTE 9 DA QUADRA 36, FATIMA DO SUL MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "APT. RESIDENCIAL N.\u00ba 33, BL. B-24, RUA DAS GAR\u00c7AS, 1761, CAMPO GRANDE"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "UM APARTAMENTO RESIDENCIAL N\u00ba 1102 DO ED. CONSTANTE, SITUADO NA AV. ATLANTICA NA CIDADE DE BALNE\u00c1RIO CAMBURIU - SC"
+                },
+                {
+                    "valor": "R$ 208.191,83",
+                    "nome": "01 APTO. NA AVENIDA ATLANTICA, 2232 EDIFICIO ASTRAL, APTO 201 E GARAGEM 33, EM BALNE\u00c1RIO CAMBORIU-SC. CONF CERTID\u00c3O DE INSCRI\u00c7\u00c3O DE OCUPA\u00c7\u00c3O N 965/90 EMITIDO PELA DELEGACIA DE PATRIMONIO DA UNIAO SC"
+                },
+                {
+                    "valor": "R$ 166.553,45",
+                    "nome": "APT. NO COND. RESIDENCIAL EDIFICIO LYON, N.\u00ba 08, CAMPO GANDE"
+                },
+                {
+                    "valor": "R$ 277.589,09",
+                    "nome": "APT. RESIDENCIAL, SITO A RUA JOS\u00c9 ANTONIO, 951, CAMPO GRANDE"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "APT. N. 13, EDIFICO RESIDENCIAL NA RUA ABR\u00c3O J\u00daLIO RAHE, 1671, BL. B-17, CAMPO GRANDE"
+                },
+                {
+                    "valor": "R$ 75.000,00",
+                    "nome": "APARTAMENTO 302 CONDOMINIO VILLAGE CACHOEIRA, RUA MICHEL SCAFF 431, CAMPO GRANDE MS"
+                },
+                {
+                    "valor": "R$ 52.866,81",
+                    "nome": "UM APTO. RESIDENCIAL C 64,28M2 DE CONSTRU\u00c7\u00c3O SITO A RUA MARQUES DE LAVRADIO, 499, BLOCO 14 APTO. 14 EM CG MS"
+                },
+                {
+                    "valor": "R$ 135.000,00",
+                    "nome": "01 APTO DE N 09 - 9\u00ba ANDAR DO EDIFICIO LYON, SITUADO NA RUA CANDIDO MARIANO, 2301 - CENTRO, CG MS, C 407, 17M2 DE CONSTRU\u00c7\u00c3O ADQUIRIDO DE WALTER JOSE MENDES - CPF N 512.137.708-82 CONF EPCV DE 30.1.98"
+                },
+                {
+                    "valor": "R$ 34.698,83",
+                    "nome": "APT. NO EDIFICIO AMAZONAS, N.\u00ba 93, SITO \u00c0 RUA ARLINDO DE ANDRADE, 240, CAMPO GRANDE"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "01 APTO N 111, SITUADO NA RUA CORIOLANO GOMES PALMEIRA, 160, NO EDIFICIO VERSAILLES, BAIRRO JARDIM PAULISTANA NA CIDADE DE PRESIDENTE PRUDENTE SP"
+                },
+                {
+                    "valor": "R$ 41.638,37",
+                    "nome": "APT. NO ED. ANA ELIZABETH, N\u00ba 60, SITO \u00c0 AVE. AFONSO PENA, 2582, CAMPO GRANDE"
+                },
+                {
+                    "valor": "R$ 22.416,00",
+                    "nome": "CASA RESIDENCIAL LOTE 3 DA QUADRA 6 DO LOTEAMENTO CELCIO JOAQUIM DE BARROS, FATIMA DO SUL MS"
+                },
+                {
+                    "valor": "R$ 20.819,17",
+                    "nome": "UM IMOVEL RESIDENCIAL COM 152,6M2 DE CONSTRU\u00c7\u00c3O LOTE 08 QUADRA 01 LOTEAMENTO MARTA ROCHA, FATIMA DO SUL"
+                },
+                {
+                    "valor": "R$ 55.517,81",
+                    "nome": "01 IMOVEL RESIDENCIAL C/ 159,18 M2 DE CONSTRU\u00c7\u00c3O, NO LOTE 16 DA QD. 08 NA VILA JOSELITO NA RUA TEOTONIO ROSA PIRES, 485, CONF.REG. 05/33268 - LV 02. - FLS 01 EM 04/04/1988 EM CG MS"
+                },
+                {
+                    "valor": "R$ 124.915,10",
+                    "nome": "01 CASA RESIDENCIAL DE ALVENARIA C 327,0 M2 DE CONSTRU\u00c7\u00c3O SITUADA NOS LOTES 07,08,09,10 E 11 DA QD.A NO LOTEAMENTO CLUB DOS QUARENTA EM FATIMA DO SUL MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "UM IMOVEL RESIDENCIAL DE ALVENARIA NO LOTE N 07 DA QD. N 06, NA VILA JD DE ALLAH C/ 576,0 M2 EM CG MS"
+                },
+                {
+                    "valor": "R$ 1.387,93",
+                    "nome": "01 LOTE DE TERRENO NUM 11 DA QD. 36 C 700,00 M2 EM FATIMA DO SUL - MS"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "TERRENO URBANO N\u00b0 3 DA QUADRA 6 COM 370,16 M\u00b2 LOTEAMENTO MARTA ROCHA, FATIMA DO SUL MS"
+                },
+                {
+                    "valor": "R$ 126.000,00",
+                    "nome": "LOTES 3, 4, 5 E 6 DA QUADRA C DO LOTEAMENTO CORRENTES, DOIS IRMAOS DO BURITI MS"
+                },
+                {
+                    "valor": "R$ 33.310,68",
+                    "nome": "03 LOTES DE TERRENO NUMEROS 10, 11 E 12 DA QD. 16 NA CHACARA CACHOEIRA EM CAMPO GRANDE MS"
+                },
+                {
+                    "valor": "R$ 5.551,77",
+                    "nome": "LOTE 2 NA QD 119 COM 675 M2 NO DITRITO DE ANHANDUI"
+                },
+                {
+                    "valor": "R$ 5.100,00",
+                    "nome": "02 LOTES DE TERRENO N\u00b0 1 E 2 DA QUADRA C, LOTEAMENTO JARDIM CORRENTES, DOIS IRM\u00c3O DO BURITI - MS"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "TERRENO RURAL 68 QUADRA 35, MEDINDO 9 HAS 6.800 M2 NA CIDADE DE FATIMA DO SUL-MS"
+                },
+                {
+                    "valor": "R$ 62.457,53",
+                    "nome": "TRES LOTES DE TERRENOS NUMERO 09, 10 E 11 DA QD. 01 NA VILA BELA VISTA EM CG MS"
+                },
+                {
+                    "valor": "R$ 41.638,35",
+                    "nome": "UMA AREA RURAL COM 27,0 HA E 2886 M2, LOTE 27 QD. 36 EM FATIMA DO SUL"
+                },
+                {
+                    "valor": "R$ 41.638,37",
+                    "nome": "UMA \u00c1REA RURAL C/30,0 HA, PARTE DA FAZENDA TRES BARRAS EM CAMPO GRANDE-MS"
+                },
+                {
+                    "valor": "R$ 41.638,37",
+                    "nome": "AREA RURAL COM 45,179HA SITIO SANTA  ILDA ,LINHA IGUASSU EM FATIMA DO SUL"
+                },
+                {
+                    "valor": "R$ 110.000,00",
+                    "nome": "UMA AREA RURAL COM 680HA, DENOMINADA FAZENDA SANTA ILDA II, NO MUNICIPIO DE CG MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "UMA AREA RURAL C/ 44 HA, 4500 M2 DETERMINADA PARTE DO LOTE 67 DA QD. 35 EM FATIMA DO SUL-MS."
+                },
+                {
+                    "valor": "R$ 6.939,72",
+                    "nome": "UMA AREA RURAL C/ 4HA. 9216,83M2, DETERMINADO PARTE DO LOTE 61 DA QD. 35 EM VICENTINA - MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "UMA AREA RURAL C/30,0HA EM CAMPO GRANDE-MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "UMA \u00c1REA RURAL C/ 31,5359HA SITIO SANTA ILDA L.04, QD.41 EM F\u00c1TIMA DO SUL-MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "UMA AREA RURAL C/18,2102 HA, EM FATIMA DO SUL - MS, NA LINHA BARREIRAO"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "UMA AREA RURAL COM 504HA, 1.104M2 DENOMINADA FAZENDA SANTA ILDA I, NO MUNICIPIO DE CG MS"
+                },
+                {
+                    "valor": "R$ 485.780,97",
+                    "nome": "UMA AREA RURAL C/ 600HA, DENOMINADA FAZENDA SANTA ILDA I, EM CG MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "AREA RURAL COM 29,8885HA LOTE 76, QD 3,5, LINHA BARREIR\u00c3O FATIMA DO SUL"
+                },
+                {
+                    "valor": "R$ 300.000,00",
+                    "nome": "UMA AREA RURAL COM 1.339,8HA, DENOMINADA FAZENDA SANTA ILDA I, NO MUNICIPIO DE CG MS"
+                },
+                {
+                    "valor": "R$ 166.553,47",
+                    "nome": "UMA AREA RURAL C/ 151,2761 HA, DENOMINADA FAZENDA SANTA ILDA I, EM CG MS"
+                },
+                {
+                    "valor": "R$ 555.178,25",
+                    "nome": "UMA AREA RURAL C/ 687,3 HA, DENOMINADA FAZENDA SANTA ILDA II, EM CAMPO GRANDE MS"
+                },
+                {
+                    "valor": "R$ 41.638,37",
+                    "nome": "UMA AREA RURAL C/ 31,0 HA, PARTE DA FAZENDA TRES BARRAS EM CG MS"
+                },
+                {
+                    "valor": "R$ 28.500,00",
+                    "nome": "UM IMOVEL RURAL C/ 42,4HA, SITUADA NA LINHA BARREIR\u00c3O, NO MUN. DE FATIMA DO SUL-MS"
+                },
+                {
+                    "valor": "R$ 624.575,50",
+                    "nome": "UMA AREA RURAL C/ 646,1235 HA, DENOMINADA DE FAZENDA SANTA ILDA IV, NO MUNICIPIO DE CAMPO GRANDE-MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "AREA RURAL COM 30,5789HA LOTE66, QD35, NA LINHA IGUASSU EM FATIMA DO SUL"
+                },
+                {
+                    "valor": "R$ 1.000.000,00",
+                    "nome": "UM IMOVEL RURAL COM AREA 1.371,694HA NO MINICIPIO DE DOURADOS-MS"
+                },
+                {
+                    "valor": "R$ 416.383,66",
+                    "nome": "UMA AREA RURAL C/ 470HA DENOMINADA FAZENDA SANTA ILDA I, EM CG MS"
+                },
+                {
+                    "valor": "R$ 34.698,63",
+                    "nome": "UM SAL\u00c3O COMERCIAL C 776,90 M2, LOTES 01, 02 E 03 DA QD. 29 NO JARDIM PAULISTA EM CAMPO GRANDE-MS"
+                },
+                {
+                    "valor": "R$ 6.939,72",
+                    "nome": "CONSTRU\u00c7\u00c3O NO TERRENO 04 DA QD. J, UMA SALA, COZINHA, BANHEIRO, ETC. TOTAL DE 132,2M2 DE CONSTRU\u00c7\u00c3O"
+                },
+                {
+                    "valor": "R$ 5.400,00",
+                    "nome": "UM IMOVEL RURAL COM 8,47 HA. SITUADO NA CIDADE FATIMA DO SUL/ MS"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "UM IMOVEL P/ ESCRITORIO NA GALERIA RIO NEGRO SITO A RUA PADRE JOAO CRIPPA, 1065S/205 EM CG MS"
+                },
+                {
+                    "valor": "R$ 2.200.000,00",
+                    "nome": "UM IMOVEL RURAL DENOMINADO FAZENDA CACULA, COM AREA DE 484,236 HA. NO MUNICIPIO DE DOURADOS/MS"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "UM IMOVEL RURAL COM AREA DE 27 HA. NO QUINHAO N 02 PARTE DA FAZENDA TRES BARRAS , NO MUNICIPIO DE CAMPO GRANDE/MS"
+                },
+                {
+                    "valor": "R$ 56.500,00",
+                    "nome": "CAMIONETE CHEVROLET, S10, EXECUTIVE, 2011/2011, PLACAS NRP 7729"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "VEICULO RENAUT LOGAN, 2013/2013, PLACA NSB 3073"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "ONIBUS SCANIA 115, BRANCO PLACA JNW 8258"
+                },
+                {
+                    "valor": "R$ 3.700,00",
+                    "nome": "UMA MOTOCICLETA DA MARCA SUZUKI MODELO AG-100 DE COR VERMELHA ANO 96"
+                },
+                {
+                    "valor": "R$ 693,95",
+                    "nome": "UMA MOBYLETTE XR 50 CALOI, ANO 91, COR BRANCA, PLCA HQK 0890"
+                },
+                {
+                    "valor": "R$ 11.103,54",
+                    "nome": "UM VEICULO MARCA FIAT/UNO MILLE, ANO 90, COR VERMELHA, PLACA HQS 6685"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "RENAUT LOGAN 2013/2013, PLACA NSB 3075"
+                },
+                {
+                    "valor": "R$ 107.000,00",
+                    "nome": "VEICULO TOYOTA JIPE HILUX 2013/2013, PLACA OOH 2016"
+                },
+                {
+                    "valor": "R$ 34.500,00",
+                    "nome": "RENAUT SANDERO, 2013/2013, PLACA NSB 3076"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "VEICULO RENAUT LOGAN 2013/2013, PLACA, NSB 3077"
+                },
+                {
+                    "valor": "R$ 111.035,64",
+                    "nome": "UM ONIBUS MARCA MERCEDES BENZ, ANO 89, COR BRANCA, PLACA HQU 5409"
+                },
+                {
+                    "valor": "R$ 73.105,92",
+                    "nome": "ONIBUS VW 1994/95, PLACA BXJ 7664"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "UMA MOTOCICLETA DA MARCA HONDA XR 200R, DE COR PRETA, ANO 2001 E PLACA HSB 3559"
+                },
+                {
+                    "valor": "R$ 70.570,00",
+                    "nome": "UM VEICULO MARCA DODGE MODELO DURANGO SLT ANO 98/98 DE COR PRETA PLACA HSA 0302"
+                },
+                {
+                    "valor": "R$ 91.840,00",
+                    "nome": "UM VEICULO MARCA CHEVROLET MODELO SUBUBAN LTK1500 ANO 98/98 DE COR BRANCA-PLACA HRN 0701"
+                },
+                {
+                    "valor": "R$ 13.000,00",
+                    "nome": "UM VEICULO DA MARCA VW, TIPO CAMIONETA KOMBI, ANO 96, COR BRANCA PLACA HRH - 0654"
+                },
+                {
+                    "valor": "R$ 52.500,00",
+                    "nome": "CAMINH\u00c3O MARCA MERCEDES BENZ MODELO 915C/37 ANO 2005 PLACA HSE 7724"
+                },
+                {
+                    "valor": "R$ 59.000,00",
+                    "nome": "UMA CAMINHONETE S10 DLX, CABINE DUPLA QUATRO PORTAS ANO 2000 - MARCA CHEVROLET DE COR BRANCA - PLACA HSE 0701"
+                },
+                {
+                    "valor": "R$ 20.819,17",
+                    "nome": "UM CAMINHAO MARCA MERCEDES BENZ/1113, ANO 79, COR VERMELHA, PLACA HQG 5393"
+                },
+                {
+                    "valor": "R$ 3.673,80",
+                    "nome": "UM VEICULO DA MARCA VW, TIPO GOL FURGAO, COR BRANCA, ANO 91 E PLACA HQW 6968"
+                },
+                {
+                    "valor": "R$ 41.638,35",
+                    "nome": "01 VEICULO MARCA FORD/F-4000, ANO 89, COR PRATA, PLACA HQW 9786"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "UM VE\u00cdCULO GM CORSA CLASSIC 2005 PLACA HSF 1322"
+                },
+                {
+                    "valor": "R$ 160.000,00",
+                    "nome": "VEICULO MARCA DAIMLER  CHRYSLER-JEEP MODELO GRAN CHEROKKE 2003/2004 PRETA, PLACA HTA 7777"
+                },
+                {
+                    "valor": "R$ 65.567,26",
+                    "nome": "UM VEICULO MARCA FORD/F 4000, ANO 93, COR CINZA, PLACA HQL 8455"
+                },
+                {
+                    "valor": "R$ 38.630,40",
+                    "nome": "VEICULO LAND ROVER FREELANDER 2 SD4 2013/2013, PLACA NSB 8381"
+                },
+                {
+                    "valor": "R$ 124.915,78",
+                    "nome": "UM CAMINHAO DE MARCA MERCES-BENZ, MODELO L-1620/51, ANO 2003, DE COR BRANCA PLACA HRI275"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "MOTOCICLETA MARCA HONDA MODELO XR 200R DE COR VERMELHO, ANO 1997 E PLACA HRQ 4461"
+                },
+                {
+                    "valor": "R$ 121.915,78",
+                    "nome": "UM CAMINHAO DA MARCA MERCEDES BENZ, L-1620/51 DE COR BRANCA ANO 2003 E PLACA HRY 2752"
+                },
+                {
+                    "valor": "R$ 67.852,60",
+                    "nome": "UM VEICULO MARCA CHEVROLET/OMEGA CD, ANO 94, COR PRETA. PLACA HRC 7593"
+                },
+                {
+                    "valor": "R$ 2,39",
+                    "nome": "A\u00c7\u00d5ES DO BANCO ITA\u00da S/A"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "50% DO CAPITAL SOCIAL DA EMPRESA REDE GUAICURUS DE RADIO E TV LTDA"
+                },
+                {
+                    "valor": "R$ 2.500,00",
+                    "nome": "10% CAPITAL SOCIAL DA EMPRESA RADIO REGIONAL DE FATIMA DO SUL"
+                },
+                {
+                    "valor": "R$ 4.608,57",
+                    "nome": "100% CAPITAL SOCIAL DA EMPRESA PISCICULTURA PIRACEMA LTDA"
+                },
+                {
+                    "valor": "R$ 14.632,05",
+                    "nome": "OUROCAP ESTILO PREMIO - BANCO DO BRASIL - S/A C/C 7862-X"
+                },
+                {
+                    "valor": "R$ 265,33",
+                    "nome": "POUPAN\u00c7A OURO BANCO DO BRASIL N\u00ba 7.862-X"
+                },
+                {
+                    "valor": "R$ 911,09",
+                    "nome": "SANTANDER BRASIL - SA C/C 1518-1 00037-8"
+                },
+                {
+                    "valor": "R$ 7.185,34",
+                    "nome": "BANCO DO BRASIL CONTA 53007"
+                },
+                {
+                    "valor": "R$ 1.084,91",
+                    "nome": "POUPAN\u00c7A OURO BANCO DO BRASIL CONTA 78638"
+                },
+                {
+                    "valor": "R$ 51.157,93",
+                    "nome": "BANCO SANTANDER"
+                },
+                {
+                    "valor": "R$ 41.540,66",
+                    "nome": "BANCO DO BRASIL CONTA 5300-7"
+                },
+                {
+                    "valor": "R$ 205.828,14",
+                    "nome": "SALDO EM C/C BANCO DO BRASIL S/A C/C 117056"
+                },
+                {
+                    "valor": "R$ 113.659,55",
+                    "nome": "BANCO DO BRASIL AG 34266 CONTA 7863-8"
+                },
+                {
+                    "valor": "R$ 5.386,38",
+                    "nome": "BANCO DO BRASIL CONTA 8.904-4"
+                },
+                {
+                    "valor": "R$ 61,03",
+                    "nome": "SALDO EM CONTA CORRENTE - BANCO DO BRASIL S/S AG. 3426-6, CONTA 7862 X"
+                },
+                {
+                    "valor": "R$ 2.585,00",
+                    "nome": "BANCO ITAU/UNIBANCO"
+                },
+                {
+                    "valor": "R$ 515.000,00",
+                    "nome": "BB AGRONEGOCIO 10 - BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 283.095,59",
+                    "nome": "SANTANDER  BRASIL S/A"
+                },
+                {
+                    "valor": "R$ 121.908,90",
+                    "nome": "CONS\u00d3RCIO VALTRA ADM. DE CONS\u00d3RCIO CNPJ 58360266/0001-8"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "PREMIO ACUMULADO EM VGBL - SANTANDER SEGUROS S/A"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PDT / PT / PSL / PR / PSDC / PV / PROS / PC do B / PTB / PTC / PPL / PRP",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404920852000"
+            },
+            "id": "120000000284",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "MATO GROSSO DO SUL COM A FOR\u00c7A DE TODOS",
+            "nomeCompleto": "LONDRES MACHADO",
+            "nascimento": "03/02/1942",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "LONDRES MACHADO",
+            "partido": "PR"
+        },
+        "120000000023": {
+            "ocupacao": "Vereador",
+            "numeroProcesso": "428-52.2014.6.12.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 139.356,74",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90514&sqCandidato=817",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000023/idarquivo/75?x=1404836918000120000000023",
+                    "documento": "1 - certidao1404584591634.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000023/idarquivo/76?x=1404836918000120000000023",
+                    "documento": "2 - certidao1404584591635.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000023/idarquivo/77?x=1404836918000120000000023",
+                    "documento": "3 - certidao1404584591635.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000023/idarquivo/78?x=1404836918000120000000023",
+                    "documento": "4 - certidao1404584591636.pdf"
+                }
+            ],
+            "naturalidade": "CAMPO GRANDE",
+            "cnpj": "20568535000170",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000023",
+            "numeroProtocolo": "202142014",
+            "bens": [
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "APARTAMENTO PLAENGE CONDOMINIO IBIZA"
+                },
+                {
+                    "valor": "R$ 43.000,00",
+                    "nome": "MARCA HYUNDAI MODELO TUCSON GL  ANO 2009/2010 - ALIENA\u00c7\u00c3O FIDUCIARIA  HSBC"
+                },
+                {
+                    "valor": "R$ 27.304,68",
+                    "nome": "HSBC VIDA E PREVID\u00caNCIA"
+                },
+                {
+                    "valor": "R$ 3.678,50",
+                    "nome": "HSBC TC CASH SUPER SONTE PLANO 100"
+                },
+                {
+                    "valor": "R$ 5.373,56",
+                    "nome": "HSBC TC SUPER SORE PLANO 80"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "45",
+            "composicaoColigacao": "PSDB / DEM / PSD / SD / PPS / PMN",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404836918000"
+            },
+            "id": "120000000023",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "NOVO TEMPO",
+            "nomeCompleto": "PROFESSORA ROSE",
+            "nascimento": "20/02/1978",
+            "status": "Aguardando julgamento",
+            "codigo": "45",
+            "nomeUrna": "PROFESSORA ROSE",
+            "partido": "PSDB"
+        },
+        "120000000482": {
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "numeroProcesso": "511-68.2014.6.12.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 105.000,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000482/idarquivo/2672?x=1404917001000120000000482",
+                    "documento": "1 - certidao1404600273751.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000482/idarquivo/2673?x=1404917001000120000000482",
+                    "documento": "2 - certidao1404600273751.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000482/idarquivo/2674?x=1404917001000120000000482",
+                    "documento": "3 - certidao1404600273752.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000482/idarquivo/2675?x=1404917001000120000000482",
+                    "documento": "4 - certidao1404600273752.pdf"
+                }
+            ],
+            "naturalidade": "CAMPO GRANDE",
+            "cnpj": "20580071000118",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000482",
+            "numeroProtocolo": "206762014",
+            "bens": [
+                {
+                    "valor": "R$ 105.000,00",
+                    "nome": "IM\u00d3VEL FINANCIADO"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Preta",
+            "meta": {
+                "lastUpdate": "1404917001000"
+            },
+            "id": "120000000482",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "WALDELY VANELI",
+            "nascimento": "08/05/1981",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "WALDELY VANELI",
+            "partido": "PSOL"
+        },
+        "120000000002": {
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "numeroProcesso": "195-55.2014.6.12.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 111.926,68000000001",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MS&sq_cand=10045",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90514&sqCandidato=1",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000002/idarquivo/9?x=1404735807000120000000002",
+                    "documento": "1 - certidao1404324800911.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000002/idarquivo/10?x=1404735807000120000000002",
+                    "documento": "2 - certidao1404324800912.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000002/idarquivo/11?x=1404735807000120000000002",
+                    "documento": "3 - certidao1404324800912.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000002/idarquivo/12?x=1404735807000120000000002",
+                    "documento": "4 - certidao1404324800913.PDF"
+                }
+            ],
+            "naturalidade": "NOVA LUSIT\u00c2NEA",
+            "cnpj": "20545369000197",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000002",
+            "numeroProtocolo": "197992014",
+            "bens": [
+                {
+                    "valor": "R$ 58.747,44",
+                    "nome": "UMA CASA DE ALVENARIA COM 47,99 M2 SITUADA NA AVENIDA DAS MANS\u00d5ES, N. 1317, BAIRRO N\u00daCLEO HABITACIONAL BURITI - CAMPO GRANDE/MS - ADQUIRIDA POR MEIO DE FINANCIAMENTO JUNTO \u00c0 CAIXA ECON\u00d4MICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 16.980,00",
+                    "nome": "CASA DE MADEIRA SITUADA NA AVENIDA LAUDELINO BARCELOS, N. 83, VILA JACY, CAMPO GRANDE/MS"
+                },
+                {
+                    "valor": "R$ 4.680,00",
+                    "nome": "1/3 DE UMA CASA DE MADEIRA SITUADA NA RUA REGENTE FEIJ\u00d3, N. 381, NAVIRA\u00cd/MS"
+                },
+                {
+                    "valor": "R$ 26.106,00",
+                    "nome": "VE\u00cdCULO FIAT UNO FIRE ANO E MODELO 2004 - PLACA HSU 0016"
+                },
+                {
+                    "valor": "R$ 3.500,00",
+                    "nome": "VE\u00cdCULO MARCA FORD CORCEL II - ANO 1985 - PLACA HQF 9467"
+                },
+                {
+                    "valor": "R$ 500,00",
+                    "nome": "LINHA TELEF\u00d4NICA FIXO 67 3331-3075"
+                },
+                {
+                    "valor": "R$ 100,00",
+                    "nome": "LINHA TELEF\u00d4NICA M\u00d3VEL N. 67 9998.2916"
+                },
+                {
+                    "valor": "R$ 100,00",
+                    "nome": "UMA BICICLETA CALOI SPRINT 10 ANO 1979"
+                },
+                {
+                    "valor": "R$ 1.213,24",
+                    "nome": "POUPAN\u00c7A OURO BANCO DO BRASIL"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "16",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404735807000"
+            },
+            "id": "120000000002",
+            "enderecoWeb": "SU\u00c9L FERRANTI",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSTU",
+            "nomeCompleto": "SU\u00c9L FERRANTI DO PSTU",
+            "nascimento": "21/07/1958",
+            "status": "Aguardando julgamento",
+            "codigo": "16",
+            "nomeUrna": "SU\u00c9L FERRANTI DO PSTU",
+            "partido": "PSTU"
+        }
+    }
+}

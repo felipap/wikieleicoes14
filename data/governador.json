@@ -1,0 +1,637 @@
+{
+    "governador": {
+        "190000000409": {
+            "composicaoColigacao": "",
+            "numeroProcesso": "792-29.2014.6.19.0000",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata",
+            "meta": {
+                "lastUpdate": "1404833169000"
+            },
+            "nomeCompleto": "TARCISIO MOTTA",
+            "numeroProtocolo": "755882014",
+            "nomeUrna": "TARCISIO MOTTA",
+            "limiteGastos": "R$ 750.000,00",
+            "coligacao": "PSOL",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RJ/candidato/190000000409",
+            "enderecoWeb": "www.tarcisiomotta.com.br",
+            "codigo": "50",
+            "suplente": {
+                "nome": "JOS\u00c9 RENATO GOMES DA COSTA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000411",
+                "numero": "190000000411"
+            },
+            "naturalidade": "PETR\u00d3POLIS",
+            "bens": [
+                {
+                    "nome": "BANCO DO BRASIL",
+                    "valor": "R$ 49,29"
+                },
+                {
+                    "nome": "3 VGBL EM NOME DOS TR\u00caS FILHOS DEPENDENTES",
+                    "valor": "R$ 3.807,22"
+                }
+            ],
+            "genero": "MASCULINO",
+            "id": "190000000409",
+            "totalBensDeclarados": "R$ 3.856,5099999999998",
+            "raca": "Branca",
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "nascimento": "28/01/1975",
+            "cnpj": "20564058000175",
+            "partido": "PSOL",
+            "numeroUrna": "50",
+            "estadoCivil": "Solteiro(a)",
+            "status": "Aguardando julgamento"
+        },
+        "190000000100": {
+            "composicaoColigacao": "",
+            "numeroProcesso": "397-37.2014.6.19.0000",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata",
+            "meta": {
+                "lastUpdate": "1404915778000"
+            },
+            "nomeCompleto": "DAYSE OLIVEIRA",
+            "numeroProtocolo": "752402014",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000100/idarquivo/617?x=1404915778000190000000100",
+                    "documento": "1 - certidao1404424142154.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000100/idarquivo/618?x=1404915778000190000000100",
+                    "documento": "2 - certidao1404424142155.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000100/idarquivo/619?x=1404915778000190000000100",
+                    "documento": "3 - certidao1404424142155.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000100/idarquivo/620?x=1404915778000190000000100",
+                    "documento": "4 - certidao1404424142156.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000100/idarquivo/621?x=1404915778000190000000100",
+                    "documento": "5 - certidao1404424142156.pdf"
+                }
+            ],
+            "nomeUrna": "DAYSE OLIVEIRA",
+            "limiteGastos": "R$ 150.000,00",
+            "coligacao": "PSTU",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RJ/candidato/190000000100",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "codigo": "16",
+            "suplente": {
+                "nome": "MARILIA PAULA MACEDO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000105",
+                "numero": "190000000105"
+            },
+            "naturalidade": "RIO DE JANEIRO",
+            "id": "190000000100",
+            "genero": "FEMININO",
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000100/idarquivo/616?x=1404915778000190000000100",
+                    "documento": "1 - proposta_governo1404424142153.pdf"
+                }
+            ],
+            "raca": "Preta",
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "nascimento": "31/05/1966",
+            "cnpj": "20558142000186",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RJ&sq_cand=10415",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=58971&sqCandidato=16841",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "partido": "PSTU",
+            "numeroUrna": "16",
+            "estadoCivil": "Solteiro(a)",
+            "status": "Aguardando julgamento"
+        },
+        "190000001649": {
+            "composicaoColigacao": "PMDB / PP / PSC / PTB / PSL / PPS / PTN / DEM / PSDC / PRTB / PHS / PMN / PTC / PRP / PSDB / PEN / PSD / SD",
+            "numeroProcesso": "1190-73.2014.6.19.0000",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata",
+            "meta": {
+                "lastUpdate": "1404992312000"
+            },
+            "nomeCompleto": "LUIZ FERNANDO PEZ\u00c3O",
+            "numeroProtocolo": "768572014",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001649/idarquivo/6368?x=1404992312000190000001649",
+                    "documento": "1 - certidao1404597984054.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001649/idarquivo/6369?x=1404992312000190000001649",
+                    "documento": "2 - certidao1404597984054.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001649/idarquivo/6370?x=1404992312000190000001649",
+                    "documento": "3 - certidao1404597984055.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001649/idarquivo/6371?x=1404992312000190000001649",
+                    "documento": "4 - certidao1404597984055.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001649/idarquivo/6372?x=1404992312000190000001649",
+                    "documento": "5 - certidao1404597984056.pdf"
+                }
+            ],
+            "nomeUrna": "LUIZ FERNANDO PEZ\u00c3O",
+            "limiteGastos": "R$ 85.000.000,00",
+            "coligacao": "O RIO EM 1\u00ba LUGAR",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RJ/candidato/190000001649",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "codigo": "15",
+            "suplente": {
+                "nome": "FRANCISCO OSWALDO NEVES DORNELLES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000001650",
+                "numero": "190000001650"
+            },
+            "naturalidade": "PIRAI",
+            "bens": [
+                {
+                    "nome": "APARTAMENTO A RUA AFONSO ARINOS DE MELLO FRANCO NUMERO 398, ADQUIRIDO EM MAIO DE 1997",
+                    "valor": "R$ 168.844,98"
+                },
+                {
+                    "nome": "CREDITO EM CONTA DO BANCO BRADESCO",
+                    "valor": "R$ 82.010,12"
+                },
+                {
+                    "nome": "VGBL ITAU",
+                    "valor": "R$ 1.913,29"
+                }
+            ],
+            "genero": "MASCULINO",
+            "id": "190000001649",
+            "totalBensDeclarados": "R$ 252.768,39",
+            "raca": "Branca",
+            "ocupacao": "Governador",
+            "nascimento": "29/03/1955",
+            "cnpj": "20580823000140",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RJ&sq_cand=10155",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=190000000131&sgUe=RJ",
+                    "ano": "2010"
+                }
+            ],
+            "partido": "PMDB",
+            "numeroUrna": "15",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento"
+        },
+        "190000001406": {
+            "composicaoColigacao": "",
+            "numeroProcesso": "1466-07.2014.6.19.0000",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata",
+            "meta": {
+                "lastUpdate": "1404916321000"
+            },
+            "nomeCompleto": "MARCELO CRIVELLA",
+            "numeroProtocolo": "764502014",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5106?x=1404916321000190000001406",
+                    "documento": "1 - certidao1404596399246.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5107?x=1404916321000190000001406",
+                    "documento": "2 - certidao1404596399247.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5108?x=1404916321000190000001406",
+                    "documento": "3 - certidao1404596399247.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5109?x=1404916321000190000001406",
+                    "documento": "4 - certidao1404596399247.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5110?x=1404916321000190000001406",
+                    "documento": "5 - certidao1404596399248.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5111?x=1404916321000190000001406",
+                    "documento": "6 - certidao1404596399248.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5112?x=1404916321000190000001406",
+                    "documento": "7 - certidao1404596399249.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5113?x=1404916321000190000001406",
+                    "documento": "8 - certidao1404596399249.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5114?x=1404916321000190000001406",
+                    "documento": "9 - certidao1404596399250.jpg"
+                }
+            ],
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000001406/idarquivo/5105?x=1404916321000190000001406",
+                    "documento": "1 - proposta_governo1404596399246.pdf"
+                }
+            ],
+            "nomeUrna": "MARCELO CRIVELLA",
+            "limiteGastos": "R$ 15.000.000,00",
+            "coligacao": "PRB",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RJ/candidato/190000001406",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "codigo": "10",
+            "suplente": {
+                "nome": "JOS\u00c9 ALBERTO DA COSTA ABREU",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000001407",
+                "numero": "190000001407"
+            },
+            "naturalidade": "RIO DE JANEIRO",
+            "bens": [
+                {
+                    "nome": "APARTAMENTO ADQUIRIDO NO ANO DE 2009, COM 4 QT, SITUADO NA RUA JACARANDAS, 1000 , BL 2 APTO UNIDADE 201",
+                    "valor": "R$ 634.795,00"
+                },
+                {
+                    "nome": "VOLKSWAGEM JETTA, ANO 2013",
+                    "valor": "R$ 70.000,00"
+                },
+                {
+                    "nome": "BB CDB DI AGENCIA 5977-3 CONTA 8865-X, CNPJ 00.000.000/6926-46",
+                    "valor": "R$ 29.500,00"
+                },
+                {
+                    "nome": "CONTA ESTILO 8865-X, AGENCIA 5977-3, CNPJ 00.000.000/6926-46",
+                    "valor": "R$ 214,78"
+                }
+            ],
+            "genero": "MASCULINO",
+            "id": "190000001406",
+            "totalBensDeclarados": "R$ 734.509,78",
+            "raca": "Branca",
+            "ocupacao": "Senador",
+            "nascimento": "09/10/1957",
+            "cnpj": "20581766000114",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RJ&sq_cand=11999",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=60011&sqCandidato=11732",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=190000003213&sgUe=RJ",
+                    "ano": "2010"
+                }
+            ],
+            "partido": "PRB",
+            "numeroUrna": "10",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento"
+        },
+        "190000000585": {
+            "composicaoColigacao": "PR / PT do B / PROS",
+            "numeroProcesso": "789-74.2014.6.19.0000",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata",
+            "meta": {
+                "lastUpdate": "1404940852000"
+            },
+            "nomeCompleto": "GAROTINHO",
+            "numeroProtocolo": "757762014",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000585/idarquivo/3185?x=1404940852000190000000585",
+                    "documento": "1 - certidao1404591000616.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000585/idarquivo/3186?x=1404940852000190000000585",
+                    "documento": "2 - certidao1404591000616.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000585/idarquivo/3187?x=1404940852000190000000585",
+                    "documento": "3 - certidao1404591000617.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000585/idarquivo/3188?x=1404940852000190000000585",
+                    "documento": "4 - certidao1404591000617.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000585/idarquivo/3189?x=1404940852000190000000585",
+                    "documento": "5 - certidao1404591000618.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000585/idarquivo/3190?x=1404940852000190000000585",
+                    "documento": "6 - certidao1404591000618.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000585/idarquivo/3191?x=1404940852000190000000585",
+                    "documento": "7 - certidao1404591000618.jpg"
+                }
+            ],
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000585/idarquivo/3184?x=1404940852000190000000585",
+                    "documento": "1 - proposta_governo1404591000615.pdf"
+                }
+            ],
+            "nomeUrna": "GAROTINHO",
+            "limiteGastos": "R$ 25.000.000,00",
+            "coligacao": "Alian\u00e7a Republicana e Trabalhista",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RJ/candidato/190000000585",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "codigo": "22",
+            "suplente": {
+                "nome": "MARCIO BARRETO DOS SANTOS GARCIA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000586",
+                "numero": "190000000586"
+            },
+            "naturalidade": "CAMPOS DOS GOYTACAZES",
+            "bens": [
+                {
+                    "nome": "TERRENO NO LOTEAMENTO RECANTO DOS BEM TE VIS SITUADA NO N\u00ba 2 DO DISTRITO DO MUNICIPIO DE SAO JOAO DA BARRA/RJ.",
+                    "valor": "R$ 2.000,00"
+                },
+                {
+                    "nome": "QUOTAS DE CAPITAL SOCIAL DA PALAVRA DE PAZ PRODU\u00c7\u00d5ES LTDA INTEGRALIZADAS COM OBRAS DE SUA AUTORIA E PROPRIEDADE.TEVE ALTERA\u00c7\u00c3O DE SOCIOS E NOME EMPRESARIAL EM 11/05/2012.",
+                    "valor": "R$ 116.000,00"
+                },
+                {
+                    "nome": "BB REF DI PLUS EST CNPJ: 05.943.661/0001-74",
+                    "valor": "R$ 14.538,65"
+                },
+                {
+                    "nome": "BRASILPREV VGBL CNPJ: 27.665.207/0001-31",
+                    "valor": "R$ 171.000,00"
+                }
+            ],
+            "genero": "MASCULINO",
+            "id": "190000000585",
+            "totalBensDeclarados": "R$ 303.538,65",
+            "raca": "Branca",
+            "ocupacao": "Locutor e Comentarista de R\u00e1dio e Televis\u00e3o e Radialista",
+            "nascimento": "18/04/1960",
+            "cnpj": "20578909000139",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=190000002498&sgUe=RJ",
+                    "ano": "2010"
+                }
+            ],
+            "partido": "PR",
+            "numeroUrna": "22",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento"
+        },
+        "190000000673": {
+            "composicaoColigacao": "PT / PV / PSB / PC do B",
+            "numeroProcesso": "908-35.2014.6.19.0000",
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata",
+            "meta": {
+                "lastUpdate": "1404665385000"
+            },
+            "nomeCompleto": "LINDBERG FARIAS",
+            "numeroProtocolo": "758672014",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3687?x=1404665385000190000000673",
+                    "documento": "1 - certidao1404591796998.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3688?x=1404665385000190000000673",
+                    "documento": "2 - certidao1404591796999.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3689?x=1404665385000190000000673",
+                    "documento": "3 - certidao1404591796999.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3690?x=1404665385000190000000673",
+                    "documento": "4 - certidao1404591796999.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3691?x=1404665385000190000000673",
+                    "documento": "5 - certidao1404591797000.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3692?x=1404665385000190000000673",
+                    "documento": "6 - certidao1404591797000.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3693?x=1404665385000190000000673",
+                    "documento": "7 - certidao1404591797001.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3694?x=1404665385000190000000673",
+                    "documento": "8 - certidao1404591797001.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3695?x=1404665385000190000000673",
+                    "documento": "9 - certidao1404591797001.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3696?x=1404665385000190000000673",
+                    "documento": "10 - certidao1404591797002.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3697?x=1404665385000190000000673",
+                    "documento": "11 - certidao1404591797002.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3698?x=1404665385000190000000673",
+                    "documento": "12 - certidao1404591797003.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3699?x=1404665385000190000000673",
+                    "documento": "13 - certidao1404591797003.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3700?x=1404665385000190000000673",
+                    "documento": "14 - certidao1404591797003.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3701?x=1404665385000190000000673",
+                    "documento": "15 - certidao1404591797004.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3702?x=1404665385000190000000673",
+                    "documento": "16 - certidao1404591797005.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3703?x=1404665385000190000000673",
+                    "documento": "17 - certidao1404591797005.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3704?x=1404665385000190000000673",
+                    "documento": "18 - certidao1404591797005.PDF"
+                }
+            ],
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000673/idarquivo/3686?x=1404665385000190000000673",
+                    "documento": "1 - proposta_governo1404591796998.pdf"
+                }
+            ],
+            "nomeUrna": "LINDBERG FARIAS",
+            "limiteGastos": "R$ 60.000.000,00",
+            "coligacao": "COLIGA\u00c7\u00c3O FRENTE POPULAR",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RJ/candidato/190000000673",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "codigo": "13",
+            "suplente": {
+                "nome": "ROBERTO WAGNER ROCCO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000674",
+                "numero": "190000000674"
+            },
+            "naturalidade": "JO\u00c3O PESSOA",
+            "bens": [
+                {
+                    "nome": "LOTE DE TERRENO 66 DA QUADRA 562, LOTEAMENTO JARDIM OCEANIA IV, BESSA, JO\u00c3O PESSOA/PB",
+                    "valor": "R$ 6.939,66"
+                },
+                {
+                    "nome": "LOTES DE TERRENOS 05, 06, 07, 09 E 10, DA QUADRA 37/292, LOTEAMENTO BESSAMAR, JO\u00c3O PESSOA/PB",
+                    "valor": "R$ 68.949,48"
+                },
+                {
+                    "nome": "LOTES DE TERRENOS 03 E 04, LOTEAMENTO SITIO CAMBOINHA, CABEDELO/PB",
+                    "valor": "R$ 48.577,43"
+                },
+                {
+                    "nome": "LOTES DE TERRENOS 02, 03, 04, 05, 06, 07, 08 E 09, DA QUADRA 36/289, LOTEAMENTO BESSAMAR, JO\u00c3O PESSOA/PB",
+                    "valor": "R$ 50.145,08"
+                },
+                {
+                    "nome": "CAIXA ECON\u00d4MICA FEDERAL",
+                    "valor": "R$ 437,04"
+                },
+                {
+                    "nome": "CAIXA ECON\u00d4MICA FEDERAL",
+                    "valor": "R$ 14.326,73"
+                },
+                {
+                    "nome": "BANCO SANTANDER",
+                    "valor": "R$ 80,73"
+                }
+            ],
+            "genero": "MASCULINO",
+            "id": "190000000673",
+            "totalBensDeclarados": "R$ 189.456,15000000005",
+            "raca": "Branca",
+            "ocupacao": "Senador",
+            "nascimento": "08/12/1969",
+            "cnpj": "20577855000197",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=58696&sqCandidato=7466",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=190000000133&sgUe=RJ",
+                    "ano": "2010"
+                }
+            ],
+            "partido": "PT",
+            "numeroUrna": "13",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento"
+        },
+        "190000000136": {
+            "composicaoColigacao": "",
+            "numeroProcesso": "485-75.2014.6.19.0000",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata",
+            "meta": {
+                "lastUpdate": "1404915789000"
+            },
+            "nomeCompleto": "NEY NUNES",
+            "numeroProtocolo": "752882014",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000136/idarquivo/816?x=1404915789000190000000136",
+                    "documento": "1 - certidao1404569328389.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000136/idarquivo/817?x=1404915789000190000000136",
+                    "documento": "2 - certidao1404569328390.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000136/idarquivo/818?x=1404915789000190000000136",
+                    "documento": "3 - certidao1404569328390.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000136/idarquivo/819?x=1404915789000190000000136",
+                    "documento": "4 - certidao1404569328391.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000136/idarquivo/820?x=1404915789000190000000136",
+                    "documento": "5 - certidao1404569328391.jpg"
+                }
+            ],
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RJ/candidato/190000000136/idarquivo/815?x=1404915789000190000000136",
+                    "documento": "1 - proposta_governo1404569328388.pdf"
+                }
+            ],
+            "nomeUrna": "NEY NUNES",
+            "limiteGastos": "R$ 10.000,00",
+            "coligacao": "PCB",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RJ/candidato/190000000136",
+            "enderecoWeb": "https://www.facebook.com/NeyNunesPCB",
+            "codigo": "21",
+            "suplente": {
+                "nome": "HEITOR CESAR RIBEIRO DE OLIVEIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RJ/candidato/190000000137",
+                "numero": "190000000137"
+            },
+            "naturalidade": "RIO DE JANEIRO",
+            "bens": [
+                {
+                    "nome": "50% DE UM APTO LOCALIZADO AV. 28 DE SETEMBRO N\u00ba192 APTO 606, VILA ISABEL-RJ",
+                    "valor": "R$ 150.000,00"
+                },
+                {
+                    "nome": "RUA ERNERSTO PUJOL N\u00ba110 MARIA DA GRA\u00c7A, RIO DE JANEIRO-RJ, CEP.20785-390",
+                    "valor": "R$ 350.000,00"
+                },
+                {
+                    "nome": "FIAT P\u00c1LIO ANO 2005 PLACA LRN-1059",
+                    "valor": "R$ 14.000,00"
+                }
+            ],
+            "genero": "MASCULINO",
+            "id": "190000000136",
+            "totalBensDeclarados": "R$ 514.000,0",
+            "raca": "Branca",
+            "ocupacao": "Banc\u00e1rio e Economi\u00e1rio",
+            "nascimento": "23/11/1958",
+            "cnpj": "20572338000125",
+            "partido": "PCB",
+            "numeroUrna": "21",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento"
+        }
+    }
+}

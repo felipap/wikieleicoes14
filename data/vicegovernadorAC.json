@@ -1,0 +1,355 @@
+{
+    "vicegovernadorAC": {
+        "10000000153": {
+            "ocupacao": "Outros",
+            "numeroProcesso": "222-44.2014.6.01.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 1.061.344,52",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=10000000282&sgUe=AC",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000153/idarquivo/837?x=140518246500010000000153",
+                    "documento": "1 - certidao1404572403915.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000153/idarquivo/838?x=140518246500010000000153",
+                    "documento": "2 - certidao1404572403915.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000153/idarquivo/839?x=140518246500010000000153",
+                    "documento": "3 - certidao1404572403916.pdf"
+                }
+            ],
+            "naturalidade": "RIO DE JANEIRO",
+            "cnpj": "20570630000109",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AC/candidato/10000000153",
+            "numeroProtocolo": "53132014",
+            "bens": [
+                {
+                    "valor": "R$ 120.627,22",
+                    "nome": "APARTAMENTO LOCALIZADO A ESTRADA DA FLORESTA CONDOMINIO RESIDENCIAL VIA PARQUE PLUS APARTAMENTO BLOCO 06 RUA VIOLETA ADQUIRIDO JUNTO A ALBUQUERQUE ENGENHARIA LTDA. NO VALOR TOTAL 160.000,00 FINANCIADO"
+                },
+                {
+                    "valor": "R$ 40.837,70",
+                    "nome": "APARTAMENTO LOCALIZADO RUA LUCAS SAO PAULO APARTAMENTO 47 TORRE MILANO 4A PAVIMENTO DO CONDOMINIO VALLORES BRAS FINANCIADO"
+                },
+                {
+                    "valor": "R$ 118.029,27",
+                    "nome": "APARTAMENTO LOCALIZADO A ESTRADA FLORESTA DENOMINADO VIA PARQUE PLUS APARTAMENTO BLOCO 06 VOLETA FINANCIADO"
+                },
+                {
+                    "valor": "R$ 72.832,88",
+                    "nome": "APARTAMENTO LOCALIZADO SAO PAULO RUA ALVARO CARVALHO ADQUIRIDO NO VALOR AJUSTADO"
+                },
+                {
+                    "valor": "R$ 10.075,32",
+                    "nome": "UMA CASA RESIDENCIAL ADQUIRIDA JUNTO AO SFH CONJUNTO ARUAQUE QUADRA M CASA 06"
+                },
+                {
+                    "valor": "R$ 195.000,00",
+                    "nome": "REFORMA DE UMA CASA RESIDENCIAL SITUADA NO CONJUNTO ARUAQUE QUADRA M CASA 05 NA VILA IVONETE"
+                },
+                {
+                    "valor": "R$ 300.815,00",
+                    "nome": "CONSTRU\u00c7\u00c3O PARCIAL DE UMA UNIDADE RESIDENCIAL EM ALVENARIA MEDINDO 273,00 M2 SITO A RUA ALMIRANTE BARBOSA"
+                },
+                {
+                    "valor": "R$ 76.900,00",
+                    "nome": "AQUISI\u00c7\u00c3O DE UM AUTOMOVEL NOVO HONDA CIVIC FLEX SEDAN ANO 2012 ALIENADO JUNTO AO BB"
+                },
+                {
+                    "valor": "R$ 1.392,95",
+                    "nome": "UMA LINHA TELEFONICA"
+                },
+                {
+                    "valor": "R$ 600,00",
+                    "nome": "UMA LINHA TELEFONICA PREFIXO 998"
+                },
+                {
+                    "valor": "R$ 5.002,62",
+                    "nome": "POUPAN\u00c7A OURO BANCO BRAIL AGENCIA 5014-8 C/P 9443-9"
+                },
+                {
+                    "valor": "R$ 181,20",
+                    "nome": "APLICA\u00c7\u00c3O EM RENDA FIXA BANCO DO BRASIL AGENCIA 5014 C/C 9443-9 OURO CAP"
+                },
+                {
+                    "valor": "R$ 61,74",
+                    "nome": "SALDO EM CARTOES PRE-PAGOS MOEDA EURO N. CARTAO"
+                },
+                {
+                    "valor": "R$ 81.479,66",
+                    "nome": "AQUISI\u00c7\u00c3O D E UM EMPREEDIMENTO UNLIMITED OCEAN FRONT BLOCO 01 APRT 602 JUNTO YUNY PROJETOS IMOBILIARIOS LTDA"
+                },
+                {
+                    "valor": "R$ 7.452,55",
+                    "nome": "CONTA CORRENTE E VLGB CONTA ESTILO AGENCIA 5014 C/C 9443-9"
+                },
+                {
+                    "valor": "R$ 30.056,41",
+                    "nome": "CONSORCIO BB DE AUTOMOVEIS BB ADMINISTRADORA DE CONSORCIO BANCO DO BRASIL AGENCIA ACRE  75 PRESTA\u00c7\u00d5ES"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PDT / PRB / PT / PSL / PTN / PSDC / PHS / PSB / PRP / PEN / PPL / PC do B / PROS / PTB",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405182465000"
+            },
+            "id": "10000000153",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "Frente Popular do Acre",
+            "nomeCompleto": "NAZARETH LAMBERT",
+            "nascimento": "07/01/1967",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "NAZARETH LAMBERT",
+            "partido": "PT"
+        },
+        "10000000004": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "77-85.2014.6.01.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 2.702.870,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AC&sq_cand=10123",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=10000000001&sgUe=AC",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira (naturalizada)",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000004/idarquivo/10?x=140519405100010000000004",
+                    "documento": "1 - certidao1404406196174.pdf"
+                }
+            ],
+            "naturalidade": "MASISEA - PUCALLPA - PERU",
+            "cnpj": "20557990000170",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AC/candidato/10000000004",
+            "numeroProtocolo": "51092014",
+            "bens": [
+                {
+                    "valor": "R$ 158.870,00",
+                    "nome": "APARTAMENTO NO RESIDENCIAL YUME, EM RIO BRANCO-AC"
+                },
+                {
+                    "valor": "R$ 750.000,00",
+                    "nome": "FAZENDA LOCALIZADA NO RAMAL DO BADEJO, KM 18, DENOMINADA CALIF\u00d3RNIA II, COM 850 HA, E 1300 CABE\u00c7AS DE GADO"
+                },
+                {
+                    "valor": "R$ 880.000,00",
+                    "nome": "FAZENDA DENOMINADA CALIF\u00d3RNIA I, COM 1000 HA, COM 1500 CABE\u00c7AS DE GADO, LOCALIZADA NO RAMAL DO BADEJO, EM CRUZEIDO DO SUL"
+                },
+                {
+                    "valor": "R$ 300.000,00",
+                    "nome": "TRATOR DE ESTEIRA D-6, RECEBIDO EM DOA\u00c7\u00c3O."
+                },
+                {
+                    "valor": "R$ 56.000,00",
+                    "nome": "AUTOM\u00d3VEL HONDA FIT, ANO 2011"
+                },
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "TRATOR DE PNEU FORD MODELO 6650"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "CAMINH\u00c3O, MERCEDES-BENZ 1113, ANO 1970"
+                },
+                {
+                    "valor": "R$ 95.000,00",
+                    "nome": "AUTOM\u00d3VEL HILUX, CABINE SIMPLES, ANO 2012"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "RETRO ESCAVADEIRA HIDR\u00c1ULICA MOD PC160, MARCA COMACSONM, ANO 2008"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "CAMINH\u00c3O, MERCEDES-BENZ 1513, ANO 1978"
+                },
+                {
+                    "valor": "R$ 140.000,00",
+                    "nome": "AUTOM\u00d3VEL HILUX, ANO 2013/2014"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "LANCHA CONSTRU\u00cdDA EM ALUM\u00cdNIO COM 17 P\u00c9S, MOTOR MERCURY DE 115HP"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "45",
+            "composicaoColigacao": "PMDB / PSDB / PT do B / PSC / PTC / PPS / PR / SD / PP / PSD",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405194051000"
+            },
+            "id": "10000000004",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "Por Um Acre Melhor",
+            "nomeCompleto": "ANTONIA SALES",
+            "nascimento": "13/06/1954",
+            "status": "Aguardando julgamento",
+            "codigo": "45",
+            "nomeUrna": "ANTONIA SALES",
+            "partido": "PMDB"
+        },
+        "10000000353": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "399-08.2014.6.01.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 742.379,63",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AC&sq_cand=10032",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=10000000245&sgUe=AC",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000353/idarquivo/2207?x=140511672400010000000353",
+                    "documento": "2 - certidao1404579228642.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000353/idarquivo/2208?x=140511672400010000000353",
+                    "documento": "3 - certidao1404579228643.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000353/idarquivo/2209?x=140511672400010000000353",
+                    "documento": "4 - certidao1404579228643.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000353/idarquivo/2210?x=140511672400010000000353",
+                    "documento": "5 - certidao1404579228644.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000353/idarquivo/2206?x=140511672400010000000353",
+                    "documento": "1 - certidao1404579228642.pdf"
+                }
+            ],
+            "naturalidade": "CRUZEIRO DO SUL",
+            "cnpj": "20570762000130",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AC/candidato/10000000353",
+            "numeroProtocolo": "54922014",
+            "bens": [
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "CASA EM CRUZEIRO DO SUL ACRE"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "CASA ALVENARIA - CONJ. UNIVERS. III"
+                },
+                {
+                    "valor": "R$ 270.000,00",
+                    "nome": "CHACARA EM SENADOR GUIOMARD"
+                },
+                {
+                    "valor": "R$ 53.000,00",
+                    "nome": "LINEA FIAT 2013"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "FIAT UNO 2006/2007"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "DUSTER RENAULT"
+                },
+                {
+                    "valor": "R$ 19.379,63",
+                    "nome": "CHEVROLET CLASSIC LS 2010/2011"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "25",
+            "composicaoColigacao": "DEM / PV / PMN",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405116724000"
+            },
+            "id": "10000000353",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PRODUZIR PARA EMPREGAR",
+            "nomeCompleto": "HENRIQUE AFONSO",
+            "nascimento": "03/12/1964",
+            "status": "Aguardando julgamento",
+            "codigo": "25",
+            "nomeUrna": "HENRIQUE AFONSO",
+            "partido": "PV"
+        },
+        "10000000140": {
+            "ocupacao": "Agricultor",
+            "numeroProcesso": "205-08.2014.6.01.0000",
+            "genero": "FEMININO",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000140/idarquivo/753?x=140511335100010000000140",
+                    "documento": "1 - certidao1404571261098.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000140/idarquivo/754?x=140511335100010000000140",
+                    "documento": "2 - certidao1404571261098.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000140/idarquivo/755?x=140511335100010000000140",
+                    "documento": "3 - certidao1404571261099.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AC/candidato/10000000140/idarquivo/756?x=140511335100010000000140",
+                    "documento": "4 - certidao1404571261099.jpg"
+                }
+            ],
+            "naturalidade": "XAPURI",
+            "cnpj": "20571504000179",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AC/candidato/10000000140",
+            "numeroProtocolo": "52952014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405113351000"
+            },
+            "id": "10000000140",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "DANY MENDON\u00c7A",
+            "nascimento": "16/02/1970",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "DANY MENDON\u00c7A",
+            "partido": "PSOL"
+        }
+    }
+}

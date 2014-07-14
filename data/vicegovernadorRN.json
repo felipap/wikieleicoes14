@@ -1,0 +1,526 @@
+{
+    "vicegovernadorRN": {
+        "200000000017": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1405005127000"
+            },
+            "id": "200000000017",
+            "numeroUrna": "17",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "2 SALAS 2 QUARTOS 2 BANHEIROS COZINHA",
+                    "valor": "R$ 150.000,00"
+                },
+                {
+                    "nome": "VEICULO FIESTA ANO 1999 COR VERMELHA",
+                    "valor": "R$ 5.000,00"
+                }
+            ],
+            "numeroProcesso": "124-31.2014.6.20.0000",
+            "coligacao": "PSL",
+            "codigo": "17",
+            "nascimento": "10/12/1954",
+            "totalBensDeclarados": "R$ 155.000,0",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "composicaoColigacao": "",
+            "partido": "PSL",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000017",
+            "cnpj": "20557654000128",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000017/idarquivo/86?x=1405005127000200000000017",
+                    "documento": "1 - certidao1404421590749.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000017/idarquivo/87?x=1405005127000200000000017",
+                    "documento": "2 - certidao1404421590750.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000017/idarquivo/88?x=1405005127000200000000017",
+                    "documento": "3 - certidao1404421590750.jpg"
+                }
+            ],
+            "limiteGastos": "",
+            "nomeUrna": "PAULO ROBERTO",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=200000000347&sgUe=RN"
+                }
+            ],
+            "ocupacao": "Aposentado (Exceto Servidor P\u00fablico)",
+            "Grauinstrucao": "Ensino M\u00e9dio incompleto",
+            "naturalidade": "CATOL\u00c9 DO ROCHA",
+            "nomeCompleto": "PAULO ROBERTO",
+            "raca": "Preta",
+            "numeroProtocolo": "192102014",
+            "genero": "MASCULINO"
+        },
+        "200000000243": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1404928114000"
+            },
+            "id": "200000000243",
+            "numeroUrna": "55",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "01 APARTAMENTO NO EDIF CHATEAU MARGALIX, EM NATAL/RN",
+                    "valor": "R$ 339.951,00"
+                },
+                {
+                    "nome": "TERRENO NO CONDOMINIO ALPHAVILLE C/ CONTRATO EM NOME DO CONJUGE",
+                    "valor": "R$ 72.152,25"
+                },
+                {
+                    "nome": "01 VE\u00cdCULO TIPO FREELANDER",
+                    "valor": "R$ 119.412,30"
+                },
+                {
+                    "nome": "SALDO EM POUPAN\u00c7A",
+                    "valor": "R$ 42.000,00"
+                }
+            ],
+            "numeroProcesso": "375-49.2014.6.20.0000",
+            "coligacao": "LIDERADOS PELO POVO",
+            "codigo": "55",
+            "nascimento": "06/10/1971",
+            "totalBensDeclarados": "R$ 573.515,55",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "composicaoColigacao": "PSD / PT / PC do B / PT do B / PP / PEN / PRTB / PTC",
+            "partido": "PC do B",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000243",
+            "cnpj": "20572728000103",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1394?x=1404928114000200000000243",
+                    "documento": "1 - certidao1404591046800.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1395?x=1404928114000200000000243",
+                    "documento": "2 - certidao1404591046800.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1396?x=1404928114000200000000243",
+                    "documento": "3 - certidao1404591046801.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1397?x=1404928114000200000000243",
+                    "documento": "4 - certidao1404591046801.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1398?x=1404928114000200000000243",
+                    "documento": "5 - certidao1404591046802.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1399?x=1404928114000200000000243",
+                    "documento": "6 - certidao1404591046802.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1400?x=1404928114000200000000243",
+                    "documento": "7 - certidao1404591046803.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1401?x=1404928114000200000000243",
+                    "documento": "8 - certidao1404591046803.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1402?x=1404928114000200000000243",
+                    "documento": "9 - certidao1404591046804.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000243/idarquivo/1403?x=1404928114000200000000243",
+                    "documento": "10 - certidao1404591046805.pdf"
+                }
+            ],
+            "limiteGastos": "",
+            "nomeUrna": "FABIO DANTAS",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=200000000325&sgUe=RN"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "Grauinstrucao": "Superior completo",
+            "naturalidade": "NATAL",
+            "nomeCompleto": "FABIO DANTAS",
+            "raca": "Branca",
+            "numeroProtocolo": "195102014",
+            "genero": "MASCULINO"
+        },
+        "200000000130": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1404827915000"
+            },
+            "id": "200000000130",
+            "numeroUrna": "15",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "FLAT -NATAL MASTER FLAT UNIDADE 1406 TORRE B SITUADO NA RUA DES.DIONISIO FILGUEIRA - PETROPOLIS - NATAL",
+                    "valor": "R$ 57.048,00"
+                },
+                {
+                    "nome": "APTO 401 NA AV EPITACIO PESSOA, 40 - IPANEMA-RJ, CONFORME ESCRITURA 23- OFICIO LIVRO 6723-FLS234",
+                    "valor": "R$ 200.000,00"
+                },
+                {
+                    "nome": "APTO 0304 BLOCO B  EDIFICIO MAISON FLORENCE -APTO N\u00c3O ENTREGUE  PELA EMPRESA ENCOL",
+                    "valor": "R$ 1.890,91"
+                },
+                {
+                    "nome": "APTO EDIFICIO PALLADIUM SITUADO RUA S\u00c3O JOS\u00c9 - CANDELARIA - NATAL/RN CONFORME REGISTRO NO 4 OFICIO DE NOTAS, LIVRO 326 FLS 182 E 183",
+                    "valor": "R$ 210.000,00"
+                },
+                {
+                    "nome": "CASA DE ALVENARIA SITO A RUA S\u00c3O JO\u00c3O 1391 ALECRIM",
+                    "valor": "R$ 25.000,00"
+                },
+                {
+                    "nome": "CASA DE ALVENARIA EM JARDIM PIRANHAS LIVRO 49 FLS 171 , 172",
+                    "valor": "R$ 10.000,00"
+                },
+                {
+                    "nome": "CASA DE ALVENARIA EM JARDIM PIRANHAS REGISTRO 49 FLS 173",
+                    "valor": "R$ 5.000,00"
+                },
+                {
+                    "nome": "PREDIO NA RUA DUQUE CAXIAS EM JARDIM PIRANHAS",
+                    "valor": "R$ 15.191,63"
+                },
+                {
+                    "nome": "CASA 2074 DA AV.DR. SOLON DE MIRANDA GALV\u00c3O, SITUADO EM CAPIM MACIO-NATAL-RN CONFORME ESCRITURA DO 7 OFICIO",
+                    "valor": "R$ 60.000,00"
+                },
+                {
+                    "nome": "TERRENO NA RUA ANA BARROS",
+                    "valor": "R$ 5.000,00"
+                },
+                {
+                    "nome": "TERRENO DE  01 FRA\u00c7\u00c3O 0,0053388 CONDOMINIO RESIDENCIAL BOSQUE DAS FLORESNA CIDADE DE PARNAMIRIM",
+                    "valor": "R$ 83.587,28"
+                },
+                {
+                    "nome": "NA RUA PRESIDENTE QUARESMA,744 ALECRIM- NATAL -RN",
+                    "valor": "R$ 15.000,00"
+                },
+                {
+                    "nome": "TERRENO EM CA\u00c7APAVA - SP DE 83.938,65 M\u00b2",
+                    "valor": "R$ 23.502,82"
+                },
+                {
+                    "nome": "TERRENO SITO NA AV RIO BRANCO NA CIDADE DE JARDIM PIRANHAS",
+                    "valor": "R$ 6.230,39"
+                },
+                {
+                    "nome": "SITIO SOBRADO JARDIM PIRANHAS RGN",
+                    "valor": "R$ 110.000,00"
+                },
+                {
+                    "nome": "TERRENO COM AREA 19.350 M\u00b2  DENOMINADO GRANJA SERIDO CONFORME 10 OFICIO DE NOTAS MACAIBA",
+                    "valor": "R$ 50.000,00"
+                },
+                {
+                    "nome": "TERRA NUA EM JARDIM DE PIRANHAS NA RUA ANA DE BARROS",
+                    "valor": "R$ 4.813,53"
+                },
+                {
+                    "nome": "TERRA NUA DE 29 HA NO SITIO SOBRADO ZONA RURAL DE JARDIM PIRANHAS",
+                    "valor": "R$ 10.000,00"
+                },
+                {
+                    "nome": "BENFEITORIA NO IMOVEL DA AV EPITACIO PESSOA",
+                    "valor": "R$ 32.520,00"
+                },
+                {
+                    "nome": "CAMINH\u00c3O ANO 1995 PLACA MUX 9580",
+                    "valor": "R$ 110.000,00"
+                },
+                {
+                    "nome": "VEICULO MARCA PAJERO TIPO HPE 32 PLACA JID0022",
+                    "valor": "R$ 187.900,00"
+                },
+                {
+                    "nome": "LAND ROVER DISCOVERY 4 TDV PLACA 2022",
+                    "valor": "R$ 225.000,00"
+                },
+                {
+                    "nome": "TIPO PAJEIRO TR 4 PLACA KZB 0384",
+                    "valor": "R$ 76.000,00"
+                },
+                {
+                    "nome": "CORSA CLASSIC 4 PORTAS FAB 2002 MODELO 2003 - PLACA LOK 1175",
+                    "valor": "R$ 21.000,00"
+                },
+                {
+                    "nome": "COLAR ADQUIRIDO NA H.STERN",
+                    "valor": "R$ 5.560,00"
+                },
+                {
+                    "nome": "JOIAS E OBJETOS DE ARTE ADQUIRIDOS AO LONGO DO TEMPO INCLUSIVE PELO CONJUGE",
+                    "valor": "R$ 5.084,55"
+                },
+                {
+                    "nome": "80 QUOTAS NO VALOR TOTAL DE 4.000,00 DA EMPRESA MAIA ASSESSORIA EMPRESARIAL - CNPJ 06103050/0001-80",
+                    "valor": "R$ 4.000,00"
+                },
+                {
+                    "nome": "990 QUOTAS DA EMPRESA JSM CONSULTORIA COMERCIAL NO VALOR DE R$990,00 - CNPJ 01643468/0001-67",
+                    "valor": "R$ 990,00"
+                },
+                {
+                    "nome": "30% DAS COTAS DA EMPRESA ESTA\u00c7\u00c3O JARDIM FIM LTDA CNPJ 70310560/0001-28",
+                    "valor": "R$ 2.000,00"
+                },
+                {
+                    "nome": "19% DAS COTAS DA EMPRESA MAXTRAN EMPREENDIMENTO E PARTICIPA\u00c7\u00d5ES LTAD CNPJ 04230030/0001-45",
+                    "valor": "R$ 67.533,00"
+                },
+                {
+                    "nome": "49% DA EMPRESA ESTA\u00c7\u00c3O JJ&A LTDA CNPJ 04882976/0001-09",
+                    "valor": "R$ 58.800,00"
+                },
+                {
+                    "nome": "284.400 QUOTAS NO VALOR DE 1,00 REPRESENTANDO 54% DO CAPITAL SOCIAL DA EMPRESA PONTA D\u00b4AGUA S/C LTDA- CNPJ 02974303/0001-30",
+                    "valor": "R$ 248.400,00"
+                },
+                {
+                    "nome": "5,75% DAS COTAS DA EMPRESA PIPA EMPREENDIMENTOS E INCORPORA\u00c7\u00d5ES LTDA CNPJ 08271521/0001-95",
+                    "valor": "R$ 57.615,00"
+                },
+                {
+                    "nome": "CREDITO DECORRENTE DE EMPRESTIMO",
+                    "valor": "R$ 90.000,00"
+                },
+                {
+                    "nome": "CREDITO DE VENDA DO IMOVEL APTO ALBDEBRAN",
+                    "valor": "R$ 285.500,00"
+                },
+                {
+                    "nome": "BANCO DO BRASIL CONTA CORRENTE 288437-2",
+                    "valor": "R$ 6.620,37"
+                },
+                {
+                    "nome": "OURO CAP BB C/C 268437-3",
+                    "valor": "R$ 1.804,26"
+                }
+            ],
+            "numeroProcesso": "239-52.2014.6.20.0000",
+            "coligacao": "UNI\u00c3O PELA MUDAN\u00c7A",
+            "codigo": "15",
+            "nascimento": "20/09/1953",
+            "totalBensDeclarados": "R$ 2.378.591,74",
+            "enderecoWeb": "soppapr222010@yahoo.com.br",
+            "composicaoColigacao": "PMDB / PR / PSB / PROS / PDT / SD / PSC / PTB / PPS / PHS / PSDB / PSDC / PRB / PTN / PV / PMN / PRP",
+            "partido": "PR",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000130",
+            "cnpj": "20564577000133",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/623?x=1404827915000200000000130",
+                    "documento": "1 - certidao1404586911595.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/624?x=1404827915000200000000130",
+                    "documento": "2 - certidao1404586911596.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/625?x=1404827915000200000000130",
+                    "documento": "3 - certidao1404586911596.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/626?x=1404827915000200000000130",
+                    "documento": "4 - certidao1404586911597.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/627?x=1404827915000200000000130",
+                    "documento": "5 - certidao1404586911597.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/628?x=1404827915000200000000130",
+                    "documento": "6 - certidao1404586911598.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/629?x=1404827915000200000000130",
+                    "documento": "7 - certidao1404586911599.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/630?x=1404827915000200000000130",
+                    "documento": "8 - certidao1404586911599.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/631?x=1404827915000200000000130",
+                    "documento": "9 - certidao1404586911600.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/632?x=1404827915000200000000130",
+                    "documento": "10 - certidao1404586911600.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/633?x=1404827915000200000000130",
+                    "documento": "11 - certidao1404586911601.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/634?x=1404827915000200000000130",
+                    "documento": "12 - certidao1404586911601.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/635?x=1404827915000200000000130",
+                    "documento": "13 - certidao1404586911601.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000130/idarquivo/636?x=1404827915000200000000130",
+                    "documento": "14 - certidao1404586911602.jpg"
+                }
+            ],
+            "limiteGastos": "",
+            "nomeUrna": "JO\u00c3O MAIA",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RN&sq_cand=10043"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=200000000110&sgUe=RN"
+                }
+            ],
+            "ocupacao": "Deputado",
+            "Grauinstrucao": "Superior completo",
+            "naturalidade": "BREJO DO CRUZ",
+            "nomeCompleto": "JO\u00c3O MAIA",
+            "raca": "Branca",
+            "numeroProtocolo": "193902014",
+            "genero": "MASCULINO"
+        },
+        "200000000097": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1405083369000"
+            },
+            "id": "200000000097",
+            "numeroUrna": "50",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "CASA RESIDENCIAL FINANCIADA PELA CAIXA",
+                    "valor": "R$ 80.000,00"
+                },
+                {
+                    "nome": "TERRENO",
+                    "valor": "R$ 10.000,00"
+                },
+                {
+                    "nome": "AUTOM\u00d3VEL FUSCA, ANO 1979",
+                    "valor": "R$ 5.000,00"
+                },
+                {
+                    "nome": "AUTOM\u00d3VEL PEGOT 207, PASSION ANO 2013",
+                    "valor": "R$ 30.000,00"
+                }
+            ],
+            "numeroProcesso": "224-83.2014.6.20.0000",
+            "coligacao": "PSOL",
+            "codigo": "50",
+            "nascimento": "01/06/1969",
+            "totalBensDeclarados": "R$ 125.000,0",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "composicaoColigacao": "",
+            "partido": "PSOL",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000097",
+            "cnpj": "20571099000199",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000097/idarquivo/452?x=1405083369000200000000097",
+                    "documento": "1 - certidao1404574431367.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000097/idarquivo/453?x=1405083369000200000000097",
+                    "documento": "2 - certidao1404574431367.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000097/idarquivo/454?x=1405083369000200000000097",
+                    "documento": "3 - certidao1404574431368.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000097/idarquivo/455?x=1405083369000200000000097",
+                    "documento": "4 - certidao1404574431368.pdf"
+                }
+            ],
+            "limiteGastos": "",
+            "nomeUrna": "PROFESSOR RONALDO GARCIA",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=200000000022&sgUe=RN"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "ocupacao": "Professor de Ensino Superior",
+            "Grauinstrucao": "Superior completo",
+            "naturalidade": "NOVA CRUZ",
+            "nomeCompleto": "PROFESSOR RONALDO GARCIA",
+            "raca": "Branca",
+            "numeroProtocolo": "193382014",
+            "genero": "MASCULINO"
+        },
+        "200000000002": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1404573575000"
+            },
+            "id": "200000000002",
+            "numeroUrna": "16",
+            "nacionalidade": "Brasileira nata",
+            "numeroProcesso": "109-62.2014.6.20.0000",
+            "coligacao": "PSTU",
+            "nascimento": "07/05/1965",
+            "composicaoColigacao": "",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "codigo": "16",
+            "partido": "PSTU",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000002",
+            "cnpj": "20557947000105",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000002/idarquivo/9?x=1404573575000200000000002",
+                    "documento": "1 - certidao1404415521833.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000002/idarquivo/10?x=1404573575000200000000002",
+                    "documento": "2 - certidao1404415521834.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000002/idarquivo/11?x=1404573575000200000000002",
+                    "documento": "3 - certidao1404415521835.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000002/idarquivo/12?x=1404573575000200000000002",
+                    "documento": "4 - certidao1404415521835.pdf"
+                }
+            ],
+            "limiteGastos": "",
+            "nomeUrna": "PROFESSORA SOCORRO",
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "Grauinstrucao": "Superior completo",
+            "naturalidade": "NATAL",
+            "nomeCompleto": "PROFESSORA SOCORRO",
+            "raca": "Preta",
+            "numeroProtocolo": "191882014",
+            "genero": "FEMININO"
+        }
+    }
+}

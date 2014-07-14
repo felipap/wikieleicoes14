@@ -1,0 +1,808 @@
+{
+    "governadorMT": {
+        "110000000318": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1929?x=1404915162000110000000318",
+                    "documento": "1 - proposta_governo1404602404419.pdf"
+                }
+            ],
+            "ocupacao": "Deputado",
+            "numeroProcesso": "380-23.2014.6.11.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "110000000319",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MT/candidato/110000000319",
+                "nome": "ARAY CARLOS DA FONSECA FILHO"
+            },
+            "totalBensDeclarados": "R$ 1.925.634,7399999998",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MT&sq_cand=10069",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=110000000313&sgUe=MT",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1930?x=1404915162000110000000318",
+                    "documento": "1 - certidao1404602404420.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1931?x=1404915162000110000000318",
+                    "documento": "2 - certidao1404602404420.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1932?x=1404915162000110000000318",
+                    "documento": "3 - certidao1404602404420.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1933?x=1404915162000110000000318",
+                    "documento": "4 - certidao1404602404421.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1934?x=1404915162000110000000318",
+                    "documento": "5 - certidao1404602404421.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1935?x=1404915162000110000000318",
+                    "documento": "6 - certidao1404602404422.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1936?x=1404915162000110000000318",
+                    "documento": "7 - certidao1404602404422.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1937?x=1404915162000110000000318",
+                    "documento": "8 - certidao1404602404423.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1938?x=1404915162000110000000318",
+                    "documento": "9 - certidao1404602404423.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1939?x=1404915162000110000000318",
+                    "documento": "10 - certidao1404602404423.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1940?x=1404915162000110000000318",
+                    "documento": "11 - certidao1404602404424.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1941?x=1404915162000110000000318",
+                    "documento": "12 - certidao1404602404424.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1942?x=1404915162000110000000318",
+                    "documento": "13 - certidao1404602404425.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1943?x=1404915162000110000000318",
+                    "documento": "14 - certidao1404602404425.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1944?x=1404915162000110000000318",
+                    "documento": "15 - certidao1404602404426.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1945?x=1404915162000110000000318",
+                    "documento": "16 - certidao1404602404426.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1946?x=1404915162000110000000318",
+                    "documento": "17 - certidao1404602404427.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1947?x=1404915162000110000000318",
+                    "documento": "18 - certidao1404602404427.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1948?x=1404915162000110000000318",
+                    "documento": "19 - certidao1404602404427.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1949?x=1404915162000110000000318",
+                    "documento": "20 - certidao1404602404428.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1950?x=1404915162000110000000318",
+                    "documento": "21 - certidao1404602404428.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1951?x=1404915162000110000000318",
+                    "documento": "22 - certidao1404602404429.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1952?x=1404915162000110000000318",
+                    "documento": "23 - certidao1404602404429.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1953?x=1404915162000110000000318",
+                    "documento": "24 - certidao1404602404430.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1954?x=1404915162000110000000318",
+                    "documento": "25 - certidao1404602404430.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1955?x=1404915162000110000000318",
+                    "documento": "26 - certidao1404602404431.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1956?x=1404915162000110000000318",
+                    "documento": "27 - certidao1404602404431.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1957?x=1404915162000110000000318",
+                    "documento": "28 - certidao1404602404431.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1958?x=1404915162000110000000318",
+                    "documento": "29 - certidao1404602404432.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000318/idarquivo/1959?x=1404915162000110000000318",
+                    "documento": "30 - certidao1404602404432.pdf"
+                }
+            ],
+            "naturalidade": "GUA\u00c7UI",
+            "cnpj": "20575394000113",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MT/candidato/110000000318",
+            "numeroProtocolo": "231472014",
+            "bens": [
+                {
+                    "valor": "R$ 619.803,56",
+                    "nome": "APARTAMENTO NA RUA ESTEVAO DE MENDON\u00c7A, N.1295, AP. 2303, ED. SOFISTICATO, BAIRRO QUILOMBO, CUIABA-MT"
+                },
+                {
+                    "valor": "R$ 122.460,00",
+                    "nome": "CASA NA RUA ANTONIO F. SANCHES S/N, BAIRRO CENTRO, JUARA"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "TERRENO NA QUADRA B LOTE 09 NA GLEBA TAQUARAL  EM JUARA-MT, COM 809,20 M2"
+                },
+                {
+                    "valor": "R$ 100,00",
+                    "nome": "LOTE URBANO N. 17 QUADRA 161"
+                },
+                {
+                    "valor": "R$ 100,00",
+                    "nome": "TERRENO URBANO COM AREA DE 525,00M2, NO LOTE 12 DA EM JUARA-MT"
+                },
+                {
+                    "valor": "R$ 1.766,71",
+                    "nome": "LOTES URBANOS, SEM BENFEITORIAS, LOCALIZADOS EM QUADRAS DO LOTEAMENTE CIDADE DE JUARA"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "AREA DE TERRAS URBANO N.18, QUADRA 161, COM 420,00M2, EM JUARA-MT, COM 4146,67 M2"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "AREA DE TERRAS NA GLEBA TAQUARAL  EM JUARA-MT, COM 799,00 M2"
+                },
+                {
+                    "valor": "R$ 17.000,00",
+                    "nome": "AREA DE TERRAS NA GLEBA TAQUARAL  EM JUARA-MT, COM 4146,67 M2"
+                },
+                {
+                    "valor": "R$ 10.500,00",
+                    "nome": "AREA DE TERRAS RURAL COM 484,00 HA, EM JUARA-MT"
+                },
+                {
+                    "valor": "R$ 45.000,00",
+                    "nome": "VEICULO MARCA TOYOTA COROLLA, 2004,"
+                },
+                {
+                    "valor": "R$ 179.652,34",
+                    "nome": "VEICULO MARCA AUDI, 2011/2012"
+                },
+                {
+                    "valor": "R$ 55.000,00",
+                    "nome": "VEICULO MARCA AUDI A4, ANO 2005"
+                },
+                {
+                    "valor": "R$ 410,24",
+                    "nome": "A\u00c7\u00d5ES DE TELEFONE LINHA FIXA"
+                },
+                {
+                    "valor": "R$ 45.149,64",
+                    "nome": "CONTA CAPITAL DA CECM DOS SERV DO PL DE MT"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "10% DE CAPITAL DA EMPRESA FRIGONORTE ALIMENTOS LTDA, EM NOVA SANTA HELENA-MT"
+                },
+                {
+                    "valor": "R$ 157.500,00",
+                    "nome": "10% CAPITAL DA EMPRESA UNIAO INDUSTRIA DE ALIMENTOS LTDA."
+                },
+                {
+                    "valor": "R$ 80,32",
+                    "nome": "CADERNETA DE POUPAN\u00c7A"
+                },
+                {
+                    "valor": "R$ 160.362,17",
+                    "nome": "CR\u00c9DITO COM A EMPRESA UNIAO IND DE ALIMENTOS LTDA"
+                },
+                {
+                    "valor": "R$ 5.707,18",
+                    "nome": "SALDO C/C BANCO BRASIL"
+                },
+                {
+                    "valor": "R$ 9.581,79",
+                    "nome": "SALDO BANCO SANTANDER"
+                },
+                {
+                    "valor": "R$ 4.795,30",
+                    "nome": "SALDO C/C COOP ECON E DRED SERV DO PL DE MT"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "SALDO CAIXA/BANCOS"
+                },
+                {
+                    "valor": "R$ 1.667,74",
+                    "nome": "SALDO BANCO BRADESCO S/A - PAPEIS DE RF"
+                },
+                {
+                    "valor": "R$ 352.997,75",
+                    "nome": "BANCO BRADESCO"
+                }
+            ],
+            "limiteGastos": "R$ 35.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "55",
+            "composicaoColigacao": "PSD / PTC / PTN / PEN / PRTB / SD",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404915162000"
+            },
+            "id": "110000000318",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "VIVA MATO GROSSO",
+            "nomeCompleto": "RIVA",
+            "nascimento": "08/04/1959",
+            "status": "Aguardando julgamento",
+            "codigo": "55",
+            "nomeUrna": "RIVA",
+            "partido": "PSD"
+        },
+        "110000000027": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/201?x=1405009044000110000000027",
+                    "documento": "1 - proposta_governo1404489342787.pdf"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "numeroProcesso": "454-77.2014.6.11.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "110000000028",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MT/candidato/110000000028",
+                "nome": "MARCO NATALE"
+            },
+            "totalBensDeclarados": "R$ 66.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=110000000002&sgUe=MT",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/202?x=1405009044000110000000027",
+                    "documento": "1 - certidao1404489342788.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/203?x=1405009044000110000000027",
+                    "documento": "2 - certidao1404489342789.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/204?x=1405009044000110000000027",
+                    "documento": "3 - certidao1404489342789.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/205?x=1405009044000110000000027",
+                    "documento": "4 - certidao1404489342790.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/206?x=1405009044000110000000027",
+                    "documento": "5 - certidao1404489342790.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/207?x=1405009044000110000000027",
+                    "documento": "6 - certidao1404489342791.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/208?x=1405009044000110000000027",
+                    "documento": "7 - certidao1404489342791.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/209?x=1405009044000110000000027",
+                    "documento": "8 - certidao1404489342792.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000027/idarquivo/210?x=1405009044000110000000027",
+                    "documento": "9 - certidao1404489342792.pdf"
+                }
+            ],
+            "naturalidade": "PARANA\u00cdBA",
+            "cnpj": "20561188000154",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MT/candidato/110000000027",
+            "numeroProtocolo": "228142014",
+            "bens": [
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "CASA NO BAIRRO MONTE L\u00cdBANO (ALVORADA)"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "VE\u00cdCULO VOYAGE 94/95"
+                }
+            ],
+            "limiteGastos": "R$ 1.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405009044000"
+            },
+            "id": "110000000027",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "DR. JOS\u00c9 ROBERTO",
+            "nascimento": "13/07/1962",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "DR. JOS\u00c9 ROBERTO",
+            "partido": "PSOL"
+        },
+        "110000000001": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/2423?x=1405085657000110000000001",
+                    "documento": "1 - proposta_governo1404918444677.pdf"
+                }
+            ],
+            "ocupacao": "Senador",
+            "numeroProcesso": "170-69.2014.6.11.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "110000000002",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MT/candidato/110000000002",
+                "nome": "CARLOS HENRIQUE BAQUETA F\u00c1VARO"
+            },
+            "totalBensDeclarados": "R$ 1.000.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=110000000165&sgUe=MT",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/4?x=1405085657000110000000001",
+                    "documento": "1 - certidao1404475741657.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/5?x=1405085657000110000000001",
+                    "documento": "2 - certidao1404475741658.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/6?x=1405085657000110000000001",
+                    "documento": "3 - certidao1404475741659.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/7?x=1405085657000110000000001",
+                    "documento": "4 - certidao1404475741659.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/8?x=1405085657000110000000001",
+                    "documento": "5 - certidao1404475741660.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/9?x=1405085657000110000000001",
+                    "documento": "6 - certidao1404475741661.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/10?x=1405085657000110000000001",
+                    "documento": "7 - certidao1404475741661.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/11?x=1405085657000110000000001",
+                    "documento": "8 - certidao1404475741662.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/12?x=1405085657000110000000001",
+                    "documento": "9 - certidao1404475741662.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/13?x=1405085657000110000000001",
+                    "documento": "10 - certidao1404475741663.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/14?x=1405085657000110000000001",
+                    "documento": "11 - certidao1404475741663.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/15?x=1405085657000110000000001",
+                    "documento": "12 - certidao1404475741664.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/16?x=1405085657000110000000001",
+                    "documento": "13 - certidao1404475741665.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/17?x=1405085657000110000000001",
+                    "documento": "14 - certidao1404475741665.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000001/idarquivo/18?x=1405085657000110000000001",
+                    "documento": "15 - certidao1404475741666.jpg"
+                }
+            ],
+            "naturalidade": "CUIAB\u00c1",
+            "cnpj": "20559441000135",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MT/candidato/110000000001",
+            "numeroProtocolo": "226492014",
+            "bens": [
+                {
+                    "valor": "R$ 800.000,00",
+                    "nome": "1.\tAPARTAMENTO N\u00ba 1.901, EDIF\u00cdCIO RIVIERA SANTA ROSA, ADQUIRIDO EM 04/01/2006, FINANCIADO"
+                },
+                {
+                    "valor": "R$ 65.000,00",
+                    "nome": "VE\u00cdCULO MARCA CITRO\u00cbN, MODELO C4 LOUNGE, ANO 2013, PLACAS OBS 7720, FINANCIADO JUNTO AO BANCO PSA FINANCE"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "VE\u00cdCULO MARCA TOYOTA HILUX SRV 4X4, ANO DE FABRICA\u00c7\u00c3O 2010, ADQUIRIDA COM FINANCIAMENTO JUNTO AO BANCO BRADESCO"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "DISPONIBILIDADE FINANCEIRA EM MOEDA CORRENTE"
+                }
+            ],
+            "limiteGastos": "R$ 34.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "12",
+            "composicaoColigacao": "PDT / PP / DEM / PSDB / PSB / PPS / PV / PTB / PSDC / PSC / PRP / PSL / PRB",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405085657000"
+            },
+            "id": "110000000001",
+            "enderecoWeb": "www.pedrotaques12.com.br",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "CORAGEM E ATITUDE PRA MUDAR",
+            "nomeCompleto": "PEDRO TAQUES",
+            "nascimento": "15/03/1968",
+            "status": "Aguardando julgamento",
+            "codigo": "12",
+            "nomeUrna": "PEDRO TAQUES",
+            "partido": "PDT"
+        },
+        "110000000176": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000176/idarquivo/1187?x=1404741577000110000000176",
+                    "documento": "1 - proposta_governo1404592022038.pdf"
+                }
+            ],
+            "ocupacao": "Jornalista e Redator",
+            "numeroProcesso": "273-76.2014.6.11.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "110000000178",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MT/candidato/110000000178",
+                "nome": "ELVES MARQUES CARVALHO"
+            },
+            "totalBensDeclarados": "R$ 150.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MT&sq_cand=10147",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=110000000581&sgUe=MT",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000176/idarquivo/1188?x=1404741577000110000000176",
+                    "documento": "1 - certidao1404592022039.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000176/idarquivo/1189?x=1404741577000110000000176",
+                    "documento": "2 - certidao1404592022039.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000176/idarquivo/1190?x=1404741577000110000000176",
+                    "documento": "3 - certidao1404592022040.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000176/idarquivo/1191?x=1404741577000110000000176",
+                    "documento": "4 - certidao1404592022040.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000176/idarquivo/1192?x=1404741577000110000000176",
+                    "documento": "5 - certidao1404592022040.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000176/idarquivo/1193?x=1404741577000110000000176",
+                    "documento": "6 - certidao1404592022041.pdf"
+                }
+            ],
+            "naturalidade": "ALTO PARAGUAI",
+            "cnpj": "20574640000112",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MT/candidato/110000000176",
+            "numeroProtocolo": "229742014",
+            "bens": [
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "APARTAMENTO RESIDENCIAL VIVENDAS DO BOM CLIMA - CUIABA"
+                }
+            ],
+            "limiteGastos": "R$ 10.000.000,00",
+            "Grauinstrucao": "Superior incompleto",
+            "numeroUrna": "31",
+            "composicaoColigacao": "PHS / PMN",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404741577000"
+            },
+            "id": "110000000176",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "MOBILIZAR E HUMANIZAR",
+            "nomeCompleto": "MUVUCA",
+            "nascimento": "02/05/1975",
+            "status": "Aguardando julgamento",
+            "codigo": "31",
+            "nomeUrna": "MUVUCA",
+            "partido": "PHS"
+        },
+        "110000000291": {
+            "ocupacao": "M\u00e9dico",
+            "numeroProcesso": "496-29.2014.6.11.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "110000000292",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MT/candidato/110000000292",
+                "nome": "APARECIDA MARIA BORGES BEZERRA"
+            },
+            "totalBensDeclarados": "R$ 233.228,07",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90670&sqCandidato=6594",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=110000000134&sgUe=MT",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1875?x=1404942967000110000000291",
+                    "documento": "1 - certidao1404599873511.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1876?x=1404942967000110000000291",
+                    "documento": "2 - certidao1404599873512.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1877?x=1404942967000110000000291",
+                    "documento": "3 - certidao1404599873512.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1878?x=1404942967000110000000291",
+                    "documento": "4 - certidao1404599873513.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1879?x=1404942967000110000000291",
+                    "documento": "5 - certidao1404599873513.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1880?x=1404942967000110000000291",
+                    "documento": "6 - certidao1404599873514.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1881?x=1404942967000110000000291",
+                    "documento": "7 - certidao1404599873514.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1882?x=1404942967000110000000291",
+                    "documento": "8 - certidao1404599873515.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1883?x=1404942967000110000000291",
+                    "documento": "9 - certidao1404599873515.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1884?x=1404942967000110000000291",
+                    "documento": "10 - certidao1404599873516.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1885?x=1404942967000110000000291",
+                    "documento": "11 - certidao1404599873516.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1886?x=1404942967000110000000291",
+                    "documento": "12 - certidao1404599873517.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1887?x=1404942967000110000000291",
+                    "documento": "13 - certidao1404599873517.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1888?x=1404942967000110000000291",
+                    "documento": "14 - certidao1404599873518.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1889?x=1404942967000110000000291",
+                    "documento": "15 - certidao1404599873518.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1890?x=1404942967000110000000291",
+                    "documento": "16 - certidao1404599873518.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1891?x=1404942967000110000000291",
+                    "documento": "17 - certidao1404599873519.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/1892?x=1404942967000110000000291",
+                    "documento": "18 - certidao1404599873519.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2492?x=1404942967000110000000291",
+                    "documento": "36 - certidao1404946559065.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2491?x=1404942967000110000000291",
+                    "documento": "35 - certidao1404946559065.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2490?x=1404942967000110000000291",
+                    "documento": "34 - certidao1404946559064.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2489?x=1404942967000110000000291",
+                    "documento": "33 - certidao1404946559064.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2488?x=1404942967000110000000291",
+                    "documento": "32 - certidao1404946559064.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2487?x=1404942967000110000000291",
+                    "documento": "31 - certidao1404946559063.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2486?x=1404942967000110000000291",
+                    "documento": "30 - certidao1404946559063.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2485?x=1404942967000110000000291",
+                    "documento": "29 - certidao1404946559062.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2484?x=1404942967000110000000291",
+                    "documento": "28 - certidao1404946559062.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2483?x=1404942967000110000000291",
+                    "documento": "27 - certidao1404946559061.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2482?x=1404942967000110000000291",
+                    "documento": "26 - certidao1404946559061.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2481?x=1404942967000110000000291",
+                    "documento": "25 - certidao1404946559060.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2480?x=1404942967000110000000291",
+                    "documento": "24 - certidao1404946559060.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2479?x=1404942967000110000000291",
+                    "documento": "23 - certidao1404946559059.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2478?x=1404942967000110000000291",
+                    "documento": "22 - certidao1404946559059.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2477?x=1404942967000110000000291",
+                    "documento": "21 - certidao1404946559059.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2476?x=1404942967000110000000291",
+                    "documento": "20 - certidao1404946559058.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000291/idarquivo/2475?x=1404942967000110000000291",
+                    "documento": "19 - certidao1404946559058.pdf"
+                }
+            ],
+            "naturalidade": "RIO VERDE",
+            "cnpj": "20575412000167",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MT/candidato/110000000291",
+            "numeroProtocolo": "231172014",
+            "bens": [
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "CASA RESIDENCIAL, CUIAB\u00c1/MT"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "GOL 1.6, ANO 1998/99"
+                },
+                {
+                    "valor": "R$ 65.000,00",
+                    "nome": "CARRO HONDA CRV E XL, ANO 2010/2011"
+                },
+                {
+                    "valor": "R$ 3.214,00",
+                    "nome": "QUOTA CAPITAL COOPERATIVA ECONOMICA DE CREDITO MUTUO DOS M\u00c9DICOS E PROFISSIONAIS DA SA\u00daDE DE MT"
+                },
+                {
+                    "valor": "R$ 36.442,54",
+                    "nome": "CONTA CORRENTE"
+                },
+                {
+                    "valor": "R$ 6.571,53",
+                    "nome": "AUTOM\u00d3VEL"
+                }
+            ],
+            "limiteGastos": "R$ 30.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PT / PMDB / PROS / PR / PC do B",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404942967000"
+            },
+            "id": "110000000291",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "AMOR A NOSSA GENTE",
+            "nomeCompleto": "L\u00daDIO CABRAL",
+            "nascimento": "15/03/1971",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "L\u00daDIO CABRAL",
+            "partido": "PT"
+        }
+    }
+}

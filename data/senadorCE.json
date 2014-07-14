@@ -1,0 +1,547 @@
+{
+    "senadorCE": {
+        "60000000605": {
+            "suplente": {
+                "numero": "60000000606",
+                "nome": "FRANCISCO FEITOSA DE ALBUQUERQUE LIMA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/CE/candidato/60000000606"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404933308000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/CE/candidato/60000000605",
+            "nomeCompleto": "TASSO JEREISSATI",
+            "nascimento": "15/12/1948",
+            "naturalidade": "FORTALEZA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 62.500,00",
+                    "nome": "1/6 DE 01 APTO 2103 NO 21 AND. DO ED. ANTARES FLAT SERVICE NA RUA QUINTANA 1012 IBIRAPUERA-SP"
+                },
+                {
+                    "valor": "R$ 41.666,66",
+                    "nome": "1/6 DE 01 APTO RES. 1002 ED. ITAVERA NA RUA ANA BILHAR ALDEOTA - FORT-CE"
+                },
+                {
+                    "valor": "R$ 187.000,00",
+                    "nome": "1/6 DE 01 APTO 1200 SITUADO NO 10 AND. DO ED. SANFORD NA RUA OSVALDO CRUZ- MEIRELES - FORT-CE"
+                },
+                {
+                    "valor": "R$ 692.519,44",
+                    "nome": "COMPRA DE 01 APTO EM S\u00c3O PAULO-SP ED. FLORIDA PENTHOUSE ALA CORAL"
+                },
+                {
+                    "valor": "R$ 277.589,12",
+                    "nome": "CASA SITUADA NO COCO"
+                },
+                {
+                    "valor": "R$ 267.332,00",
+                    "nome": "TERRENO SITUADO NO LOT OUTEIRO APOS PLANALTO NOVA ALDEOTA - CESS\u00c3O DE DIREITOS PERTENCENTES AO ESPOLIO DE MARIA JOSE ALMINO DE QUEIROZ"
+                },
+                {
+                    "valor": "R$ 241.800,00",
+                    "nome": "01 TERRENO SITUADO NO LOT. SITIO COCO PERTENCENTE AO ESPOLIO DE MARIA JOSE ALMINO DE QUEIROZ"
+                },
+                {
+                    "valor": "R$ 454.694,00",
+                    "nome": "COMPRA DE 01 TERRENO EM UM LOT. PRAIA DO PECEM-CE"
+                },
+                {
+                    "valor": "R$ 124.915,10",
+                    "nome": "TERRENO LAGOA EM PARACURU-CE"
+                },
+                {
+                    "valor": "R$ 7.822,91",
+                    "nome": "1/6 DE 50% BOX 34/48 DO TIPO TRIPLO REC. POR HERAN\u00c7A DE MARIA DE LOURDES RIBEIRO JEREISSATI"
+                },
+                {
+                    "valor": "R$ 7.822,91",
+                    "nome": "1/6 DE 50% BOX 10/8 DO TIPO TRIPLO REC. POR HERAN\u00c7A DE MARIA DE LOURDES RIBEIRO JEREISSATI"
+                },
+                {
+                    "valor": "R$ 45.000,00",
+                    "nome": "COMPRA DE 01 QUADRO RAIMUNDO CELA - CASEBRE DE PESCADORES"
+                },
+                {
+                    "valor": "R$ 65.000,00",
+                    "nome": "COMPRA DE 02 ANEIS 18K 750 C/ SAFIRA E DIAMANTES, 01 BRINCO C/ DIAMANTES, 02 PULSEIRAS E UM COLAR C/ SAFIRA E DIAMANTES"
+                },
+                {
+                    "valor": "R$ 333.000,00",
+                    "nome": "COMPRA DE JOIAS NA TALYS COMERCIAL LTDA"
+                },
+                {
+                    "valor": "R$ 72.705.608,00",
+                    "nome": "JEREISSATI PARTICIPA\u00c7OES S/A - 13.235.465 A\u00c7OES ORDINARIAS NOMINAIS PROVENIENTES DO INVENTARIO DE HUGO JEREISSATI E PERMUTA ENTRE IRMAOS"
+                },
+                {
+                    "valor": "R$ 6.524,56",
+                    "nome": "IMOBILIARIA E AGROPECUARIA JEREISSATI - INTEGRALIZA\u00c7AO DE 2.379 A\u00c7OES DO CAPITAL EM 2013"
+                },
+                {
+                    "valor": "R$ 10.882.579,00",
+                    "nome": "VIDEOMAR REDE NORDESTE S/A - VR RECEBIDO DA REDU\u00c7AO DO INV. DA CALILA NA VIDEOMAR SEM ALTERAR NUMERO DE A\u00c7OES"
+                },
+                {
+                    "valor": "R$ 3.229.009,25",
+                    "nome": "INTEGRALIZA\u00c7AO DE 22.352 A\u00c7OES ON EQUIVALENTE A 4.27987% DO CAPITAL DA TJ PARTICIPA\u00c7OES S/A EM 2012"
+                },
+                {
+                    "valor": "R$ 154.601.712,00",
+                    "nome": "CALILA INVESTIMENTOS S/A TOTAL DE A\u00c7OES 1.944.032 CLASSE A"
+                },
+                {
+                    "valor": "R$ 16.796.390,00",
+                    "nome": "SHOPPING CENTERS IGUATEMI FORTALEZA 2.987.785 A\u00c7OES ORD. NOMINATIVAS"
+                },
+                {
+                    "valor": "R$ 56.392.228,00",
+                    "nome": "CALILA ADMINISTRA\u00c7AO E COMERCIO S/A - SALDO DE A\u00c7OES EM 2012 1.310.787 A\u00c7OES ORDINARIAS CLASSE A"
+                },
+                {
+                    "valor": "R$ 30.377,81",
+                    "nome": "JEREISSATI CENTROS COMERCIAIS S/A 5317 A\u00c7OES ORDINARIAS NOMINATIVAS EM 2011 E 2012 C/ AUMENTO DE CAPITAL"
+                },
+                {
+                    "valor": "R$ 5.270.000,00",
+                    "nome": "BANCO BTG PACTUAL SALDO EM 2013 - CDB"
+                },
+                {
+                    "valor": "R$ 14.997,35",
+                    "nome": "ITAU UNIBANCO SALDO EM 31/12/2012 - 500 A\u00c7OES EO E 1.700 A\u00c7OES EP BONIFICADAS EM 2013 50 EO E 170 EP - SALDO DE A\u00c7OES EM 2013 - 550 OE E 1.870 PE"
+                },
+                {
+                    "valor": "R$ 93.478,00",
+                    "nome": "FM JANGADEIRO LTDA"
+                },
+                {
+                    "valor": "R$ 3.263.658,00",
+                    "nome": "SALDO EM 31/12/2012 - 3.263.658 A\u00c7OES TV JANGADEIRO"
+                },
+                {
+                    "valor": "R$ 4.724.704,00",
+                    "nome": "CLARIDEN BANK - ZURICH ACCOUNT SUICA TRANSFERIDO A CALILA CV EM REALIZA\u00c7\u00c3O DE CAPITAL"
+                },
+                {
+                    "valor": "R$ 31.285,46",
+                    "nome": "BANCO SANTANDER SALDO POUPAN\u00c7A"
+                },
+                {
+                    "valor": "R$ 2.000.000,00",
+                    "nome": "BANCO BRADESCO S/A - SALDO EM LETRA DE CREDITO"
+                },
+                {
+                    "valor": "R$ 28.926.564,00",
+                    "nome": "BTG PACTUAL - SALDO EM 31/12/2013"
+                },
+                {
+                    "valor": "R$ 834.868,19",
+                    "nome": "BANCO SANTANDER APLICA\u00c7AO EM CDB"
+                },
+                {
+                    "valor": "R$ 133.680,80",
+                    "nome": "BANCO SANTANDER - TITULO DE CAPITALIZA\u00c7AO"
+                },
+                {
+                    "valor": "R$ 1.219.639,12",
+                    "nome": "BANCO SANTOS S/A SALDO APLICA\u00c7AO RENDA FIXA"
+                },
+                {
+                    "valor": "R$ 196.711,98",
+                    "nome": "REC. POR HERAN\u00c7A DE SEU IRMAO HUGO RIBEIRO JEREISSATI -  SALDO EM INV. CBD POS BANCO ITAU PERSONALITE"
+                },
+                {
+                    "valor": "R$ 1.094.000,00",
+                    "nome": "BANCO DO NORDESTE DO BRASIL - SALDO EM LCA"
+                },
+                {
+                    "valor": "R$ 6.851.000,00",
+                    "nome": "BRADESCO S/A - SALDO EM LCI"
+                },
+                {
+                    "valor": "R$ 592.903,56",
+                    "nome": "BANCO BRADESCO - APLICA\u00c7AO RENDA FIXA CBD"
+                },
+                {
+                    "valor": "R$ 499.968,84",
+                    "nome": "BRADESCO  - SALDO RENDA FIXA E OUTROS"
+                },
+                {
+                    "valor": "R$ 91.244,10",
+                    "nome": "BRADESCO INVESTIMENTO PLUS"
+                },
+                {
+                    "valor": "R$ 9.842.882,00",
+                    "nome": "GAVEA INVESTIMENTOS - APLICA\u00c7OES EM FQJ FUNDO DE INVEST. MULTIMERCADO FECHADO"
+                },
+                {
+                    "valor": "R$ 254.980,73",
+                    "nome": "BANCO SANTANDER SALDO EM FUNDOS DE INVESTIMENTOS"
+                },
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "EMPRESTIMO COM O SR. LUIZ GONZAGA FONSECA MOTA"
+                },
+                {
+                    "valor": "R$ 1.579.039,12",
+                    "nome": "CARLA QUEIROZ JEREISSATI - EMPRESTIMO"
+                },
+                {
+                    "valor": "R$ 7.993,71",
+                    "nome": "CREDITOI - JEREISSATI PARTICIPA\u00c7OES"
+                },
+                {
+                    "valor": "R$ 98.836,97",
+                    "nome": "JOANA QUEIROZ JEREISSATI"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "EMPRESTIMO A BISMARCK COSTA LIMA PINHEIRO MAIA"
+                },
+                {
+                    "valor": "R$ 8.353,82",
+                    "nome": "1/6 BLUE TREE HOTEL RESORT DO BRASIL S/A - CREDITO A RECEBER P\u00d3R HERAN\u00c7A DE MARIA DE LOURDES RIBEIRO JEREISSATI"
+                },
+                {
+                    "valor": "R$ 180.000,00",
+                    "nome": "APAIARI PARTICIPA\u00c7OES LTDA - EMPRESTIMO"
+                },
+                {
+                    "valor": "R$ 3.411.066,25",
+                    "nome": "NATALIA QUEIROZ JEREISSATI - EMPRESTIMO"
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "MARIANA KAYATT VASCONCELOS DE SALES"
+                },
+                {
+                    "valor": "R$ 42.491,35",
+                    "nome": "REC. POR HERAN\u00c7A DE SEU IRMAO HUGO RIBEIRO JEREISSATI CREDITO JUNTO A JEREISSATI PARTICIPA\u00c7OES"
+                },
+                {
+                    "valor": "R$ 3.855,00",
+                    "nome": "REC POR HERAN\u00c7A DE SEU IRMAO HUGO RIBEIRO JEREISSATI - BCO ITAU PERSONALITE/UNIBANCO"
+                },
+                {
+                    "valor": "R$ 40.198,50",
+                    "nome": "BANK AUDY USA SALDO EM CONTA CORRENTE"
+                },
+                {
+                    "valor": "R$ 18.206,65",
+                    "nome": "REC. POR HERAN\u00c7A DE SEU IRMAO HUGO RIBEIRO JEREISSATI - SALDO DO BANCO JACOB SAFRA -0 SUI\u00c7A"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404594736947.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000605/idarquivo/3152?x=140493330800060000000605"
+                },
+                {
+                    "documento": "2 - certidao1404594736948.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000605/idarquivo/3153?x=140493330800060000000605"
+                },
+                {
+                    "documento": "3 - certidao1404594736948.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000605/idarquivo/3154?x=140493330800060000000605"
+                },
+                {
+                    "documento": "4 - certidao1404594736949.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000605/idarquivo/3155?x=140493330800060000000605"
+                },
+                {
+                    "documento": "5 - certidao1404594736949.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000605/idarquivo/3156?x=140493330800060000000605"
+                },
+                {
+                    "documento": "6 - certidao1404594736949.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000605/idarquivo/3157?x=140493330800060000000605"
+                }
+            ],
+            "partido": "PSDB",
+            "numeroProcesso": "954-84.2014.6.06.0000",
+            "codigo": "456",
+            "raca": "Branca",
+            "numeroProtocolo": "259112014",
+            "coligacao": "CEAR\u00c1 DE TODOS",
+            "composicaoColigacao": "PMDB / PSC / DEM / PSDC / PRP / PSDB / PR / PTN / PPS",
+            "numeroUrna": "456",
+            "ocupacao": "Empres\u00e1rio",
+            "cnpj": "20580152000118",
+            "limiteGastos": "R$ 9.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "60000000605",
+            "totalBensDeclarados": "R$ 389.019.698,26000005",
+            "nomeUrna": "TASSO JEREISSATI",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=60000000367&sgUe=CE"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "60000000765": {
+            "suplente": {
+                "numero": "60000000767",
+                "nome": "FRANCISCO HONORIO PINHEIRO ALVES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/CE/candidato/60000000767"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404935773000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/CE/candidato/60000000765",
+            "nomeCompleto": "MAURO FILHO",
+            "nascimento": "09/03/1959",
+            "naturalidade": "FORTALEZA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 76.587,81",
+                    "nome": "APT EM CONDOMINIO SITUADO \u00c0 RUA PROF DIAS DA ROCHA,2240, EM FORTALEZA, EM PRESTACOES LIQUIDADO EM 1997. VALOR VEM SENDO REPETIDO AO LONGO DOS ANOS"
+                },
+                {
+                    "valor": "R$ 110.437,59",
+                    "nome": "APT EM CONDOMINIO LOCALIZADO \u00c0 RUA 8 DE SETEMBRO,1130 EM FORTALEZA. ADQUIRIDO EM PRESTA\u00c7\u00d5ES, LIQUIDADO EM 1997. VALOR VEM SENDO REPETIDO AO LONGO DOS ANOS"
+                },
+                {
+                    "valor": "R$ 63.340,42",
+                    "nome": "APT SITO A RUA JOAQUIM NABUCO,1550/201 EM FORTALEZA, FINACIADO, LIQUIDADO EM 2000 PELO FCVS. VALOR VEM SENDO REPETIDO AO LONGO DOS ANOS"
+                },
+                {
+                    "valor": "R$ 115.613,35",
+                    "nome": "APT NO CONDOMINIO ILHAS GREGAS SITO A RUA NUNES VALENTE, 275 APT 702, MEIRELES, EM FORTALEZA. ADQUIRIDO EM PARCELAS. LIQUIDADO EM 2004. VALOR VEM SENDO REPETIDO AO LONGO DOS ANOS"
+                },
+                {
+                    "valor": "R$ 224.412,14",
+                    "nome": "APT NO CONDOMINIO SANTA CHIARA, SITO \u00c0 RUA MARIA TOMASIA,1261,APT801,ALDEOTA,FORTALEZA. EM PRESTA\u00c7\u00d5ES LIQUIDADO EM 2006. VALOR VEM SENDO REPETIDO AO LONGO DOS ANOS"
+                },
+                {
+                    "valor": "R$ 28.026,14",
+                    "nome": "1/6 DE UM IMOVEL RESIDENCIAL, LOCALIZADO \u00c0 SHIS Q.I.5 - CONJUNTO 17 CASA 8 EM BRASILIA.ADQUIRIDO CONJUNTAMENTE COM OS IRM\u00c3OS EM 1992 TENDO COMO USUFRUTO O PAI CARLOS MAURO CABRAL BENEVIDES."
+                },
+                {
+                    "valor": "R$ 186.763,52",
+                    "nome": "PAJERO FULL ANO 2011 -PLACAS OCD 6211 - FINANCIAMENTO BRADESCO QUITADO EM 2013"
+                },
+                {
+                    "valor": "R$ 64,25",
+                    "nome": "POUPAN\u00c7A BRADESCO AG 2515 CC 20374-2 SALDO EM DEZEMBRO DE 2013"
+                },
+                {
+                    "valor": "R$ 1.698,27",
+                    "nome": "VALOR EM CONTA CORRENTE BRADESCO AG 2515, CC 20374-2 SALDO EM DEZ/2013"
+                },
+                {
+                    "valor": "R$ 16,98",
+                    "nome": "SALDO EM CONTA DO BANCO DO BRASIL AG 4985-9 CC 6470-X CARTOES PRE PAGOS 489410***4654. SALDO EM DEZ/2013."
+                },
+                {
+                    "valor": "R$ 605,76",
+                    "nome": "SALDO EM CONTA CORRENTE NO BANCO DO BRASIL AG 4985-9 CC 6470-X - SALDO EM DEZ/2013"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "DINHEIRO EM ESPECIE - RESERVAS EMERGENCIAIS"
+                },
+                {
+                    "valor": "R$ 4.500,00",
+                    "nome": "UMA A\u00c7\u00c3O DO IDEAL CLUBE. VALOR VEM SENDO REPETIDO AO LONGO DOS ANOS"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404598402035.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000765/idarquivo/4197?x=140493577300060000000765"
+                },
+                {
+                    "documento": "2 - certidao1404598402035.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000765/idarquivo/4198?x=140493577300060000000765"
+                },
+                {
+                    "documento": "3 - certidao1404598402036.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000765/idarquivo/4199?x=140493577300060000000765"
+                },
+                {
+                    "documento": "4 - certidao1404598402036.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000765/idarquivo/4200?x=140493577300060000000765"
+                },
+                {
+                    "documento": "5 - certidao1404598402036.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000765/idarquivo/4201?x=140493577300060000000765"
+                },
+                {
+                    "documento": "6 - certidao1404598402037.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000765/idarquivo/4202?x=140493577300060000000765"
+                },
+                {
+                    "documento": "7 - certidao1404598402038.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000765/idarquivo/4203?x=140493577300060000000765"
+                },
+                {
+                    "documento": "8 - certidao1404598402038.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000765/idarquivo/4204?x=140493577300060000000765"
+                }
+            ],
+            "partido": "PROS",
+            "numeroProcesso": "853-47.2014.6.06.0000",
+            "codigo": "900",
+            "raca": "Parda",
+            "numeroProtocolo": "260752014",
+            "coligacao": "PARA O CEARA SEGUIR MUDANDO",
+            "composicaoColigacao": "PRB / PP / PDT / PT / PTB / PSL / PRTB / PHS / PMN / PTC / PV / PEN / PPL / PSD / PC do B / PT do B / SD / PROS",
+            "numeroUrna": "900",
+            "ocupacao": "Economista",
+            "cnpj": "20578418000198",
+            "limiteGastos": "R$ 12.300.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "60000000765",
+            "totalBensDeclarados": "R$ 832.066,2300000001",
+            "nomeUrna": "MAURO FILHO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=CE&sq_cand=10296"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=60000000436&sgUe=CE"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "60000000422": {
+            "suplente": {
+                "numero": "60000000369",
+                "nome": "AUGUSTO CESAR TAVARES DA SILVA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/CE/candidato/60000000369"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405086083000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/CE/candidato/60000000422",
+            "nomeCompleto": "RAQUEL DIAS",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "FORTALEZA",
+            "genero": "FEMININO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404592385237.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000422/idarquivo/1980?x=140508608300060000000422"
+                },
+                {
+                    "documento": "2 - certidao1404592385237.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000422/idarquivo/1981?x=140508608300060000000422"
+                },
+                {
+                    "documento": "3 - certidao1404592385238.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000422/idarquivo/1982?x=140508608300060000000422"
+                },
+                {
+                    "documento": "4 - certidao1404592385238.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000422/idarquivo/1983?x=140508608300060000000422"
+                },
+                {
+                    "documento": "5 - certidao1404592385239.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000422/idarquivo/1984?x=140508608300060000000422"
+                }
+            ],
+            "partido": "PSTU",
+            "numeroProcesso": "509-66.2014.6.06.0000",
+            "codigo": "161",
+            "raca": "Preta",
+            "numeroProtocolo": "256742014",
+            "coligacao": "Frente de Esquerda Socialista",
+            "composicaoColigacao": "PSTU / PCB / PSOL",
+            "numeroUrna": "161",
+            "ocupacao": "Professor de Ensino Superior",
+            "cnpj": "20571813000149",
+            "limiteGastos": "R$ 60.000,00",
+            "estadoCivil": "Divorciado(a)",
+            "id": "60000000422",
+            "nascimento": "06/01/1969",
+            "nomeUrna": "RAQUEL DIAS",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=13897&sqCandidato=2442"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=60000000729&sgUe=CE"
+                }
+            ]
+        },
+        "60000000091": {
+            "suplente": {
+                "numero": "60000000092",
+                "nome": "GERALDO CADEIRA DE OLIVEIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/CE/candidato/60000000092"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404918395000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/CE/candidato/60000000091",
+            "nomeCompleto": "GEOVANA CARTAXO",
+            "nascimento": "17/09/1970",
+            "naturalidade": "FORTALEZA",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "CASA - SITUADA NA RUA BILL CARTAXO 165"
+                },
+                {
+                    "valor": "R$ 17.000,00",
+                    "nome": "FIAT SIENA ANO 2007 - PLACA HYD 2268"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404582987398.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000091/idarquivo/445?x=140491839500060000000091"
+                },
+                {
+                    "documento": "2 - certidao1404582987398.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000091/idarquivo/446?x=140491839500060000000091"
+                },
+                {
+                    "documento": "3 - certidao1404582987399.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000091/idarquivo/447?x=140491839500060000000091"
+                },
+                {
+                    "documento": "4 - certidao1404582987399.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000091/idarquivo/448?x=140491839500060000000091"
+                }
+            ],
+            "partido": "PSB",
+            "numeroProcesso": "30182",
+            "codigo": "400",
+            "raca": "Branca",
+            "numeroProtocolo": "253272014",
+            "coligacao": "PSB",
+            "composicaoColigacao": "",
+            "numeroUrna": "400",
+            "ocupacao": "Professor de Ensino Superior",
+            "cnpj": "20572023000188",
+            "limiteGastos": "R$ 4.500.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "60000000091",
+            "totalBensDeclarados": "R$ 517.000,0",
+            "nomeUrna": "GEOVANA CARTAXO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

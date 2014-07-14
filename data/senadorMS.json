@@ -1,0 +1,698 @@
+{
+    "senadorMS": {
+        "120000000483": {
+            "suplente": {
+                "numero": "120000000471",
+                "nome": "PAULO BENITES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/MS/candidato/120000000471"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404917553000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MS/candidato/120000000483",
+            "nomeCompleto": "LUCIEN REZENDE",
+            "nascimento": "08/02/1964",
+            "naturalidade": "CAMPO GRANDE",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "CASA FINANCIADA"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "CAMINHONETE F1000 ANO 94"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404600273753.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000483/idarquivo/2677?x=1404917553000120000000483"
+                },
+                {
+                    "documento": "2 - certidao1404600273754.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000483/idarquivo/2678?x=1404917553000120000000483"
+                },
+                {
+                    "documento": "3 - certidao1404600273754.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000483/idarquivo/2679?x=1404917553000120000000483"
+                },
+                {
+                    "documento": "4 - certidao1404600273755.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000483/idarquivo/2680?x=1404917553000120000000483"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "514-23.2014.6.12.0000",
+            "codigo": "500",
+            "raca": "Branca",
+            "numeroProtocolo": "206792014",
+            "coligacao": "PSOL",
+            "composicaoColigacao": "",
+            "numeroUrna": "500",
+            "ocupacao": "Trabalhador Rural",
+            "cnpj": "20581619000144",
+            "limiteGastos": "R$ 250.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "120000000483",
+            "totalBensDeclarados": "R$ 125.000,0",
+            "nomeUrna": "LUCIEN REZENDE",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90514&sqCandidato=2772"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        },
+        "120000000278": {
+            "suplente": {
+                "numero": "120000000279",
+                "nome": "CELSO DAL LAGO RODRIGUES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MS/candidato/120000000279"
+            },
+            "enderecoWeb": "WWW.SIMONETEBET.COM",
+            "meta": {
+                "lastUpdate": "1404930128000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MS/candidato/120000000278",
+            "nomeCompleto": "SIMONE TEBET",
+            "nascimento": "22/02/1970",
+            "naturalidade": "TR\u00caS LAGOAS",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 310.000,00",
+                    "nome": "APARTAMENTO N.1801 CONDOMINIO EDIFICIO ALEZANDRIA, SITUADO NA RUA DAS GARCAS N.790 VILA ROSA, NA CIDADE DE CAMPO GRANDE \u00bf MS"
+                },
+                {
+                    "valor": "R$ 81.903,69",
+                    "nome": "APARTAMENTO EDIFICIO MONT SERRAT DA CONSTRUTORA ENCOL S/A ENGENHARIA COM E IND. CGC/MF"
+                },
+                {
+                    "valor": "R$ 39.500,00",
+                    "nome": "IMOVEL RESIDENCIAL DE ALVENARIA SITUADO NA RUA PERNAMBUCO 2.388 CAMPO GRANDE LIVRO 547 FL.060 EM 16/07/2001"
+                },
+                {
+                    "valor": "R$ 69.397,28",
+                    "nome": "UMA CASA SITUADA LOTE 04 E 05 QUADRA 12 BAIRRO: CENTRO \u00bf TRES LAGOAS \u00bf MS DOACAO SIMPLES  E PURA RAMEZ TEBET"
+                },
+                {
+                    "valor": "R$ 52.000,00",
+                    "nome": "CASA RESIDENCIAL DE ALVENARIA SITUADA A RUA MANOEL INACIO DE SOUZA 1336, BAIRRO SANTA F\u00c9 R$52.000,00"
+                },
+                {
+                    "valor": "R$ 41.638,37",
+                    "nome": "UMA CASA SITUADA LOTE E TERRENO LOTE DE TERRENO 08 QUADRA 15, NA RUA JOAO CARRATO, PCA DA BANDEIRA \u00bf TRES LAGOAS \u00bf MS DOACAO SIMPLES E PURA DE RAMEZ TEBET"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "IMOVEL RESIDENCIAL . \u00bf Q.52 DA 3\u00aa Z.U.D/ CIDADE, CORRESPONDENTE, R. FARM. JULIO MANCINI ESQ. C/ RUA BARAO R.BRANCO MAT"
+                },
+                {
+                    "valor": "R$ 36.738,00",
+                    "nome": "IMOVEL RESIDENCIAL RUA GUTEMBERG N.188, LOTE TERRENO 07 Q.11, JARDIM ACLIMACAO \u00bf CAMPO GRANDE \u00bf MS REG. N. MATRICULA 174210 EM 23/11/95"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "AQUISICAO LOTE DE TERRENO N. 07 QUADRA 17 LOTEAMENTO DENOMINADO VILA NOVA (FRENTE PARA RUA GENEROSO SIQUEIRA) TRES LAGOAS \u00bf MS MATRICULA 45.344"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "LOTE TERRENO N.7 QUADRA 17 LOTEAMENTO DENOMINADO VILA NOVA (FRENTE PARA RUA GENEROSO SIQUEIRA) TRES LAGOAS \u00bf MS MATRICULA 45.349"
+                },
+                {
+                    "valor": "R$ 94.000,00",
+                    "nome": "LOTE DE TERRENO 09 DA QUADRA 106 AV. CAP. OLINTO MANCINE \u00bf TRES LAGOAS \u00bf MS, DOACAO SIMPLES E PURA DE RAMEZ TEBET CPF: 002.548.191-68"
+                },
+                {
+                    "valor": "R$ 457.209,34",
+                    "nome": "UMA GLEBA DE TERRAS RURAIS, DENOMINADA FAZENDA SANTO ANTONIO DA MATINHA, MUNICIPIO DE CAARAPO \u00bf MS, PARTE MATRICULA N. 09.336"
+                },
+                {
+                    "valor": "R$ 5.126,00",
+                    "nome": "SITIO RANCHO DAS MARRECAS MUNICIPIO DE TRES LAGOAS \u00bf MS PARTE MATRICULA N. 43.954"
+                },
+                {
+                    "valor": "R$ 870,00",
+                    "nome": "SALDO CARDENETA DE POUPANCA BANCO DO BRASIL AGENCIA 0208-9 C/C95902-2"
+                },
+                {
+                    "valor": "R$ 37.000,00",
+                    "nome": "SALDO BB CDB DI \u00bf BANCO DO BRASIL S.A"
+                },
+                {
+                    "valor": "R$ 183,72",
+                    "nome": "SALDO EM CONTA CORRENTE E VGBL CONTA ESTILO BANCO DO BRASIL S.A"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404587581650.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000278/idarquivo/1668?x=1404930128000120000000278"
+                },
+                {
+                    "documento": "2 - certidao1404587581650.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000278/idarquivo/1669?x=1404930128000120000000278"
+                },
+                {
+                    "documento": "3 - certidao1404587581651.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000278/idarquivo/1670?x=1404930128000120000000278"
+                },
+                {
+                    "documento": "4 - certidao1404587581651.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000278/idarquivo/1671?x=1404930128000120000000278"
+                },
+                {
+                    "documento": "5 - certidao1404587581652.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000278/idarquivo/1672?x=1404930128000120000000278"
+                },
+                {
+                    "documento": "6 - certidao1404587581652.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000278/idarquivo/1673?x=1404930128000120000000278"
+                }
+            ],
+            "partido": "PMDB",
+            "numeroProcesso": "215-46.2014.6.12.0000",
+            "codigo": "151",
+            "raca": "Branca",
+            "numeroProtocolo": "204782014",
+            "coligacao": "MS CADA VEZ MELHOR",
+            "composicaoColigacao": "PMDB / PSB / PT do B / PSC / PHS / PRB / PRTB / PTN / PEN",
+            "numeroUrna": "151",
+            "ocupacao": "Outros",
+            "cnpj": "20563941000140",
+            "limiteGastos": "R$ 10.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "120000000278",
+            "totalBensDeclarados": "R$ 1.575.566,4",
+            "nomeUrna": "SIMONE TEBET",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=91650&sqCandidato=2669"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=120000000002&sgUe=MS"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "120000000440": {
+            "suplente": {
+                "numero": "120000000462",
+                "nome": "ULISSES DUARTE",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MS/candidato/120000000462"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405021964000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MS/candidato/120000000440",
+            "nomeCompleto": "ALCIDES BERNAL",
+            "nascimento": "14/07/1965",
+            "naturalidade": "CORUMBA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 703.279,56",
+                    "nome": "RUA ITIQUIRA, 234, SATA FE, CAMPO GRANDE, MS, FINANCIADO"
+                },
+                {
+                    "valor": "R$ 700.000,00",
+                    "nome": "RESIDENCIA NA RUA PAULO TOGNINI, 239, JARDIM PAULISTA"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "NISSAN FRONTIER, ANO/MODELO 2010/2011"
+                },
+                {
+                    "valor": "R$ 106.300,00",
+                    "nome": "SALDO A RECEBER COOPERTAXI"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "CAIXA ECONOMICA FEDERAL E SANTANDER, POUPAN\u00c7A"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404599614717.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000440/idarquivo/2472?x=1405021964000120000000440"
+                },
+                {
+                    "documento": "2 - certidao1404599614718.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000440/idarquivo/2473?x=1405021964000120000000440"
+                },
+                {
+                    "documento": "3 - certidao1404599614718.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000440/idarquivo/2474?x=1405021964000120000000440"
+                },
+                {
+                    "documento": "5 - certidao1405025556439.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000440/idarquivo/3318?x=1405021964000120000000440"
+                },
+                {
+                    "documento": "4 - certidao1405025548079.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000440/idarquivo/3317?x=1405021964000120000000440"
+                }
+            ],
+            "partido": "PP",
+            "numeroProcesso": "394-77.2014.6.12.0000",
+            "codigo": "111",
+            "raca": "Branca",
+            "numeroProtocolo": "206462014",
+            "coligacao": "PP",
+            "composicaoColigacao": "",
+            "numeroUrna": "111",
+            "ocupacao": "Advogado",
+            "cnpj": "20576486000118",
+            "limiteGastos": "R$ 7.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "120000000440",
+            "totalBensDeclarados": "R$ 1.809.579,56",
+            "nomeUrna": "ALCIDES BERNAL",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MS&sq_cand=10306"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90514&sqCandidato=789"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=120000000299&sgUe=MS"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "120000000003": {
+            "suplente": {
+                "numero": "120000000004",
+                "nome": "NIEL TADEU DINIZ BORBA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MS/candidato/120000000004"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404935038000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MS/candidato/120000000003",
+            "nomeCompleto": "VALDEMIR DO PSTU",
+            "nascimento": "09/01/1965",
+            "naturalidade": "BRAS\u00cdLIA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 45.000,00",
+                    "nome": "UMA CASA DE ALVENARIA LOCALIZADA NA RUA DOLORES DURAN, N. 1321 - SITIOCA II - RECANTO DAS PAINEIRAS - CAMPO GRANDE/MS, ADQUIRIDA NO ANO DE 2008 JUNTO \u00c0 EHMA E \u00c0 CEF - ARRENDAMENTO 15 ANOS"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404324800914.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000003/idarquivo/14?x=1404935038000120000000003"
+                },
+                {
+                    "documento": "2 - certidao1404324800914.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000003/idarquivo/15?x=1404935038000120000000003"
+                },
+                {
+                    "documento": "3 - certidao1404324800915.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000003/idarquivo/16?x=1404935038000120000000003"
+                },
+                {
+                    "documento": "4 - certidao1404324800915.PDF",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000003/idarquivo/17?x=1404935038000120000000003"
+                }
+            ],
+            "partido": "PSTU",
+            "numeroProcesso": "196-40.2014.6.12.0000",
+            "codigo": "167",
+            "raca": "Parda",
+            "numeroProtocolo": "198002014",
+            "coligacao": "PSTU",
+            "composicaoColigacao": "",
+            "numeroUrna": "167",
+            "ocupacao": "Porteiro de Edif\u00edcio, Ascensorista, Garagista e Zelador",
+            "cnpj": "20545359000151",
+            "limiteGastos": "R$ 16.167,16",
+            "estadoCivil": "Solteiro(a)",
+            "id": "120000000003",
+            "totalBensDeclarados": "R$ 45.000,0",
+            "nomeUrna": "VALDEMIR DO PSTU",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MS&sq_cand=10046"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90514&sqCandidato=3"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "120000000085": {
+            "suplente": {
+                "numero": "120000000086",
+                "nome": "DAVID RODRIGUES INFANTE VIEIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MS/candidato/120000000086"
+            },
+            "enderecoWeb": "ajhr@correiodoestado.com",
+            "meta": {
+                "lastUpdate": "1404837409000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MS/candidato/120000000085",
+            "nomeCompleto": "ANTONIO JO\u00c3O",
+            "nascimento": "26/12/1947",
+            "naturalidade": "CAMPO GRANDE",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 750.000,00",
+                    "nome": "UM PREDIO COMERCIAL C/ 603.20 MS2-AV MATO GROSSO N.1825 CAMPO GRANDE MS VILA ROSA LOTE N\u00b004 Q.15 - C/720.00 MS2 EM 26/06/2010"
+                },
+                {
+                    "valor": "R$ 27.758,91",
+                    "nome": "DUAS CASAS DE ALVENARIA LOTES 3-4-5-6-7 INDUBRASIL CAMPO GRANDE - MS EM 04/10/2005 FRMAL PARTILHA DE JOSE B RODRIGUES"
+                },
+                {
+                    "valor": "R$ 41.638,37",
+                    "nome": "UMA LOJA N.5 CONDOMINIO 5\u00b0 AVENIDA R ARTUR JORGE, 1092 EM CAMPO GRANDE ADQ. EM 04/91"
+                },
+                {
+                    "valor": "R$ 650.000,00",
+                    "nome": "UMA AREA DE TERRAS COM 123.2 HAS ESTANCIA THEODORA MUNICIPIO DE CAMPO GRANDE  ADQ. EM  27/11/2013"
+                },
+                {
+                    "valor": "R$ 17.210,52",
+                    "nome": "UMA AREA DE TERRAS COM 1.293 HAS E 3903 MS2 FAZENDA FUND\u00c3O ALEGRE - MUNICIPIO DE CAMAPU\u00c3 - MS"
+                },
+                {
+                    "valor": "R$ 55.625,45",
+                    "nome": "LOTES DE TERRENOS NS 02-07-10-14-15 E 16- QUADRA 13-VILA ENTRONCAMENTO-CAMPO GRANDE MS EM 22/08/2009 FORMAL PARTILHA ENEDINA H RODRIGUES"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "UMA AREA DE TERRAS COM 36 HAS E 433 MS2 CHACARA VALENTINA-MUNICIPIO DE CAMPO GRANDE - MS"
+                },
+                {
+                    "valor": "R$ 8.691,31",
+                    "nome": "DOIS LOTES DE TERRENOS NS.1 E 2 QUADRA N.17 INDUBRASIL CAMPO GRANDE MS EM 04/10/2005 FORMAL PARTILHA DE JOSE B RODRIGUES"
+                },
+                {
+                    "valor": "R$ 83.206,12",
+                    "nome": "UM LOTE DE TERRENO N.B-1-C/2.686.3357 MS2-PARTE CH VENDAS -AV TRES BARRAS EM CAMPO GRANDE MS ADQ. EM 02/02/1996"
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "UM VEICULO CTE TOYOTA RAV 4 ANO/MOD/2006-DVI 0212"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "UMA CAMINHONETE TRITON MMC/L200-ANO/MOD/2009-HTF 9796"
+                },
+                {
+                    "valor": "R$ 71.928,00",
+                    "nome": "TRES VEICULOS FIAT UNO MILLE ECONOMY 2012/2013"
+                },
+                {
+                    "valor": "R$ 54.124,00",
+                    "nome": "DOIS VEICULOS FIAT VIVACE 2012/2013"
+                },
+                {
+                    "valor": "R$ 75.000,00",
+                    "nome": "UM CAMINH\u00c3O FORD F 4000 DIESEL C. ABERTA HSY 6931"
+                },
+                {
+                    "valor": "R$ 71.928,00",
+                    "nome": "UM VEICULO RENAULT MASTER VERS\u00c3O MB32-BF EUR-2012/2013 TIPO MICROONIBUS"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "UMA AERONAVE CESSNA AIRCRAFT COMPANY ANO 1971 MATRIC PT-DST-MODELO 182N60607 CERTIFICADO N.6173"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "UMA AERONAVE MARCA BEECH AIRCRAFT-MOD E-55-SERIE TE 1152-PREFIXO PT LSS-MATRICULA 12230- CERIFICADO N.12230"
+                },
+                {
+                    "valor": "R$ 1.359.441,00",
+                    "nome": "QUOTAS DE CAPITAL NA EMPRESA BARROS E RODRIGUES ADM DE BENS PROPRIOS  LTDA-EPP-CNPJ 18.930.630/0001-20 EM 23/09/2013"
+                },
+                {
+                    "valor": "R$ 19.900,00",
+                    "nome": "QUOTAS DE CAPITAL NA EMPRESA PANO DE REDE CONFEC E COM LTDA-CNPJ 05.415.608/0001-09 EM 02/04/2008"
+                },
+                {
+                    "valor": "R$ 49.500,00",
+                    "nome": "QUOTAS DE CAPITAL NA EMPRESA GEONATIVA FLORESTAL LTDA CNPJ 08.944.442/0001-6 EM 20/07/2007"
+                },
+                {
+                    "valor": "R$ 114.050,00",
+                    "nome": "QUOTAS DE CAPITAL NA EMPRESA BRB CONSTRUTORA LTDA-CNPJ 97.351.115/0001-04"
+                },
+                {
+                    "valor": "R$ 2.280.351,25",
+                    "nome": "403.771 A\u00c7\u00d5ES ORDIN\u00c1RIAS E 46.052 PREFERENCIAIS NA EMPRESA CORREIO DO ESTADO AS- CNPJ 03.119.724/0001-47"
+                },
+                {
+                    "valor": "R$ 1.264.622,50",
+                    "nome": "CREDITO COM A EMPRESA GEONATIVA FLORESTAL LTDA CNPJ: 08.944.442/0001-06"
+                },
+                {
+                    "valor": "R$ 916.627,88",
+                    "nome": "CREDITO COM A EMPRESA PANO DE REDE CONFEC COM LTDA  CNPJ 05.415.608/0001-09"
+                },
+                {
+                    "valor": "R$ 770.000,00",
+                    "nome": "SALDO EM PODER DO DECLARANTE"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404584591796.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000085/idarquivo/389?x=1404837409000120000000085"
+                },
+                {
+                    "documento": "2 - certidao1404584591796.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000085/idarquivo/390?x=1404837409000120000000085"
+                },
+                {
+                    "documento": "3 - certidao1404584591798.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000085/idarquivo/391?x=1404837409000120000000085"
+                },
+                {
+                    "documento": "4 - certidao1404584591798.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000085/idarquivo/392?x=1404837409000120000000085"
+                },
+                {
+                    "documento": "5 - certidao1404584591799.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000085/idarquivo/393?x=1404837409000120000000085"
+                },
+                {
+                    "documento": "6 - certidao1404584591799.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000085/idarquivo/394?x=1404837409000120000000085"
+                },
+                {
+                    "documento": "7 - certidao1404584591800.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000085/idarquivo/395?x=1404837409000120000000085"
+                },
+                {
+                    "documento": "8 - certidao1404584591800.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000085/idarquivo/396?x=1404837409000120000000085"
+                }
+            ],
+            "partido": "PSD",
+            "numeroProcesso": "425-97.2014.6.12.0000",
+            "codigo": "555",
+            "raca": "Branca",
+            "numeroProtocolo": "202112014",
+            "coligacao": "NOVO TEMPO",
+            "composicaoColigacao": "PSDB / DEM / PSD / SD / PPS / PMN",
+            "numeroUrna": "555",
+            "ocupacao": "Jornalista e Redator",
+            "cnpj": "20569169000174",
+            "limiteGastos": "R$ 5.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "120000000085",
+            "totalBensDeclarados": "R$ 9.326.603,31",
+            "nomeUrna": "ANTONIO JO\u00c3O",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MS&sq_cand=10144"
+                }
+            ],
+            "Grauinstrucao": "Ensino Fundamental completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "120000000285": {
+            "suplente": {
+                "numero": "120000000286",
+                "nome": "JOEDI BARBOSA GUIMAR\u00c3ES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/MS/candidato/120000000286"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405100412000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MS/candidato/120000000285",
+            "nomeCompleto": "RICARDO AYACHE",
+            "nascimento": "07/03/1971",
+            "naturalidade": "AQUIDAUANA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 102.437,24",
+                    "nome": "APARTAMENTO 121 - ED. CHEZ GEMAIN, NA RUA PINTASSILGO, 480, BAIRRO NOEMA, S\u00c3O PAULO/SP - ADQUIRIDO EM 26.02.1998, CEF"
+                },
+                {
+                    "valor": "R$ 117.325,95",
+                    "nome": "LOTE 20, DA QUADRA 01, COM CASA RESIDENCIAL NA RUA JUREMA, N. 77, JARDIM TAQUARI, NA CIDADE DE CAMPO GRANDE, ADQUIRIDA EM 07.07.2003, CEF, MATRICULA 115615"
+                },
+                {
+                    "valor": "R$ 822.474,69",
+                    "nome": "LOTE 29, DA QUADRA 05, NA RUA MATURI, EM CAMPO GRANDE, ADQUIRIDO EM 19.12.2007, MATRICULA 213.408, CONSTRU\u00c7\u00c3O UMA CASA RESIDENCIAL"
+                },
+                {
+                    "valor": "R$ 266.666,66",
+                    "nome": "LOTE DE TERRENO URBANO N. 10, QUADRA 24, BAIRRO VERANEIO, CAMPO GRANDE, COM 77X130, \u00c1REA DE 10.010M\u00b2, MAT. 105.775, EM CAMPO GRANDE"
+                },
+                {
+                    "valor": "R$ 102.000,00",
+                    "nome": "VEICULO FORD FUSION FWD GTI, 2013/2014, PLACA OOL1199, FINANCIADO PELA CECM PROFISSIONAIS DA SA\u00daDE"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "VEICULO HONDA CITY LX FLEX, 2009/2010, PLACA EET 1552, COR PRETA, ADQUIRIDA EM 03/04/2013"
+                },
+                {
+                    "valor": "R$ 45.441,00",
+                    "nome": "VEICULO FIAT SIENA ESSENCE 1.6 COR PRATA MOD. 2012/2013,"
+                },
+                {
+                    "valor": "R$ 85.000,00",
+                    "nome": "VEICULO I/W JETTA 2.0 PLACA NRY 5000 ANO 2012/2012 COR PRATA FINANCIADO JUNTO \u00c0 CECM PROFISSIONAIS DA SA\u00daDE"
+                },
+                {
+                    "valor": "R$ 63.114,50",
+                    "nome": "QUOTAS DE CAPITAL DA SOCIEDADE POR CONTA DE PARTICIPA\u00c7\u00c3O TENDO COMO S\u00d3CIA OSTENSIVA ENGEGRANDE ENG. LTDA CNPJ 08.532.544/0001-06, CONSTI. EM 16/04/2013 PARA CONSTRU\u00c7\u00c3O DO COND. RES. JD VERANEIO"
+                },
+                {
+                    "valor": "R$ 10.175,81",
+                    "nome": "VALOR QUOTAS DE CAPITAL DA FIRMA - UNIMED CAMPO GRANDE LTDA"
+                },
+                {
+                    "valor": "R$ 60,00",
+                    "nome": "QUOTAS DE CAPITAL NA FIRMA RD LANCHES ME, EM CAMPO GRANDE"
+                },
+                {
+                    "valor": "R$ 26.627,62",
+                    "nome": "VALOR DE QUOTAS DE CAPITAL NA SOCIEDADE - CECM DOS M\u00c9DICOS E PROFISSIONAIS DA \u00c1REA DA SA\u00daDE"
+                },
+                {
+                    "valor": "R$ 4.340,00",
+                    "nome": "QUOTAS DE CAPITAL DA CDC NUCLEAR S/S, CNPJ 15.463.090/0001-24"
+                },
+                {
+                    "valor": "R$ 123.093,66",
+                    "nome": "QUOTAS CAPITAL DA SOCIEDADE POR CONTA DE PARTICIPA\u00c7\u00c3O, TENDO COM S\u00d3CIA OSTENSIVA ENGEGRANDE ENGENHARIA LTDA, CNPJ 08.532.544/0001-06 - CONSTITUIDA COM A FINALIDADE DE CONST. DO ED. RESI. TRES LAGOAS"
+                },
+                {
+                    "valor": "R$ 189.476,55",
+                    "nome": "QUOTAS DE CAPITAL DA SOCIEDADE POR CONTA DE PARTICIPA\u00c7\u00c3O, TENDO COMO SOCIA OSTENSIVA ENGEGRANDE ENGENHARIA LTDA, CNPJ 08.532.544/0001-06, CONSTITUIDA EM 08/08/2011,"
+                },
+                {
+                    "valor": "R$ 39.221,78",
+                    "nome": "QUOTAS DE CAPITAL DA SOC. POR CONTA DE PARTICIPA\u00c7\u00c3O, TENDO COMO S\u00d3CIA OSTENSIVA ENGEGRANDE ENG. LTDA, CNPJ 08.532.544/0001-06, CONST. COM A FINALIDADE DE CONST. DO COND. VILLA JARDIM EM CGDE"
+                },
+                {
+                    "valor": "R$ 203.980,00",
+                    "nome": "VALOR QUOTAS DE CAPITAL DA FIRMA CDC CONTRO DE DIAGN\u00d3STICO CARDIOVASCULAR LTDA, EM CAMPO GRANDE, PARTICIPA\u00c7\u00c3O DE 8,68%"
+                },
+                {
+                    "valor": "R$ 5.337,20",
+                    "nome": "POUPAN\u00c7A OURO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 11.935,10",
+                    "nome": "C.E.C.M. C/CORRENTE"
+                },
+                {
+                    "valor": "R$ 17.574,98",
+                    "nome": "SALDO CONTA CORRENTE BANCO BRADESCO S/A AG. 1747, C/C 703-0"
+                },
+                {
+                    "valor": "R$ 1.630,00",
+                    "nome": "SALDO EM CONTA CORRENTE BANCO HSBC BANK BRASIL  AGG. 1687, C/C 47894-75"
+                },
+                {
+                    "valor": "R$ 54.851,73",
+                    "nome": "SALDO EM CONTA CORRENTE BANCO DO BRASIL"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404591660248.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000285/idarquivo/1720?x=1405100412000120000000285"
+                },
+                {
+                    "documento": "2 - certidao1404591660249.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000285/idarquivo/1721?x=1405100412000120000000285"
+                },
+                {
+                    "documento": "3 - certidao1404591660249.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000285/idarquivo/1722?x=1405100412000120000000285"
+                },
+                {
+                    "documento": "4 - certidao1404591660250.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000285/idarquivo/1723?x=1405100412000120000000285"
+                }
+            ],
+            "partido": "PT",
+            "numeroProcesso": "704-83.2014.6.12.0000",
+            "codigo": "133",
+            "raca": "Branca",
+            "numeroProtocolo": "204842014",
+            "coligacao": "MATO GROSSO DO SUL COM A FOR\u00c7A DE TODOS",
+            "composicaoColigacao": "PDT / PT / PSL / PR / PSDC / PV / PROS / PC do B / PTB / PTC / PPL / PRP",
+            "numeroUrna": "133",
+            "ocupacao": "M\u00e9dico",
+            "cnpj": "20574550000121",
+            "limiteGastos": "R$ 6.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "120000000285",
+            "totalBensDeclarados": "R$ 2.327.764,47",
+            "nomeUrna": "RICARDO AYACHE",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

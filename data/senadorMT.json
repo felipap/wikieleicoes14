@@ -1,0 +1,1490 @@
+{
+    "senadorMT": {
+        "110000000175": {
+            "suplente": {
+                "numero": "110000000181",
+                "nome": "ALESSANDRO WLADEMIR SILVA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MT/candidato/110000000181"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404741577000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MT/candidato/110000000175",
+            "nomeCompleto": "AMOREZIO",
+            "nascimento": "08/03/1955",
+            "naturalidade": "DIAMANTINO",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "APTO RESIDENCIAL"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "CASA EM DIAMANTINO"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "TERRENO EM DIAMENTINO"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "ASTRA GM 2000"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404592022035.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000175/idarquivo/1181?x=1404741577000110000000175"
+                },
+                {
+                    "documento": "2 - certidao1404592022035.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000175/idarquivo/1182?x=1404741577000110000000175"
+                },
+                {
+                    "documento": "3 - certidao1404592022036.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000175/idarquivo/1183?x=1404741577000110000000175"
+                },
+                {
+                    "documento": "4 - certidao1404592022036.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000175/idarquivo/1184?x=1404741577000110000000175"
+                },
+                {
+                    "documento": "5 - certidao1404592022037.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000175/idarquivo/1185?x=1404741577000110000000175"
+                }
+            ],
+            "partido": "PHS",
+            "numeroProcesso": "275-46.2014.6.11.0000",
+            "codigo": "311",
+            "raca": "Branca",
+            "numeroProtocolo": "229762014",
+            "coligacao": "MOBILIZAR E HUMANIZAR",
+            "composicaoColigacao": "PHS / PMN",
+            "numeroUrna": "311",
+            "ocupacao": "Empres\u00e1rio",
+            "cnpj": "20574132000134",
+            "limiteGastos": "R$ 5.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "110000000175",
+            "totalBensDeclarados": "R$ 465.000,0",
+            "nomeUrna": "AMOREZIO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MT&sq_cand=10093"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90697&sqCandidato=6096"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=110000000283&sgUe=MT"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        },
+        "110000000293": {
+            "suplente": {
+                "numero": "110000000294",
+                "nome": "ANTONIO CARLOS PINHEIRO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MT/candidato/110000000294"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404943069000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MT/candidato/110000000293",
+            "nomeCompleto": "WELLINGTON FAGUNDES",
+            "nascimento": "31/05/1957",
+            "naturalidade": "RONDON\u00d3POLIS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 138.794,55",
+                    "nome": "01 PREDIO COMERCIAL COM 03 TERRENO P/CONSTRU\u00c7\u00c3O, SENDO  LOTE 05 QUADRA 26 C/300,00M2,   LOTE 07  QUADRA 26  C/225,00M2 E LOTE 09 DA QUADRA 26 C/225M2, RONDONOPOLIS-MT"
+                },
+                {
+                    "valor": "R$ 47.000,00",
+                    "nome": "01- CASA RESIDENCIAL TIPO C-3 C/ TERRENO DE 300M2, LOCALIZADO A RUA PROJETADA 03, NO 249, VILA AURORA, RONDONOPOLIS-MT."
+                },
+                {
+                    "valor": "R$ 126.943,24",
+                    "nome": "01 CASA DE ALVENARIA COM TERRENO DE 300M2 - C/CONSTRUCAO DE 550,00M2  LOCALIZADO A RUA LAURO MELO,34, PARQUE REAL, MATRICULA 9.006 \u00bf CRI - RONDONOPOLIS- MT."
+                },
+                {
+                    "valor": "R$ 66.815,70",
+                    "nome": "01 - CASA RESIDENCIAL C/TERRENO DE 750M2 LOTE 11 QUADRA 19 LOCALIZADO A RUA ARNALDO ESTEVAN - MATRICULA N\u00ba  11.447  EM 25/11/86, CARTORIO DE REGISTRO DE IMOVEIS 1\u00ba OFICIO."
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "01  CASA NO LOTE 07 QUADRA H -  COM TERRENO DE 300,00 MTS2.  TIPO C-3 - NO 24 DA RUA PROJETADA 2 LOCALIZADA NO BAIRRO COOPHARONDON. MATRICULA 8.736 DO CARTORIO DO 1\u00ba OFICIO."
+                },
+                {
+                    "valor": "R$ 8.327,68",
+                    "nome": "01 TERRENO P/CONSTRUCAO C/4.000M2 LOCALIZADO NA RUA ROSA BORORO, CENTRO, EM RONDONOPOLIS-MT"
+                },
+                {
+                    "valor": "R$ 416,38",
+                    "nome": "02 TERRENOS P/CONSTRUCAO, SENDO LOTE 16 QUADRA 93  C/360M2, MATRICULA 33.932 E LOTE 17 QUADRA 93 C/360M2, MATRICULA 33.933,   LOTEAMENTO PARQUE UNIVERSITARIO EM RONDONOPOLIS-MT"
+                },
+                {
+                    "valor": "R$ 52.603,14",
+                    "nome": "01 TERRENO P/CONSTRUCAO C/600M2 - LOTE 14 QUADRA 19, LOCALIZADO A RUA ARNALDO ESTEVAN, CENTRO, RONDONOPOLIS-MT,CONFORME,  MATRICULA N\u00ba 9.161 EM 26/11/86 FLS 45"
+                },
+                {
+                    "valor": "R$ 319,24",
+                    "nome": "01 TERRENO P/CONSTRUCAO C/372M2 LOTE 06 QUADRA 21 LOCALIZADO NO JARDIM RONDONIA EM RONDONOPOLIS-MT,  MATRICULA N\u00ba  14.008 EM 02/04/1982, CARTORIO DE REGISTRO DE IMOVEIS 1\u00ba OFICIO."
+                },
+                {
+                    "valor": "R$ 416,38",
+                    "nome": "02 LOTES TERRENOS P/CONSTRU\u00c7\u00c3O, LOTE 1-B DA QUADRA 02, C/360M2 E LOTE 1-C DA QUADRA 02, C/375,00M2, LOTEAMENTO JARDIM IPANEMA  EM RONDONOPOLIS-MT"
+                },
+                {
+                    "valor": "R$ 10.409,60",
+                    "nome": "02 TERRENO P/CONSTRU\u00c7\u00c3O, SENDO  LOTE 05 QUADRA 36 C/562,50M2, MATRICULA NO 36.217 DE 19/06/1989 E  LOTE 06  QUADRA 36  C/672M2"
+                },
+                {
+                    "valor": "R$ 20.819,19",
+                    "nome": "10 LOTES TERRENOS P/CONSTRU\u00c7\u00c3O LOTES -1-2,3,14,15,18 DA QUADRA  35 -  E LOTES - 1,2,3,4 DA QUADRA 36"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "01 SALA NO EDIFICIO ACIR - SALA N\u00ba 1102 DO 11\u00ba ANDAR - LOCALIZADO NA RUA OTAVIO PITALUGA, 692 - CENTRO EM RONDONOPOLIS-MT."
+                },
+                {
+                    "valor": "R$ 25.715,00",
+                    "nome": "01 SALA NO EDIFICIO ACIR - SALA N\u00ba 1201 DO 12\u00ba ANDAR - LOCALIZADO NA RUA OTAVIO PITALUGA, 692 - CENTRO EM RONDONOPOLIS-MT."
+                },
+                {
+                    "valor": "R$ 43.916,66",
+                    "nome": "05  SALAS NO EDIFICIO ACIR - SALA N\u00ba LOJA 01- LOJA 02 \u00bf LOJA \u00bf 03 \u00bf LOJA 04-  LOJA 05, LOCALIZADO A RUA OTAVIO PITALUGA, 692,     CENTRO, RONDONOPOLIS-MT."
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "01 SALA NO EDIFICIO ACIR - SALA N\u00ba 1104 DO 11\u00ba ANDAR - LOCALIZADO NA RUA OTAVIO PITALUGA, 692 - CENTRO EM RONDONOPOLIS-MT."
+                },
+                {
+                    "valor": "R$ 69.397,28",
+                    "nome": "-50% DE UMA AREA  30 HECTARES DE TERRAS PASTAIS E LAVRADIAS   C/BALNEARIO DE AGUAS QUENTES E DEMAIS BENFEITURIAS C/58.632 HAS MUNICIPIO JUSCIMEIRA-MT CFE. MATRICULA 5.869 EM 27/11/86."
+                },
+                {
+                    "valor": "R$ 20.819,19",
+                    "nome": "08  AREAS TERRENOS P/CHACARA, LOTEAMENTO CIDADE SALMEM"
+                },
+                {
+                    "valor": "R$ 69.397,28",
+                    "nome": "50%- DE UMA AREA TERRAS PASTAIS E LAVRADIAS C/746,00 HA  DENOMINADA GLEBA PAURO ADQUIRIDA EM PARCERIA C/RUBENS PEREIRA FAFUNDES EM 14/12/85 DA EMPRESA COLONIZADORA AGRO-PASTORIL"
+                },
+                {
+                    "valor": "R$ 41.637,63",
+                    "nome": "01--UMA AREA DE TERRAS PASTAIS LAVRADIS C/101,64HAS,  DENOMINADO LAGO AZUL NA FAZENDA JURIGUE EM RONDONOPOLIS-MT"
+                },
+                {
+                    "valor": "R$ 54.000,00",
+                    "nome": "VEICULO MARCA MITSUBISHI PAJERO TR4 2.0 16V - PLACA NUD 0213."
+                },
+                {
+                    "valor": "R$ 3.333.180,00",
+                    "nome": "3.054 \u00bf CABE\u00c7A DE BOVINOS"
+                },
+                {
+                    "valor": "R$ 2.992.400,00",
+                    "nome": "96% CAPITAL DA EMPRESA - WAF. ADMINISTRADORA DE EMPRESAS LTDA - CNPJ NO 09.357.691/0001-50."
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "1% CAPITAL DA EMPRESA D.ABREU ADMINISTRADORA DE EMPRESAS LTDA - CNPJ - 14.398.383/0001-02. EM NOME DA SUA ESPOSA \u00bf MARIENE DE ABREU FAGUNDES."
+                },
+                {
+                    "valor": "R$ 66.500,00",
+                    "nome": "95% CAPITAL DA EMPRESA - WAF PUBLICIDADE E COMUNICA\u00c7\u00c3O LTDA - CNPJ - 36.909.257/0001-08 - EMPRESA INATIVA."
+                },
+                {
+                    "valor": "R$ 3.500,00",
+                    "nome": "5% CAPITAL DA EMPRESA - WAF PUBLICIDADE E COMUNICA\u00c7\u00c3O LTDA - CNPJ - 36.909.257/0001-08 - EMPRESA INATIVA. EM NOME DA SUA ESPOSA \u00bf MARIENE DE ABREU FAGUNDES."
+                },
+                {
+                    "valor": "R$ 1.800,00",
+                    "nome": "1% CAPITAL DA EMPRESA HOTEL NACIONAL LTDA - CNPJ 32.992.612/0001-02 \u00bf EM NOME DA SUA ESPOSA \u00bf MARIENE DE ABREU FAGUNDES."
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "50% - CAPITAL DA EMPRESA - TELEVIS\u00c3O NOVA AMAZONIA LTDA  - CNPJ - 33.051.020/0001-40. EMPRESA INATIVA. EM NOME DA SUA ESPOSA \u00bf MARIENE DE ABREU FAGUNDES."
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "50% - CAPITAL DA EMPRESA - TELEVIS\u00c3O NOVA AMAZONIA LTDA  - CNPJ - 33.051.020/0001-40. EMPRESA INATIVA."
+                },
+                {
+                    "valor": "R$ 104.443,22",
+                    "nome": "BANCO DO BRADESCO S/A \u00bf AGENCIA 0784 \u00bf C/CORRENTE 0001002-2 \u00bf APLICA\u00c7\u00c3O CDB - FACIAL"
+                },
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "CREDITO DECORRENTE DE EMPRESTIMO DIOGENES DE ABREU FAGUNDES - CPF NO  005.450.781-21."
+                },
+                {
+                    "valor": "R$ 942.347,25",
+                    "nome": "BANCO DO BRASIL S/A \u00bf AGENCIA 1998-4 \u00bf C/CORRENTE \u00bf 268538-8 \u00bf  SALDO APLICA\u00c7\u00c3O LCA POS CDI"
+                },
+                {
+                    "valor": "R$ 55.820,49",
+                    "nome": "BANCO DO BRADESCO S/A \u00bf AGENCIA 0784 \u00bf C/CORRENTE 0001002-2 \u00bf SALDO C/CORRENTE"
+                },
+                {
+                    "valor": "R$ 2.864,94",
+                    "nome": "BANCO DO BRASIL S/A \u00bf AGENCIA 1998-4 \u00bf C/CORRENTE \u00bf 22900-8\u00bf  SALDO C/CORRENTE"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "7 - certidao1404946664769.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000293/idarquivo/2507?x=1404943069000110000000293"
+                },
+                {
+                    "documento": "6 - certidao1404946664769.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000293/idarquivo/2506?x=1404943069000110000000293"
+                },
+                {
+                    "documento": "5 - certidao1404946664768.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000293/idarquivo/2505?x=1404943069000110000000293"
+                },
+                {
+                    "documento": "4 - certidao1404946664768.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000293/idarquivo/2504?x=1404943069000110000000293"
+                },
+                {
+                    "documento": "3 - certidao1404946664768.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000293/idarquivo/2503?x=1404943069000110000000293"
+                },
+                {
+                    "documento": "2 - certidao1404946664767.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000293/idarquivo/2502?x=1404943069000110000000293"
+                },
+                {
+                    "documento": "1 - certidao1404946664766.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000293/idarquivo/2501?x=1404943069000110000000293"
+                }
+            ],
+            "partido": "PR",
+            "numeroProcesso": "497-14.2014.6.11.0000",
+            "codigo": "222",
+            "raca": "Branca",
+            "numeroProtocolo": "231182014",
+            "coligacao": "AMOR A NOSSA GENTE",
+            "composicaoColigacao": "PT / PMDB / PROS / PR / PC do B",
+            "numeroUrna": "222",
+            "ocupacao": "Deputado",
+            "cnpj": "20580521000172",
+            "limiteGastos": "R$ 15.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "110000000293",
+            "totalBensDeclarados": "R$ 8.666.604,04",
+            "nomeUrna": "WELLINGTON FAGUNDES",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MT&sq_cand=10152"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=110000000231&sgUe=MT"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "110000000003": {
+            "suplente": {
+                "numero": "110000000004",
+                "nome": "MARCELO BENEDITO MALUF",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MT/candidato/110000000004"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404915091000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MT/candidato/110000000003",
+            "nomeCompleto": "JAYME CAMPOS",
+            "nascimento": "13/09/1951",
+            "naturalidade": "VARZEA GRANDE",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 55.000,00",
+                    "nome": "APARTAMENTO 186,50M2, RUA JULIO MARTINEZ B. 59S, L08 E 10, QD 99, TANGAR\u00c1 DA SERRA-MT,"
+                },
+                {
+                    "valor": "R$ 4.892,34",
+                    "nome": "CASA RUA 24 DE OUTRUBRO N 370 CENTRO CUIABA-MT, HERAN\u00c7A DE JULIO DOMINGOS"
+                },
+                {
+                    "valor": "R$ 2.436,86",
+                    "nome": "1-9 DA CASA SITO NA TRAVESSA SANTO ANTONIO S/N EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 5.666,94",
+                    "nome": "1 LOTE DE TERRA C/ 11.153M2 DESDOBRADO EM 10 LOTES REG. 2.234 A 2.246 A 205L-2H"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "LOTE DE TERRENO URBANO COM 918 M2 LOCALIZADO NA AV FILINTO MULLER, COM REG LIVRO 03-3 FOLHAS 169 MATRICULA 11.216 FICHA 01 FLS. 258 LIVRO GERAL 02 AN, NO CARTORIO 01"
+                },
+                {
+                    "valor": "R$ 1.411,78",
+                    "nome": "1/9 DO TERRENO C 576,00M2 NA RUA BRIGADEIRO EDURARDO GOMES EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 4.794,81",
+                    "nome": "1 TERRENO C/ 320M2 B. AUGA LIMPA EM V. GRANDE"
+                },
+                {
+                    "valor": "R$ 3.400,16",
+                    "nome": "1 TERRENO URBANO 4.646,27M2 REG. 2.254R-0"
+                },
+                {
+                    "valor": "R$ 2.040,09",
+                    "nome": "1 LOTE JD. CALIFORNIA COXIPO 600M REG. 9.926"
+                },
+                {
+                    "valor": "R$ 3.401,52",
+                    "nome": "1/9 DO TERRENO C353,80M2 NA RUA DOM AQUINO CORREA  EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 2.266,78",
+                    "nome": "1 LOTE NA RUA FELICIANO GARCIA, REG. 30891R-1L-D"
+                },
+                {
+                    "valor": "R$ 1.111,11",
+                    "nome": "1-9 DO TERRENO URBANO C 352,87M2, RUA SANTO ANTONIO EM VARZEA GRANDE, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 28.448,01",
+                    "nome": "AREA DE TERRA COM 251 HAS, DENOMINADO TURUMA EM N S LIVRAMENTO R. 3635 L-26"
+                },
+                {
+                    "valor": "R$ 2.040,09",
+                    "nome": "4 LOTES URBANOS N\u00ba 14,15,16 E 17 Q02, PLANALTO IPIRANGA VD. GRANDE MT 1.296M2 REG.24639"
+                },
+                {
+                    "valor": "R$ 4.294,23",
+                    "nome": "1/9 DO TERRENO C1869,80M2 NA RUA 24 DE MAIO EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 5.810,44",
+                    "nome": "1/9 DO TERRENO C 2370,00M2  EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 868,00",
+                    "nome": "1 LOTE URBANO C/ 54,50M2 AV. COUTO MAGALHAES, V. GRANDE REG. 1127 FLHA 071"
+                },
+                {
+                    "valor": "R$ 2.153,44",
+                    "nome": "1 LOTE DE TERRA C/ 450M2 AV. FILINTO MULER V. GRANDE REG. 114974L-02"
+                },
+                {
+                    "valor": "R$ 2.888,89",
+                    "nome": "1/9 DO TERRENO C450,00M2 NA CIDADE DE JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 24.243,34",
+                    "nome": "1/9 DO TERRENO C 2000,00M2 NA ROD 29 EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 166,67",
+                    "nome": "1-9 DO TERRENO URBANO C 57,00M2, EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 486.953,97",
+                    "nome": "1/12AVOS TERRA URBANA C/ AREA DE 10.908 ED. QUEEN ELIZABET EM CUIAB\u00c1/MT"
+                },
+                {
+                    "valor": "R$ 18.030,89",
+                    "nome": "2 LOTES TERRENOS  AMBOS NA AV. FILINTO MULLER EM V. GRANDE RE. 76.411 2 OF"
+                },
+                {
+                    "valor": "R$ 12.287,11",
+                    "nome": "1/9 DO TERRENO C5350,00M2 NA RUA 24 DE MAIO EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 219,33",
+                    "nome": "1/9 DO TERRENO C21,00M2 NA R BENEDITO MONTEIRO EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.638,86",
+                    "nome": "1/9 DO TERRENO URBANO C 264,04M2, EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 125.000,00",
+                    "nome": "AEREA DE TERRA, 2500,037 HAS, MAT 10246 LV 2-AY, FL 01M ALTA FLORESTA"
+                },
+                {
+                    "valor": "R$ 3.400,16",
+                    "nome": "UM LOTE TERRA C/1.547,25 HAVIDO POR DOACAO DE SEUS PAIS REG.CRI.NO L-28 FLS-86 L-87"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "03 LOTES DE TERRENO URBANO COM 1.710,00M2, 450,00M2 E 900,00M2, LOCALIZADO NA AV FILINTO MULLER, COM REG LIVRO 03-E, FLS.167/ LV- 03-E FLS.168/ LV-03-E FLS. 166, RGI 2.20.374/2.20.373 E 2.20.395"
+                },
+                {
+                    "valor": "R$ 5.245,56",
+                    "nome": "1/9 DO TERRENO C661,19M2 NA RUA LIVRAMENTO  EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 2.500,00",
+                    "nome": "2 LOTES URBANO 256,50M2 NA AV. COUTO MAGALH\u00c3ES, EM V. GRANDE REG. 34568"
+                },
+                {
+                    "valor": "R$ 11.333,87",
+                    "nome": "1 LOTE JD GLORIA EM V. GRANDE C/ 1.046M2 REG 6.486L02"
+                },
+                {
+                    "valor": "R$ 2.266,78",
+                    "nome": "1 LOTE URBANO NA CIDADE VARZEA GRANDE REG. 4.235L-3B"
+                },
+                {
+                    "valor": "R$ 3.296,81",
+                    "nome": "1/9 DE TERRENO COM 894,35 M2, EM VARZEA GRANDE, MAT 29702, LV 02, HERAN\u00c7A JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.608,00",
+                    "nome": "1/9 DO TERRENO URBANO SITO RUA  4 DE OUTRUBRO CUIABA-MT, HERAN\u00c7A DE JULIO DOMINGOS"
+                },
+                {
+                    "valor": "R$ 182.758,64",
+                    "nome": "1 AREA TERRA 537.50HAS LOCALIZADO EM CACERES REG. 43.033 2M"
+                },
+                {
+                    "valor": "R$ 155,26",
+                    "nome": "40 HAS DE TERRA, NOSSA SENHORA DO LIVRAMENTO, R. 1-A PROT 14766 REG .1 10782"
+                },
+                {
+                    "valor": "R$ 377.689,88",
+                    "nome": "20% AREA DE TERRA C/ 5.554HAS LOCALIZADO EM NOVA BRASILANDIA REG. CRI 6 19209-8.971-6020 E 400603"
+                },
+                {
+                    "valor": "R$ 6.812,45",
+                    "nome": "1/9 DO TERRENO URBANO C 1242,00M2 NA RUA 24 DE MAIO EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 50.315,34",
+                    "nome": "1/9 DA AREA DE TERRAS C 3200,00M2 NA AV DA FEB EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 400.000,00",
+                    "nome": "AREA DE TERRA COM 4000,00HAS, COLNIZA-MT, MAT 631, FL 01"
+                },
+                {
+                    "valor": "R$ 9.067,10",
+                    "nome": "SALA COMERCIAL N\u00ba 1008 ED EMPIRE CENTER, CUIABA-MT, CRI 03 MAT 34378 L-2 6OF"
+                },
+                {
+                    "valor": "R$ 3.400,16",
+                    "nome": "SALA COMERCIAL C 106,20M2, VARZEA GRANDE-MT, ED ACEVAG, CRI 2 13463 L AV FL 162"
+                },
+                {
+                    "valor": "R$ 2.500,00",
+                    "nome": "CESSAO DE DIREITO, SALA C 64M2, ED MASTER CENTER, CUIABA-MT"
+                },
+                {
+                    "valor": "R$ 718.284,00",
+                    "nome": "FAZENDA BOA ESPERAN\u00c7A 2.112,50HAS PARTE IDEAL DA FAZENDA R-08 17236"
+                },
+                {
+                    "valor": "R$ 698.393,00",
+                    "nome": "FAZENDA BOA ESPERAN\u00c7A, EM C\u00c1CERES 2.054HAS CRC L-266-R2"
+                },
+                {
+                    "valor": "R$ 9.067,10",
+                    "nome": "1 CASA RES. NOS 2 LOTES MAT. 1395 CUIAB\u00c1/MT"
+                },
+                {
+                    "valor": "R$ 9.067,10",
+                    "nome": "2 CASAS RESIENCIAS AMBAS COM 6 PE\u00c7AS B. VERDAO MAT. 10276"
+                },
+                {
+                    "valor": "R$ 1.634,89",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 30,00HA , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 105.745,00",
+                    "nome": "FAZENDA, PARTE DELA 311HAS MAT. 43.615-P95"
+                },
+                {
+                    "valor": "R$ 6.583,12",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/  120,00 HAS , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 6.539,56",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 120,00HA SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.634,89",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 30,00HA  , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.486,11",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/27,00HA, QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 193,81",
+                    "nome": "FAZENDA SANTA AMALIA, 11060,50HAS, CRI 25477/25489, ALTA FLORESTA"
+                },
+                {
+                    "valor": "R$ 903.082,81",
+                    "nome": "FAZ. BONANZA EM ROSARIO OESTE, 2.656 HAS REG. 15698"
+                },
+                {
+                    "valor": "R$ 3.406,00",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 62,50HAS  , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 3.269,78",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/  60,00HAS , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 6.583,12",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 120,00HAS  , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 6.539,56",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 120,00HA , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 163,45",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 3,00HA  , QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 358.461,94",
+                    "nome": "FAZENDA INES, 25% C/ 4.217HAS EM ROSARIO OESTE REG. 34462-3, 4463"
+                },
+                {
+                    "valor": "R$ 6.539,56",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 120,00 HA , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 3.313,34",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 120,00HAS SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 108,90",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 2,00HAS , SESMARIA QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 3.705,68",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C68,00HAS SESMARIA QUILOMBO, EM JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 7.923,78",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C145,00HAS EM ROSARIO OESTE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 8.973,07",
+                    "nome": "1/9 DO LOTE DE TERRAS C3907,00M2 NA RUA 24 DE MAIO EM VARZEA GRANDE-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.300.000,00",
+                    "nome": "FAZENDA STA CLARA, CASTANHEIRA-MT, MAT 75279/75279 FL 74/75V, LV2"
+                },
+                {
+                    "valor": "R$ 7.820,37",
+                    "nome": "FAZENDA BOA ESPERAN\u00c7A, EM C\u00c1CERES PARTE DELA 23HAS MAT. R-5 13.158"
+                },
+                {
+                    "valor": "R$ 56.442,67",
+                    "nome": "FAZENDA BOA ESPERAN\u00c7A, PARTE IDEAL 166HAS MAT. 43627P6.95"
+                },
+                {
+                    "valor": "R$ 733.061,06",
+                    "nome": "FAZENDA 2.15596HAS CR 39.869PG 274"
+                },
+                {
+                    "valor": "R$ 22.667,24",
+                    "nome": "1 CASA C/ 6 PE\u00c7A NA RUA 24 DE OUTUBRO MAT. 49055"
+                },
+                {
+                    "valor": "R$ 6.539,56",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 120HAS , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.634,89",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 30,00HAS  , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 13.171,78",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 241,00HA  , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.486,11",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 27HA  , QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 7.983,67",
+                    "nome": "1/9 DO LOTE DE TERRAS C146,50HAS DENOMINADO QUILOMBO EM JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 7.933,71",
+                    "nome": "1 CASA DE ALVENARIA MAT. 16866 DE 05.05.81"
+                },
+                {
+                    "valor": "R$ 9.809,34",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 180,00HAS  , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.416,89",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 30,00HAS , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.493,12",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 274931HA  , GLEBA GIRASSOL, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 9.660,56",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 177,00HAS , QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 11.333,87",
+                    "nome": "1 CASA RES. TRAV. LIMOEIRO CUIABA/MT COM 4 PE\u00c7AS MAT 407813"
+                },
+                {
+                    "valor": "R$ 6.583,12",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 120,00HAS , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 435,90",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 8,00HA  , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 19.618,78",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 360HA , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 108,90",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 2,00HAS , QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.089,89",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 20HAS , QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 83.239,34",
+                    "nome": "FAZENDA, PARTE DELA 244,81HAS REG. 4-3M10.168"
+                },
+                {
+                    "valor": "R$ 6.583,12",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 120,00 HAS  , SESMARIA SALOBA, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.981,45",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 36,00HA , QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 5.994,56",
+                    "nome": "1/9 DO IM\u00d3VEL RURAL C/ 110,00HAS, QUILOMBO, JANGADA-MT, HERAN\u00c7A DE JULIO DOMINGOS DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "VEICULO SEMI REBOQUE COR PRETA CHASSI 955B09802DDS356760 PLACA OBB-4580"
+                },
+                {
+                    "valor": "R$ 6.300,00",
+                    "nome": "MOTO SHINERAY XY 150 GY COR VERMELHA GASOLINA ANO FB 2012/2013 PALCA OAU-9829"
+                },
+                {
+                    "valor": "R$ 117.000,00",
+                    "nome": "CAMINH\u00c3O FORD D4000 4X4, 2011/2011, PRATA, NPP-9554"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "SEMI-REBOQUE BASCULANTE C 03 EIXOS, CHASSI 94BB84344R001093 FACCHINI, NF 0137449 JZU7924"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "VEICULO SEMI REBOQUE RODOTREM BASCULANTE GRANELEIRO CHASSI 955B09021DDS356759 PLACA OBB-4140"
+                },
+                {
+                    "valor": "R$ 96.825,40",
+                    "nome": "VEICULO HILUX CD 4X4 STD DIESEL PRATA CHASSI 8AJFY22G4D8006026, PLACA OBG-3942"
+                },
+                {
+                    "valor": "R$ 80.000,00",
+                    "nome": "TRATOR AGRICOLA, NEW HOLLAND, TL75E, CHASSI Z4CB02306, NF 529565"
+                },
+                {
+                    "valor": "R$ 152.222,12",
+                    "nome": "TRATOR 8630 4X4, NEW HOLLAND"
+                },
+                {
+                    "valor": "R$ 335.000,00",
+                    "nome": "VEICULO CAMINHAO TRATOR COM CABINE EST M.BENZ AXOR 2644S6X4 COR PRATA CHASSI 9BM958453DB927218 PLACA OAZ-8030 ANO 2013"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "VEICULO GM/S10 TORNADO D 4X4 ANO 2008/2009 DIESEL BRANCA PLACA NJG-8767"
+                },
+                {
+                    "valor": "R$ 6.500,00",
+                    "nome": "MOTO NXR 150 COR LARANJA PLACA NTZ-3611 ANO FB 2011/2012"
+                },
+                {
+                    "valor": "R$ 110.000,00",
+                    "nome": "IVECO DAILY 70C17 HD CD CABINA DUPLA MOTOR DIESEL MOD FIC TURBO 04 CIL 170 CV COR BRANCO BANCHISA 07 PASSAG CHASSI 93ZC70C01D8441694 PALCA OAV-6073"
+                },
+                {
+                    "valor": "R$ 162.000,00",
+                    "nome": "TRATOR MOD TM7020 15X12, NEW HOLLAND, CHASSI ZBCC91070, N 9982"
+                },
+                {
+                    "valor": "R$ 73.914,00",
+                    "nome": "VE\u00cdCULO TOYOTA HILUX 4C4, D, 2010/2010, BRANCA, NJP-8353"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "VEICULO REBOQUE DOLLY BALANCIM PARA RODOTREM CHASSI 955M9442DDS356761 PLACA OBB-4910"
+                },
+                {
+                    "valor": "R$ 55.457,24",
+                    "nome": "VE\u00cdCULO GM S10 ADVANTAGE MOD 220470, PRETA, 2010/2011, NTY-0647"
+                },
+                {
+                    "valor": "R$ 156.000,00",
+                    "nome": "VEICULO HILUX TOYOTA SW4 4X4 SR PRATA DIESEL CHASSI 8AJYY52G9D6000115 PLACA OBJ-2541"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "TRATOR IVECO 4CIL 08X02, MOD 4030, CHASSI Z9CG57285"
+                },
+                {
+                    "valor": "R$ 106.500,00",
+                    "nome": "VE\u00cdCULO VW JETTA 2.5, PRETO, 2010/2010, EQL-7201"
+                },
+                {
+                    "valor": "R$ 280.000,00",
+                    "nome": "TRATOR DE ESTEIRA KOMATSU MOD D41E-6T, NF 14010"
+                },
+                {
+                    "valor": "R$ 5.705,56",
+                    "nome": "02 MOTOS HONDA XR 2004"
+                },
+                {
+                    "valor": "R$ 336.658,91",
+                    "nome": "TRATOR AKOR 2644 S/33 4X4, MERCEDES BENZ, D, NID 2012, OBA-1511 BRANCO"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "VEICULO HONDA ACCORD EX GAS CHASSI 1HGC42670DA530013 PLACA OBG-3477"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "SEMI REBOQUE LS BOIADEIRO 17000X2600, BRANCA, 2012, NTX 6103"
+                },
+                {
+                    "valor": "R$ 115.000,00",
+                    "nome": "TRATOR TL85, NEW HOLLAND 4X4, BALDAN,"
+                },
+                {
+                    "valor": "R$ 77.577,16",
+                    "nome": "VE\u00cdCULO GM S10 COLINA 4X4, BRANCA, D, NTY - 5210"
+                },
+                {
+                    "valor": "R$ 58.000,00",
+                    "nome": "TRATOR AGRICOLA, NEW HOLLAND, MOD TT3840, CHASSI Z7CG22602, NF 76964"
+                },
+                {
+                    "valor": "R$ 6.264.020,00",
+                    "nome": "AERONAVE RAYTHEON BEECHERAF USADA, MOD BEECHJET 400XP, ANBO 2007, PF N512XP, MOTOR PRATT E WRITNEY"
+                },
+                {
+                    "valor": "R$ 17.000,00",
+                    "nome": "DISTRIBUIDOR DE CALCARIO E ADUBO MARCA TAT MOD DCA 5500 SERIE 0398/7464"
+                },
+                {
+                    "valor": "R$ 125.494,43",
+                    "nome": "1/9 DE 80 GALINHAS, 05 GALOS, 08 EGUAS, 12 CAVALOS, 369 BEZERRAS, 286 BEZERROS, 129 BEZERRAS  ANO, 06 VEZERROS S ANO, 53 BOIS MAGROS, 1707 VACAS MAGRAS"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "DCA 5500 DIST CALCAREO E ADUBO, MARCA SUPER TATU NF 17495"
+                },
+                {
+                    "valor": "R$ 18.000,00",
+                    "nome": "ROC ROTATIVA C CARDAN SERIE 60286755001001"
+                },
+                {
+                    "valor": "R$ 24.000,00",
+                    "nome": "GRADE ARADORA INTERM. CONTROLE REMOTO MARC MOD GAICR 24X28 SERIE 0791/31994"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "PAH 1700 - 100 A 185 CV SHT S/A CONCHA TATU SERIE 0610/10704"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "PA CARREGADORA SHAN TSUI SL30W, N 008"
+                },
+                {
+                    "valor": "R$ 10.500,00",
+                    "nome": "COLHEDORA DE FOLHAGEM, MARCA NOGUEIRA, MOD PECUS 9004, NF 054148"
+                },
+                {
+                    "valor": "R$ 24.000,00",
+                    "nome": "PLAINA AGRIC. DIANTEIRA MARCA TATU MOD PD SERIE 0608/23857"
+                },
+                {
+                    "valor": "R$ 104.000,00",
+                    "nome": "TRATOR AGRICOLA DE RODAS NEW HOLLAND MOD 7630 4X4, 04 CIL"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "GRUPO GERADOR MWM, AGRALE CFE NF 10485"
+                },
+                {
+                    "valor": "R$ 16.500,00",
+                    "nome": "ROCADEIRA DE ARRASTRO COM CARDAN MOD RACD 3400 MARCA BALDAN SERIE 60270646001001"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "PA CARREGADEIRA HIDRAULICA MARCA TATU, SERIE 0610/10736"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "GRADE AERDORA PESADA, SUPER TATU 16 DISCOS, NF 17494"
+                },
+                {
+                    "valor": "R$ 350.000,00",
+                    "nome": "TRATOR ESTEIRA SHANTUI SD 16 CHASSI SD16AA124596"
+                },
+                {
+                    "valor": "R$ 220.000,00",
+                    "nome": "PA CARRAGADEIRA SHANTUI ADQ TOTAL MAQUINAS COM IMPLEM PESADOS LTDA"
+                },
+                {
+                    "valor": "R$ 162.000,00",
+                    "nome": "TRATOR AGRICOLA NEW HOLLAND MOD TM70 6 CIL"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "PA CARREGADORA SHANTUSI SL30W"
+                },
+                {
+                    "valor": "R$ 27.000,00",
+                    "nome": "PLAIN A AGRICOLA DIANTEIRA MARCA TAUT MOD PD7 7040 SERIE 0708/24294"
+                },
+                {
+                    "valor": "R$ 24.000,00",
+                    "nome": "GRADE ARADORA INTERM CONTROLE REMOTO MAR MOD GAICR 24X28"
+                },
+                {
+                    "valor": "R$ 430.000,00",
+                    "nome": "MOTONIVELADORA SG18-3 ADQ. TOTAL MAQUINAS COM IMPLEM PESADOS LTDA"
+                },
+                {
+                    "valor": "R$ 450.000,00",
+                    "nome": "ESCAVADEIRA HTD SHANTUI ADQ. TOTAL MAQUINAS COM E IMPL PESADOS LTDA"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "TRATOR ESTEIRA KOMATSU D-65-E-6B SERIE B2266-1740-A USADO"
+                },
+                {
+                    "valor": "R$ 28.000,00",
+                    "nome": "PLAINA AGRICOLA DIANTEIRA MARCA TATU SERIE 0708/25842"
+                },
+                {
+                    "valor": "R$ 34.510,00",
+                    "nome": "TRONCO PADRAO ADQ FABRICA DE TRONCOS ROMANCINI LTDA"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "PLANTADEIRA ADUBADEIRA, MARCA BAUDAN 04 MOD PLB 04"
+                },
+                {
+                    "valor": "R$ 19.000,00",
+                    "nome": "GRADE ARADORA INTERMEDIARIA CONTROLE 16X28X7 5MM MANCAIS DUROMARK A OLEO TATU SERIE 0791/31867"
+                },
+                {
+                    "valor": "R$ 38.000,00",
+                    "nome": "GRADE ARADORA PESADA MARCA BALDAN MODELO GTCR 18 X 32 X 9,00MM"
+                },
+                {
+                    "valor": "R$ 28.000.000,00",
+                    "nome": "BOVINOS E BUFALINOS"
+                },
+                {
+                    "valor": "R$ 86,52",
+                    "nome": "A\u00c7\u00d5ES ZPE CACERES-MT RES-MT"
+                },
+                {
+                    "valor": "R$ 1.133,38",
+                    "nome": "A\u00c7\u00d5ES TELEMAT, N. 321-3308 E 321-3746 E 3217976"
+                },
+                {
+                    "valor": "R$ 341,01",
+                    "nome": "A\u00c7\u00c3O CLUBE OPERARIO VARZEA GRANDE-MT"
+                },
+                {
+                    "valor": "R$ 86,52",
+                    "nome": "A\u00c7\u00d5ES ZPE DE CACERES-MT RES-MT"
+                },
+                {
+                    "valor": "R$ 1.133,38",
+                    "nome": "A\u00c7\u00d5ES TELEMAT N. 321-3308 E 321-3746 E 321-7976 VG/MT 318-2356 E 381-3281 E 381-3510"
+                },
+                {
+                    "valor": "R$ 1.133,38",
+                    "nome": "A\u00c7\u00d5ES DA TELEMAT N. 321-3308 E 321-3746 E 321-7976"
+                },
+                {
+                    "valor": "R$ 12.223,12",
+                    "nome": "AQUISICAO 100 0/0 PARTE DE BENEDITO S.C.BRAGA DO TOTAL CORRESP.A 10 0/0 S/4.217 HAS. CFE. REG. CRI L- 88 FLS. 80/81 EM 16.12.91 CART. 1 OF. VARZEA GRANDE"
+                },
+                {
+                    "valor": "R$ 1.321.914,50",
+                    "nome": "AQUISICAO 100 O/O DAS PARTES JORGE A.P.MIRANDAJULIO J.CAMPOS,JOSE T.C. COSTA E 15 O/O PARTE BENEDITO S.C.BRAGA REG.COMP.E VEND.074 FLS.026 E 027 CART.7 OF. V.GRANDE-"
+                },
+                {
+                    "valor": "R$ 30.611,59",
+                    "nome": "QUOTA PARTE ASSOSICADOS SICREDI CNPJ 32955755/0001-60"
+                },
+                {
+                    "valor": "R$ 932.001,06",
+                    "nome": "AQUISICAO 100 O/O PARTES JORGE A.P.MIRANDA, JOSE C. COSTA E 15 O/O BENEDITO S.C. BRAGA DO TO- TAL DE 4.217 HAS.REC.VEND.CART.01 OF.LIV.74 FLS.28E 29 EM 03.12.90 V.G"
+                },
+                {
+                    "valor": "R$ 4.422,01",
+                    "nome": "QUOTA PARTE COOPERATIVA DE ECONOMIA DE CREDITO MUTUO DOS PEQUENOS EMPRESARIOS"
+                },
+                {
+                    "valor": "R$ 16.111,55",
+                    "nome": "AQUISICAO 100 0/0 PARTE DE BENEDITO S.C.BRAGA DO TOTAL CORRESP. A 10 0/0 SOBRE 5.554 HAS. CFE REG. CRI L-88 FLS. 82/83 EM 16.12.91 CART. 1 OF V.G"
+                },
+                {
+                    "valor": "R$ 1.738,00",
+                    "nome": "QUOTA PARTE CUIABACREDI LTDA, MAT. 058"
+                },
+                {
+                    "valor": "R$ 2.316.491,00",
+                    "nome": "QUOTA CAPITAL, FRITANSER FRIGORIFICO TANGARA DA SERRA LTDA."
+                },
+                {
+                    "valor": "R$ 508,89",
+                    "nome": "449.000 QUOTAS DE CAPITAL, VARZEA GRANDE ARMAZENS LTDA, JUSCEMAT N. 24869.007"
+                },
+                {
+                    "valor": "R$ 4.574.101,50",
+                    "nome": "SALDO APLICA\u00c7\u00c3O RENDA FIXA CAIXA ECONIMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 80.116,99",
+                    "nome": "SALDO APLICACAO RENDA FIXA SICOOB"
+                },
+                {
+                    "valor": "R$ 1.063.600,00",
+                    "nome": "SALDO CONTA APLICA\u00c7\u00c3O RENDA FIXA BANCO BASA S/A"
+                },
+                {
+                    "valor": "R$ 54,00",
+                    "nome": "SALDO CONTA CORRENTE BANCO SAFRA SA EM NOME DA ESPOSA SRA. LUCIMAR SACRE DE CAMPOS"
+                },
+                {
+                    "valor": "R$ 135.063,94",
+                    "nome": "SALDO CONTA APLICACAO EM RENDA FIXA (BOX) BANCO SAFRA SA"
+                },
+                {
+                    "valor": "R$ 538.149,88",
+                    "nome": "SALDO CONTA APLICA\u00c7\u00c3O CDB BANCO BRADESCO S/A CONTA 60002"
+                },
+                {
+                    "valor": "R$ 78.474,88",
+                    "nome": "SALDO CONTA APLICA\u00c7\u00c3O BANCO SAFRA S/A EM NOME DE LUCIMAR SACRE CAMPOS"
+                },
+                {
+                    "valor": "R$ 1.828.000,00",
+                    "nome": "SALDO CONTA APLICA\u00c7\u00c3O BANCO DO BRASIL AG 2764-2 C/C 2362-0"
+                },
+                {
+                    "valor": "R$ 4.192.075,00",
+                    "nome": "CONTA APLICA\u00c7\u00c3O BANCO RURAL S/A, RENDA FIXA, VALOR RETIDO EM RAZ\u00c3O DE LIQUIDA\u00c7\u00c3O DA INSTITUI\u00c7\u00c3O PELO BC"
+                },
+                {
+                    "valor": "R$ 577,50",
+                    "nome": "SALDO CONTA CORRENTE INVESTIMENTOS BANCO SAFRA SA"
+                },
+                {
+                    "valor": "R$ 271.545,00",
+                    "nome": "SALDO CONTA APLICA\u00c7\u00c3O SICREDI SUDOESTE"
+                },
+                {
+                    "valor": "R$ 683.657,00",
+                    "nome": "SALDO CONTA APLICACAO FINANCEIRA JS ADMINISTRACAO DE RECURSOS SA BANCO SAFRA SA"
+                },
+                {
+                    "valor": "R$ 69.000,00",
+                    "nome": "SALDO CONTA APLICA\u00c7\u00c3O SAFRA SA"
+                },
+                {
+                    "valor": "R$ 379.750,00",
+                    "nome": "DIREITO A RECEBER EM 60 PARCELAS DE R$ 7.750,00 TOTALIZANDO O VALOR DE R$ 465.000,00 EFETUADO EM 06/12/2010 PARA MICHELLE CRISTINA SACRE DE CAMPOS CPF N. 704.853.211-49"
+                },
+                {
+                    "valor": "R$ 531.881,00",
+                    "nome": "DIREITO A RECEBER DE CARLOS EDUARDO SACRE DE CAMPOS CPF 902.669.941-72 EM DUAS PARCELAS ANUAIS SUCESSIVAS"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "DIREITO A RECEBER REF. EMPRESTIMO AO SR. CARLOS EDUARDO SACRE DE CAMPOS CPF 902.669.941-72"
+                },
+                {
+                    "valor": "R$ 400.000,00",
+                    "nome": "DIREITO A RECEBER DE EMPRESTIMO EFETUADO A SRA. MICHELE CRISTINA S CAMPOS SOARES CPF 704.853.211-49"
+                },
+                {
+                    "valor": "R$ 210.000,00",
+                    "nome": "DIREITO A RECEBER DA SRA GISELE MARIA SACRE DE CAMPOS CPF 905.808.691-72, REF. TERRENO COM 256,50,M2, 275,00M2, 570,00M2 E 247,5M2, LOTES UNIFICADO NA MATRICULA 92.342"
+                },
+                {
+                    "valor": "R$ 568.084,19",
+                    "nome": "DIREITO A RECEBER DO SR. CARLOS EDUARDAO SACRE DE CAMPOS CPF 902.669.941-72, REF. CESSAO DE DIREITO DE UM APARTAMENTO N. 1401 LOCALIZADO NA RUA ESTEVAO DE MENDONCA 1067, CUIABA MT"
+                },
+                {
+                    "valor": "R$ 393.242,25",
+                    "nome": "DIREITO A RECEBER DO SR. CARLOS EDUARDO SACRE DE CAMPOS CPF 902.669.941-72 REF. CESSAO DE DIREITO DE UM APARTAMENTO N. 1301 CUIABA MT"
+                },
+                {
+                    "valor": "R$ 0,51",
+                    "nome": "SALDO CONTA CORRENTE SICRED SUDOESTE"
+                },
+                {
+                    "valor": "R$ 50,00",
+                    "nome": "SALDO CONTA CORRENTE CAIXA ECONIMICA FEDERAL AG 790-0 C/C 105746-1"
+                },
+                {
+                    "valor": "R$ 1.682,56",
+                    "nome": "SALDO EM CONTA CORRENTE BANCO DO BRASIL AG 2764-2 / 2362-0"
+                },
+                {
+                    "valor": "R$ 2.222,02",
+                    "nome": "SALDO CONTA CORRENTE - COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS PEQUENOS EMPRESATIOS - SICOOB"
+                },
+                {
+                    "valor": "R$ 38.076,56",
+                    "nome": "SALDO CONTA CORRENTE BASA S/A"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "SALDO CONTA CORRENTE BRADESCO AG N 60002"
+                },
+                {
+                    "valor": "R$ 125.050,00",
+                    "nome": "AREA DE TERRA, C 2499,9648 HAS, MAT 10248 LV 2AY FL 01"
+                },
+                {
+                    "valor": "R$ 49.627,04",
+                    "nome": "CONSORCIO MASSEY FERGUSON 100 PARCELAS"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404475741700.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000003/idarquivo/37?x=1404915091000110000000003"
+                },
+                {
+                    "documento": "2 - certidao1404475741701.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000003/idarquivo/38?x=1404915091000110000000003"
+                },
+                {
+                    "documento": "3 - certidao1404475741701.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000003/idarquivo/39?x=1404915091000110000000003"
+                },
+                {
+                    "documento": "4 - certidao1404475741702.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000003/idarquivo/40?x=1404915091000110000000003"
+                },
+                {
+                    "documento": "5 - certidao1404475741702.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000003/idarquivo/41?x=1404915091000110000000003"
+                },
+                {
+                    "documento": "6 - certidao1404475741703.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000003/idarquivo/42?x=1404915091000110000000003"
+                }
+            ],
+            "partido": "DEM",
+            "numeroProcesso": "171-54.2014.6.11.0000",
+            "codigo": "251",
+            "raca": "Parda",
+            "numeroProtocolo": "226502014",
+            "coligacao": "CORAGEM E ATITUDE PRA MUDAR",
+            "composicaoColigacao": "PDT / PP / DEM / PSDB / PSB / PPS / PV / PTB / PSDC / PSC / PRP / PSL / PRB",
+            "numeroUrna": "251",
+            "ocupacao": "Senador",
+            "cnpj": "20559157000169",
+            "limiteGastos": "R$ 12.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "110000000003",
+            "totalBensDeclarados": "R$ 67.884.308,69000003",
+            "nomeUrna": "JAYME CAMPOS",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MT&sq_cand=10321"
+                }
+            ],
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "110000000159": {
+            "suplente": {
+                "numero": "110000000160",
+                "nome": "MANOEL DE SOUZA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MT/candidato/110000000160"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405015201000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MT/candidato/110000000159",
+            "nomeCompleto": "RUI PRADO",
+            "nascimento": "29/04/1963",
+            "naturalidade": "CAMPO GRANDE",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 228.000,00",
+                    "nome": "AP 301 - TORRE 01 - RUA MARECHAL SEVERIANO DE QUEIROS, 475, DUQUE DE CAXIAS, CUIABA - MT"
+                },
+                {
+                    "valor": "R$ 66.920,00",
+                    "nome": "IMOVEL RESIDENCIAL DE NR. 06 DA QUADRA 99 - CAMPO NOVO DOS PARECIS - MT"
+                },
+                {
+                    "valor": "R$ 144.668,00",
+                    "nome": "FAZENDA CACHOEIRINHA III - CAMPO NOVO DOS PARECIS - MT"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "VEICULO COROLLA XEI 2009"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "A\u00c7\u00d5ES NA EMPRESA PARECIS ALIMENTOS S/A 07.925.549/0001-36"
+                },
+                {
+                    "valor": "R$ 154.916,12",
+                    "nome": "QUOTAS DE ADMISS\u00c3O NO SICREDI - 07.925.549/0001-36"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "QUOTA CAPITAL NA CAAP COOPERATIVA ALIAN\u00c7A DOS PRODUTORES DO PARECIS 03.825.008/0001-85"
+                },
+                {
+                    "valor": "R$ 7.800,00",
+                    "nome": "QUOTAS DE CAPITAL NA COOPERBIO COOPERATIVA DE COMBUSTIVEIS - 08.306.224/0001-09"
+                },
+                {
+                    "valor": "R$ 186.250,00",
+                    "nome": "QUOTAS NA EMPRESA NR AGROPECUARIA LTDA - 37.460.961/0001-99 - 50%"
+                },
+                {
+                    "valor": "R$ 3.289,34",
+                    "nome": "QUOTAS DE CAPITAL NA COOPERATIVA COOPERFIBRA"
+                },
+                {
+                    "valor": "R$ 2.001,79",
+                    "nome": "OUROCAP DO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 11.398,27",
+                    "nome": "APLICA\u00c7\u00c3O OUROCAP DO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 24.750,00",
+                    "nome": "BRASILPREV DO BANCO DO BRASIL CNPJ 27.665.207/0001-31"
+                },
+                {
+                    "valor": "R$ 8.574,30",
+                    "nome": "OUROCAP ESTILO DO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "SALDO EM CONTA CORRENTE - BANCO BRADESCO"
+                },
+                {
+                    "valor": "R$ 25,98",
+                    "nome": "SALDO EM CONTA POUPAN\u00c7A -  BANCO BRADESCO"
+                },
+                {
+                    "valor": "R$ 66,12",
+                    "nome": "SALDO EM CONTA POUPAN\u00c7A - BANCO SICREDI"
+                },
+                {
+                    "valor": "R$ 285,23",
+                    "nome": "SALDO EM CONTA CORRENTE - BANCO HSBC"
+                },
+                {
+                    "valor": "R$ 1.241,50",
+                    "nome": "SALDO EM CONTA POUPAN\u00c7A  - BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 21.506,52",
+                    "nome": "CONSORCIO - BANCO DO BRASIL"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404589899213.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000159/idarquivo/1060?x=1405015201000110000000159"
+                },
+                {
+                    "documento": "2 - certidao1404589899213.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000159/idarquivo/1061?x=1405015201000110000000159"
+                },
+                {
+                    "documento": "3 - certidao1404589899214.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000159/idarquivo/1062?x=1405015201000110000000159"
+                },
+                {
+                    "documento": "4 - certidao1404589899215.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000159/idarquivo/1063?x=1405015201000110000000159"
+                },
+                {
+                    "documento": "5 - certidao1404589899215.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000159/idarquivo/1064?x=1405015201000110000000159"
+                },
+                {
+                    "documento": "6 - certidao1404589899215.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000159/idarquivo/1065?x=1405015201000110000000159"
+                },
+                {
+                    "documento": "7 - certidao1404589899216.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000159/idarquivo/1066?x=1405015201000110000000159"
+                }
+            ],
+            "partido": "PSD",
+            "numeroProcesso": "270-24.2014.6.11.0000",
+            "codigo": "555",
+            "raca": "Branca",
+            "numeroProtocolo": "229692014",
+            "coligacao": "VIVA MATO GROSSO I",
+            "composicaoColigacao": "PSD / PTC / PTN / PEN / PRTB / SD",
+            "numeroUrna": "555",
+            "ocupacao": "Veterin\u00e1rio",
+            "cnpj": "20614265000197",
+            "limiteGastos": "R$ 30.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "110000000159",
+            "totalBensDeclarados": "R$ 1.082.694,1700000002",
+            "nomeUrna": "RUI PRADO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "110000000029": {
+            "suplente": {
+                "numero": "110000000030",
+                "nome": "JEOV\u00c1 CAETANO JUNIOR",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MT/candidato/110000000030"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404991260000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MT/candidato/110000000029",
+            "nomeCompleto": "GILBERTO LOPES FILHO",
+            "nascimento": "15/12/1962",
+            "naturalidade": "TESOURO",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "50% DE UM IM\u00d3VEL LOCALIZADO NO BAIRRO CENTRO AM\u00c9RICA, CUIAB\u00c1-MT"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "VOLKSWAGEN VOYAGE 2010/2011"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "VOLKSWAGEN GOL SPECIAL"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404489342813.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/221?x=1404991260000110000000029"
+                },
+                {
+                    "documento": "2 - certidao1404489342813.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/222?x=1404991260000110000000029"
+                },
+                {
+                    "documento": "3 - certidao1404489342814.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/223?x=1404991260000110000000029"
+                },
+                {
+                    "documento": "4 - certidao1404489342815.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/224?x=1404991260000110000000029"
+                },
+                {
+                    "documento": "5 - certidao1404489342815.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/225?x=1404991260000110000000029"
+                },
+                {
+                    "documento": "6 - certidao1404489342816.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/226?x=1404991260000110000000029"
+                },
+                {
+                    "documento": "7 - certidao1404489342816.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/227?x=1404991260000110000000029"
+                },
+                {
+                    "documento": "8 - certidao1404489342817.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/228?x=1404991260000110000000029"
+                },
+                {
+                    "documento": "9 - certidao1404489342818.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000029/idarquivo/229?x=1404991260000110000000029"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "456-47.2014.6.11.0000",
+            "codigo": "500",
+            "raca": "Parda",
+            "numeroProtocolo": "228162014",
+            "coligacao": "PSOL",
+            "composicaoColigacao": "",
+            "numeroUrna": "500",
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "cnpj": "20561081000106",
+            "limiteGastos": "R$ 1.000.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "110000000029",
+            "totalBensDeclarados": "R$ 137.000,0",
+            "nomeUrna": "GILBERTO LOPES FILHO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MT&sq_cand=10178"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=110000000006&sgUe=MT"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "110000000320": {
+            "suplente": {
+                "numero": "110000000331",
+                "nome": "AIDA MARTINS",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/MT/candidato/110000000331"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404915163000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MT/candidato/110000000320",
+            "nomeCompleto": "JUCA DO GUARAN\u00c1",
+            "nascimento": "09/04/1978",
+            "naturalidade": "CUIAB\u00c1",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "RESIDENCIAL LEBLON"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "20% CASA JD. LEBLON"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "HILUX SW 4, 2006"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "SAVEIRO 2000/00"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "RETROESCAVADEIRA"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "MOTO TITAN"
+                },
+                {
+                    "valor": "R$ 26.000,00",
+                    "nome": "FIAT UNO 2011/12"
+                },
+                {
+                    "valor": "R$ 35.000,00",
+                    "nome": "CAMINH\u00c3O BASCULANTE"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404602598255.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000320/idarquivo/1965?x=1404915163000110000000320"
+                },
+                {
+                    "documento": "2 - certidao1404602598255.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000320/idarquivo/1966?x=1404915163000110000000320"
+                },
+                {
+                    "documento": "3 - certidao1404602598255.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000320/idarquivo/1967?x=1404915163000110000000320"
+                },
+                {
+                    "documento": "4 - certidao1404602598256.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000320/idarquivo/1968?x=1404915163000110000000320"
+                },
+                {
+                    "documento": "5 - certidao1404602598256.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MT/candidato/110000000320/idarquivo/1969?x=1404915163000110000000320"
+                }
+            ],
+            "partido": "PT do B",
+            "numeroProcesso": "441-78.2014.6.11.0000",
+            "codigo": "700",
+            "raca": "Parda",
+            "numeroProtocolo": "231502014",
+            "coligacao": "PT do B",
+            "composicaoColigacao": "",
+            "numeroUrna": "700",
+            "ocupacao": "Vereador",
+            "cnpj": "20575673000187",
+            "limiteGastos": "R$ 7.000.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "110000000320",
+            "totalBensDeclarados": "R$ 152.000,0",
+            "nomeUrna": "JUCA DO GUARAN\u00c1",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

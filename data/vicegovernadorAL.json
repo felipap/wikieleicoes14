@@ -1,0 +1,785 @@
+{
+    "vicegovernadorAL": {
+        "20000000033": {
+            "ocupacao": "Policial Militar",
+            "numeroProcesso": "581-64.2014.6.02.0000",
+            "genero": "MASCULINO",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "MACEIO",
+            "cnpj": "20572823000107",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000033",
+            "numeroProtocolo": "97282014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "19",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404912721000"
+            },
+            "id": "20000000033",
+            "enderecoWeb": "paulohortencio2012@hotmail.com",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PTN",
+            "nomeCompleto": "PERICLES CABRAL",
+            "nascimento": "11/06/1969",
+            "status": "Aguardando julgamento",
+            "codigo": "19",
+            "nomeUrna": "PERICLES CABRAL",
+            "partido": "PTN"
+        },
+        "20000000027": {
+            "ocupacao": "Policial Militar",
+            "numeroProcesso": "574-72.2014.6.02.0000",
+            "genero": "MASCULINO",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "MACEIO",
+            "cnpj": "20618256000174",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000027",
+            "numeroProtocolo": "97212014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "51",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405085092000"
+            },
+            "id": "20000000027",
+            "enderecoWeb": "BULHOESPESSOA@BOL.COM.BR",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PEN",
+            "nomeCompleto": "CAPITAO BULHOES",
+            "nascimento": "11/01/1968",
+            "status": "Aguardando julgamento",
+            "codigo": "51",
+            "nomeUrna": "CAPITAO BULHOES",
+            "partido": "PEN"
+        },
+        "20000000102": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "651-81.2014.6.02.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 1.358.863,37",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=28339&sqCandidato=2716",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=20000000309&sgUe=AL",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "PENEDO",
+            "cnpj": "20574219000101",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000102",
+            "numeroProtocolo": "98022014",
+            "bens": [
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "APARTAMENTO 802 DO EDIFICIO COSTA DO MARFIM, NA RUA ROBERTO M. DE BRITO, 110, JATI\u00daCA, MACEI\u00d3 - AL"
+                },
+                {
+                    "valor": "R$ 458.590,12",
+                    "nome": "APTO N\u00ba 401, EDF. RODIM, NA AVENIDA SILVIO CARLOS LUNA VIANA, 1675, PONTA VERDE, MACEIO - AL"
+                },
+                {
+                    "valor": "R$ 4.000,00",
+                    "nome": "LOTE DE TERRENO DE N\u00ba 9, COM \u00c1REA DE 200M\u00b2, LOCALIZADO NO LOTEAMENTO SANTA MADALENA, NO CONJ. RES, ROSETE ANDRADE, PENEDO-AL"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "1/3 DE POSSE DE TERRA ENCRAVADA NAS TERRAS DA PROPRIEDADE BOASSICA, EM PENEDO-AL, COM \u00c1REA TOTAL DE 701,200 M\u00b2,"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "50% DOS LOTES DE TERRENOS DE NS. 06 E 07 (REMEMBRADOS NO ANO DE 2012DA QUADRA F, DO LOTEAMENTO BARRA MAR, SITUADO NO MUNIC\u00cdPIO DE BARRA DE S\u00c3O MIGUEL-AL, EM MEACAO COM JULIO CESAR DE MELO TOLEDO"
+                },
+                {
+                    "valor": "R$ 13.185,48",
+                    "nome": "50% DE UMA POSSE DE TERRA CONSTITU\u00cdDA DO IM\u00d3VEL DENOMINADO SANTA TEREZINHA, PENEDO-AL OM \u00c1REA DE 89,56 HA. OU 296.065 TAREFAS. VALOR DA TERRA NUA (MEACAO) CONF.ITR/2013 R$ 73.331,77"
+                },
+                {
+                    "valor": "R$ 2.359,51",
+                    "nome": "50% DE UMA POSSE DE TERRA ENCRAVADA NAS TERRAS DA CERQUINHA, PENEDO-AL, DENOMINADA S\u00c3O JOS\u00c9, COM \u00c1REA DE 16,2 HAVALOR DA TERRA NUA (MEACAO) CONF. ITR/2013 R$ 19.258,43"
+                },
+                {
+                    "valor": "R$ 8.327,67",
+                    "nome": "UM TER\u00c7O DA FAZEDA LAGOA DETRAS, CITUADA NA CERQUINHA DAS LARANJEIRAS, PENEDO-AL. COM A \u00c1REA DE 69,4 HA. ADQUIRIDA EM 29.03.1985. VALOR DA TERRA NUA (UM TER\u00c7O) CEF. ITR/2012 R$ 72.059,23"
+                },
+                {
+                    "valor": "R$ 971,56",
+                    "nome": "1/3 DA FAZENDA GRANJA LAJERO GRANDE, EM PENEDO - AL, COM \u00c1REA DE 7,00 HA, VALOR DA TERRA NUA(UM TER\u00c7O) CONF. ITR/2012,R$7.225,88 N. DO IM\u00d3VEL NA RECEITAFEDERAL 5013691-7"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "VALOR DE 50% DESPENDIDO DURANTE O ANO DE 2012 NA CONSTRU\u00c7\u00c3O DE UMA CASA NOS LOTES DE TERRENO DE NS 06 E 07, DA QD. F, DO LOT. BARRA MAR, EM BARRA DE S\u00c3O MIGUEL"
+                },
+                {
+                    "valor": "R$ 16.000,00",
+                    "nome": "VEICULO MARCA WOLKWAGEM KOMBI, MODELO 2000/2001, PLACA MUX 2690 - AL, COR BRANCA"
+                },
+                {
+                    "valor": "R$ 27.000,85",
+                    "nome": "AUTOM\u00d3VEL MARCA FIAT UNO ANO FAB/MOD 20102011, CORVERMELHO ALPINE PLACA NMK 7487 AL"
+                },
+                {
+                    "valor": "R$ 79.290,00",
+                    "nome": "VEICULO MARCA WOLKSWAGEM, MODELO NEWJETTA SEDAN, COR BRANCA CRISTAL, ANO/FAB/MOD 2013/2013"
+                },
+                {
+                    "valor": "R$ 42.200,00",
+                    "nome": "VEICULO MARCA FIAT 500 CULT, ANO/FAB/MOD 2012/2013, COR BRANCA, PLACA OHI 0219-AL"
+                },
+                {
+                    "valor": "R$ 36.808,00",
+                    "nome": "VE\u00cdCULO MARCA FORD FOCUS HC FLEX, COR PRATA, GEADA MET\u00c1LICA, ANO FAB/MOD 2010/2011, PLACA NMO 9760 AL"
+                },
+                {
+                    "valor": "R$ 11.181,33",
+                    "nome": "1/3 DE TR\u00caS QUINH\u00d5ES DE UMA \u00c1REA DE TERRENO AGR\u00cdCULA, ENCRAVADA NAS FAZENDAS SACO DE ARROZ E ESPERAN\u00c7A SITUADA EM PENEDO-AL,"
+                },
+                {
+                    "valor": "R$ 12.072,00",
+                    "nome": "1/3 DE TRES QUINHOES DE UMA \u00c1REA DE TERRENO AGR\u00cdCULA NAS FAZENDAS SACO DE ARROZ E ESPERAN\u00c7A,  LOCALIZADA EM PENEDO-AL,"
+                },
+                {
+                    "valor": "R$ 1.638,77",
+                    "nome": "CONTA POUPAN\u00c7A NO BRADESCO S/A, AG. 134 CONTA N\u00ba 6.467.723-3"
+                },
+                {
+                    "valor": "R$ 285.000,00",
+                    "nome": "DINHEIRO EM MEU PODER"
+                },
+                {
+                    "valor": "R$ 927,62",
+                    "nome": "APLICADO NO FUNDO DE INVESTIMENTO PLUS NO BANCO BRADESCO SA AG 1688 CONTA N\u00ba 402.422-2"
+                },
+                {
+                    "valor": "R$ 5.397,42",
+                    "nome": "T\u00cdTULO DE CAPITALIZA\u00c7\u00c3O NO BRADESCO CAPITALIZA\u00c7\u00c3O S/A"
+                },
+                {
+                    "valor": "R$ 473,30",
+                    "nome": "OURO CAP PR\u00caMIO CNPJ 15.138.043/0001-05"
+                },
+                {
+                    "valor": "R$ 1.052,53",
+                    "nome": "SALDO EM VGBL NA CAIXA VIDA E PREVID\u00caNCIA SA CNPJ 03.730.204/0001-76"
+                },
+                {
+                    "valor": "R$ 100,00",
+                    "nome": "SALDO EM CONTA CORRENTE N\u00ba 402422-2, NO BANCO BRADESCO AGENCIA 1688-8 PRIME"
+                },
+                {
+                    "valor": "R$ 877,33",
+                    "nome": "SALDO NA CONTA CORRENTE UNIVERSIT\u00c1RIA, N\u00ba 21060-9NO BANCO DO BRASIL, EM NOME DE MINHA FILHA AG. 0049-3"
+                },
+                {
+                    "valor": "R$ 241.409,88",
+                    "nome": "MARIA DA GL\u00d3RIA QUEIROZ FERRO, CPF 421811434-04, SALDO A RECEBER DA VENDA DA CASA SITUADA NA RODOVIA AL 101 NORTE NO CONDOM\u00cdNIO OCEAN VIEW EM JACARECICA, MACEI\u00d3-AL"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "11",
+            "composicaoColigacao": "PPS / PP / PSDC / PRP / PR / PSL / PSB / DEM / SD",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404914610000"
+            },
+            "id": "20000000102",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "JUNTOS COM O POVO PELA MELHORIA DE ALAGOAS",
+            "nomeCompleto": "ALEXANDRE TOLEDO",
+            "nascimento": "28/03/1956",
+            "status": "Aguardando julgamento",
+            "codigo": "11",
+            "nomeUrna": "ALEXANDRE TOLEDO",
+            "partido": "PSB"
+        },
+        "20000000203": {
+            "ocupacao": "Engenheiro",
+            "numeroProcesso": "756-58.2014.6.02.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 409.274,44",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=27057&sqCandidato=5321",
+                    "ano": "2008"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/880?x=140492394100020000000203",
+                    "documento": "1 - certidao1404594071394.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/881?x=140492394100020000000203",
+                    "documento": "2 - certidao1404594071394.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/882?x=140492394100020000000203",
+                    "documento": "3 - certidao1404594071395.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/883?x=140492394100020000000203",
+                    "documento": "4 - certidao1404594071395.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/884?x=140492394100020000000203",
+                    "documento": "5 - certidao1404594071396.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/885?x=140492394100020000000203",
+                    "documento": "6 - certidao1404594071396.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/886?x=140492394100020000000203",
+                    "documento": "7 - certidao1404594071397.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/887?x=140492394100020000000203",
+                    "documento": "8 - certidao1404594071397.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/888?x=140492394100020000000203",
+                    "documento": "9 - certidao1404594071398.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/889?x=140492394100020000000203",
+                    "documento": "10 - certidao1404594071398.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000203/idarquivo/890?x=140492394100020000000203",
+                    "documento": "11 - certidao1404594071399.pdf"
+                }
+            ],
+            "naturalidade": "PALMEIRA DOS INDIOS",
+            "cnpj": "20571198000170",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000203",
+            "numeroProtocolo": "99082014",
+            "bens": [
+                {
+                    "valor": "R$ 90.532,92",
+                    "nome": "UM APARTAMENTO SOB N\u00ba 430 DO EDF MACEIO DOUBLE RESERVE FLAT"
+                },
+                {
+                    "valor": "R$ 48.741,52",
+                    "nome": "VEICULO MARCA TOYOTA HILLUX ANO 2013/2014"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "CREDITO JUNTO AO SINDILOJAS PARA FORMA\u00c7\u00c3O DE CAPITAL DA COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS EMPRESARIOS DA REGI\u00c3O METROPOLITANA DO AGRESTE ALAGOANO"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "CREDITO JUNTO A FILHA DO DECLARANTE, LIVIA BARBOSA DE ALMEIDA"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "NUMERARIO EM MEUPODER"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PV / PT do B / PMDB / PROS / PC do B / PSC / PHS / PTB / PSD / PDT / PT",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404923941000"
+            },
+            "id": "20000000203",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "COM O POVO PRA ALAGOAS MUDAR.",
+            "nomeCompleto": "LUCIANO BARBOSA",
+            "nascimento": "13/08/1958",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "LUCIANO BARBOSA",
+            "partido": "PMDB"
+        },
+        "20000000039": {
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "numeroProcesso": "644-89.2014.6.02.0000",
+            "genero": "MASCULINO",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=27855&sqCandidato=6698",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000039/idarquivo/160?x=140508874800020000000039",
+                    "documento": "1 - certidao1404587119032.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000039/idarquivo/161?x=140508874800020000000039",
+                    "documento": "2 - certidao1404587119033.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000039/idarquivo/162?x=140508874800020000000039",
+                    "documento": "3 - certidao1404587119034.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000039/idarquivo/163?x=140508874800020000000039",
+                    "documento": "4 - certidao1404587119034.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000039/idarquivo/164?x=140508874800020000000039",
+                    "documento": "5 - certidao1404587119035.jpg"
+                }
+            ],
+            "naturalidade": "IGREJA NOVA",
+            "cnpj": "20571452000130",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000039",
+            "numeroProtocolo": "97392014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "28",
+            "composicaoColigacao": "PRTB / PPL / PMN",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405088748000"
+            },
+            "id": "20000000039",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "CAMINHANDO COM O POVO",
+            "nomeCompleto": "JAMES",
+            "nascimento": "16/11/1962",
+            "status": "Aguardando julgamento",
+            "codigo": "28",
+            "nomeUrna": "JAMES",
+            "partido": "PRTB"
+        },
+        "20000000409": {
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "numeroProcesso": "964-42.2014.6.02.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 17.000,0",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000409/idarquivo/2325?x=140484435600020000000409",
+                    "documento": "1 - certidao1404602763171.pdf"
+                }
+            ],
+            "naturalidade": "MACEI\u00d3",
+            "cnpj": "20578417000143",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000409",
+            "numeroProtocolo": "101192014",
+            "bens": [
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "CARRO P\u00c1LIO ADVENTURE ANO 2002"
+                },
+                {
+                    "valor": "R$ 9.000,00",
+                    "nome": "CARRO CORSA RETH ANO 2006"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "36",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404844356000"
+            },
+            "id": "20000000409",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PTC",
+            "nomeCompleto": "MARINEIDE MESSIAS",
+            "nascimento": "07/01/1956",
+            "status": "Aguardando julgamento",
+            "codigo": "36",
+            "nomeUrna": "MARINEIDE MESSIAS",
+            "partido": "PTC"
+        },
+        "20000000003": {
+            "ocupacao": "Professor de Ensino Superior",
+            "numeroProcesso": "545-22.2014.6.02.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 106.633,11",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000003/idarquivo/16?x=140491031700020000000003",
+                    "documento": "1 - certidao1404400600040.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000003/idarquivo/17?x=140491031700020000000003",
+                    "documento": "2 - certidao1404400600041.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000003/idarquivo/18?x=140491031700020000000003",
+                    "documento": "3 - certidao1404400600042.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000003/idarquivo/19?x=140491031700020000000003",
+                    "documento": "4 - certidao1404400600042.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000003/idarquivo/20?x=140491031700020000000003",
+                    "documento": "5 - certidao1404400600043.pdf"
+                }
+            ],
+            "naturalidade": "MACEI\u00d3",
+            "cnpj": "20558061000186",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000003",
+            "numeroProtocolo": "95702014",
+            "bens": [
+                {
+                    "valor": "R$ 65.018,11",
+                    "nome": "IM\u00d3VEL RESIDENCIAL NO CONDOM\u00cdNIO VISTA DO VALE (COM M\u00daTUO E ALIENA\u00c7\u00c3O FIDUCI\u00c1RIA EM GARANTIA, CARTA DE CR\u00c9DITO COM RECURSOS DO SBPE NO \u00c2MBITO DO SFH. FINANCIAMENTO COM PRAZO DE 420 MESES."
+                },
+                {
+                    "valor": "R$ 41.615,00",
+                    "nome": "VE\u00cdCULO HONDA FIT EX 2009"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "21",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404910317000"
+            },
+            "id": "20000000003",
+            "enderecoWeb": "www.pcbalagoas.org",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "PCB",
+            "nomeCompleto": "FERNANDO MEDEIROS",
+            "nascimento": "03/06/1972",
+            "status": "Aguardando julgamento",
+            "codigo": "21",
+            "nomeUrna": "FERNANDO MEDEIROS",
+            "partido": "PCB"
+        },
+        "20000000020": {
+            "ocupacao": "T\u00e9cnico de Qu\u00edmica",
+            "numeroProcesso": "550-44.2014.6.02.0000",
+            "genero": "MASCULINO",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AL&sq_cand=10166",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=27855&sqCandidato=5651",
+                    "ano": "2008"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000020/idarquivo/105?x=140491263500020000000020",
+                    "documento": "1 - certidao1404576134276.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000020/idarquivo/106?x=140491263500020000000020",
+                    "documento": "2 - certidao1404576134276.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000020/idarquivo/107?x=140491263500020000000020",
+                    "documento": "3 - certidao1404576134277.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000020/idarquivo/108?x=140491263500020000000020",
+                    "documento": "4 - certidao1404576134277.pdf"
+                }
+            ],
+            "naturalidade": "RECIFE",
+            "cnpj": "20602842000120",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000020",
+            "numeroProtocolo": "96932014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "PSOL / PSTU",
+            "raca": "Preta",
+            "meta": {
+                "lastUpdate": "1404912635000"
+            },
+            "id": "20000000020",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "FRENTE DE ESQUERDA DE ALAGOAS",
+            "nomeCompleto": "PAULO BOB",
+            "nascimento": "19/12/1968",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "PAULO BOB",
+            "partido": "PSTU"
+        },
+        "20000000363": {
+            "ocupacao": "Advogado",
+            "numeroProcesso": "921-08.2014.6.02.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 8.440.902,57",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=AL&sq_cand=10116",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=20000000413&sgUe=AL",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2128?x=140492770400020000000363",
+                    "documento": "1 - certidao1404597108448.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2129?x=140492770400020000000363",
+                    "documento": "2 - certidao1404597108448.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2130?x=140492770400020000000363",
+                    "documento": "3 - certidao1404597108449.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2131?x=140492770400020000000363",
+                    "documento": "4 - certidao1404597108449.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2132?x=140492770400020000000363",
+                    "documento": "5 - certidao1404597108450.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2133?x=140492770400020000000363",
+                    "documento": "6 - certidao1404597108450.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2134?x=140492770400020000000363",
+                    "documento": "7 - certidao1404597108451.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2135?x=140492770400020000000363",
+                    "documento": "8 - certidao1404597108451.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2136?x=140492770400020000000363",
+                    "documento": "9 - certidao1404597108452.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/AL/candidato/20000000363/idarquivo/2137?x=140492770400020000000363",
+                    "documento": "10 - certidao1404597108452.pdf"
+                }
+            ],
+            "naturalidade": "GIRAU DO PONCIANO",
+            "cnpj": "20578471000199",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/AL/candidato/20000000363",
+            "numeroProtocolo": "100732014",
+            "bens": [
+                {
+                    "valor": "R$ 12.694,20",
+                    "nome": "TERRENO MEDINDO 8,5833 HECTARE - DENOMINADA PE. CICERO - GIRAU DO PONCIANO - AL."
+                },
+                {
+                    "valor": "R$ 663,73",
+                    "nome": "LOTE EM GIRAU DO PONCIANO-AL."
+                },
+                {
+                    "valor": "R$ 26.648,90",
+                    "nome": "TERRENO NO LOTEAMENTO ALDEBARAN BETA - LOTE 22 - QDR.P - JARDIM PETROPOLIS - MACEIO-AL."
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "AREA DE TERRA MEDINDO 7,26 HECTARE - MAURILANDIA DO TOCANTINS - TO."
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "AEREA DE TERRA MEDINDO 24,2 HECTARE - SITIO NOVO DO TOCANTINS - TO."
+                },
+                {
+                    "valor": "R$ 4.000,00",
+                    "nome": "TERRA NUA DENOMINADA CHACARA SITIO NOVO - SITIO NOVO DO TOCANTINS-TO."
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "AREA DE TERRA MEDINDO 133,0 HECTARE - ITAGUATINS - TO."
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "AREA DE TERRA MEDINDO 8,0 HECTARE - SITIO NOVO DO TOCANTINS - TO."
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "AREA DE TERRA MEDINDO 8,51 HECTARE - SITIO NOVO DO TOCANTINS - TO."
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "AREA DE TERRA MEDINDO 3.800M\u00b2 - SITIO NOVO DO TOCANTINS - TO."
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "AREA DE TERRA MEDINDO 4,39 HECTARE - SITIO NOVO DO TOCANTINS - TO."
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "AREA DE TERRA MEDINDO 19,44 HECTARE - SITIO NOVO DO TOCANTINS - TO."
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "AREA DE TERRA MEDINDO 1,0 HECTARE - SITIO NOVO DO TOCANTINS - TO."
+                },
+                {
+                    "valor": "R$ 5.961.000,00",
+                    "nome": "9.100 CABECAS DE BOVINOS."
+                },
+                {
+                    "valor": "R$ 2.735,75",
+                    "nome": "SAL\u00c3O PRA\u00c7A GOV.LUIZ CAVALCANTE - GIRAU DO PONCIANO-AL."
+                },
+                {
+                    "valor": "R$ 14.050,00",
+                    "nome": "FAZENDA AGUAS BELAS COM 45 HECTARE - SITIO NOVO DO TOCANTINS-TO."
+                },
+                {
+                    "valor": "R$ 54.775,00",
+                    "nome": "FAZENDA PANTANAL COM 399,81 HECTARE - SITIO NOVO DO TOCANTINS-TO."
+                },
+                {
+                    "valor": "R$ 55.522,13",
+                    "nome": "FAZENDA GOIANA COM 387,2 HECTARE - ITAGUATINS-TO."
+                },
+                {
+                    "valor": "R$ 10.939,35",
+                    "nome": "FAZENDA BOA VISTA COM 25 HECTARE - TRAIPU-AL."
+                },
+                {
+                    "valor": "R$ 16.432,50",
+                    "nome": "FAZENDA TOCANTINS COM 127,07 HECTARE - SITIO NOVO DO TOCANTINS-TO."
+                },
+                {
+                    "valor": "R$ 27.387,50",
+                    "nome": "FAZENDA ALAGOANA COM 248,84 HECTARE - SITIO NOVO DO TOCANTINS-TO."
+                },
+                {
+                    "valor": "R$ 13.673,88",
+                    "nome": "PARQUE ITAMARATI - GIRAU DO PONCIANO - AL."
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "FAZENDA BOA SORTE - MEDINDO 210,37 HECTARE LOCALIZADA NO SITIO NOVO DO TOCANTINS-TO."
+                },
+                {
+                    "valor": "R$ 280.000,00",
+                    "nome": "FAZENDA SONHO VERDE COM 2.737,9386 HECTARE - ITAGUATINS-TO."
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "FAZENDA GOIANA IV COM 56,9119 HECTARE - ITAGUATINS - TO."
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "FAZENDA GOIANA II COM 421,08 HECTARE - ITAGUATINS-TO."
+                },
+                {
+                    "valor": "R$ 2.735,75",
+                    "nome": "CHACARA PARAISO COM 03 HECTARE - GIRAU DO PONCIANO-AL."
+                },
+                {
+                    "valor": "R$ 13.673,88",
+                    "nome": "FAZENDA SERRA GRANDE COM 121 HECTARE - TRAIPU-AL."
+                },
+                {
+                    "valor": "R$ 103.000,00",
+                    "nome": "01 F-4000 - FORD."
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "01 VEICULO LAND ROVER DISCOVERY 4 3.0"
+                },
+                {
+                    "valor": "R$ 59.000,00",
+                    "nome": "01 HR - MARCA HYUNDAI."
+                },
+                {
+                    "valor": "R$ 178.000,00",
+                    "nome": "01 TRATOR - MARCA 6145 JOHN DEERE"
+                },
+                {
+                    "valor": "R$ 116.000,00",
+                    "nome": "01 TRATOR - MARCA 6.110E JOHN DEERE."
+                },
+                {
+                    "valor": "R$ 128.000,00",
+                    "nome": "01 HILUX - MARCA TOYOTA"
+                },
+                {
+                    "valor": "R$ 104.000,00",
+                    "nome": "01 TRATOR - MARCA 6110E - JOHN DEERE"
+                },
+                {
+                    "valor": "R$ 180.000,00",
+                    "nome": "01 TRATOR FD9 - MARCA FIATALLIS."
+                },
+                {
+                    "valor": "R$ 194.870,00",
+                    "nome": "02 TRATORES - MARCA 5085 JOHN DEERE"
+                },
+                {
+                    "valor": "R$ 164.100,00",
+                    "nome": "02 TRATORES - MARCA 5078 - JOHN DEERE."
+                },
+                {
+                    "valor": "R$ 46.500,00",
+                    "nome": "01 DISTRIBUIDORA DE CENTROFUGO."
+                },
+                {
+                    "valor": "R$ 11.500,00",
+                    "nome": "01 GUINCHO AGRICOLA"
+                },
+                {
+                    "valor": "R$ 49.000,00",
+                    "nome": "460 CABE\u00c7AS DE OVINOS"
+                },
+                {
+                    "valor": "R$ 34.000,00",
+                    "nome": "70 CABE\u00c7AS DE EQUINOS"
+                },
+                {
+                    "valor": "R$ 18.000,00",
+                    "nome": "01 GRADE ARADORA."
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "45",
+            "composicaoColigacao": "PSDB / PRB",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404927704000"
+            },
+            "id": "20000000363",
+            "enderecoWeb": "NAO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "UM NOVO JEITO DE FAZER",
+            "nomeCompleto": "GILVAN BARROS",
+            "nascimento": "17/10/1960",
+            "status": "Aguardando julgamento",
+            "codigo": "45",
+            "nomeUrna": "GILVAN BARROS",
+            "partido": "PSDB"
+        }
+    }
+}

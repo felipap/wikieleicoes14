@@ -1,0 +1,323 @@
+{
+    "vicegovernadorCE": {
+        "60000000604": {
+            "ocupacao": "Empres\u00e1rio",
+            "numeroProcesso": "953-02.2014.6.06.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 14.399.525,15",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=15857&sqCandidato=12407",
+                    "ano": "2008"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000604/idarquivo/3147?x=140502425900060000000604",
+                    "documento": "1 - certidao1404594736945.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000604/idarquivo/3148?x=140502425900060000000604",
+                    "documento": "2 - certidao1404594736945.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000604/idarquivo/3149?x=140502425900060000000604",
+                    "documento": "3 - certidao1404594736946.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000604/idarquivo/3150?x=140502425900060000000604",
+                    "documento": "4 - certidao1404594736946.jpeg"
+                }
+            ],
+            "naturalidade": "FORTALEZA",
+            "cnpj": "20577055000176",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/CE/candidato/60000000604",
+            "numeroProtocolo": "259102014",
+            "bens": [
+                {
+                    "valor": "R$ 777.886,06",
+                    "nome": "SITO NA AV. BEIRA MAR. MEIRELES. FORTALEZA/CE"
+                },
+                {
+                    "valor": "R$ 128.000,00",
+                    "nome": "SITUADO EM MAJORL\u00c2NCIA. COLINA DO SOL. ARACATI/CE"
+                },
+                {
+                    "valor": "R$ 19.000,00",
+                    "nome": "NO LUGAR DENOMINADO S\u00c3O JOS\u00c9. VI\u00c7OSA DO CEAR\u00c1/CE"
+                },
+                {
+                    "valor": "R$ 16.000,00",
+                    "nome": "SITO EM MAJORL\u00c2NDIA, LOTEAMENTO COLINA DO SOL. ARACATI-CE"
+                },
+                {
+                    "valor": "R$ 20.810,88",
+                    "nome": "UM LOTE DE TERRA NO LOTEAMENTO JARDIM ACASIA SERRINHA FORTALEZA/CE"
+                },
+                {
+                    "valor": "R$ 76.541,43",
+                    "nome": "QUATRO LOTES DE TERRA NO LOTEAMENTO EGITO ROGATO LIMEIRA SP"
+                },
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "NO MUNIC\u00cdPIO DE ARACATI/CE, EM MAJORL\u00c2NDIA, NO LOTEAMENTO COLINA DO SOL"
+                },
+                {
+                    "valor": "R$ 1.665,03",
+                    "nome": "DOIS LOTES DE TERRA NA CIDADE DE MOSSOR\u00d3-RN"
+                },
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "EM MAJORL\u00c2NDIA EM ARACATI/CE NO LOTEAMENTO COLINA DO SOL."
+                },
+                {
+                    "valor": "R$ 180.000,00",
+                    "nome": "TOYOTA ANO 2012 MODELO 2013 - HILUX SW4"
+                },
+                {
+                    "valor": "R$ 9.728,00",
+                    "nome": "DO CAPITAL SOCIAL DA EMPRESA EMAPE INTEGRA\u00c7\u00c3O AVICOLA INDUSTRIA E COMERCIO LTDA"
+                },
+                {
+                    "valor": "R$ 1.035.111,25",
+                    "nome": "PARTICIPA\u00c7\u00c3O CAPITAL SOCIAL DA EMPRESA NUTRISA NUTRIMENTO AGROPASTORIL S/A"
+                },
+                {
+                    "valor": "R$ 10.092.335,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O NO CAPITAL SOCIAL DA EMRPESA NUTRISA NUTRIMENTO AGROPASTORIL S/A"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "CR\u00c9DITO REFERENTE EMPRESTIMO CONCEDIDO A EVELINE P. DE ARA\u00daJO"
+                },
+                {
+                    "valor": "R$ 519.814,50",
+                    "nome": "CR\u00c9DITO DECORRENTE VENDA DO IM\u00d3VEL SERRA I, PARA TERCEIRA GERA\u00c7\u00c3O NEG\u00d3CIOS IMOBILI\u00c1RIOS LTDA."
+                },
+                {
+                    "valor": "R$ 824.500,00",
+                    "nome": "CR\u00c9DITO REFERENTE VENDA DO IM\u00d3VEL GRANJA S\u00c3O FRANCISCO V, VI E VII PARA TERECEIRA GERA\u00c7\u00c3O NEG\u00d3CIOS IMOBILI\u00c1RIOS LTDA"
+                },
+                {
+                    "valor": "R$ 532.133,00",
+                    "nome": "CR\u00c9DITO REFERENTE EMPRESTIMO CONCEDIDO A FRANCISCO DAS C. ALVES"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PSC / DEM / PSDC / PRP / PSDB / PR / PTN / PPS",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405024259000"
+            },
+            "id": "60000000604",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "CEAR\u00c1 DE TODOS",
+            "nomeCompleto": "ROBERTO PESSOA",
+            "nascimento": "21/05/1943",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "ROBERTO PESSOA",
+            "partido": "PR"
+        },
+        "60000000766": {
+            "ocupacao": "Professor de Ensino Superior",
+            "numeroProcesso": "856-02.2014.6.06.0000",
+            "genero": "FEMININO",
+            "totalBensDeclarados": "R$ 344.240,65",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000766/idarquivo/4206?x=140494006600060000000766",
+                    "documento": "1 - certidao1404598402040.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000766/idarquivo/4207?x=140494006600060000000766",
+                    "documento": "2 - certidao1404598402041.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000766/idarquivo/4208?x=140494006600060000000766",
+                    "documento": "3 - certidao1404598402041.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000766/idarquivo/4209?x=140494006600060000000766",
+                    "documento": "4 - certidao1404598402042.pdf"
+                }
+            ],
+            "naturalidade": "SOBRAL",
+            "cnpj": "20580512000181",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/CE/candidato/60000000766",
+            "numeroProtocolo": "260782014",
+            "bens": [
+                {
+                    "valor": "R$ 230.701,23",
+                    "nome": "APT ADQUIRIDO EM 15/09/2008 NA CIDADE DE FORTALEZA, SITUADO A RUA LIVREIRO EDESIO, 129, APT 900, BAIRRO DIONISIO TORRES. FINANCIADO PELA CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 22.786,86",
+                    "nome": "POUPAN\u00c7A NO BANCO BRADESCO AG SOBRAL, CONTA 11349-2"
+                },
+                {
+                    "valor": "R$ 90.752,56",
+                    "nome": "POUPAN\u00c7A NO BANCO DO BRASIL, AG SOBRAL, CONTA 16114-4"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PRB / PP / PDT / PT / PTB / PSL / PRTB / PHS / PMN / PTC / PV / PEN / PPL / PSD / PC do B / PT do B / SD / PROS",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404940066000"
+            },
+            "id": "60000000766",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PARA O CEARA SEGUIR MUDANDO",
+            "nomeCompleto": "IZOLDA",
+            "nascimento": "09/05/1960",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "IZOLDA",
+            "partido": "PROS"
+        },
+        "60000000418": {
+            "ocupacao": "Trabalhador de Constru\u00e7\u00e3o Civil",
+            "numeroProcesso": "506-14.2014.6.06.0000",
+            "genero": "MASCULINO",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=CE&sq_cand=10241",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=13897&sqCandidato=3016",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=60000000666&sgUe=CE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000418/idarquivo/1944?x=140516901000060000000418",
+                    "documento": "1 - certidao1404592385220.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000418/idarquivo/1945?x=140516901000060000000418",
+                    "documento": "2 - certidao1404592385220.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000418/idarquivo/1946?x=140516901000060000000418",
+                    "documento": "3 - certidao1404592385220.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000418/idarquivo/1947?x=140516901000060000000418",
+                    "documento": "4 - certidao1404592385221.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000418/idarquivo/1948?x=140516901000060000000418",
+                    "documento": "5 - certidao1404592385222.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000418/idarquivo/1949?x=140516901000060000000418",
+                    "documento": "6 - certidao1404592385222.pdf"
+                }
+            ],
+            "naturalidade": "ITAPAGE",
+            "cnpj": "20571671000110",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/CE/candidato/60000000418",
+            "numeroProtocolo": "256712014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino Fundamental incompleto",
+            "numeroUrna": "50",
+            "composicaoColigacao": "PSTU / PCB / PSOL",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405169010000"
+            },
+            "id": "60000000418",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "Frente de Esquerda Socialista",
+            "nomeCompleto": "BENE",
+            "nascimento": "12/03/1967",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "BENE",
+            "partido": "PCB"
+        },
+        "60000000094": {
+            "ocupacao": "Advogado",
+            "numeroProcesso": "29830",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 159.411,58000000002",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=60000000044&sgUe=CE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000094/idarquivo/461?x=140477100400060000000094",
+                    "documento": "1 - certidao1404582987413.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000094/idarquivo/462?x=140477100400060000000094",
+                    "documento": "2 - certidao1404582987413.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000094/idarquivo/463?x=140477100400060000000094",
+                    "documento": "3 - certidao1404582987414.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/CE/candidato/60000000094/idarquivo/464?x=140477100400060000000094",
+                    "documento": "4 - certidao1404582987415.PDF"
+                }
+            ],
+            "naturalidade": "FORTALEZA",
+            "cnpj": "20573033000138",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/CE/candidato/60000000094",
+            "numeroProtocolo": "253242014",
+            "bens": [
+                {
+                    "valor": "R$ 80.411,58",
+                    "nome": "APTO - SITUADO RUA PEREIRA DE MIRANDA 1045 - APTO 1501 - FINANCIADO PELA CONSTRUTORA CONTRATO N 5930031501105"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "ASX 2.0- 2010/2011"
+                },
+                {
+                    "valor": "R$ 9.000,00",
+                    "nome": "90% QUOTAS DE CAPITAL DA EMPRESA BRAXXI CONSULTORIA PROJETOS LIMITADA - CNPJ 11337833000169"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "40",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404771004000"
+            },
+            "id": "60000000094",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSB",
+            "nomeCompleto": "LEONARDO BAYMA",
+            "nascimento": "13/02/1976",
+            "status": "Aguardando julgamento",
+            "codigo": "40",
+            "nomeUrna": "LEONARDO BAYMA",
+            "partido": "PSB"
+        }
+    }
+}

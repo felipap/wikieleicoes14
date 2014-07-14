@@ -1,0 +1,414 @@
+{
+    "senadorPE": {
+        "170000000455": {
+            "suplente": {
+                "numero": "170000000460",
+                "nome": "IVAN RODRIGUES DE MORAIS",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/PE/candidato/170000000460"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405110448000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/PE/candidato/170000000455",
+            "nomeCompleto": "ALBANISE PIRES",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "RECIFE",
+            "genero": "FEMININO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404587534391.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000455/idarquivo/1177?x=1405110448000170000000455"
+                },
+                {
+                    "documento": "2 - certidao1404587534391.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000455/idarquivo/1178?x=1405110448000170000000455"
+                },
+                {
+                    "documento": "3 - certidao1404587534392.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000455/idarquivo/1179?x=1405110448000170000000455"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "637-80.2014.6.17.0000",
+            "codigo": "500",
+            "raca": "Branca",
+            "numeroProtocolo": "425992014",
+            "coligacao": "MOBILIZA\u00c7\u00c3O POR PODER POPULAR",
+            "composicaoColigacao": "PSOL / PMN",
+            "numeroUrna": "500",
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "cnpj": "20571970000154",
+            "limiteGastos": "R$ 350.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "170000000455",
+            "nascimento": "27/09/1966",
+            "nomeUrna": "ALBANISE PIRES",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ]
+        },
+        "170000000015": {
+            "suplente": {
+                "numero": "170000000012",
+                "nome": "M\u00c1RTON FERREIRA DOS SANTOS",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/PE/candidato/170000000012"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405260050000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/PE/candidato/170000000015",
+            "nomeCompleto": "OXIS",
+            "nascimento": "20/07/1954",
+            "naturalidade": "ILHA DE ITAMARACA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 18.500,00",
+                    "nome": "IM\u00d3VEL RESIDENCIAL SITO \u00c0 RUA RECIFE, N\u00ba 43-C, LOTEAMENTO: ITAPO\u00c3, ITAMACAR\u00c1-PE"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "3 - certidao1404570072146.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000015/idarquivo/82?x=1405260050000170000000015"
+                },
+                {
+                    "documento": "4 - certidao1404570072147.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000015/idarquivo/83?x=1405260050000170000000015"
+                }
+            ],
+            "partido": "PCB",
+            "numeroProcesso": "319-97.2014.6.17.0000",
+            "codigo": "211",
+            "raca": "Parda",
+            "numeroProtocolo": "421782014",
+            "coligacao": "PCB",
+            "composicaoColigacao": "",
+            "numeroUrna": "211",
+            "ocupacao": "Aposentado (Exceto Servidor P\u00fablico)",
+            "cnpj": "20573372000114",
+            "limiteGastos": "R$ 100.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "170000000015",
+            "totalBensDeclarados": "R$ 18.500,0",
+            "nomeUrna": "OXIS",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "170000000005": {
+            "suplente": {
+                "numero": "170000000006",
+                "nome": "KELLY CRISTINA SILVA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/PE/candidato/170000000006"
+            },
+            "enderecoWeb": "http://pstupe.org/",
+            "meta": {
+                "lastUpdate": "1405115900000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/PE/candidato/170000000005",
+            "nomeCompleto": "SIMONE FONTANA",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "RECIFE",
+            "genero": "FEMININO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404412701868.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000005/idarquivo/19?x=1405115900000170000000005"
+                },
+                {
+                    "documento": "2 - certidao1404412701869.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000005/idarquivo/20?x=1405115900000170000000005"
+                },
+                {
+                    "documento": "3 - certidao1404412701869.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000005/idarquivo/21?x=1405115900000170000000005"
+                }
+            ],
+            "partido": "PSTU",
+            "numeroProcesso": "308-68.2014.6.17.0000",
+            "codigo": "162",
+            "raca": "Branca",
+            "numeroProtocolo": "418172014",
+            "coligacao": "PSTU",
+            "composicaoColigacao": "",
+            "numeroUrna": "162",
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "cnpj": "20557977000111",
+            "limiteGastos": "R$ 30.000,00",
+            "estadoCivil": "Divorciado(a)",
+            "id": "170000000005",
+            "nascimento": "11/10/1965",
+            "nomeUrna": "SIMONE FONTANA",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=170000000444&sgUe=PE"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ]
+        },
+        "170000000026": {
+            "suplente": {
+                "numero": "170000000027",
+                "nome": "ELIANE RODRIGUES DE ANDRADE FERREIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/PE/candidato/170000000027"
+            },
+            "enderecoWeb": "F.BEZERRACOELHO@GMAIL.COM",
+            "meta": {
+                "lastUpdate": "1405110446000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/PE/candidato/170000000026",
+            "nomeCompleto": "FERNANDO BEZERRA COELHO",
+            "nascimento": "07/12/1957",
+            "naturalidade": "PETROLINA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "CASA NO LOTEAMENTO MEREPE I, IPOJUCA"
+                },
+                {
+                    "valor": "R$ 156.070,94",
+                    "nome": "CASA TERREA, LOTEAMENTO CAMINHO DAS AGUAS, PETROLINA"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "LOTES DE TERRENOS NO CONDOMINIO PRIVE FAZENDA DO MAROTO, GRAVATA"
+                },
+                {
+                    "valor": "R$ 13.879,45",
+                    "nome": "LOTE DE TERRENOS NO LOTEAMENTO CAMINHO DAS AGUAS EM PETROLINA"
+                },
+                {
+                    "valor": "R$ 13.879,45",
+                    "nome": "TERRENO NA RUA 2, BAIRRO DO CANCELAO, PETROLINA"
+                },
+                {
+                    "valor": "R$ 85.801,26",
+                    "nome": "CONSTRUCAO NO BAIRRO DO CACELAO, PETROLINA"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "REFORMA NA CASA TERREA NO LOTEAMENTO CAMINHO DAS AGUAS, PETROLINA"
+                },
+                {
+                    "valor": "R$ 221.269,31",
+                    "nome": "REFORMAS EFETUADAS NA CASA NO LOTEAMENTO MEREPE I, IPOJUCA"
+                },
+                {
+                    "valor": "R$ 144.000,00",
+                    "nome": "AUTOMOVEL HYUNDAY MOD VERACRUZ, ANO FAB 2009 MOD 2010"
+                },
+                {
+                    "valor": "R$ 6.106,94",
+                    "nome": "LINHAS TELEFONICAS"
+                },
+                {
+                    "valor": "R$ 277.000,00",
+                    "nome": "277.000 ACOES ORDINARIAS SUBCRITAS DA EXCELSUS PARTICIPA\u00c7\u00d5ES S.A, EM NOME DO CONJUGUE"
+                },
+                {
+                    "valor": "R$ 3.530,00",
+                    "nome": "3530 ACOES DA QMIR PARTICIPACOES S.A. EM NOME DO DEPENDENTE ANTONIO DE SOUZA LEAO COELHO"
+                },
+                {
+                    "valor": "R$ 32.759,00",
+                    "nome": "32,759 QUOTAS DO POSTO BVM LTDA, EM NOME DOS CONJUGUES"
+                },
+                {
+                    "valor": "R$ 240.000,00",
+                    "nome": "QUOTAS DA MANOA EMPREENDIMENTOS E SERVICOS LTDA, EM NOME DO CONJUGUE"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "1.000 QUOTAS DA APJ EMPRENDIMENTOS LTDA, EM NOME DO CONJUGUE"
+                },
+                {
+                    "valor": "R$ 99,38",
+                    "nome": "CADERNETA DE POUPAN\u00c7A NO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 325.000,00",
+                    "nome": "APLICACAO DE RENDA FIXA BB CDB DI"
+                },
+                {
+                    "valor": "R$ 506.100,00",
+                    "nome": "EXCELSIUS PARTICIPACOES S.A, EM NOME DO CONJUGUE"
+                },
+                {
+                    "valor": "R$ 785,33",
+                    "nome": "CONTA CORRENTE BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 38.550,99",
+                    "nome": "CONTA CORRENTE BANCARIA NO BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "VGBL NO BRASILPREV SEGUROS E PREVIDENCIA S.A, EM NOME DO CONJUGUE"
+                },
+                {
+                    "valor": "R$ 55.903,65",
+                    "nome": "APLICACAO EM FUNDO DE INVESTIMENTO DO BANCO DO BRASIL"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404577993398.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000026/idarquivo/162?x=1405110446000170000000026"
+                },
+                {
+                    "documento": "2 - certidao1404577993398.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000026/idarquivo/163?x=1405110446000170000000026"
+                },
+                {
+                    "documento": "3 - certidao1404577993399.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000026/idarquivo/164?x=1405110446000170000000026"
+                }
+            ],
+            "partido": "PSB",
+            "numeroProcesso": "333-81.2014.6.17.0000",
+            "codigo": "400",
+            "raca": "Branca",
+            "numeroProtocolo": "421962014",
+            "coligacao": "Frente Popular de Pernambuco",
+            "composicaoColigacao": "PMDB / PC do B / PSB / PTC / PRP / PV / PTN / PR / PSD / PPS / PSDB / SD / PPL / DEM / PHS / PSDC / PROS / PP / PEN / PRTB / PSL",
+            "numeroUrna": "400",
+            "ocupacao": "Administrador",
+            "cnpj": "20568926000195",
+            "limiteGastos": "R$ 8.500.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "170000000026",
+            "totalBensDeclarados": "R$ 2.761.735,6999999997",
+            "nomeUrna": "FERNANDO BEZERRA COELHO",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "170000000651": {
+            "suplente": {
+                "numero": "170000000665",
+                "nome": "ISABEL CRISTINA DE OLIVEIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/PE/candidato/170000000665"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405110449000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/PE/candidato/170000000651",
+            "nomeCompleto": "JO\u00c3O PAULO",
+            "nascimento": "30/12/1952",
+            "naturalidade": "OLINDA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 98.247,00",
+                    "nome": "APT. 101  10\u00baANDAR EDEFICIO PANORAMICA TORRE ''B'' LOTEAMENTO PATAMARES QD 167 LT.40"
+                },
+                {
+                    "valor": "R$ 467.559,50",
+                    "nome": "APT. NA AVENIDA BOA VIAGEM N\u00ba6234 APT.801"
+                },
+                {
+                    "valor": "R$ 62.738,44",
+                    "nome": "CONSORCIO DE AUTOMOVEL"
+                },
+                {
+                    "valor": "R$ 132.000,00",
+                    "nome": "VEICULO PAJERO DAKAR PLACA PGH-4126"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "6.00 QUOTAS NA EMPRESA JPLS CNPJ 10.572.795/0001-66"
+                },
+                {
+                    "valor": "R$ 188,31",
+                    "nome": "POUPANCA OURO BB"
+                },
+                {
+                    "valor": "R$ 8.026,35",
+                    "nome": "OUROCAP BB"
+                },
+                {
+                    "valor": "R$ 4.302,65",
+                    "nome": "BANCO DO BRASIL OUROCAP MULTI CHANCE"
+                },
+                {
+                    "valor": "R$ 33.000,00",
+                    "nome": "BB AGRONEGOCIOS"
+                },
+                {
+                    "valor": "R$ 1.767,00",
+                    "nome": "BANCO DO BRASIL OUROCAP TORCIDA"
+                },
+                {
+                    "valor": "R$ 9.438,32",
+                    "nome": "BANCO DO BRASIL OUROCAP ESTILO FLEX"
+                },
+                {
+                    "valor": "R$ 1.589,85",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 149.387,05",
+                    "nome": "PREMIO ACUMULADO EM VGBL BRASILPREV SEGUROS E PREVIDENCIA"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "VGBL - BANCO DO BRASIL"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404594300043.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000651/idarquivo/1952?x=1405110449000170000000651"
+                },
+                {
+                    "documento": "2 - certidao1404594300043.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000651/idarquivo/1953?x=1405110449000170000000651"
+                }
+            ],
+            "partido": "PT",
+            "numeroProcesso": "944-34.2014.6.17.0000",
+            "codigo": "130",
+            "raca": "Parda",
+            "numeroProtocolo": "427932014",
+            "coligacao": "PERNAMBUCO VAI MAIS LONGE",
+            "composicaoColigacao": "PTB / PT / PSC / PDT / PRB / PT do B",
+            "numeroUrna": "130",
+            "ocupacao": "Deputado",
+            "cnpj": "20574088000162",
+            "limiteGastos": "R$ 8.500.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "170000000651",
+            "totalBensDeclarados": "R$ 999.244,47",
+            "nomeUrna": "JO\u00c3O PAULO",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=170000000749&sgUe=PE"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

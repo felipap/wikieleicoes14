@@ -1,0 +1,877 @@
+{
+    "governadorMS": {
+        "120000000282": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1404932902000"
+            },
+            "id": "120000000282",
+            "numeroUrna": "15",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "CASA RESIDENCIAL SITO NA RUA DO ALGODAO N.20, BAIRRO CACHOEIRA EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 1.080.000,00"
+                },
+                {
+                    "nome": "02 CASAS DE ALVENARIA LOCALIZADA NA RUA PERNAMBUCO, N. 693 E 693 FUNDOS, EM CAMPO GRANDE \u00bf MS, OBJETO DA MATRICULA N. 99.723, LIVRO 02, FICHA N. 01, DO 1 CRI DA COMARCA DE CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 52.500,00"
+                },
+                {
+                    "nome": "RESIDENCIA LOCALIZADA NA RUA DA PAZ, N. 638, OBJETO DA MATRICULA N. 26.972, LIVRO, 789, FICHA N. 181, DO 1 CRI DA COMARCA DE CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 212.938,30"
+                },
+                {
+                    "nome": "LOTE Y E LOTE Z NA RUA PADRE JOAO CRIPA, DE CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 251.749,62"
+                },
+                {
+                    "nome": "LOTE SOB O N. 24, Q 02, CHACARA DAS MANSOES, EM CAMPO GRANDE \u00bf MS, OBJETO DA MATRICULA N. 5291, LIVRO 02, FICHA N. 01, DO 1 CRI DA COMARCA DE CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 13.137,43"
+                },
+                {
+                    "nome": "02 LOTES SOB O N. 28 E 29, Q 15, JARDIM PANORAMA, EM CAMPO GRANDE \u00bf MS, OBJETO DA MATRICULA N. 141.191 E 141.192, LIVRO 02, FICHA N. 01, DO 1 CRI DA COMARCA DE CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 1.388,04"
+                },
+                {
+                    "nome": "1/3 DO LOTE DE TERRENO DETERMINADO SOB N. 07 DA QUADRA 435 DO JARDIM NOROESTE EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 666,00"
+                },
+                {
+                    "nome": "UM LOTE DE TERRENO DENOMINADO PARQUE RESIDENCIAL DAMHA I RUA MIGUEL DAMHA, EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 85.120,71"
+                },
+                {
+                    "nome": "1/3 DO LOTE DE TERRENO DETERMINADO N. 04 DA QUADRA 432 DO JARDIM NOROESTE EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 666,00"
+                },
+                {
+                    "nome": "1/3 DO LOTE DE TERRRENO DETERMINADO SOB N.11 DA QUADRA 435 DO JARDIM NOROESTE EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 666,00"
+                },
+                {
+                    "nome": "LOTE DE TERRENO DETERMINADO SOB N.11 DA QUADRA 131 DO JARDIM NOROESTE EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 2.000,00"
+                },
+                {
+                    "nome": "UM LOTE DE TERRENO DENOMINADO PARQUE RESIDENCIAL DAMHA, RUA MIGUEL DAMHA , EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 75.540,13"
+                },
+                {
+                    "nome": "LOTE DE TERRENO DETERMINADO B N.234, 798",
+                    "valor": "R$ 160.000,00"
+                },
+                {
+                    "nome": "UM LOTE DE TERRENO DENOMINADO PARQUE RESIDENCIAL DAMHA I, NA RUA DOS BERIS, EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 74.932,19"
+                },
+                {
+                    "nome": "UM LOTE DE TERRENO, BAIRRO ITANHAGA PARK EM CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 98.856,49"
+                },
+                {
+                    "nome": "LOTE SOB O N. 30, Q 15, JARDIM PANORAMA, EM CAMPO GRANDE \u00bf MS, OBJETO DA MATRICULA N. 144.046, LIVRO 02, FICHA N. 01, DO 1 CRI DA COMARCA DE CAMPO GRANDE \u00bf MS",
+                    "valor": "R$ 762,38"
+                },
+                {
+                    "nome": "UM VEICULO OMEGA 1993",
+                    "valor": "R$ 8.000,00"
+                },
+                {
+                    "nome": "AUTOMOVEL FORD GALAXIE 500, ANO / MODELO 1977/1977",
+                    "valor": "R$ 24.500,00"
+                },
+                {
+                    "nome": "UM VEICULO PUMA ANO 1979",
+                    "valor": "R$ 2.000,00"
+                },
+                {
+                    "nome": "CAMIONETA FORD",
+                    "valor": "R$ 2.000,00"
+                },
+                {
+                    "nome": "02 KOMBI ANO 1995, COR BRANCA",
+                    "valor": "R$ 16.000,00"
+                },
+                {
+                    "nome": "LINHA TELEF\u00d4NICA ADQUIRIDA DA TELERJ EM 1.984",
+                    "valor": "R$ 2.071,71"
+                },
+                {
+                    "nome": "CONTRATO DE AQUISI\u00c7\u00c3O DE 01 LINHA TELEF\u00d4NICA DA CONSIL ENGENHARIA LTDA.",
+                    "valor": "R$ 1.457,11"
+                },
+                {
+                    "nome": "QUOTAS DO CAPITAL SOCIAL COOPUR COOPERATIVA DE UROLOGISTAS DO MS, CNPJ N. 05.669.374/0001-18",
+                    "valor": "R$ 500,00"
+                },
+                {
+                    "nome": "QUOTAS DE CAPITAL NA EMPRESA UNIMED CAMPO GRANDE \u00bf MS, CNPJ N. 03.315.918/0001-18",
+                    "valor": "R$ 9.135,81"
+                },
+                {
+                    "nome": "BRADESCO VIDA & PREVIDENCIA",
+                    "valor": "R$ 69.412,05"
+                },
+                {
+                    "nome": "BANCO SANTANDER S.A",
+                    "valor": "R$ 430,63"
+                },
+                {
+                    "nome": "HSBC BANK BRASIL S.A - BANCO MULTIPLO CNPJ 01.701.201/00011-89, AGENCIA1687, CONTA 35490-20",
+                    "valor": "R$ 331.000,00"
+                },
+                {
+                    "nome": "BANCO DO BRASIL CNPJ 00.000.000/5835-10, AGENCIA 1881-3, CONTA CORRENTE NO 56832-5",
+                    "valor": "R$ 21.580,08"
+                },
+                {
+                    "nome": "BANCO SANTANDERCNPJ 90.400.888/0001-42, CONTA 4518, CONTA CORRENTE NO 000010000559-4",
+                    "valor": "R$ 112.908,85"
+                },
+                {
+                    "nome": "BANCO DO BRASIL CONTA CORRENTE N.56832-5",
+                    "valor": "R$ 16.820,34"
+                },
+                {
+                    "nome": "EM PODER DO DECLARANTE, DINHEIRO EM ESPECIE \u00bf MOEDA NASCIONAL",
+                    "valor": "R$ 100.000,00"
+                },
+                {
+                    "nome": "BANCO SANTANDER CAPITALIZACAO",
+                    "valor": "R$ 30.000,00"
+                },
+                {
+                    "nome": "HSBC EMPRESA DE CAPITALIZACAO BRASIL",
+                    "valor": "R$ 5.833,52"
+                },
+                {
+                    "nome": "CAPITAL CECM DOS MEDICOS E PROFISSIONAIS DA \u00c1REA DE SA\u00daDE, CNPJ N. 73.647.935/0001-38",
+                    "valor": "R$ 36.098,31"
+                },
+                {
+                    "nome": "CECM DOS MEDICOS E PROFISSIONAIS DA AREA DE SAUDE",
+                    "valor": "R$ 8.162,41"
+                }
+            ],
+            "numeroProcesso": "211-09.2014.6.12.0000",
+            "coligacao": "MS CADA VEZ MELHOR",
+            "codigo": "15",
+            "nascimento": "05/09/1961",
+            "totalBensDeclarados": "R$ 2.908.834,11",
+            "enderecoWeb": "www.facebook.com.br/nelsontradfilho",
+            "composicaoColigacao": "PMDB / PSB / PT do B / PSC / PHS / PRB / PRTB / PTN / PEN",
+            "partido": "PMDB",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MS/candidato/120000000282",
+            "cnpj": "20566665000174",
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000282/idarquivo/1698?x=1404932902000120000000282",
+                    "documento": "1 - proposta_governo1404587581669.pdf"
+                }
+            ],
+            "suplente": {
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000281",
+                "numero": "120000000281",
+                "nome": "JANETE SOUZA MORAIS"
+            },
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000282/idarquivo/1699?x=1404932902000120000000282",
+                    "documento": "1 - certidao1404587581669.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000282/idarquivo/1700?x=1404932902000120000000282",
+                    "documento": "2 - certidao1404587581670.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000282/idarquivo/1701?x=1404932902000120000000282",
+                    "documento": "3 - certidao1404587581670.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000282/idarquivo/1702?x=1404932902000120000000282",
+                    "documento": "4 - certidao1404587581671.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000282/idarquivo/1703?x=1404932902000120000000282",
+                    "documento": "5 - certidao1404587581671.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000282/idarquivo/1704?x=1404932902000120000000282",
+                    "documento": "6 - certidao1404587581672.pdf"
+                }
+            ],
+            "limiteGastos": "R$ 30.000.000,00",
+            "nomeUrna": "NELSINHO TRAD",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90514&sqCandidato=524"
+                }
+            ],
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "Grauinstrucao": "Superior completo",
+            "naturalidade": "CAMPO GRANDE",
+            "nomeCompleto": "NELSINHO TRAD",
+            "raca": "Branca",
+            "numeroProtocolo": "204742014",
+            "genero": "MASCULINO"
+        },
+        "120000000022": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1404836813000"
+            },
+            "id": "120000000022",
+            "numeroUrna": "45",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "UM APARTAMENTO N\u00ba 1800, COM VAGA DE GARAGEM 16, 17 E 17-B E BOX N\u00ba 18, DO EDIFICIO STATE GARDEN, JD, DOS ESTADOS, NA CIDADE DE CAMPO GRANDE-MS.",
+                    "valor": "R$ 800.000,00"
+                },
+                {
+                    "nome": "UMA CASA N\u00ba 04, DO CONDOMINIO VILLAGIO SAN MARINO PARK, NA CIDADE DE CAMPO GRANDE-MS, CFE R-1/227471.",
+                    "valor": "R$ 500.000,00"
+                },
+                {
+                    "nome": "LOTES 07 E 08, DA QDA 32, COM 800,00 M2, VILA JUQUITA, NA CIDADE DE MARACAJU-MS, CFE MATRICULA N\u00ba 3995 E 3996.",
+                    "valor": "R$ 100.000,00"
+                },
+                {
+                    "nome": "1/3 DO TERRENO DE 564,0 M2, LOTE 18, DA QDA 17, DO BAIRRO PARAGUAI, NA CIDADE DE MARACAJU-MS, MATRICULA N\u00ba 1099.",
+                    "valor": "R$ 40.000,00"
+                },
+                {
+                    "nome": "DUAS CHACARAS DETERMINADAS PELOS N\u00ba 09 E 10 DO LOTEAMENTO CHACARAS DAS MANSOES, NA CIDADE DE CAMPO GRANDE-MS, CFE MATRICULAS N\u00ba 0315867 E 015868.",
+                    "valor": "R$ 120.000,00"
+                },
+                {
+                    "nome": "UMA AREA DE TERRAS COM 623,00 HA. DEN. FAZENDA MARABA, LOCALIZADA NO MUNICIPIO DE MARACAJU-MS, , CFE MATRICULAS N\u00ba 3224 E 6114.",
+                    "valor": "R$ 6.230.600,00"
+                },
+                {
+                    "nome": "1/8 DE UMA AREA DE TERRAS COM 10,0 HA, DO PESQUEIRO PARAISO DO APA, CABENDO AO DECLARANTE 1,25 HA.",
+                    "valor": "R$ 150.000,00"
+                },
+                {
+                    "nome": "UMA AREA DE TERRAS COM 830,1 HA. DEN. FAZENDA INDIANA, LOCALIZADA NO MUNICIPIO DE MARACAJU-MS, CFE MATRICULA N\u00ba 5098.",
+                    "valor": "R$ 5.810.000,00"
+                },
+                {
+                    "nome": "UMA AREA DE TERRAS COM 1.041,7 HA. DEN. FAZENDA TAQUARUSSU, LOCALIZADA NO MUNICIPIO DE MARACAJU-MS, CFE MATRICULAS N\u00ba 6484, 6654, 6258, 4810 E 6538.",
+                    "valor": "R$ 10.410.200,00"
+                },
+                {
+                    "nome": "UMA AREA DE TERRAS COM 255,8815 HA, DEN, FAZENDA BARREIRINHO, CFE MATRICULA N\u00ba 10048.",
+                    "valor": "R$ 1.200.000,00"
+                },
+                {
+                    "nome": "UM IMOVEL URBANO, SALA 2 DO PREDIO CENTRO EMPRESARIAL RURAL, COM AREA PRIVATIVA DE 79,238571 M2, AREA DE USO 33,3475 M2, TOTALIZANDO UMA AREA DE 112,586071 M2.",
+                    "valor": "R$ 150.000,00"
+                },
+                {
+                    "nome": "BENFEITORIAS FAZENDA INDIANA, SEDE, MANGUEIRO, CASA EMPREGADOS E ETC.",
+                    "valor": "R$ 598.059,00"
+                },
+                {
+                    "nome": "BENFEITORIAS FAZENDA TAQUARUSSU, SEDE, MANGUEIRO, CASA DE EMPREGADOS E ETC.",
+                    "valor": "R$ 1.290.150,00"
+                },
+                {
+                    "nome": "BENFEITORIAS FAZENDA MARABA, SEDE, MANGUEIRO, CASA DE EMPREGADOS E ETC.",
+                    "valor": "R$ 307.500,00"
+                },
+                {
+                    "nome": "UM VEICULO VW SAVEIRO 16 CE CROSS, ANO 2011, MOD. 2012, COR PRETA, CHASSI 9BWLB45UA4CP029982.",
+                    "valor": "R$ 45.313,87"
+                },
+                {
+                    "nome": "UM TRATOR NEW HOLLAND, MOD. TL 85, ANO 2007.",
+                    "valor": "R$ 83.000,00"
+                },
+                {
+                    "nome": "UM CAMINHAO MERCEDES BENZ, ANO 1982.",
+                    "valor": "R$ 54.000,00"
+                },
+                {
+                    "nome": "UMA COLHEITADEIRA JOHN DEERE 9770 STS, ANO 2013, CHASSI ICQ9770AKD0091862.",
+                    "valor": "R$ 1.085.000,00"
+                },
+                {
+                    "nome": "UM VEICULO TOYOTA HILUX CD 4X4 SR MT, COR PRATA, ANO/MOD. 2013, CHASSI 8AJFY22G1D8007148.",
+                    "valor": "R$ 113.000,00"
+                },
+                {
+                    "nome": "UM VEICULO I30 2.0, COR PRATA, ANO 2010, MOD. 2011, CHASSI KMHDC51EABU300329.",
+                    "valor": "R$ 58.000,00"
+                },
+                {
+                    "nome": "UM TRATOR MASSEY FERGUSSON 290, ANO 1989.",
+                    "valor": "R$ 20.000,00"
+                },
+                {
+                    "nome": "UMA PA CARREGADEIRA, MARCA CASE, MOD. W20E, ANO 2012, CHASSI HBZNW20ECCAE02922, EM NOME DE SUA ESPOSA FATIMA ALVES DE SOUZA SILVA.",
+                    "valor": "R$ 290.000,00"
+                },
+                {
+                    "nome": "UMA COLHEITADEIRA JOHN DEERE 1450, ANO 2002, CHASSI 137879-1.",
+                    "valor": "R$ 230.000,00"
+                },
+                {
+                    "nome": "UMA COLHEITADEIRA SLC JOHN DEERE 1185, ANO 2000, CHASSI CQ1185A040725.",
+                    "valor": "R$ 245.000,00"
+                },
+                {
+                    "nome": "UM TRATOR VALTRA MOD. 1380 4X4, ANO 2000, SERIE 13804Y61693.",
+                    "valor": "R$ 75.000,00"
+                },
+                {
+                    "nome": "UM TRATOR FORD 6610, ANO 1988, SERIE EB3114-C.",
+                    "valor": "R$ 15.000,00"
+                },
+                {
+                    "nome": "UM TRATOR CBT 1105, ANO 1977.",
+                    "valor": "R$ 15.000,00"
+                },
+                {
+                    "nome": "UM TRATOR CASE IH MOD. MAGNUM 340, ANO 2012, SERIE MB34C400102.",
+                    "valor": "R$ 400.000,00"
+                },
+                {
+                    "nome": "UM TRATOR VALTRA BH 180 4X4, ANO 2008, SERIE BH180225346.",
+                    "valor": "R$ 165.000,00"
+                },
+                {
+                    "nome": "UM VEICULO TOYOTA HILUX SW4 4X4 SRV, ANO/MOD. 2012, COR BRANCA, CHASSI 8AJYY59G8C6500545. 4X4 SR",
+                    "valor": "R$ 174.000,00"
+                },
+                {
+                    "nome": "UM TRATOR VALTRA MOD. BH180 S 4X4, ANO 2002, SERIE BH184288805.",
+                    "valor": "R$ 140.000,00"
+                },
+                {
+                    "nome": "UMA CARRETA GRANELEIRA MODULADA REBOKE 16000 PLUS, UMA PLAINA AGRICOLA DIANTEIRA PAD-2000, UMA CARRETA TANQUE LAC 12500 E UMA RASPADEIRA AGRICOLA COM CONTROLE REMOTO RACR 3100, TODOS ANO 2012.",
+                    "valor": "R$ 186.615,00"
+                },
+                {
+                    "nome": "UMA EMBUTIDORA DE GRAOS MOD. IGRAN 100, MARCA MARCHER BRASIL, ANO 2010, SERIE 0433/10.",
+                    "valor": "R$ 26.000,00"
+                },
+                {
+                    "nome": "UM CARRETA GRANELEIRA, MOD. TANKER 15000 G2, MARCA JAN, ANO 2008.",
+                    "valor": "R$ 24.500,00"
+                },
+                {
+                    "nome": "DUAS PLANTADEIRAS 5045 9/9 MAX PLUS, MARCA FRANKHAUSER, ANO 2008.",
+                    "valor": "R$ 124.200,00"
+                },
+                {
+                    "nome": "SEMOVENTES BOVINOS 1.313 CABE\u00c7A DE GADO P.O - NO VALOR DE R$ 2.500,00 (DOIS MIL E QUINHENTOS REAIS) POR CABE\u00c7A",
+                    "valor": "R$ 3.282.500,00"
+                },
+                {
+                    "nome": "UMA PLATAFORMA DE MILHO MARCA STARA SFIL 6, MODELO BRAVA 6360, ANO 2011, SERIE 00/0390.",
+                    "valor": "R$ 55.000,00"
+                },
+                {
+                    "nome": "UMA PLATAFORMA DE MILHO BRAVA LIGHT MOD. 5430, COM 11 LINHAS, ANO 2010, SERIE 01/2932.",
+                    "valor": "R$ 56.400,00"
+                },
+                {
+                    "nome": "UMA CARRETA TRANSPORTADORA, COM PLATAFORMA DRAPPER 35 PES, MARCA CARMELO, ANO 2013.",
+                    "valor": "R$ 16.000,00"
+                },
+                {
+                    "nome": "UMA PLATAFORMA DE MILHO JOHN DEERE 205 5 LINHAS.",
+                    "valor": "R$ 25.000,00"
+                },
+                {
+                    "nome": "UM REBOKE AGRICOLA MOD. TANQUE 10000 LTS, MARCA FACHINI, SERIE 161401.",
+                    "valor": "R$ 11.400,00"
+                },
+                {
+                    "nome": "UMA SEMEADORA ADUBADORA REBOCADA, MARCA STARA, MOD. HERCULES 15000, ANO 2013, SERIE 00/0155.",
+                    "valor": "R$ 152.000,00"
+                },
+                {
+                    "nome": "UMA CARRETA GRANELEIRA 8080 TANDEM, ANO 2013.",
+                    "valor": "R$ 80.000,00"
+                },
+                {
+                    "nome": "UMA COLHEDORA DE FORRAGENS JF-192 Z-6 S2 BC COMA, ANO 2010, SERIE 0053 AFBA.",
+                    "valor": "R$ 24.450,00"
+                },
+                {
+                    "nome": "UMA CARRETA AGRICOLA GRANELEIRA MODULADA, MOD. REBOKE 14000 PLUS, MARCA STARA, ANO 2007.",
+                    "valor": "R$ 25.000,00"
+                },
+                {
+                    "nome": "UMA PLANTADEIRA ADUBADEIRA 5045, 11/12, ANO 2012, SERIE 20H0174BC002.",
+                    "valor": "R$ 288.000,00"
+                },
+                {
+                    "nome": "100.000 SACAS DE MILHO , NO VALOR DE R$ 17,00 (DEZESETE REAIS A SACA)",
+                    "valor": "R$ 1.700.000,00"
+                },
+                {
+                    "nome": "UM PULVERIZADOR AGRICOLA, MARCA JACTO, MOD. COLUMBIA CROSS, ANO 1999, SERIE 04148.",
+                    "valor": "R$ 15.000,00"
+                },
+                {
+                    "nome": "UM SISTEMA DE IRRIGACAO POR ASPERSAO, PARA FINS AGRICOLAS.",
+                    "valor": "R$ 20.000,00"
+                },
+                {
+                    "nome": "UMA PLATAFORMA DE MILHO JOHN DEERE 600, 15 LINHAS, ANO 2013, CHASSI 1CQ0615CJD0090344.",
+                    "valor": "R$ 175.000,00"
+                },
+                {
+                    "nome": "COTAS CAPITAL COOAGRI",
+                    "valor": "R$ 66.227,86"
+                },
+                {
+                    "nome": "QUOTAS CAPITAL COOPSEMA",
+                    "valor": "R$ 3.500,00"
+                },
+                {
+                    "nome": "SALDO EM CONTAS BANC\u00c1RIAS",
+                    "valor": "R$ 580.000,00"
+                }
+            ],
+            "numeroProcesso": "424-15.2014.6.12.0000",
+            "coligacao": "NOVO TEMPO",
+            "codigo": "45",
+            "nascimento": "13/05/1963",
+            "totalBensDeclarados": "R$ 37.850.615,730000004",
+            "enderecoWeb": "WWW.REINALDOAZAMBUJA.COM.BR",
+            "composicaoColigacao": "PSDB / DEM / PSD / SD / PPS / PMN",
+            "partido": "PSDB",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MS/candidato/120000000022",
+            "cnpj": "20565984000165",
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000022/idarquivo/68?x=1404836813000120000000022",
+                    "documento": "1 - proposta_governo1404584591615.pdf"
+                }
+            ],
+            "suplente": {
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000023",
+                "numero": "120000000023",
+                "nome": "ROSIANE MODESTO  DE OLIVEIRA"
+            },
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000022/idarquivo/69?x=1404836813000120000000022",
+                    "documento": "1 - certidao1404584591616.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000022/idarquivo/70?x=1404836813000120000000022",
+                    "documento": "2 - certidao1404584591616.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000022/idarquivo/71?x=1404836813000120000000022",
+                    "documento": "3 - certidao1404584591617.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000022/idarquivo/72?x=1404836813000120000000022",
+                    "documento": "4 - certidao1404584591617.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000022/idarquivo/73?x=1404836813000120000000022",
+                    "documento": "5 - certidao1404584591618.pdf"
+                }
+            ],
+            "limiteGastos": "R$ 25.000.000,00",
+            "nomeUrna": "REINALDO AZAMBUJA",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MS&sq_cand=10112"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=120000000023&sgUe=MS"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "ocupacao": "Pecuarista",
+            "Grauinstrucao": "Superior incompleto",
+            "naturalidade": "CAMPO GRANDE",
+            "nomeCompleto": "REINALDO AZAMBUJA",
+            "raca": "Branca",
+            "numeroProtocolo": "202102014",
+            "genero": "MASCULINO"
+        },
+        "120000000486": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1404917139000"
+            },
+            "id": "120000000486",
+            "numeroUrna": "50",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "GM/BLAZER 98/98 PRETA",
+                    "valor": "R$ 15.500,00"
+                }
+            ],
+            "numeroProcesso": "512-53.2014.6.12.0000",
+            "coligacao": "PSOL",
+            "codigo": "50",
+            "nascimento": "11/10/1969",
+            "totalBensDeclarados": "R$ 15.500,0",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "composicaoColigacao": "",
+            "partido": "PSOL",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MS/candidato/120000000486",
+            "cnpj": "20576227000197",
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000486/idarquivo/2693?x=1404917139000120000000486",
+                    "documento": "1 - proposta_governo1404600273761.pdf"
+                }
+            ],
+            "suplente": {
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000482",
+                "numero": "120000000482",
+                "nome": "WALDELY VANELI"
+            },
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000486/idarquivo/2694?x=1404917139000120000000486",
+                    "documento": "1 - certidao1404600273762.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000486/idarquivo/2695?x=1404917139000120000000486",
+                    "documento": "2 - certidao1404600273762.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000486/idarquivo/2696?x=1404917139000120000000486",
+                    "documento": "3 - certidao1404600273763.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000486/idarquivo/2697?x=1404917139000120000000486",
+                    "documento": "4 - certidao1404600273763.pdf"
+                }
+            ],
+            "limiteGastos": "R$ 250.000,00",
+            "nomeUrna": "PROFESSOR SIDNEY MELO",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "Grauinstrucao": "Superior completo",
+            "naturalidade": "GUARULHOS",
+            "nomeCompleto": "PROFESSOR SIDNEY MELO",
+            "raca": "Branca",
+            "numeroProtocolo": "206772014",
+            "genero": "MASCULINO"
+        },
+        "120000000001": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1404935038000"
+            },
+            "id": "120000000001",
+            "numeroUrna": "16",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "1/6 DE UMA CASA NA RUA DOM AQUINO CORREA, N. 2291, MUNIC\u00cdPIO DE CORUMB\u00c1, ADQUIRIDA ATRAV\u00c9S DE DOA\u00c7\u00c3O",
+                    "valor": "R$ 40.286,33"
+                },
+                {
+                    "nome": "1/6 DE UMA CASA NA RUA CARAMURU, N. 1275, MUNIC\u00cdPIO DE S\u00c3O PAULO-SP, ADQUIRIDA ATRAV\u00c9S DE DOA\u00c7\u00c3O",
+                    "valor": "R$ 104.900,00"
+                },
+                {
+                    "nome": "1/6 DE UM LOTE DE TERRENO NA RUA DOM AQUINO CORREA, N. 61, MUNIC\u00cdPIO DE LAD\u00c1RIO/MS, ADQUIRIDO POR MEIO DE DOA\u00c7\u00c3O",
+                    "valor": "R$ 6.000,00"
+                },
+                {
+                    "nome": "1/6 DE UM LOTE DE TERRENO NA RUA DOM AQUINO CORREA, N. 63, MUNIC\u00cdPIO DE LAD\u00c1RIO, ADQUIRIDO POR MEIO DE DOA\u00c7\u00c3O",
+                    "valor": "R$ 6.000,00"
+                },
+                {
+                    "nome": "1/6 DE UM LOTE DE TERRENO NA RUA DOM AQUINO CORREA, N. 59, MUNIC\u00cdPIO DE LAD\u00c1RIO/MS, ADQUIRIDO POR MEIO DE DOA\u00c7\u00c3O",
+                    "valor": "R$ 6.000,00"
+                },
+                {
+                    "nome": "LINHA TELEF\u00d4NICA FIXA N. 67 3232.9541",
+                    "valor": "R$ 200,00"
+                },
+                {
+                    "nome": "LINHA TELEF\u00d4NICA M\u00d3VEL N.67 8423.9541",
+                    "valor": "R$ 100,00"
+                },
+                {
+                    "nome": "LINHA TELEF\u00d4NICA M\u00d3VEL N. 67 9831.6836",
+                    "valor": "R$ 100,00"
+                }
+            ],
+            "numeroProcesso": "194-70.2014.6.12.0000",
+            "coligacao": "PSTU",
+            "codigo": "16",
+            "nascimento": "14/08/1962",
+            "totalBensDeclarados": "R$ 163.586,33000000002",
+            "enderecoWeb": "MARCO ANTONIO OLIVA MONJE",
+            "composicaoColigacao": "",
+            "partido": "PSTU",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MS/candidato/120000000001",
+            "cnpj": "20545348000171",
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000001/idarquivo/3?x=1404935038000120000000001",
+                    "documento": "1 - proposta_governo1404324800890.pdf"
+                }
+            ],
+            "suplente": {
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000002",
+                "numero": "120000000002",
+                "nome": "SU\u00c9L FERRANTI DA SILVA"
+            },
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000001/idarquivo/4?x=1404935038000120000000001",
+                    "documento": "1 - certidao1404324800890.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000001/idarquivo/5?x=1404935038000120000000001",
+                    "documento": "2 - certidao1404324800891.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000001/idarquivo/6?x=1404935038000120000000001",
+                    "documento": "3 - certidao1404324800892.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000001/idarquivo/7?x=1404935038000120000000001",
+                    "documento": "4 - certidao1404324800893.PDF"
+                }
+            ],
+            "limiteGastos": "R$ 161.616,16",
+            "nomeUrna": "PROF. MONJE",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MS&sq_cand=10320"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "ocupacao": "Professor de Ensino Fundamental",
+            "Grauinstrucao": "Superior completo",
+            "naturalidade": "RIO DE JANEIRO",
+            "nomeCompleto": "PROF. MONJE",
+            "raca": "Branca",
+            "numeroProtocolo": "197982014",
+            "genero": "MASCULINO"
+        },
+        "120000000283": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1404921053000"
+            },
+            "id": "120000000283",
+            "numeroUrna": "13",
+            "nacionalidade": "Brasileira nata",
+            "bens": [
+                {
+                    "nome": "APARTAMENTO N.\u00ba 9025 NA AVENIDA TROMPOWSKI, 08, CENTRO, FLORIAN\u00d3POLIS/SC",
+                    "valor": "R$ 106.095,27"
+                },
+                {
+                    "nome": "APARTAMENTO - FLAT",
+                    "valor": "R$ 131.621,94"
+                },
+                {
+                    "nome": "LOTES N.\u00ba 10, 11, 16 E 17, LOTEAMENTO MON\u00c7\u00d5ES AGUAS QUENTES - CALDAS NOVAS/GO",
+                    "valor": "R$ 7.773,01"
+                },
+                {
+                    "nome": "1/3 DA FAZENDA RANCHO DO VALE II",
+                    "valor": "R$ 450.000,00"
+                },
+                {
+                    "nome": "GLEBA DE TERRAS PASTAVEIS NA REGI\u00c3O JACADIGO, EM CORUMB\u00c1/MS, 414 HA, HERAN\u00c7A",
+                    "valor": "R$ 165.861,75"
+                },
+                {
+                    "nome": "MINI COOPER 2011/2012",
+                    "valor": "R$ 27.212,50"
+                },
+                {
+                    "nome": "FORD F250 TROPVAN PLACA ARO 5958",
+                    "valor": "R$ 80.000,00"
+                },
+                {
+                    "nome": "OMEGA FITI PALDI ANO/MOD. 2011",
+                    "valor": "R$ 109.081,96"
+                },
+                {
+                    "nome": "QUOTAS DE CAPITAL DA EMPRESA COMERCIO DE ROUPAS DEMARKA",
+                    "valor": "R$ 1.000,00"
+                },
+                {
+                    "nome": "DEP\u00d3SITO JUDICIAL PARA GARANTIA DE AQUISI\u00c7\u00c3O DE DE NEG\u00d3CIO",
+                    "valor": "R$ 1.772.562,00"
+                },
+                {
+                    "nome": "BANCO ALFA CONTA 002346-9",
+                    "valor": "R$ 2.548,92"
+                },
+                {
+                    "nome": "BANCO DO BRASIL CONTA ESTILO",
+                    "valor": "R$ 39.913,42"
+                },
+                {
+                    "nome": "PAGAMENTOS PARA AQUISI\u00c7\u00c3O TERRAS FAZENDA MARILIA",
+                    "valor": "R$ 493.500,00"
+                }
+            ],
+            "numeroProcesso": "702-16.2014.6.12.0000",
+            "coligacao": "MATO GROSSO DO SUL COM A FOR\u00c7A DE TODOS",
+            "codigo": "13",
+            "nascimento": "08/02/1955",
+            "totalBensDeclarados": "R$ 3.387.170,7699999996",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "composicaoColigacao": "PDT / PT / PSL / PR / PSDC / PV / PROS / PC do B / PTB / PTC / PPL / PRP",
+            "partido": "PT",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MS/candidato/120000000283",
+            "cnpj": "20578125000100",
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000283/idarquivo/1707?x=1404921053000120000000283",
+                    "documento": "1 - proposta_governo1404591511790.pdf"
+                }
+            ],
+            "suplente": {
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000284",
+                "numero": "120000000284",
+                "nome": "LONDRES MACHADO"
+            },
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000283/idarquivo/1708?x=1404921053000120000000283",
+                    "documento": "1 - certidao1404591511791.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000283/idarquivo/1709?x=1404921053000120000000283",
+                    "documento": "2 - certidao1404591511791.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000283/idarquivo/1710?x=1404921053000120000000283",
+                    "documento": "3 - certidao1404591511792.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000283/idarquivo/1711?x=1404921053000120000000283",
+                    "documento": "4 - certidao1404591511792.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000283/idarquivo/1712?x=1404921053000120000000283",
+                    "documento": "5 - certidao1404591511793.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000283/idarquivo/1713?x=1404921053000120000000283",
+                    "documento": "6 - certidao1404591511793.pdf"
+                }
+            ],
+            "limiteGastos": "R$ 28.000.000,00",
+            "nomeUrna": "DELC\u00cdDIO",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MS&sq_cand=10048"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=120000000270&sgUe=MS"
+                }
+            ],
+            "ocupacao": "Senador",
+            "Grauinstrucao": "Superior completo",
+            "naturalidade": "CORUMB\u00c1",
+            "nomeCompleto": "DELC\u00cdDIO",
+            "raca": "Branca",
+            "numeroProtocolo": "204812014",
+            "genero": "MASCULINO"
+        },
+        "120000000439": {
+            "estadoCivil": "Casado(a)",
+            "meta": {
+                "lastUpdate": "1405026712000"
+            },
+            "id": "120000000439",
+            "numeroUrna": "11",
+            "nacionalidade": "Brasileira nata",
+            "numeroProcesso": "393-92.2014.6.12.0000",
+            "coligacao": "PP",
+            "nomeCompleto": "EVANDER VENDRAMINI",
+            "nascimento": "25/01/1964",
+            "composicaoColigacao": "",
+            "enderecoWeb": "governadorevandervendramini.com.br",
+            "codigo": "11",
+            "partido": "PP",
+            "status": "Aguardando julgamento",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/MS/candidato/120000000439",
+            "cnpj": "20576186000139",
+            "suplente": {
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/MS/candidato/120000000441",
+                "numero": "120000000441",
+                "nome": "VIRGINIA MARTA MAGRINI"
+            },
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000439/idarquivo/2468?x=1405026712000120000000439",
+                    "documento": "1 - certidao1404599614716.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000439/idarquivo/2469?x=1405026712000120000000439",
+                    "documento": "2 - certidao1404599614716.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000439/idarquivo/2470?x=1405026712000120000000439",
+                    "documento": "3 - certidao1404599614717.pdf"
+                }
+            ],
+            "limiteGastos": "R$ 11.000.000,00",
+            "nomeUrna": "EVANDER VENDRAMINI",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=90638&sqCandidato=614"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/MS/candidato/120000000439/idarquivo/2467?x=1405026712000120000000439",
+                    "documento": "1 - proposta_governo1404599614715.pdf"
+                }
+            ],
+            "naturalidade": "MONTE APRAZIVEL",
+            "Grauinstrucao": "Superior completo",
+            "raca": "Branca",
+            "numeroProtocolo": "206452014",
+            "genero": "MASCULINO"
+        }
+    }
+}

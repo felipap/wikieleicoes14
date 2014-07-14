@@ -1,0 +1,577 @@
+{
+    "senadorBA": {
+        "50000000177": {
+            "suplente": {
+                "numero": "50000000195",
+                "nome": "JUVENCIO RUY CARDOSO NEVES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/BA/candidato/50000000195"
+            },
+            "enderecoWeb": "www.elianacalmon .com",
+            "meta": {
+                "lastUpdate": "1404679531000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/BA/candidato/50000000177",
+            "nomeCompleto": "ELIANA CALMON",
+            "nascimento": "05/11/1944",
+            "naturalidade": "SALVADOR",
+            "genero": "FEMININO",
+            "bens": [
+                {
+                    "valor": "R$ 1.070.909,75",
+                    "nome": "SITUADO ED. PIEMONTE, BLO J - AP 403 - SQS 212 - BRASILIA"
+                },
+                {
+                    "valor": "R$ 700.000,00",
+                    "nome": "SITUADO RUA MARQUES DE LE\u00c3O, N\u00ba 46 - AP. 95 - ED. OCEANIA - BARRA"
+                },
+                {
+                    "valor": "R$ 300.000,00",
+                    "nome": "BENFEITORIA REALIZADO NO AP. 95 ED. OCEANIA - BARRA"
+                },
+                {
+                    "valor": "R$ 200.000,00",
+                    "nome": "BENFEITORIA REALIZADO NO AP 403 - ED. PIEMONTE, SITUADO BLOCO J -SQS 212 - BRASILIA"
+                },
+                {
+                    "valor": "R$ 64.000,00",
+                    "nome": "KIA MAGENTS PLACA JHF 8709 - ANO/MODELO 2008/2009"
+                },
+                {
+                    "valor": "R$ 273.966,00",
+                    "nome": "CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "EMPRESTIMO CONCEDIDO E, FAVOR DE RENATO ALVES BERNARDO  DA CUNHA"
+                },
+                {
+                    "valor": "R$ 33.616,39",
+                    "nome": "SALDO CONTA CORRENTE - CAIXA ECONOMICA FEDERAL"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404569758349.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000177/idarquivo/1040?x=140467953100050000000177"
+                },
+                {
+                    "documento": "2 - certidao1404569758350.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000177/idarquivo/1041?x=140467953100050000000177"
+                },
+                {
+                    "documento": "3 - certidao1404569758351.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000177/idarquivo/1042?x=140467953100050000000177"
+                },
+                {
+                    "documento": "4 - certidao1404569758352.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000177/idarquivo/1043?x=140467953100050000000177"
+                },
+                {
+                    "documento": "5 - certidao1404569758353.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000177/idarquivo/1044?x=140467953100050000000177"
+                },
+                {
+                    "documento": "6 - certidao1404569758353.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000177/idarquivo/1045?x=140467953100050000000177"
+                },
+                {
+                    "documento": "7 - certidao1404569758354.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000177/idarquivo/1046?x=140467953100050000000177"
+                }
+            ],
+            "partido": "PSB",
+            "numeroProcesso": "366-07.2014.6.05.0000",
+            "codigo": "400",
+            "raca": "Branca",
+            "numeroProtocolo": "362912014",
+            "coligacao": "UM NOVO CAMINHO PARA  A BAHIA",
+            "composicaoColigacao": "PSB / PSL / PPL",
+            "numeroUrna": "400",
+            "ocupacao": "Aposentado (Exceto Servidor P\u00fablico)",
+            "cnpj": "20570100000160",
+            "limiteGastos": "R$ 8.000.000,00",
+            "estadoCivil": "Separado(a) judicialmente",
+            "id": "50000000177",
+            "totalBensDeclarados": "R$ 2.742.492,14",
+            "nomeUrna": "ELIANA CALMON",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "50000000621": {
+            "suplente": {
+                "numero": "50000000623",
+                "nome": "ELIEL LIMA SANTANA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/BA/candidato/50000000623"
+            },
+            "enderecoWeb": "www.geddelsenador150.com.br",
+            "meta": {
+                "lastUpdate": "1404998768000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/BA/candidato/50000000621",
+            "nomeCompleto": "GEDDEL VIEIRA LIMA",
+            "nascimento": "18/03/1959",
+            "naturalidade": "SALVADOR",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 33.333,33",
+                    "nome": "IM\u00d3VEL - 33,33% APTO. N\u00ba 501 ED. MORADA REAL EM ITAPETINGA-BA"
+                },
+                {
+                    "valor": "R$ 155.000,00",
+                    "nome": "IM\u00d3VEL - APTO. N\u00ba901 ED. PEDRA DO VALE EM SALVADOR-BA"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "IM\u00d3VEL - CASA RESIDENCIAL NO COND. PARQUE INTERLAGOS"
+                },
+                {
+                    "valor": "R$ 88.666,66",
+                    "nome": "33,33% FAZENDA TABAJARA II COM 1027 HA, EM ITOROR\u00d3-BA"
+                },
+                {
+                    "valor": "R$ 119.458,80",
+                    "nome": "33,33% FAZENDA SANTA RITA COM 2212 HA, EM ITAPEBI-BA"
+                },
+                {
+                    "valor": "R$ 18.839,33",
+                    "nome": "33,33% FAZENDA TABAJARA COM 149 HA, EM POTIRAGU\u00c1-BA"
+                },
+                {
+                    "valor": "R$ 37.859,49",
+                    "nome": "33,33% FAZENDA ESMERALDA COM 647 HA, EM ITAPETINGA-BA"
+                },
+                {
+                    "valor": "R$ 16.725,77",
+                    "nome": "33,33 FAZENDA TABAJARA BRASILEIRA COM 116 HA, EM POTIRAGU\u00c1-BA"
+                },
+                {
+                    "valor": "R$ 105.305,59",
+                    "nome": "33,33%FAZENDA CA\u00c7APAVA COM 1780 HA, EM IBICU\u00cd-BA"
+                },
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "FAZENDA RIO BONITO COM 544,2HA, EM IBICU\u00cd-BA"
+                },
+                {
+                    "valor": "R$ 4.127,10",
+                    "nome": "33,33% FAZENDA TABAJARA BRASILEIRA COM 28 HA, EM POTIRAGU\u00c1-BA"
+                },
+                {
+                    "valor": "R$ 2.599,99",
+                    "nome": "33,33% FAZENDA TABAJARA BRASILEIRA COM 101 HA, EM POTIRAGU\u00c1-BA"
+                },
+                {
+                    "valor": "R$ 31.659,82",
+                    "nome": "71% FAZENDA RIO BONITO COM 357,5 HA, EM IBICU\u00cd-BA"
+                },
+                {
+                    "valor": "R$ 16.652,33",
+                    "nome": "33,33% FAZENDA PALMEIRAS COM 216 HA, EM ITARANTIM-BA"
+                },
+                {
+                    "valor": "R$ 108.949,16",
+                    "nome": "33,33% FAZENDA VALE DO CARAIM COM 1867 HA, EM MACARANI-BA"
+                },
+                {
+                    "valor": "R$ 142.000,00",
+                    "nome": "AUTOM\u00d3VEL PAJERO 2011 EM NOME DA SUA ESPOSA"
+                },
+                {
+                    "valor": "R$ 169.000,00",
+                    "nome": "AUTOM\u00d3VEL GRAND CHEROKEE 2012"
+                },
+                {
+                    "valor": "R$ 1.073,92",
+                    "nome": "LINHA TELEF\u00d4NICA 3332-3166"
+                },
+                {
+                    "valor": "R$ 291,19",
+                    "nome": "DIREITO USO SERVI\u00c7O M\u00d3VEL CELULAR"
+                },
+                {
+                    "valor": "R$ 25.791,96",
+                    "nome": "470 A\u00c7\u00d5ES PN E 440 ON BRADESCO EM NOME DO FILHO"
+                },
+                {
+                    "valor": "R$ 27.978,42",
+                    "nome": "2908 A\u00c7\u00d5ES ON BRADESCO EM NOME DA FILHA MARIANNA"
+                },
+                {
+                    "valor": "R$ 142,99",
+                    "nome": "16 A\u00c7\u00d5ES ON BRADESCO EM NOME DA FILHA MARIANNA"
+                },
+                {
+                    "valor": "R$ 7.798,33",
+                    "nome": "608 A\u00c7\u00d5ES ON BRADESCO EM NOME DA FILHA JULIANNA"
+                },
+                {
+                    "valor": "R$ 90.000,00",
+                    "nome": "90.000 QUOTAS CAPITAL AL MARE RESTAURANTE"
+                },
+                {
+                    "valor": "R$ 19.980,00",
+                    "nome": "19.980 QUOTAS CAPITAL DA M&A EMPREENDIMENTOS LTDA"
+                },
+                {
+                    "valor": "R$ 8.110,00",
+                    "nome": "1000 COTAS DO POSTO ALAMEDA DA PRAIA"
+                },
+                {
+                    "valor": "R$ 457.934,84",
+                    "nome": "POUPAN\u00c7A BANCO BRADESCO"
+                },
+                {
+                    "valor": "R$ 45.743,70",
+                    "nome": "BRADESCO EM NOME DO FILHO MENOR GEDDEL"
+                },
+                {
+                    "valor": "R$ 84.403,39",
+                    "nome": "BRADESCO EM NOME DA FILHA MENOR JULIANNA"
+                },
+                {
+                    "valor": "R$ 106.093,06",
+                    "nome": "SALDO PRIME PLUS EM NOME DA FILHA MENOR MARIANNA"
+                },
+                {
+                    "valor": "R$ 541.128,25",
+                    "nome": "DEP\u00d3SITO BANC\u00c1RIO-CR\u00c9DITO JUNTO A EMPRESA M&A EMPREENDIMENTOS LTDA"
+                },
+                {
+                    "valor": "R$ 1.248.885,00",
+                    "nome": "APLICA\u00c7\u00c3O DE RENDA FIXA DE CR\u00c9DITO (LCA)"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "BRADESCO PRIVATE FUNDO DE INVESTIMENTO EM A\u00c7\u00d5ES"
+                },
+                {
+                    "valor": "R$ 367.422,25",
+                    "nome": "PRIV. FIRF. RATING BRADESCO"
+                },
+                {
+                    "valor": "R$ 843,87",
+                    "nome": "CR\u00c9DITO JUNTO AO BRADESCO EM NOME DA FILHA MENOR MARIANNA"
+                },
+                {
+                    "valor": "R$ 1.358.918,62",
+                    "nome": "DEP\u00d3SITO C/C BRADESCO"
+                },
+                {
+                    "valor": "R$ 176,44",
+                    "nome": "CR\u00c9DITO JUNTO AO BRADESCO EM NOME DA FILHA MENOR JULIANNA"
+                },
+                {
+                    "valor": "R$ 277,71",
+                    "nome": "CR\u00c9DITO JUNTO AO BRADESCO EM NOME DO FILHO MENOR GEDDEL"
+                },
+                {
+                    "valor": "R$ 3.789,49",
+                    "nome": "SALDO CONTA CORRENTE CAIXA ECON\u00d4MICA"
+                },
+                {
+                    "valor": "R$ 4.163,83",
+                    "nome": "T\u00cdTULO IATE CLUBE DA BAHIA"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404586747651.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000621/idarquivo/3974?x=140499876800050000000621"
+                },
+                {
+                    "documento": "2 - certidao1404586747651.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000621/idarquivo/3975?x=140499876800050000000621"
+                },
+                {
+                    "documento": "3 - certidao1404586747652.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000621/idarquivo/3976?x=140499876800050000000621"
+                },
+                {
+                    "documento": "4 - certidao1404586747653.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000621/idarquivo/3977?x=140499876800050000000621"
+                }
+            ],
+            "partido": "PMDB",
+            "numeroProcesso": "790-49.2014.6.05.0000",
+            "codigo": "150",
+            "raca": "Branca",
+            "numeroProtocolo": "367482014",
+            "coligacao": "UNIDOS PELA BAHIA",
+            "composicaoColigacao": "DEM / PSDB / PMDB / SD / PTN / PROS / PRB / PSC / PTC / PV / PPS / PRP / PT do B / PSDC / PHS",
+            "numeroUrna": "150",
+            "ocupacao": "Empres\u00e1rio",
+            "cnpj": "20565625000108",
+            "limiteGastos": "R$ 28.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "50000000621",
+            "totalBensDeclarados": "R$ 5.971.124,630000001",
+            "nomeUrna": "GEDDEL VIEIRA LIMA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=BA&sq_cand=10719"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=50000000740&sgUe=BA"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "50000000021": {
+            "suplente": {
+                "numero": "50000000044",
+                "nome": "CESAR OLIVEIRA CARNEIRO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/BA/candidato/50000000044"
+            },
+            "enderecoWeb": "www.psol50.org.br",
+            "meta": {
+                "lastUpdate": "1404818832000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/BA/candidato/50000000021",
+            "nomeCompleto": "HAMILTON ASSIS",
+            "nascimento": "19/01/1963",
+            "naturalidade": "SALVADOR",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 33.000,00",
+                    "nome": "AUTOM\u00d3VEL, MODELO SANDERO STEPWAY, RENAULT"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "CADERNETA DE POUPAN\u00c7A NO BRADESCO"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "4 - certidao1404155994179.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000021/idarquivo/110?x=140481883200050000000021"
+                },
+                {
+                    "documento": "3 - certidao1404155994178.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000021/idarquivo/109?x=140481883200050000000021"
+                },
+                {
+                    "documento": "2 - certidao1404155994177.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000021/idarquivo/108?x=140481883200050000000021"
+                },
+                {
+                    "documento": "1 - certidao1404155994176.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000021/idarquivo/107?x=140481883200050000000021"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "182-51.2014.6.05.0000",
+            "codigo": "500",
+            "raca": "Preta",
+            "numeroProtocolo": "351862014",
+            "coligacao": "PSOL",
+            "composicaoColigacao": "",
+            "numeroUrna": "500",
+            "ocupacao": "Servidor P\u00fablico Municipal",
+            "cnpj": "20527478000181",
+            "limiteGastos": "R$ 500.000,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "50000000021",
+            "totalBensDeclarados": "R$ 53.000,0",
+            "nomeUrna": "HAMILTON ASSIS",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=BA&sq_cand=10858"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=280000000020&sgUe=BR"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "50000000403": {
+            "suplente": {
+                "numero": "50000000404",
+                "nome": "ABEL REBOU\u00c7AS S\u00c3O JOS\u00c9",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/BA/candidato/50000000404"
+            },
+            "enderecoWeb": "www.otto555.com.br",
+            "meta": {
+                "lastUpdate": "1404839752000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/BA/candidato/50000000403",
+            "nomeCompleto": "OTTO ALENCAR",
+            "nascimento": "28/08/1947",
+            "naturalidade": "RUY BARBOSA",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 873.494,62",
+                    "nome": "AP 401 EDF. LEV SMARCEVSCKI"
+                },
+                {
+                    "valor": "R$ 328.000,00",
+                    "nome": "LOTE 18, RUA DO ANGU, MATA DE S\u00c3O JO\u00c3O"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "AREA DE TERRA COM 174,2 HA - LAJEDINHO -BA"
+                },
+                {
+                    "valor": "R$ 58.480,00",
+                    "nome": "AREA DE TERRA COM 255HA DENOMINADA ARACAS II  LAJEDINHO - BA"
+                },
+                {
+                    "valor": "R$ 130.000,00",
+                    "nome": "AREA DE TERRA COM 734,4HA - DENOMINADA FAZENDA AMPARO - RUY BARBOSA - BA"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "AREA DE TERRA COM 108,2 HA - DENOMINADA LAGOA GRANCE II - RUY BARBOSA"
+                },
+                {
+                    "valor": "R$ 133.000,00",
+                    "nome": "AREA DE TERRA COM 1076,9 HA DENOMINADA ARACAS I - LAJEDINHO - BA"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "AREA DE TERRA COM 355 HA - DENOMINADA LAGOA GRANDE -LAJEDINHO - BA"
+                },
+                {
+                    "valor": "R$ 118.200,00",
+                    "nome": "FAZENDA TR\u00caS TANQUES, LAJEDINHO-BA, 257 HA"
+                },
+                {
+                    "valor": "R$ 138.000,00",
+                    "nome": "MIT. UTILITARIO ANO 2013"
+                },
+                {
+                    "valor": "R$ 3.314,74",
+                    "nome": "LINHA TELEFONICA"
+                },
+                {
+                    "valor": "R$ 25.214,30",
+                    "nome": "POUPCASH ITAU PERSONNALITE"
+                },
+                {
+                    "valor": "R$ 440.244,31",
+                    "nome": "BRADESCO"
+                },
+                {
+                    "valor": "R$ 30.337,04",
+                    "nome": "CONTA CORRENTE - BANCO BRADESCO"
+                },
+                {
+                    "valor": "R$ 23.280,00",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 10,00",
+                    "nome": "BANCO ITAU"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404573067302.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000403/idarquivo/2645?x=140483975200050000000403"
+                },
+                {
+                    "documento": "2 - certidao1404573067303.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000403/idarquivo/2646?x=140483975200050000000403"
+                },
+                {
+                    "documento": "3 - certidao1404573067303.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000403/idarquivo/2647?x=140483975200050000000403"
+                },
+                {
+                    "documento": "4 - certidao1404573067304.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000403/idarquivo/2648?x=140483975200050000000403"
+                },
+                {
+                    "documento": "5 - certidao1404573067305.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000403/idarquivo/2649?x=140483975200050000000403"
+                }
+            ],
+            "partido": "PSD",
+            "numeroProcesso": "302-94.2014.6.05.0000",
+            "codigo": "555",
+            "raca": "Branca",
+            "numeroProtocolo": "365182014",
+            "coligacao": "PRA BAHIA MUDAR MAIS",
+            "composicaoColigacao": "PT / PP / PSD / PDT / PR / PC do B / PTB / PMN / PT do B / PHS",
+            "numeroUrna": "555",
+            "ocupacao": "M\u00e9dico",
+            "cnpj": "20569672000120",
+            "limiteGastos": "R$ 16.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "50000000403",
+            "totalBensDeclarados": "R$ 2.481.575,0100000002",
+            "nomeUrna": "OTTO ALENCAR",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=50000000915&sgUe=BA"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "50000000885": {
+            "suplente": {
+                "numero": "50000000949",
+                "nome": "ADSON GOMES MIRANDA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/BA/candidato/50000000949"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405255476000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/BA/candidato/50000000885",
+            "nomeCompleto": "IDALBA MARINS",
+            "naturalidade": "SALVADOR",
+            "genero": "FEMININO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404683094907.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000885/idarquivo/4831?x=140525547600050000000885"
+                },
+                {
+                    "documento": "2 - certidao1404683094908.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000885/idarquivo/4832?x=140525547600050000000885"
+                },
+                {
+                    "documento": "3 - certidao1404683094908.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000885/idarquivo/4833?x=140525547600050000000885"
+                }
+            ],
+            "partido": "PEN",
+            "numeroProcesso": "884-94.2014.6.05.0000",
+            "codigo": "511",
+            "raca": "Branca",
+            "numeroProtocolo": "370622014",
+            "coligacao": "POR UMA BAHIA LIVRE E JUSTA",
+            "composicaoColigacao": "PRTB / PEN",
+            "numeroUrna": "511",
+            "ocupacao": "Aposentado (Exceto Servidor P\u00fablico)",
+            "cnpj": "20589911000103",
+            "limiteGastos": "R$ 0,00",
+            "estadoCivil": "Divorciado(a)",
+            "id": "50000000885",
+            "nascimento": "01/09/1959",
+            "nomeUrna": "IDALBA MARINS",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

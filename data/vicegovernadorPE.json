@@ -1,0 +1,407 @@
+{
+    "vicegovernadorPE": {
+        "170000000014": {
+            "ocupacao": "Servidor P\u00fablico Civil Aposentado",
+            "numeroProcesso": "317-30.2014.6.17.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 520.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=170000000682&sgUe=PE",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000014/idarquivo/73?x=1405259587000170000000014",
+                    "documento": "1 - certidao1404570072141.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000014/idarquivo/74?x=1405259587000170000000014",
+                    "documento": "2 - certidao1404570072141.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000014/idarquivo/75?x=1405259587000170000000014",
+                    "documento": "3 - certidao1404570072142.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000014/idarquivo/76?x=1405259587000170000000014",
+                    "documento": "4 - certidao1404570072143.jpg"
+                }
+            ],
+            "naturalidade": "RECIFE",
+            "cnpj": "20568826000169",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PE/candidato/170000000014",
+            "numeroProtocolo": "421762014",
+            "bens": [
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "IM\u00d3VEL DE 130M\u00b2"
+                },
+                {
+                    "valor": "R$ 20.000,00",
+                    "nome": "AUTOM\u00d3VEL FIAT UNO 2012"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "21",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405259587000"
+            },
+            "id": "170000000014",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PCB",
+            "nomeCompleto": "DELIO MENDES",
+            "nascimento": "14/03/1940",
+            "status": "Aguardando julgamento",
+            "codigo": "21",
+            "nomeUrna": "DELIO MENDES",
+            "partido": "PCB"
+        },
+        "170000000452": {
+            "ocupacao": "Advogado",
+            "numeroProcesso": "636-95.2014.6.17.0000",
+            "genero": "FEMININO",
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000452/idarquivo/1165?x=1405110448000170000000452",
+                    "documento": "1 - certidao1404587534385.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000452/idarquivo/1166?x=1405110448000170000000452",
+                    "documento": "2 - certidao1404587534385.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000452/idarquivo/1167?x=1405110448000170000000452",
+                    "documento": "3 - certidao1404587534386.pdf"
+                }
+            ],
+            "naturalidade": "RECIFE",
+            "cnpj": "20569516000169",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PE/candidato/170000000452",
+            "numeroProtocolo": "425982014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "PSOL / PMN",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405110448000"
+            },
+            "id": "170000000452",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "MOBILIZA\u00c7\u00c3O POR PODER POPULAR",
+            "nomeCompleto": "VIVIANE BENEVIDES CRUZ",
+            "nascimento": "11/04/1983",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "VIVIANE BENEVIDES CRUZ",
+            "partido": "PMN"
+        },
+        "170000000010": {
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "numeroProcesso": "305-16.2014.6.17.0000",
+            "genero": "FEMININO",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PE&sq_cand=10122",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=25313&sqCandidato=3907",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=170000000442&sgUe=PE",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000010/idarquivo/40?x=1405115593000170000000010",
+                    "documento": "1 - certidao1404412701910.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000010/idarquivo/41?x=1405115593000170000000010",
+                    "documento": "2 - certidao1404412701911.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000010/idarquivo/42?x=1405115593000170000000010",
+                    "documento": "3 - certidao1404412701912.pdf"
+                }
+            ],
+            "naturalidade": "RECIFE",
+            "cnpj": "20557905000174",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PE/candidato/170000000010",
+            "numeroProtocolo": "418162014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "16",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405115593000"
+            },
+            "id": "170000000010",
+            "enderecoWeb": "http://pstupe.org/",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "PSTU",
+            "nomeCompleto": "KATIA TELLES",
+            "nascimento": "14/08/1955",
+            "status": "Aguardando julgamento",
+            "codigo": "16",
+            "nomeUrna": "KATIA TELLES",
+            "partido": "PSTU"
+        },
+        "170000000718": {
+            "ocupacao": "Marinheiro Civil, Canoeiro, Embarcado e Assemelhados",
+            "numeroProcesso": "1035-27.2014.6.17.0000",
+            "genero": "MASCULINO",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "RECIFE",
+            "cnpj": "N\u00c3O INFORMADO",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PE/candidato/170000000718",
+            "numeroProtocolo": "429252014",
+            "limiteGastos": "",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "29",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405110450000"
+            },
+            "id": "170000000718",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PCO",
+            "nomeCompleto": "SILVIO SANTOS",
+            "nascimento": "07/10/1972",
+            "status": "Aguardando julgamento",
+            "codigo": "29",
+            "nomeUrna": "SILVIO SANTOS",
+            "partido": "PCO"
+        },
+        "170000000599": {
+            "ocupacao": "Outros",
+            "numeroProcesso": "942-64.2014.6.17.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 267.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PE&sq_cand=10553",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=24570&sqCandidato=12391",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=170000000764&sgUe=PE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000599/idarquivo/1742?x=1405110449000170000000599",
+                    "documento": "1 - certidao1404594299934.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000599/idarquivo/1743?x=1405110449000170000000599",
+                    "documento": "2 - certidao1404594299935.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000599/idarquivo/1744?x=1405110449000170000000599",
+                    "documento": "3 - certidao1404594299935.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000599/idarquivo/1745?x=1405110449000170000000599",
+                    "documento": "4 - certidao1404594299936.pdf"
+                }
+            ],
+            "naturalidade": "RIO DE JANEIRO",
+            "cnpj": "20574142000170",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PE/candidato/170000000599",
+            "numeroProtocolo": "427912014",
+            "bens": [
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "APARTMENTO 202 NO EDIFICIO BARAO DO RIO BRANCO RUA ARTHUR WANDERLEY N\u00b045, CIDADE UNIVERSITARIA RECIFE. PE, SOB USUFRUTO VITALICIO EM FUN\u00c7AO DE SENTE\u00c7A JUDICIAL DE DIVORCIO R$ 100.000,00"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "LOTE DE 12X40 NO LOTEAMENO PRIVE VILA VELHA NO MUNICIPIO DE ITAMARACA PE R$ 50.000,00"
+                },
+                {
+                    "valor": "R$ 42.000,00",
+                    "nome": "VEICULO FIAT/PALIO ESSENCE 1.6, COR PRATA 2012/2013, PLACA PFG 9797 R$ 42.000,00"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "VEICULO KOMBI, BRANCA, 1997, PLACA KDE 3006, R$ 5.000,00"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "CONTA POUPAN\u00c7A CAIXA ECONOMICA FEDERAL AG. 2223 OP:013 C/P:627087-5 R$ 70.000,00"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "14",
+            "composicaoColigacao": "PTB / PT / PSC / PDT / PRB / PT do B",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405110449000"
+            },
+            "id": "170000000599",
+            "enderecoWeb": "WWW.PAULORUBEM.COM.BR",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "PERNAMBUCO VAI MAIS LONGE",
+            "nomeCompleto": "PAULO RUBEM",
+            "nascimento": "17/07/1955",
+            "status": "Aguardando julgamento",
+            "codigo": "14",
+            "nomeUrna": "PAULO RUBEM",
+            "partido": "PDT"
+        },
+        "170000000025": {
+            "ocupacao": "Deputado",
+            "numeroProcesso": "331-14.2014.6.17.0000",
+            "genero": "MASCULINO",
+            "totalBensDeclarados": "R$ 549.726,28",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PE&sq_cand=10311",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=25313&sqCandidato=1314",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=170000000192&sgUe=PE",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000025/idarquivo/157?x=1405110446000170000000025",
+                    "documento": "1 - certidao1404577993395.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000025/idarquivo/158?x=1405110446000170000000025",
+                    "documento": "2 - certidao1404577993395.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000025/idarquivo/159?x=1405110446000170000000025",
+                    "documento": "3 - certidao1404577993396.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PE/candidato/170000000025/idarquivo/160?x=1405110446000170000000025",
+                    "documento": "4 - certidao1404577993396.pdf"
+                }
+            ],
+            "naturalidade": "RECIFE",
+            "cnpj": "20571974000132",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PE/candidato/170000000025",
+            "numeroProtocolo": "421942014",
+            "bens": [
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "50% DO APARTAMENTO, 201 DO EDIFICIO NOSSA SENHORA DO CARMO DE COPACABANA, BOA VIAGEM"
+                },
+                {
+                    "valor": "R$ 85.000,00",
+                    "nome": "CASA EDIFICADA NO LOTE 7, QUADRA 12, LOT. PRAIA DE ENSEADINHA, IPOJUCA"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "50% DE 2 LOTES DE TERRENO URBANO, SOB OS N\u00ba 1 E 2, DA QD E, DO CONDOMINIO VILA DAS ACACIAS, GRAVATA PE"
+                },
+                {
+                    "valor": "R$ 46.300,00",
+                    "nome": "AUTOMOVEL, VOLKSWAGEN, VW FOX 1.6 PRIME GII, ANO 2010 MODELO 2011 PLACA PFQ 7929"
+                },
+                {
+                    "valor": "R$ 56.990,00",
+                    "nome": "CAMINHONETA FORD, ECOSPORT 1.6, MIS, ANO 2012, MOD 2013, PLACA PEG 4750"
+                },
+                {
+                    "valor": "R$ 87.661,28",
+                    "nome": "BTG PACTUAL ASSET MANAGEMENT S/A, CNPJ: 29650082/0001, BTG PACTUAL MULTI FI"
+                },
+                {
+                    "valor": "R$ 164,10",
+                    "nome": "WESTERN ASSET MANAGEMENT COMPANY FUNDO DE INVESTIMENTO CNPJ: 074372410001-41"
+                },
+                {
+                    "valor": "R$ 10.295,75",
+                    "nome": "BANCO DO BRASIL CP ESTILO"
+                },
+                {
+                    "valor": "R$ 62.500,00",
+                    "nome": "BANCO DO BRASIL IND. ESTILO"
+                },
+                {
+                    "valor": "R$ 298,49",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 3.811,28",
+                    "nome": "BANCO DO BRASIL CONTA CORRENTE ESTILO"
+                },
+                {
+                    "valor": "R$ 4.914,26",
+                    "nome": "BANCO CITIBANK S/A CONTA CORRENTE"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "DINHEIRO EM ESPECIE"
+                },
+                {
+                    "valor": "R$ 1.791,12",
+                    "nome": "WESTERN ASSET MANAGEMENT COMPANY. LM MULT. ADV TOP. CNPJ: 07437241/0001-41"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "CITIBANK DTVM S/A, CNPJ: 33868597/000140"
+                }
+            ],
+            "limiteGastos": "",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "40",
+            "composicaoColigacao": "PMDB / PC do B / PSB / PTC / PRP / PV / PTN / PR / PSD / PPS / PSDB / SD / PPL / DEM / PHS / PSDC / PROS / PP / PEN / PRTB / PSL",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405110446000"
+            },
+            "id": "170000000025",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "Frente Popular de Pernambuco",
+            "nomeCompleto": "RAUL HENRY",
+            "nascimento": "06/06/1964",
+            "status": "Aguardando julgamento",
+            "codigo": "40",
+            "nomeUrna": "RAUL HENRY",
+            "partido": "PMDB"
+        }
+    }
+}

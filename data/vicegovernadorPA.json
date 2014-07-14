@@ -1,0 +1,474 @@
+{
+    "vicegovernadorPA": {
+        "140000000829": {
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PA/candidato/140000000829",
+            "composicaoColigacao": "PSDB / PSD / PSB / PP / SD / PRB / PSC / PTB / PPS / PEN / PMN / PTC / PSDC / PT do B / PRP",
+            "ocupacao": "Deputado",
+            "numeroUrna": "45",
+            "nomeCompleto": "ZEQUINHA MARINHO",
+            "nacionalidade": "Brasileira nata",
+            "numeroProcesso": "500-82.2014.6.14.0000",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "coligacao": "JUNTOS COM O POVO",
+            "codigo": "45",
+            "nascimento": "18/09/1959",
+            "totalBensDeclarados": "R$ 474.000,0",
+            "meta": {
+                "lastUpdate": "1404760465000"
+            },
+            "Grauinstrucao": "Superior completo",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento",
+            "bens": [
+                {
+                    "valor": "R$ 72.000,00",
+                    "nome": "RESIDENCIAL, LOCALIZADA NA AVENIDA INDEPENDENTE NORBERTO LIMA, SETOR ARAGUAIA, SUB URBANO, COM AREA DE 5.511M\u00b2 EM CONCEI\u00c7\u00c3O DO ARAGUAIA"
+                },
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "RESIDENCIAL, LOCALIZADA NA AV. YAMADA, CONDOMINIO JARDIM ESPANHA, RUA BIOBAO, QUADRA I, LOTE 07, TAPAN\u00c3, BEL\u00c9M"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "IMOVEL URBANO LOCALIZADO NA AVENIDA JK, SETOR 10, LOTE 22, QUADRA 7, EM CONCEI\u00c7\u00c3O DO ARAGUAIA"
+                },
+                {
+                    "valor": "R$ 90.000,00",
+                    "nome": "L200, TRITON, MODELO 2012/2013 FINANCIADO"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "FIAT UNO MILE FIRE FLEX"
+                }
+            ],
+            "cnpj": "20580324000153",
+            "genero": "MASCULINO",
+            "nomeUrna": "ZEQUINHA MARINHO",
+            "raca": "Branca",
+            "naturalidade": "ARAGUACEMA",
+            "numeroProtocolo": "215112014",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PA&sq_cand=10481"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=140000000682&sgUe=PA"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404599109987.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000829/idarquivo/3938?x=1404760465000140000000829"
+                },
+                {
+                    "documento": "2 - certidao1404599109988.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000829/idarquivo/3939?x=1404760465000140000000829"
+                },
+                {
+                    "documento": "3 - certidao1404599109988.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000829/idarquivo/3940?x=1404760465000140000000829"
+                },
+                {
+                    "documento": "4 - certidao1404599109989.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000829/idarquivo/3941?x=1404760465000140000000829"
+                },
+                {
+                    "documento": "5 - certidao1404599109989.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000829/idarquivo/3942?x=1404760465000140000000829"
+                },
+                {
+                    "documento": "6 - certidao1404599109990.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000829/idarquivo/3943?x=1404760465000140000000829"
+                },
+                {
+                    "documento": "7 - certidao1404599109990.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000829/idarquivo/3944?x=1404760465000140000000829"
+                },
+                {
+                    "documento": "8 - certidao1404599109991.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000829/idarquivo/3945?x=1404760465000140000000829"
+                }
+            ],
+            "partido": "PSC",
+            "id": "140000000829",
+            "limiteGastos": ""
+        },
+        "140000000090": {
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PA/candidato/140000000090",
+            "composicaoColigacao": "PSOL / PSTU",
+            "ocupacao": "Servidor P\u00fablico Municipal",
+            "numeroUrna": "50",
+            "nomeCompleto": "BENEDITA DO AMARAL",
+            "nacionalidade": "Brasileira nata",
+            "numeroProcesso": "208-97.2014.6.14.0000",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "coligacao": "FRENTE DE ESQUERDA - MUDAN\u00c7A PRA VALER",
+            "codigo": "50",
+            "nascimento": "15/09/1954",
+            "totalBensDeclarados": "R$ 70.000,0",
+            "meta": {
+                "lastUpdate": "1405103304000"
+            },
+            "Grauinstrucao": "Superior completo",
+            "estadoCivil": "Solteiro(a)",
+            "status": "Aguardando julgamento",
+            "bens": [
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "IM\u00d3VEL NO CJ TAPAJ\u00d3S, 50 M\u00b2, DOIS QUARTOS, 1 BANHEIRO, SALA E COZINHA"
+                }
+            ],
+            "cnpj": "20565458000103",
+            "genero": "FEMININO",
+            "nomeUrna": "BENEDITA DO AMARAL",
+            "raca": "Preta",
+            "naturalidade": "MOJU",
+            "numeroProtocolo": "207322014",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PA&sq_cand=10013"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=04278&sqCandidato=15241"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404579120539.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000090/idarquivo/479?x=1405103304000140000000090"
+                },
+                {
+                    "documento": "2 - certidao1404579120539.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000090/idarquivo/480?x=1405103304000140000000090"
+                },
+                {
+                    "documento": "3 - certidao1404579120540.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000090/idarquivo/481?x=1405103304000140000000090"
+                },
+                {
+                    "documento": "4 - certidao1404579120541.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000090/idarquivo/482?x=1405103304000140000000090"
+                },
+                {
+                    "documento": "5 - certidao1404579120541.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000090/idarquivo/483?x=1405103304000140000000090"
+                },
+                {
+                    "documento": "6 - certidao1404579120542.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000090/idarquivo/484?x=1405103304000140000000090"
+                }
+            ],
+            "partido": "PSTU",
+            "id": "140000000090",
+            "limiteGastos": ""
+        },
+        "140000001018": {
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PA/candidato/140000001018",
+            "composicaoColigacao": "",
+            "ocupacao": "Policial Militar",
+            "numeroUrna": "28",
+            "nomeCompleto": "MAJOR VASCONCELOS",
+            "nacionalidade": "Brasileira nata",
+            "numeroProcesso": "548-41.2014.6.14.0000",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "coligacao": "PRTB",
+            "codigo": "28",
+            "nascimento": "27/02/1973",
+            "totalBensDeclarados": "R$ 110.000,0",
+            "meta": {
+                "lastUpdate": "1404918461000"
+            },
+            "Grauinstrucao": "Superior completo",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento",
+            "bens": [
+                {
+                    "valor": "R$ 110.000,00",
+                    "nome": "APARTAMENTO N\u00ba 104, NO RESIDENCIAL PRISCILAS GARDEN EM ANANINDEUA-PA, FINANCIADO  EM 20 ANOS PELA CEF"
+                }
+            ],
+            "cnpj": "20575432000138",
+            "genero": "MASCULINO",
+            "nomeUrna": "MAJOR VASCONCELOS",
+            "raca": "Parda",
+            "naturalidade": "BEL\u00c9M",
+            "numeroProtocolo": "217082014",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404602977365.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000001018/idarquivo/4956?x=1404918461000140000001018"
+                },
+                {
+                    "documento": "2 - certidao1404602977365.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000001018/idarquivo/4957?x=1404918461000140000001018"
+                },
+                {
+                    "documento": "3 - certidao1404602977365.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000001018/idarquivo/4958?x=1404918461000140000001018"
+                }
+            ],
+            "partido": "PRTB",
+            "id": "140000001018",
+            "limiteGastos": ""
+        },
+        "140000001044": {
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PA/candidato/140000001044",
+            "composicaoColigacao": "",
+            "ocupacao": "Servidor P\u00fablico Municipal",
+            "numeroUrna": "21",
+            "nomeCompleto": "LUIS MENEZES",
+            "nacionalidade": "Brasileira nata",
+            "numeroProcesso": "441-94.2014.6.14.0000",
+            "enderecoWeb": "pcb.org.br",
+            "coligacao": "PCB",
+            "codigo": "21",
+            "nascimento": "08/05/1966",
+            "totalBensDeclarados": "R$ 25.000,0",
+            "meta": {
+                "lastUpdate": "1404917730000"
+            },
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento",
+            "bens": [
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "ALVENARIA"
+                }
+            ],
+            "cnpj": "20578532000118",
+            "genero": "MASCULINO",
+            "nomeUrna": "LUIS MENEZES",
+            "raca": "Parda",
+            "naturalidade": "BELEM",
+            "numeroProtocolo": "217192014",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404674394071.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000001044/idarquivo/5014?x=1404917730000140000001044"
+                },
+                {
+                    "documento": "2 - certidao1404674394072.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000001044/idarquivo/5015?x=1404917730000140000001044"
+                }
+            ],
+            "partido": "PCB",
+            "id": "140000001044",
+            "limiteGastos": ""
+        },
+        "140000000469": {
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PA/candidato/140000000469",
+            "composicaoColigacao": "PMDB / PT / DEM / PR / PDT / PROS / PHS / PC do B / PSL / PPL / PTN",
+            "ocupacao": "Deputado",
+            "numeroUrna": "15",
+            "nomeCompleto": "LIRA MAIA",
+            "nacionalidade": "Brasileira nata",
+            "numeroProcesso": "1027-34.2014.6.14.0000",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "coligacao": "TODOS PELO PAR\u00c1",
+            "codigo": "15",
+            "nascimento": "01/09/1952",
+            "totalBensDeclarados": "R$ 967.728,9199999999",
+            "meta": {
+                "lastUpdate": "1404760464000"
+            },
+            "Grauinstrucao": "Superior completo",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento",
+            "bens": [
+                {
+                    "valor": "R$ 336.751,75",
+                    "nome": "APARTAMENTO EM BEL\u00c9M"
+                },
+                {
+                    "valor": "R$ 11.333,87",
+                    "nome": "CASA COHAB QUITADA"
+                },
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "ZONA RURAL COLONIA CIPOAL"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "RURAL CIPOAL"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "RURAL GLEBA MOJU\u00cd DOS CAMPOS"
+                },
+                {
+                    "valor": "R$ 32.000,00",
+                    "nome": "RURAL GLEBA NO PROJETO INTEGRADO DE ITAITUBA"
+                },
+                {
+                    "valor": "R$ 13.000,00",
+                    "nome": "RURAL COLONIA CIPOAL"
+                },
+                {
+                    "valor": "R$ 1.133,38",
+                    "nome": "RURAL NA COLONIA CIPOAL"
+                },
+                {
+                    "valor": "R$ 5.395,94",
+                    "nome": "RURAL NA COLONIA LIMOAL"
+                },
+                {
+                    "valor": "R$ 11.000,00",
+                    "nome": "RURAL COLONIA LIMOAL"
+                },
+                {
+                    "valor": "R$ 113.200,00",
+                    "nome": "TOYOTA SW4 2013"
+                },
+                {
+                    "valor": "R$ 35.793,42",
+                    "nome": "RANGER PLACA JUA 9822"
+                },
+                {
+                    "valor": "R$ 34.000,00",
+                    "nome": "CARRO MODELO S10 ANO 1998"
+                },
+                {
+                    "valor": "R$ 82.120,56",
+                    "nome": "CAIXA ECONOMICA FEDERAL"
+                }
+            ],
+            "cnpj": "20573959000123",
+            "genero": "MASCULINO",
+            "nomeUrna": "LIRA MAIA",
+            "raca": "Branca",
+            "naturalidade": "SANTAR\u00c9M",
+            "numeroProtocolo": "211412014",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PA&sq_cand=10484"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=05355&sqCandidato=7514"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=140000000442&sgUe=PA"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404594318315.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2237?x=1404760464000140000000469"
+                },
+                {
+                    "documento": "2 - certidao1404594318315.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2238?x=1404760464000140000000469"
+                },
+                {
+                    "documento": "3 - certidao1404594318316.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2239?x=1404760464000140000000469"
+                },
+                {
+                    "documento": "4 - certidao1404594318316.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2240?x=1404760464000140000000469"
+                },
+                {
+                    "documento": "5 - certidao1404594318316.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2241?x=1404760464000140000000469"
+                },
+                {
+                    "documento": "6 - certidao1404594318317.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2242?x=1404760464000140000000469"
+                },
+                {
+                    "documento": "7 - certidao1404594318317.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2243?x=1404760464000140000000469"
+                },
+                {
+                    "documento": "8 - certidao1404594318318.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2244?x=1404760464000140000000469"
+                },
+                {
+                    "documento": "9 - certidao1404594318318.jpeg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000469/idarquivo/2245?x=1404760464000140000000469"
+                }
+            ],
+            "partido": "DEM",
+            "id": "140000000469",
+            "limiteGastos": ""
+        },
+        "140000000046": {
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PA/candidato/140000000046",
+            "composicaoColigacao": "",
+            "ocupacao": "Contador",
+            "numeroUrna": "43",
+            "nomeCompleto": "RAIMUNDO SALAME",
+            "nacionalidade": "Brasileira nata",
+            "numeroProcesso": "351-86.2014.6.14.0000",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "coligacao": "PV",
+            "codigo": "43",
+            "nascimento": "04/05/1970",
+            "totalBensDeclarados": "R$ 274.340,0",
+            "meta": {
+                "lastUpdate": "1405118916000"
+            },
+            "Grauinstrucao": "Superior completo",
+            "estadoCivil": "Casado(a)",
+            "status": "Aguardando julgamento",
+            "bens": [
+                {
+                    "valor": "R$ 65.000,00",
+                    "nome": "RUA RIO GRANDE DO SUL CASA 144 - MARABA"
+                },
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "RUA SANTA CATARINA QUADRA 144 LOTE NUMERO 6 -MARABA"
+                },
+                {
+                    "valor": "R$ 99.340,00",
+                    "nome": "AUTOMOVEL MODELO HONDA CRV ANO 2010"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "EMPRESA ESCON CONTABILIDADE EIRELI -MARABA"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "MOEDA NACIONAL EM PODER DO DECLARANTE"
+                }
+            ],
+            "cnpj": "20571028000196",
+            "genero": "MASCULINO",
+            "nomeUrna": "RAIMUNDO SALAME",
+            "raca": "Parda",
+            "naturalidade": "MARABA",
+            "numeroProtocolo": "206582014",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404570832600.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000046/idarquivo/196?x=1405118916000140000000046"
+                },
+                {
+                    "documento": "2 - certidao1404570832601.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000046/idarquivo/197?x=1405118916000140000000046"
+                },
+                {
+                    "documento": "3 - certidao1404570832601.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PA/candidato/140000000046/idarquivo/198?x=1405118916000140000000046"
+                }
+            ],
+            "partido": "PV",
+            "id": "140000000046",
+            "limiteGastos": ""
+        }
+    }
+}

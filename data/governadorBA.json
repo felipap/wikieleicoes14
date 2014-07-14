@@ -1,0 +1,724 @@
+{
+    "governadorBA": {
+        "50000000001": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000001/idarquivo/3?x=140519256000050000000001",
+                    "documento": "1 - proposta_governo1404153866844.pdf"
+                }
+            ],
+            "ocupacao": "Banc\u00e1rio e Economi\u00e1rio",
+            "numeroProcesso": "175-59.2014.6.05.0000",
+            "genero": "FEMININO",
+            "suplente": {
+                "numero": "50000000004",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/BA/candidato/50000000004",
+                "nome": "CARLOS JOS\u00c9 BISPO DO NASCIMENTO"
+            },
+            "totalBensDeclarados": "R$ 170.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000001/idarquivo/7?x=140519256000050000000001",
+                    "documento": "4 - certidao1404153866848.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000001/idarquivo/6?x=140519256000050000000001",
+                    "documento": "3 - certidao1404153866847.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000001/idarquivo/5?x=140519256000050000000001",
+                    "documento": "2 - certidao1404153866846.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000001/idarquivo/4?x=140519256000050000000001",
+                    "documento": "1 - certidao1404153866845.pdf"
+                }
+            ],
+            "naturalidade": "SALVADOR",
+            "cnpj": "20527452000133",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/BA/candidato/50000000001",
+            "numeroProtocolo": "351642014",
+            "bens": [
+                {
+                    "valor": "R$ 170.000,00",
+                    "nome": "APARTAMENTO FINANCIADO COM C\u00d4NJUGUE"
+                }
+            ],
+            "limiteGastos": "R$ 150.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "16",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405192560000"
+            },
+            "id": "50000000001",
+            "enderecoWeb": "http://www.pstubahia.blogspot.com.br/",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSTU",
+            "nomeCompleto": "RENATA MALLET",
+            "nascimento": "06/12/1981",
+            "status": "Aguardando julgamento",
+            "codigo": "16",
+            "nomeUrna": "RENATA MALLET",
+            "partido": "PSTU"
+        },
+        "50000000620": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3958?x=140499876800050000000620",
+                    "documento": "1 - proposta_governo1404586747638.pdf"
+                }
+            ],
+            "ocupacao": "Ge\u00f3logo",
+            "numeroProcesso": "788-79.2014.6.05.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "50000000622",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/BA/candidato/50000000622",
+                "nome": "JOACI FONSECA DE GOES"
+            },
+            "totalBensDeclarados": "R$ 1.543.816,6200000003",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=BA&sq_cand=10185",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=50000000001&sgUe=BA",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3959?x=140499876800050000000620",
+                    "documento": "1 - certidao1404586747639.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3960?x=140499876800050000000620",
+                    "documento": "2 - certidao1404586747640.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3961?x=140499876800050000000620",
+                    "documento": "3 - certidao1404586747641.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3962?x=140499876800050000000620",
+                    "documento": "4 - certidao1404586747642.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3963?x=140499876800050000000620",
+                    "documento": "5 - certidao1404586747643.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3964?x=140499876800050000000620",
+                    "documento": "6 - certidao1404586747643.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3965?x=140499876800050000000620",
+                    "documento": "7 - certidao1404586747644.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3966?x=140499876800050000000620",
+                    "documento": "8 - certidao1404586747645.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3967?x=140499876800050000000620",
+                    "documento": "9 - certidao1404586747646.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3968?x=140499876800050000000620",
+                    "documento": "10 - certidao1404586747646.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3969?x=140499876800050000000620",
+                    "documento": "11 - certidao1404586747647.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3970?x=140499876800050000000620",
+                    "documento": "12 - certidao1404586747648.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3971?x=140499876800050000000620",
+                    "documento": "13 - certidao1404586747649.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000620/idarquivo/3972?x=140499876800050000000620",
+                    "documento": "14 - certidao1404586747649.pdf"
+                }
+            ],
+            "naturalidade": "CAETIT\u00c9",
+            "cnpj": "20568813000190",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/BA/candidato/50000000620",
+            "numeroProtocolo": "367462014",
+            "bens": [
+                {
+                    "valor": "R$ 341.768,28",
+                    "nome": "SALVADOR/BA"
+                },
+                {
+                    "valor": "R$ 90.068,26",
+                    "nome": "LITORAL NORTE"
+                },
+                {
+                    "valor": "R$ 27.758,90",
+                    "nome": "EM VERA CRUZ/BA"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "NO MUNIC\u00cdPIO DE CANAVIEIRAS/BA"
+                },
+                {
+                    "valor": "R$ 4.370,00",
+                    "nome": "EM CANAVIEIRAS"
+                },
+                {
+                    "valor": "R$ 6.902,96",
+                    "nome": "EM CANAVIEIRAS/BA"
+                },
+                {
+                    "valor": "R$ 5.551,77",
+                    "nome": "FZ. EM CANAVIEIRAS/BA"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "EM CANAVIEIRAS/BA"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "EM SANTA LUZIA/BA"
+                },
+                {
+                    "valor": "R$ 25.000,00",
+                    "nome": "FAZ. EM SANTA LUZIA"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "FAZ. EM SANTA LUZIA/BA"
+                },
+                {
+                    "valor": "R$ 21.620,00",
+                    "nome": "EM CANAVIERAS"
+                },
+                {
+                    "valor": "R$ 12.000,00",
+                    "nome": "FAZENDA EM CANAVIEIRAS/BA - HERAN\u00c7A"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "FAZ. EM CANAVIEIRAS/BA"
+                },
+                {
+                    "valor": "R$ 11.000,00",
+                    "nome": "FAZENDA EM CANAVIEIRAS/BA"
+                },
+                {
+                    "valor": "R$ 13.300,00",
+                    "nome": "FAZ. EM CANAVIEIRAS"
+                },
+                {
+                    "valor": "R$ 85.000,00",
+                    "nome": "FAZENDA EM CANAVIEIRAS"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "FAZENDA EM MASCOTE/BA"
+                },
+                {
+                    "valor": "R$ 16.000,00",
+                    "nome": "70% DAS QUOTAS DA EMPRESA CAMACAENSE DE RADIODIFUS\u00c3O LTDA"
+                },
+                {
+                    "valor": "R$ 19.800,00",
+                    "nome": "QUOTAS DO CAPITAL SOCIAL DA EMPRESA PS CONSULTORIA EMPRESARIAL LTDA"
+                },
+                {
+                    "valor": "R$ 193,43",
+                    "nome": "BRADESCO"
+                },
+                {
+                    "valor": "R$ 167.518,66",
+                    "nome": "CDB BB"
+                },
+                {
+                    "valor": "R$ 53.252,40",
+                    "nome": "OUROCAP"
+                },
+                {
+                    "valor": "R$ 63.406,18",
+                    "nome": "BB OUROCAP"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "BB"
+                },
+                {
+                    "valor": "R$ 412.687,88",
+                    "nome": "EMPRESTIMO"
+                },
+                {
+                    "valor": "R$ 47.495,87",
+                    "nome": "BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 110,80",
+                    "nome": "C/C BB"
+                },
+                {
+                    "valor": "R$ 33.011,23",
+                    "nome": "FIAT"
+                }
+            ],
+            "limiteGastos": "R$ 38.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "25",
+            "composicaoColigacao": "DEM / PSDB / PMDB / SD / PTN / PROS / PRB / PSC / PTC / PV / PPS / PRP / PT do B / PSDC / PHS",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404998768000"
+            },
+            "id": "50000000620",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "UNIDOS PELA BAHIA",
+            "nomeCompleto": "PAULO SOUTO",
+            "nascimento": "19/11/1943",
+            "status": "Aguardando julgamento",
+            "codigo": "25",
+            "nomeUrna": "PAULO SOUTO",
+            "partido": "DEM"
+        },
+        "50000000176": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/4625?x=140525690700050000000176",
+                    "documento": "1 - proposta_governo1404674713723.pdf"
+                }
+            ],
+            "ocupacao": "Senador",
+            "numeroProcesso": "365-22.2014.6.05.0000",
+            "genero": "FEMININO",
+            "suplente": {
+                "numero": "50000000185",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/BA/candidato/50000000185",
+                "nome": "EDUARDO LIMA VASCONCELOS"
+            },
+            "totalBensDeclarados": "R$ 567.567,78",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=BA&sq_cand=10807",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=38490&sqCandidato=1999",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=50000000916&sgUe=BA",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1029?x=140525690700050000000176",
+                    "documento": "1 - certidao1404569758339.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1030?x=140525690700050000000176",
+                    "documento": "2 - certidao1404569758340.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1031?x=140525690700050000000176",
+                    "documento": "3 - certidao1404569758341.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1032?x=140525690700050000000176",
+                    "documento": "4 - certidao1404569758342.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1033?x=140525690700050000000176",
+                    "documento": "5 - certidao1404569758343.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1034?x=140525690700050000000176",
+                    "documento": "6 - certidao1404569758344.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1035?x=140525690700050000000176",
+                    "documento": "7 - certidao1404569758344.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1036?x=140525690700050000000176",
+                    "documento": "8 - certidao1404569758345.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1037?x=140525690700050000000176",
+                    "documento": "9 - certidao1404569758346.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000176/idarquivo/1038?x=140525690700050000000176",
+                    "documento": "10 - certidao1404569758347.pdf"
+                }
+            ],
+            "naturalidade": "CACHOEIRA",
+            "cnpj": "20570375000102",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/BA/candidato/50000000176",
+            "numeroProtocolo": "362902014",
+            "bens": [
+                {
+                    "valor": "R$ 360.000,00",
+                    "nome": "APARTAMENTO NA BARRA AVENIDA PRINCESA ISABEL 623 EDF MARIA DA GRA\u00c7A  SALVADOR BAHIA"
+                },
+                {
+                    "valor": "R$ 67.690,00",
+                    "nome": "MARCA CHEVROLET TRAKER FREERIDE 1.8 16 V 2013/2014 ADIQUIRIDO COM ENTRADA DE R$ 48.300,00 E FINACIADO NO BANCO GMAC NO COMPLEMENTO DE R$ 19.390,00"
+                },
+                {
+                    "valor": "R$ 7.739,01",
+                    "nome": "BANCO DO BRASIL AGENCIA 1875-9 POPAN\u00c7A OURO 1462-1"
+                },
+                {
+                    "valor": "R$ 1.005,21",
+                    "nome": "CAIXA ECONIMICA FEDERAL AGENCIA 2218 CP 37485-0"
+                },
+                {
+                    "valor": "R$ 25.761,40",
+                    "nome": "BANCO DO BRASIL 1875-9 CDB DI SWAP"
+                },
+                {
+                    "valor": "R$ 8.302,65",
+                    "nome": "CONTA CORRENTE BANCO DO BRASIL CC 289462-9 AG 5977-3"
+                },
+                {
+                    "valor": "R$ 15.335,47",
+                    "nome": "BANCO DO BRASIL CONTA CORRENTE 269462-X AGENCIA 5977-3"
+                },
+                {
+                    "valor": "R$ 420,59",
+                    "nome": "BANCO CAIXA ECONOMICA FEDERAL AGENCIA 2218-7 CONTA CORRENTE 37485-0"
+                },
+                {
+                    "valor": "R$ 13.029,76",
+                    "nome": "BANCO DO BRASIL AGENCIA 1875-9 OUROCAP MULTI  CHANCE"
+                },
+                {
+                    "valor": "R$ 68.283,69",
+                    "nome": "CONTRIBUI\u00c7\u00c3O PREINVEST PGBL CERTIFICADO 009270561 CAIXA ECONOMICA FEDERAL"
+                }
+            ],
+            "limiteGastos": "R$ 20.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "40",
+            "composicaoColigacao": "PSB / PSL / PPL",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405256907000"
+            },
+            "id": "50000000176",
+            "enderecoWeb": "WWW.LIDICE.COM.BR",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "UM NOVO CAMINHO PARA  A BAHIA",
+            "nomeCompleto": "LIDICE",
+            "nascimento": "12/03/1956",
+            "status": "Aguardando julgamento",
+            "codigo": "40",
+            "nomeUrna": "LIDICE",
+            "partido": "PSB"
+        },
+        "50000000401": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000401/idarquivo/2629?x=140499873500050000000401",
+                    "documento": "1 - proposta_governo1404573067287.pdf"
+                }
+            ],
+            "ocupacao": "Deputado",
+            "numeroProcesso": "301-12.2014.6.05.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "50000000402",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/BA/candidato/50000000402",
+                "nome": "JO\u00c3O FELIPE DE SOUZA LE\u00c3O"
+            },
+            "totalBensDeclarados": "R$ 189.544,79",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=BA&sq_cand=10429",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=50000001161&sgUe=BA",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000401/idarquivo/2630?x=140499873500050000000401",
+                    "documento": "1 - certidao1404573067288.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000401/idarquivo/2631?x=140499873500050000000401",
+                    "documento": "2 - certidao1404573067289.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000401/idarquivo/2632?x=140499873500050000000401",
+                    "documento": "3 - certidao1404573067290.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000401/idarquivo/2633?x=140499873500050000000401",
+                    "documento": "4 - certidao1404573067290.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000401/idarquivo/2634?x=140499873500050000000401",
+                    "documento": "5 - certidao1404573067291.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000401/idarquivo/2635?x=140499873500050000000401",
+                    "documento": "6 - certidao1404573067292.pdf"
+                }
+            ],
+            "naturalidade": "SALVADOR",
+            "cnpj": "20570914000103",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/BA/candidato/50000000401",
+            "numeroProtocolo": "365172014",
+            "bens": [
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "TRES QUARTOS RIO VERMELHO, SALVADOR, BAHIA QUITADO, VALOR CONFORME IR 2013"
+                },
+                {
+                    "valor": "R$ 8.000,00",
+                    "nome": "BB A\u00c7\u00d5ES PETROBR\u00c1S CNPJ: 03920413000182 QUANTIDADE DE QUOTAS 628,789488"
+                },
+                {
+                    "valor": "R$ 4.000,00",
+                    "nome": "BB A\u00c7\u00d5ES BB CNPJ: 09134614000130 QUANTIDADE DE COTAS 4000"
+                },
+                {
+                    "valor": "R$ 5.000,00",
+                    "nome": "BB A\u00c7\u00d5ES VALE, CNPJ: 04881682000140 QUANTIDADE DE COTAS 361,124500"
+                },
+                {
+                    "valor": "R$ 1.283,64",
+                    "nome": "BB DI PLUS EST"
+                },
+                {
+                    "valor": "R$ 15.077,64",
+                    "nome": "BB CDB DI"
+                },
+                {
+                    "valor": "R$ 1.281,05",
+                    "nome": "CONTA CORRENTE BB- AG:4870-4"
+                },
+                {
+                    "valor": "R$ 902,46",
+                    "nome": "OUROCAP PR\u00caMIOS"
+                },
+                {
+                    "valor": "R$ 4.000,00",
+                    "nome": "BB SMALL CAPS CNPJ: 05100221000155 QUANTIDADE DE COTAS 727,822623"
+                }
+            ],
+            "limiteGastos": "R$ 65.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PT / PP / PSD / PDT / PR / PC do B / PTB / PMN / PT do B / PHS",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404998735000"
+            },
+            "id": "50000000401",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PRA BAHIA MUDAR MAIS",
+            "nomeCompleto": "RUI",
+            "nascimento": "18/01/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "RUI",
+            "partido": "PT"
+        },
+        "50000000007": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000007/idarquivo/35?x=140459299500050000000007",
+                    "documento": "1 - proposta_governo1404155994121.pdf"
+                }
+            ],
+            "ocupacao": "Banc\u00e1rio e Economi\u00e1rio",
+            "numeroProcesso": "181-66.2014.6.05.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "50000000006",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/BA/candidato/50000000006",
+                "nome": "RONALDO SANTOS SILVA"
+            },
+            "totalBensDeclarados": "R$ 315.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=BA&sq_cand=10550",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=38490&sqCandidato=19354",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=50000000630&sgUe=BA",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000007/idarquivo/39?x=140459299500050000000007",
+                    "documento": "4 - certidao1404155994124.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000007/idarquivo/38?x=140459299500050000000007",
+                    "documento": "3 - certidao1404155994123.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000007/idarquivo/37?x=140459299500050000000007",
+                    "documento": "2 - certidao1404155994122.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000007/idarquivo/36?x=140459299500050000000007",
+                    "documento": "1 - certidao1404155994122.jpg"
+                }
+            ],
+            "naturalidade": "SALVADOR",
+            "cnpj": "20527475000148",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/BA/candidato/50000000007",
+            "numeroProtocolo": "351852014",
+            "bens": [
+                {
+                    "valor": "R$ 300.000,00",
+                    "nome": "APARTAMENTO SITUADO NA AVENIDA JORGE AMADO, ED. MAGNOLIA, AP. 1101, IMBUI, SALVADOR, BAHIA"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "AUTOMOVEL, FIAT, SIENA, TETRAVEL, 1.4, 2008/ 2009."
+                }
+            ],
+            "limiteGastos": "R$ 500.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404592995000"
+            },
+            "id": "50000000007",
+            "enderecoWeb": "www.marcosmendes50.com.br",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "MARCOS MENDES",
+            "nascimento": "28/02/1965",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "MARCOS MENDES",
+            "partido": "PSOL"
+        },
+        "50000000845": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000845/idarquivo/4628?x=140518979900050000000845",
+                    "documento": "1 - proposta_governo1404683094789.pdf"
+                }
+            ],
+            "ocupacao": "Analista de Sistemas",
+            "numeroProcesso": "879-72.2014.6.05.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "50000000857",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/BA/candidato/50000000857",
+                "nome": "ANTONIO GOMES DE ANDRADE NETO"
+            },
+            "totalBensDeclarados": "R$ 31.500,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=BA&sq_cand=11073",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=38490&sqCandidato=1617",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000845/idarquivo/4629?x=140518979900050000000845",
+                    "documento": "1 - certidao1404683094789.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000845/idarquivo/4630?x=140518979900050000000845",
+                    "documento": "2 - certidao1404683094790.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000845/idarquivo/4631?x=140518979900050000000845",
+                    "documento": "3 - certidao1404683094791.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000845/idarquivo/4632?x=140518979900050000000845",
+                    "documento": "4 - certidao1404683094791.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/BA/candidato/50000000845/idarquivo/4633?x=140518979900050000000845",
+                    "documento": "5 - certidao1404683094792.pdf"
+                }
+            ],
+            "naturalidade": "JUNDIA\u00cd",
+            "cnpj": "20589790000108",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/BA/candidato/50000000845",
+            "numeroProtocolo": "370582014",
+            "bens": [
+                {
+                    "valor": "R$ 27.000,00",
+                    "nome": "CAMINHONETE MITSUBISH L200 ANO 2001"
+                },
+                {
+                    "valor": "R$ 4.500,00",
+                    "nome": "4500 COTAS EMPRESA IDEIA DA LUZ PROCESSAMENTO DE DADOS LTDA."
+                }
+            ],
+            "limiteGastos": "R$ 10.000.000,00",
+            "Grauinstrucao": "Superior incompleto",
+            "numeroUrna": "28",
+            "composicaoColigacao": "PRTB / PEN",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405189799000"
+            },
+            "id": "50000000845",
+            "enderecoWeb": "daluz28.com.br",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "POR UMA BAHIA LIVRE E JUSTA",
+            "nomeCompleto": "DA LUZ",
+            "nascimento": "12/02/1968",
+            "status": "Aguardando julgamento",
+            "codigo": "28",
+            "nomeUrna": "DA LUZ",
+            "partido": "PRTB"
+        }
+    }
+}

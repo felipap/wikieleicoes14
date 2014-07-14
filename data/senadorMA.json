@@ -1,0 +1,434 @@
+{
+    "senadorMA": {
+        "100000000003": {
+            "suplente": {
+                "numero": "100000000004",
+                "nome": "FRANCISCO WILSON LEITE DA SILVA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MA/candidato/100000000004"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405195757000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MA/candidato/100000000003",
+            "nomeCompleto": "MARCOS SILVA",
+            "nacionalidade": "Brasileira nata",
+            "naturalidade": "BACABAL",
+            "genero": "MASCULINO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404399560671.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000003/idarquivo/12?x=1405195757000100000000003"
+                },
+                {
+                    "documento": "2 - certidao1404399560671.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000003/idarquivo/13?x=1405195757000100000000003"
+                },
+                {
+                    "documento": "3 - certidao1404399560672.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000003/idarquivo/14?x=1405195757000100000000003"
+                }
+            ],
+            "partido": "PSTU",
+            "numeroProcesso": "139-76.2014.6.10.0000",
+            "codigo": "163",
+            "raca": "Preta",
+            "numeroProtocolo": "123002014",
+            "coligacao": "PSTU",
+            "composicaoColigacao": "",
+            "numeroUrna": "163",
+            "ocupacao": "Servidor P\u00fablico Estadual",
+            "cnpj": "20557829000105",
+            "limiteGastos": "R$ 0,00",
+            "estadoCivil": "Solteiro(a)",
+            "id": "100000000003",
+            "nascimento": "20/01/1966",
+            "nomeUrna": "MARCOS SILVA",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior completo",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MA&sq_cand=10000"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=100000000001&sgUe=MA"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ]
+        },
+        "100000000134": {
+            "suplente": {
+                "numero": "100000000142",
+                "nome": "BERNARDO CARDOZO DOS SANTOS FILHO",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MA/candidato/100000000142"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404667029000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MA/candidato/100000000134",
+            "nomeCompleto": "GERS\u00c3O",
+            "naturalidade": "S\u00c3O LUIS",
+            "genero": "MASCULINO",
+            "docs": [
+                {
+                    "documento": "1 - certidao1404582080848.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000134/idarquivo/854?x=1404667029000100000000134"
+                }
+            ],
+            "partido": "PPL",
+            "numeroProcesso": "276-58.2014.6.10.0000",
+            "codigo": "541",
+            "raca": "Parda",
+            "numeroProtocolo": "125412014",
+            "coligacao": "PPL",
+            "composicaoColigacao": "",
+            "numeroUrna": "541",
+            "ocupacao": "Outros",
+            "cnpj": "20566083000198",
+            "limiteGastos": "R$ 4.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "100000000134",
+            "nascimento": "27/07/1969",
+            "nomeUrna": "GERS\u00c3O",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "100000000199": {
+            "suplente": {
+                "numero": "100000000202",
+                "nome": "PAULO DE TASSO ALVES MARTINS",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/MA/candidato/100000000202"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405102080000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MA/candidato/100000000199",
+            "nomeCompleto": "HAROLDO SABOIA",
+            "nascimento": "16/05/1950",
+            "naturalidade": "S\u00c3O LU\u00cdS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 95.000,00",
+                    "nome": "CASA CENTRO S\u00c3O LU\u00cdS"
+                },
+                {
+                    "valor": "R$ 344.732,91",
+                    "nome": "CASA CALHAU S\u00c3O LU\u00cdS"
+                },
+                {
+                    "valor": "R$ 318.334,38",
+                    "nome": "CASA NA RUA DA SAAVEDA CENTRO S\u00c3O LU\u00cdS"
+                },
+                {
+                    "valor": "R$ 45.000,00",
+                    "nome": "CARRO RENUOR MODELO FLUENCE 2011"
+                },
+                {
+                    "valor": "R$ 29.000,00",
+                    "nome": "CARRO PAGERO ANO 1992/93"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404591787243.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000199/idarquivo/1072?x=1405102080000100000000199"
+                },
+                {
+                    "documento": "2 - certidao1404591787243.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000199/idarquivo/1073?x=1405102080000100000000199"
+                },
+                {
+                    "documento": "3 - certidao1404591787244.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000199/idarquivo/1074?x=1405102080000100000000199"
+                }
+            ],
+            "partido": "PSOL",
+            "numeroProcesso": "372-73.2014.6.10.0000",
+            "codigo": "500",
+            "raca": "Branca",
+            "numeroProtocolo": "126112014",
+            "coligacao": "PSOL",
+            "composicaoColigacao": "",
+            "numeroUrna": "500",
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "cnpj": "20570246000106",
+            "limiteGastos": "R$ 50.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "100000000199",
+            "totalBensDeclarados": "R$ 832.067,29",
+            "nomeUrna": "HAROLDO SABOIA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=09210&sqCandidato=5743"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "100000000536": {
+            "suplente": {
+                "numero": "100000000537",
+                "nome": "ANERI TAVARES",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/9/UF/MA/candidato/100000000537"
+            },
+            "enderecoWeb": "EVANDEANDRADE7.BLOGSPOT.COM.BR",
+            "meta": {
+                "lastUpdate": "1405186553000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MA/candidato/100000000536",
+            "nomeCompleto": "EVAN DE ANDRADE",
+            "nascimento": "30/09/1979",
+            "naturalidade": "S\u00c3O LUIS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 140.000,00",
+                    "nome": "RESIDENCIAL"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "TEREENO - BAIRRO FUNIL"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "TERRENO NA ESTIVA"
+                },
+                {
+                    "valor": "R$ 16.000,00",
+                    "nome": "GOL G4"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404601503805.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000536/idarquivo/3466?x=1405186553000100000000536"
+                },
+                {
+                    "documento": "2 - certidao1404601503806.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000536/idarquivo/3467?x=1405186553000100000000536"
+                },
+                {
+                    "documento": "3 - certidao1404601503806.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000536/idarquivo/3468?x=1405186553000100000000536"
+                },
+                {
+                    "documento": "4 - certidao1404601503806.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000536/idarquivo/3469?x=1405186553000100000000536"
+                },
+                {
+                    "documento": "5 - certidao1404601503807.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000536/idarquivo/3470?x=1405186553000100000000536"
+                },
+                {
+                    "documento": "6 - certidao1404601503807.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000536/idarquivo/3471?x=1405186553000100000000536"
+                },
+                {
+                    "documento": "7 - certidao1404601503808.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000536/idarquivo/3472?x=1405186553000100000000536"
+                },
+                {
+                    "documento": "8 - certidao1404601503808.jpg",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000536/idarquivo/3473?x=1405186553000100000000536"
+                }
+            ],
+            "partido": "PCB",
+            "numeroProcesso": "711-32.2014.6.10.0000",
+            "codigo": "212",
+            "raca": "Parda",
+            "numeroProtocolo": "130062014",
+            "coligacao": "PCB",
+            "composicaoColigacao": "",
+            "numeroUrna": "212",
+            "ocupacao": "Servidor P\u00fablico Federal",
+            "cnpj": "20592584000149",
+            "limiteGastos": "R$ 50.000,00",
+            "estadoCivil": "Divorciado(a)",
+            "id": "100000000536",
+            "totalBensDeclarados": "R$ 181.000,0",
+            "nomeUrna": "EVAN DE ANDRADE",
+            "status": "Aguardando julgamento",
+            "Grauinstrucao": "Superior incompleto",
+            "nacionalidade": "Brasileira nata"
+        },
+        "100000000016": {
+            "suplente": {
+                "numero": "100000000017",
+                "nome": "PAULO HENRIQUE CAMPOS MATOS",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/MA/candidato/100000000017"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1405176493000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MA/candidato/100000000016",
+            "nomeCompleto": "ROBERTO ROCHA",
+            "nascimento": "04/08/1965",
+            "naturalidade": "S\u00c3O LU\u00cdS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 23.211,72",
+                    "nome": "A\u00c7\u00d5ES ORDIN\u00c1RIAS DA AGROPECU\u00c1RIA S\u00c3O LU\u00cdS"
+                },
+                {
+                    "valor": "R$ 125.899,58",
+                    "nome": "A\u00c7\u00d5ES ORDIN\u00c1RIAS DA LR EMPREENDIMENTOS"
+                },
+                {
+                    "valor": "R$ 2.500,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O NO CAPITAL SOCIAL DA CINDEL EMPREENDIMENTOS"
+                },
+                {
+                    "valor": "R$ 640,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O NA EMPRESA R\u00c1DIO VALE DE TELEVIS\u00c3O"
+                },
+                {
+                    "valor": "R$ 1,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O NA EMPRESA R\u00c1DIO E TEFEVIS\u00c3O NOVO ELDORADO"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404423217768.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000016/idarquivo/65?x=1405176493000100000000016"
+                },
+                {
+                    "documento": "2 - certidao1404423217769.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000016/idarquivo/66?x=1405176493000100000000016"
+                },
+                {
+                    "documento": "3 - certidao1404423217770.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000016/idarquivo/67?x=1405176493000100000000016"
+                }
+            ],
+            "partido": "PSB",
+            "numeroProcesso": "154-45.2014.6.10.0000",
+            "codigo": "400",
+            "raca": "Branca",
+            "numeroProtocolo": "123602014",
+            "coligacao": "TODOS PELO MARANH\u00c3O",
+            "composicaoColigacao": "PP / SD / PROS / PSDB / PC do B / PSB / PDT / PTC / PPS",
+            "numeroUrna": "400",
+            "ocupacao": "Outros",
+            "cnpj": "20557819000161",
+            "limiteGastos": "R$ 10.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "100000000016",
+            "totalBensDeclarados": "R$ 152.252,3",
+            "nomeUrna": "ROBERTO ROCHA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MA&sq_cand=10064"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=100000000014&sgUe=MA"
+                },
+                {
+                    "ano": "2012",
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        },
+        "100000000379": {
+            "suplente": {
+                "numero": "100000000378",
+                "nome": "REMI RIBEIRO OLIVEIRA",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/10/UF/MA/candidato/100000000378"
+            },
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "meta": {
+                "lastUpdate": "1404915209000"
+            },
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/5/UF/MA/candidato/100000000379",
+            "nomeCompleto": "GAST\u00c3O VIEIRA",
+            "nascimento": "15/06/1946",
+            "naturalidade": "S\u00c3O LUIS",
+            "genero": "MASCULINO",
+            "bens": [
+                {
+                    "valor": "R$ 30.000,00",
+                    "nome": "IMOVEL RESIDENCIAL SITO \u00c1 RUA DA ALEGRIA 156 CENTRO ORIUNDO DE HERAN\u00c7A DEIXADA PELA SRA. MARIA DA CONCEI\u00c7\u00c3O AZEVEDO DOS SANTOS"
+                },
+                {
+                    "valor": "R$ 182.274,70",
+                    "nome": "IMOVEL RESIDENCIAL, SITO \u00c0 AVENIDA S\u00c3O CARLOS, 12 OLHO D' AGUA"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "AUTOMOVEL MARCA TOYOTA MARCA COROLLA ANO 2011"
+                },
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "AUTOMOVEL MARCA TOYOTA MODELO SW4 ANO 2010"
+                },
+                {
+                    "valor": "R$ 14.542,15",
+                    "nome": "POUPAN\u00c7A NO BANCO DO BRASIL AGENCIA 4884-4"
+                },
+                {
+                    "valor": "R$ 8.221,11",
+                    "nome": "POUPAN\u00c7A NO BANCO DO BRASIL AGENCIA 1639-X"
+                }
+            ],
+            "docs": [
+                {
+                    "documento": "1 - certidao1404595234365.pdf",
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/MA/candidato/100000000379/idarquivo/2263?x=1404915209000100000000379"
+                }
+            ],
+            "partido": "PMDB",
+            "numeroProcesso": "444-60.2014.6.10.0000",
+            "codigo": "151",
+            "raca": "Branca",
+            "numeroProtocolo": "127962014",
+            "coligacao": "PRA FRENTE MARANH\u00c3O",
+            "composicaoColigacao": "PMDB / PSL / PEN / PSDC / PRP / PTN / PMN / PSC / PHS / PRTB / PR / PRB / DEM / PSD / PV / PT / PTB / PT do B",
+            "numeroUrna": "151",
+            "ocupacao": "Deputado",
+            "cnpj": "20576063000106",
+            "limiteGastos": "R$ 20.000.000,00",
+            "estadoCivil": "Casado(a)",
+            "id": "100000000379",
+            "totalBensDeclarados": "R$ 405.037,96",
+            "nomeUrna": "GAST\u00c3O VIEIRA",
+            "status": "Aguardando julgamento",
+            "eleicoesAnteriores": [
+                {
+                    "ano": "2006",
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=MA&sq_cand=10582"
+                },
+                {
+                    "ano": "2008",
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=09210&sqCandidato=12922"
+                },
+                {
+                    "ano": "2010",
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=100000000301&sgUe=MA"
+                }
+            ],
+            "Grauinstrucao": "Superior completo",
+            "nacionalidade": "Brasileira nata"
+        }
+    }
+}

@@ -1,0 +1,979 @@
+{
+    "governadorPI": {
+        "180000000013": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/24?x=1405024217000180000000013",
+                    "documento": "1 - proposta_governo1404579964989.pdf"
+                }
+            ],
+            "ocupacao": "Aposentado (Exceto Servidor P\u00fablico)",
+            "numeroProcesso": "147-31.2014.6.18.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "180000000012",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PI/candidato/180000000012",
+                "nome": "NILFRANIO RIBEIRO NASCIMENTO"
+            },
+            "totalBensDeclarados": "R$ 19.755,4",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PI&sq_cand=10342",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=180000000100&sgUe=PI",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/25?x=1405024217000180000000013",
+                    "documento": "1 - certidao1404579964990.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/26?x=1405024217000180000000013",
+                    "documento": "2 - certidao1404579964990.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/27?x=1405024217000180000000013",
+                    "documento": "3 - certidao1404579964991.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/28?x=1405024217000180000000013",
+                    "documento": "4 - certidao1404579964991.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/29?x=1405024217000180000000013",
+                    "documento": "5 - certidao1404579964991.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/30?x=1405024217000180000000013",
+                    "documento": "6 - certidao1404579964992.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/31?x=1405024217000180000000013",
+                    "documento": "7 - certidao1404579964992.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/32?x=1405024217000180000000013",
+                    "documento": "8 - certidao1404579964993.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/33?x=1405024217000180000000013",
+                    "documento": "9 - certidao1404579964993.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/34?x=1405024217000180000000013",
+                    "documento": "10 - certidao1404579964994.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/35?x=1405024217000180000000013",
+                    "documento": "11 - certidao1404579964994.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/36?x=1405024217000180000000013",
+                    "documento": "12 - certidao1404579964995.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000013/idarquivo/37?x=1405024217000180000000013",
+                    "documento": "13 - certidao1404579964995.pdf"
+                }
+            ],
+            "naturalidade": "PARNAIBA",
+            "cnpj": "20568928000184",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PI/candidato/180000000013",
+            "numeroProtocolo": "83862014",
+            "bens": [
+                {
+                    "valor": "R$ 19.317,63",
+                    "nome": "UMA CASA LOCALIZADA NA AV. PINHEIRO MACHADO S/N FINANCIADO PELA CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 76,33",
+                    "nome": "ACOES DO FUNDO REAL DE PARICIPA\u00c7\u00c3O"
+                },
+                {
+                    "valor": "R$ 1,44",
+                    "nome": "A\u00c7\u00d5ES DO BANCO REAL"
+                },
+                {
+                    "valor": "R$ 360,00",
+                    "nome": "QUOTAS DO CAPITAL SOCIAL DA EMPRESA RADIO IGARA\u00c7U"
+                }
+            ],
+            "limiteGastos": "R$ 3.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "20",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405024217000"
+            },
+            "id": "180000000013",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSC",
+            "nomeCompleto": "M\u00c3O SANTA",
+            "nascimento": "13/10/1942",
+            "status": "Aguardando julgamento",
+            "codigo": "20",
+            "nomeUrna": "M\u00c3O SANTA",
+            "partido": "PSC"
+        },
+        "180000000191": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/3261?x=1404921827000180000000191",
+                    "documento": "1 - proposta_governo1404739824797.pdf"
+                }
+            ],
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "numeroProcesso": "471-21.2014.6.18.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "180000000192",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PI/candidato/180000000192",
+                "nome": "JOS\u00c9 ROMUALDO LOPES DE SOUSA"
+            },
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PI&sq_cand=10258",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1477?x=1404921827000180000000191",
+                    "documento": "1 - certidao1404598799071.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1478?x=1404921827000180000000191",
+                    "documento": "2 - certidao1404598799072.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1479?x=1404921827000180000000191",
+                    "documento": "3 - certidao1404598799072.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1480?x=1404921827000180000000191",
+                    "documento": "4 - certidao1404598799073.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1481?x=1404921827000180000000191",
+                    "documento": "5 - certidao1404598799073.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1482?x=1404921827000180000000191",
+                    "documento": "6 - certidao1404598799074.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1483?x=1404921827000180000000191",
+                    "documento": "7 - certidao1404598799074.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1484?x=1404921827000180000000191",
+                    "documento": "8 - certidao1404598799074.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1485?x=1404921827000180000000191",
+                    "documento": "9 - certidao1404598799075.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1486?x=1404921827000180000000191",
+                    "documento": "10 - certidao1404598799075.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1487?x=1404921827000180000000191",
+                    "documento": "11 - certidao1404598799075.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1488?x=1404921827000180000000191",
+                    "documento": "12 - certidao1404598799076.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1489?x=1404921827000180000000191",
+                    "documento": "13 - certidao1404598799076.JPG"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000191/idarquivo/1490?x=1404921827000180000000191",
+                    "documento": "14 - certidao1404598799077.JPG"
+                }
+            ],
+            "naturalidade": "TERESINA",
+            "cnpj": "20577949000166",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PI/candidato/180000000191",
+            "numeroProtocolo": "85732014",
+            "limiteGastos": "R$ 100.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "PSOL / PCB",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404921827000"
+            },
+            "id": "180000000191",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "O PODER POPULAR NA CONSTRU\u00c7\u00c3O DO SOCIALISMO",
+            "nomeCompleto": "MAKLANDEL",
+            "nascimento": "23/08/1976",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "MAKLANDEL",
+            "partido": "PSOL"
+        },
+        "180000000044": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/237?x=1404917277000180000000044",
+                    "documento": "1 - proposta_governo1404590235331.pdf"
+                }
+            ],
+            "ocupacao": "Governador",
+            "numeroProcesso": "402-86.2014.6.18.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "180000000045",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PI/candidato/180000000045",
+                "nome": "SILVIO MENDES DE OLIVEIRA FILHO"
+            },
+            "totalBensDeclarados": "R$ 1.948.660,2799999998",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PI&sq_cand=10373",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=180000000335&sgUe=PI",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/254?x=1404917277000180000000044",
+                    "documento": "17 - certidao1404590235340.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/238?x=1404917277000180000000044",
+                    "documento": "1 - certidao1404590235331.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/239?x=1404917277000180000000044",
+                    "documento": "2 - certidao1404590235332.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/240?x=1404917277000180000000044",
+                    "documento": "3 - certidao1404590235333.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/241?x=1404917277000180000000044",
+                    "documento": "4 - certidao1404590235333.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/242?x=1404917277000180000000044",
+                    "documento": "5 - certidao1404590235334.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/243?x=1404917277000180000000044",
+                    "documento": "6 - certidao1404590235334.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/244?x=1404917277000180000000044",
+                    "documento": "7 - certidao1404590235335.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/245?x=1404917277000180000000044",
+                    "documento": "8 - certidao1404590235335.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/246?x=1404917277000180000000044",
+                    "documento": "9 - certidao1404590235335.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/247?x=1404917277000180000000044",
+                    "documento": "10 - certidao1404590235336.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/248?x=1404917277000180000000044",
+                    "documento": "11 - certidao1404590235336.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/249?x=1404917277000180000000044",
+                    "documento": "12 - certidao1404590235337.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/250?x=1404917277000180000000044",
+                    "documento": "13 - certidao1404590235337.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/251?x=1404917277000180000000044",
+                    "documento": "14 - certidao1404590235338.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/252?x=1404917277000180000000044",
+                    "documento": "15 - certidao1404590235338.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/253?x=1404917277000180000000044",
+                    "documento": "16 - certidao1404590235339.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/3371?x=1404917277000180000000044",
+                    "documento": "19 - certidao1404917269046.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000044/idarquivo/3370?x=1404917277000180000000044",
+                    "documento": "18 - certidao1404917129714.pdf"
+                }
+            ],
+            "naturalidade": "PARNA\u00cdBA",
+            "cnpj": "20603227000139",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PI/candidato/180000000044",
+            "numeroProtocolo": "84212014",
+            "bens": [
+                {
+                    "valor": "R$ 89.720,83",
+                    "nome": "FLAT, PAVIMENTO TERREO SETOR DE HOYEIS E TURISMO NORTE SHT/NORTE BRASILIA-DF"
+                },
+                {
+                    "valor": "R$ 204.789,09",
+                    "nome": "SIT. COND. CATALUNYA RESIDENCE, TERESINAPI"
+                },
+                {
+                    "valor": "R$ 144.562,45",
+                    "nome": "COND. BERVELY HILLS, TERESINA/PI"
+                },
+                {
+                    "valor": "R$ 75.005,75",
+                    "nome": "FLAT AP. 1108, EM TERESINA/PI"
+                },
+                {
+                    "valor": "R$ 18.867,61",
+                    "nome": "SIT RUA JOSIAS MORAES, 830 - PARANAIBA"
+                },
+                {
+                    "valor": "R$ 22.500,00",
+                    "nome": "BAIRRO BOA ESPERAN\u00c7A, LOTE 05, QD. 04 PARNA\u00cdBA"
+                },
+                {
+                    "valor": "R$ 168.598,00",
+                    "nome": "SIT. RUA JOSIAS MORAES, 820, PARNA\u00cdBA/PI"
+                },
+                {
+                    "valor": "R$ 45.000,00",
+                    "nome": "SITUADA NO POVOADO MACAP\u00c1"
+                },
+                {
+                    "valor": "R$ 6.123,00",
+                    "nome": "NA RUA RIACHULO, S/N"
+                },
+                {
+                    "valor": "R$ 75.000,00",
+                    "nome": "SITIO NA ESTRADA BARRA DO LONG\u00c1 - BURITI DOS LOPES"
+                },
+                {
+                    "valor": "R$ 8.250,00",
+                    "nome": "ACRES. DA MARINHA, ESTRADA DA BARRINHA, CAJUEIRO DA PRAIA"
+                },
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "IM\u00d3VEL RURAL DENOMINADO CHAPADA, BURITI DOS LOPES-PI COM 18 HECTARES DE TERRA, EM \u00c1REA DENOMINADA BREJADO COM CASA RESIDENCIAL COBERTA DE TELHA COM UM SITIO LOCALIZADO DENTRO DO TERRENO"
+                },
+                {
+                    "valor": "R$ 108.298,74",
+                    "nome": "SALAS COMERCIAIS, 1206 E 1207 EURO BUSSINESS VAGAS DE GARAGEMTERESINA/PI"
+                },
+                {
+                    "valor": "R$ 2.020,59",
+                    "nome": "UM ARMAZEM DE TIJOLO COBERTO COM TELHAS, OCUPADO PELA MARINHA"
+                },
+                {
+                    "valor": "R$ 2.020,59",
+                    "nome": "02 CASAS RESIDENCIAIS E UM ARMAZEM, NA RUA SETE DE SETEMBRO"
+                },
+                {
+                    "valor": "R$ 3.333,33",
+                    "nome": "MOTO HONDA POP 100 COR VERMELHA ANO 2014"
+                },
+                {
+                    "valor": "R$ 1.000,00",
+                    "nome": "JEEP FABRICA\u00c7\u00c3O/MODELO 1975"
+                },
+                {
+                    "valor": "R$ 43.406,40",
+                    "nome": "VEICULO KIA SOUL ANO 2010/2011"
+                },
+                {
+                    "valor": "R$ 7.999,99",
+                    "nome": "02 QUADRICICLOS"
+                },
+                {
+                    "valor": "R$ 15.000,00",
+                    "nome": "SAVEIRO ANO FAB/MOD 2001"
+                },
+                {
+                    "valor": "R$ 9.801,25",
+                    "nome": "CAMINH\u00c3O FORDO F12000 FABRICA\u00c7\u00c3O/MODELO 1993"
+                },
+                {
+                    "valor": "R$ 13.337,50",
+                    "nome": "CAMINH\u00c3O MOND. M. BENS. ANO 1999"
+                },
+                {
+                    "valor": "R$ 7.191,25",
+                    "nome": "VEICULO MODELO SSANGYONGANO 1997"
+                },
+                {
+                    "valor": "R$ 3.333,33",
+                    "nome": "MOTO HONDA TOP 100 COR VERMELHA 2014"
+                },
+                {
+                    "valor": "R$ 3.333,34",
+                    "nome": "MOTO HONDA NXR 150 BROS COR VERMELHA"
+                },
+                {
+                    "valor": "R$ 147.139,45",
+                    "nome": "VE\u00cdCULO NOVO MARCA RAMMOD RAM/LARIMIE FAB/MOD.2012"
+                },
+                {
+                    "valor": "R$ 117.490,72",
+                    "nome": "JEEP MODELO GRAND CHEROKEE LTD DIESEL FAB/MOD 2012"
+                },
+                {
+                    "valor": "R$ 11.000,00",
+                    "nome": "VE\u00cdCULO MODELO LAGUNA FABRICA\u00c7\u00c3O RENAULT FAB/MOD. 1998"
+                },
+                {
+                    "valor": "R$ 500,00",
+                    "nome": "MOTO AQUATICA MOD. GTX SPEEDSTER SEA DOO"
+                },
+                {
+                    "valor": "R$ 500,00",
+                    "nome": "AQU\u00c1TICO, MOD. WAVE RUNNNER 3"
+                },
+                {
+                    "valor": "R$ 5.458,20",
+                    "nome": "VE\u00cdCULO GOL WOLKSVAGEM 1.6 COR VERMELHA FAB/2011 MOD/2012"
+                },
+                {
+                    "valor": "R$ 50.000,00",
+                    "nome": "MODELO SENECA, 02, EMB - 810C MAT. PT EZB"
+                },
+                {
+                    "valor": "R$ 500,00",
+                    "nome": "LANCHA ESPORTE"
+                },
+                {
+                    "valor": "R$ 500,00",
+                    "nome": "FIXAR II, PI 8343 01"
+                },
+                {
+                    "valor": "R$ 45.000,00",
+                    "nome": "LANCHA MARDUK, ANO 1994"
+                },
+                {
+                    "valor": "R$ 32.900,00",
+                    "nome": "MOTOR DE POPA YAMAHA 225 HP MOD. 225 PARA LANCHA MARDUK"
+                },
+                {
+                    "valor": "R$ 250,00",
+                    "nome": "UM REBOQUE PARA JET SKY"
+                },
+                {
+                    "valor": "R$ 250,00",
+                    "nome": "REBOQUE PARA LANCHA DETERIORADO"
+                },
+                {
+                    "valor": "R$ 11.105,42",
+                    "nome": "COTAS DE CAPITAL DA IRMAC-INDUSTRI CER\u00c2MICA LTDA"
+                },
+                {
+                    "valor": "R$ 104.278,68",
+                    "nome": "CORRESP A 33, 33% DO CAP. CER. ROSAPOLIS LTDA"
+                },
+                {
+                    "valor": "R$ 100.000,00",
+                    "nome": "CAPITAL SOCIAL NA EMPRESA INDIVIDUAL A. J. MORAES SOUZA FILHO-ME"
+                },
+                {
+                    "valor": "R$ 15.198,68",
+                    "nome": "CAPITAL SOCIAL CERAMICA ROSPOLIS LTDA"
+                },
+                {
+                    "valor": "R$ 61,67",
+                    "nome": "POUPAN\u00c7A BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 4.127,40",
+                    "nome": "POUPAN\u00c7A BB EM NOME AUGUSTO F. L. NETO"
+                },
+                {
+                    "valor": "R$ 4.051,64",
+                    "nome": "POUPAN\u00c7A BANCO DO BRASIL AG 0023-X"
+                },
+                {
+                    "valor": "R$ 69.855,38",
+                    "nome": "GRUPO 000509, COTA 0290-00 DA CAIXA DO CONS\u00d3RCIOS SA"
+                }
+            ],
+            "limiteGastos": "R$ 20.000.000,00",
+            "Grauinstrucao": "Ensino M\u00e9dio completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PSDB / PSB / PRB / PDT / PSL / PTN / PPS / DEM / PSDC / PMN / PTC / PSD / PC do B / PT do B / PV / PEN",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404917277000"
+            },
+            "id": "180000000044",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PIAU\u00cd NO CORA\u00c7\u00c3O",
+            "nomeCompleto": "Z\u00c9 FILHO",
+            "nascimento": "13/02/1970",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "Z\u00c9 FILHO",
+            "partido": "PMDB"
+        },
+        "180000000001": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000001/idarquivo/3?x=1405024683000180000000001",
+                    "documento": "1 - proposta_governo1404394246432.pdf"
+                }
+            ],
+            "ocupacao": "Professor de Ensino Superior",
+            "numeroProcesso": "134-32.2014.6.18.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "180000000002",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PI/candidato/180000000002",
+                "nome": "SOLIMAR SILVA"
+            },
+            "totalBensDeclarados": "R$ 136.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=180000000360&sgUe=PI",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000001/idarquivo/3484?x=1405024683000180000000001",
+                    "documento": "2 - certidao1404940371130.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000001/idarquivo/3483?x=1405024683000180000000001",
+                    "documento": "1 - certidao1404940356258.pdf"
+                }
+            ],
+            "naturalidade": "SOBRAL",
+            "cnpj": "20551601000108",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PI/candidato/180000000001",
+            "numeroProtocolo": "82712014",
+            "bens": [
+                {
+                    "valor": "R$ 108.000,00",
+                    "nome": "2 QUARTOS 51M2"
+                },
+                {
+                    "valor": "R$ 28.000,00",
+                    "nome": "CARRO GOL 2012/2013 1.0"
+                }
+            ],
+            "limiteGastos": "R$ 100.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "16",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405024683000"
+            },
+            "id": "180000000001",
+            "enderecoWeb": "www.pstu.org.br",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSTU",
+            "nomeCompleto": "DANIEL SOLON",
+            "nascimento": "02/06/1975",
+            "status": "Aguardando julgamento",
+            "codigo": "16",
+            "nomeUrna": "DANIEL SOLON",
+            "partido": "PSTU"
+        },
+        "180000000138": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/1237?x=1405192836000180000000138",
+                    "documento": "1 - proposta_governo1404595584084.pdf"
+                }
+            ],
+            "ocupacao": "Professor de Ensino M\u00e9dio",
+            "numeroProcesso": "494-64.2014.6.18.0000",
+            "genero": "FEMININO",
+            "suplente": {
+                "numero": "180000000139",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PI/candidato/180000000139",
+                "nome": "CLOVES JOS\u00c9 DOS SANTOS"
+            },
+            "totalBensDeclarados": "R$ 172.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PI&sq_cand=10000",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=12190&sqCandidato=8738",
+                    "ano": "2008"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=180000000312&sgUe=PI",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/1238?x=1405192836000180000000138",
+                    "documento": "1 - certidao1404595584084.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/1239?x=1405192836000180000000138",
+                    "documento": "2 - certidao1404595584084.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/1240?x=1405192836000180000000138",
+                    "documento": "3 - certidao1404595584085.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/1241?x=1405192836000180000000138",
+                    "documento": "4 - certidao1404595584085.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/1242?x=1405192836000180000000138",
+                    "documento": "5 - certidao1404595584086.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/1243?x=1405192836000180000000138",
+                    "documento": "6 - certidao1404595584086.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/1244?x=1405192836000180000000138",
+                    "documento": "7 - certidao1404595584087.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3783?x=1405192836000180000000138",
+                    "documento": "18 - certidao1405169936570.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3780?x=1405192836000180000000138",
+                    "documento": "15 - certidao1405169908981.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3779?x=1405192836000180000000138",
+                    "documento": "14 - certidao1405169896910.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3774?x=1405192836000180000000138",
+                    "documento": "9 - certidao1405169690054.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3773?x=1405192836000180000000138",
+                    "documento": "8 - certidao1405169663104.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3782?x=1405192836000180000000138",
+                    "documento": "17 - certidao1405169928252.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3781?x=1405192836000180000000138",
+                    "documento": "16 - certidao1405169918492.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3778?x=1405192836000180000000138",
+                    "documento": "13 - certidao1405169886101.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3777?x=1405192836000180000000138",
+                    "documento": "12 - certidao1405169865504.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3776?x=1405192836000180000000138",
+                    "documento": "11 - certidao1405169834587.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000138/idarquivo/3775?x=1405192836000180000000138",
+                    "documento": "10 - certidao1405169793194.pdf"
+                }
+            ],
+            "naturalidade": "PEDREIRAS",
+            "cnpj": "N\u00c3O INFORMADO",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PI/candidato/180000000138",
+            "numeroProtocolo": "85192014",
+            "bens": [
+                {
+                    "valor": "R$ 150.000,00",
+                    "nome": "1 CASA SITUADA NO CONJUNTO BELA VISTA QUADRA 19 CASA 05, TERESINA PIAU\u00cd"
+                },
+                {
+                    "valor": "R$ 22.000,00",
+                    "nome": "1 VE\u00cdCULO DA MARCA FIAT, MODELO IDEA, PLACA NHY 6342"
+                }
+            ],
+            "limiteGastos": "R$ 1.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "29",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1405192836000"
+            },
+            "id": "180000000138",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PCO",
+            "nomeCompleto": "LOURDES MELO",
+            "nascimento": "12/06/1953",
+            "status": "Aguardando julgamento",
+            "codigo": "29",
+            "nomeUrna": "LOURDES MELO",
+            "partido": "PCO"
+        },
+        "180000000212": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1702?x=1405076856000180000000212",
+                    "documento": "1 - proposta_governo1404599479781.pdf"
+                }
+            ],
+            "ocupacao": "Senador",
+            "numeroProcesso": "255-60.2014.6.18.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "180000000260",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PI/candidato/180000000260",
+                "nome": "MARGARETE DE CASTRO COELHO"
+            },
+            "totalBensDeclarados": "R$ 551.654,6799999999",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PI&sq_cand=10075",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=180000000704&sgUe=PI",
+                    "ano": "2010"
+                },
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1703?x=1405076856000180000000212",
+                    "documento": "1 - certidao1404599479781.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1704?x=1405076856000180000000212",
+                    "documento": "2 - certidao1404599479781.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1705?x=1405076856000180000000212",
+                    "documento": "3 - certidao1404599479782.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1706?x=1405076856000180000000212",
+                    "documento": "4 - certidao1404599479782.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1707?x=1405076856000180000000212",
+                    "documento": "5 - certidao1404599479783.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1708?x=1405076856000180000000212",
+                    "documento": "6 - certidao1404599479783.PDF"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1709?x=1405076856000180000000212",
+                    "documento": "7 - certidao1404599479783.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1710?x=1405076856000180000000212",
+                    "documento": "8 - certidao1404599479784.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1711?x=1405076856000180000000212",
+                    "documento": "9 - certidao1404599479784.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000212/idarquivo/1712?x=1405076856000180000000212",
+                    "documento": "10 - certidao1404599479784.pdf"
+                }
+            ],
+            "naturalidade": "OEIRAS",
+            "cnpj": "20581511000151",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PI/candidato/180000000212",
+            "numeroProtocolo": "85952014",
+            "bens": [
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "APARTAMENO ADQUIRIDO PELO SFH"
+                },
+                {
+                    "valor": "R$ 237.000,00",
+                    "nome": "PARTE DA CONSTRU\u00c7\u00c3O DE UMA CASA RESIDENCIAL EM UM TERRENO NO CONDOMINIO MIRANTE DO LAGO"
+                },
+                {
+                    "valor": "R$ 103.304,68",
+                    "nome": "GLEBA DE TERRA COM AREA DE 15HA TERESINA-PI"
+                },
+                {
+                    "valor": "R$ 19.000,00",
+                    "nome": "GLEBA DE TERRAS COM AREA DE 115HA - S\u00c3O MIGUEL DO FIDALGO"
+                },
+                {
+                    "valor": "R$ 18.000,00",
+                    "nome": "TERRENO NA ZONA RURAL CONSTITUIDA PELOS LOTES 05,06,07,08,09 TERESINA-PI"
+                },
+                {
+                    "valor": "R$ 2.000,00",
+                    "nome": "TERRENO MEDINDO 30X30 LUIS CORREIA-PI"
+                },
+                {
+                    "valor": "R$ 132.350,00",
+                    "nome": "VEICULO MARCA CHEVROLET S10 - FINANCIADO PELO BANCO GMAC S/A"
+                }
+            ],
+            "limiteGastos": "R$ 5.000.000,00",
+            "Grauinstrucao": "Superior incompleto",
+            "numeroUrna": "13",
+            "composicaoColigacao": "PT / PP / PTB / PHS / PR / PROS / PRP / SD / PRTB",
+            "raca": "Amarela",
+            "meta": {
+                "lastUpdate": "1405076856000"
+            },
+            "id": "180000000212",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "A VIT\u00d3RIA COM A FOR\u00c7A DO POVO",
+            "nomeCompleto": "WELLINGTON DIAS",
+            "nascimento": "05/03/1962",
+            "status": "Aguardando julgamento",
+            "codigo": "13",
+            "nomeUrna": "WELLINGTON DIAS",
+            "partido": "PT"
+        },
+        "180000000034": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/3883?x=1405201573000180000000034",
+                    "documento": "1 - proposta_governo1405255695614.pdf"
+                }
+            ],
+            "ocupacao": "Escritor e Cr\u00edtico",
+            "numeroProcesso": "167-22.2014.6.18.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "180000000041",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/PI/candidato/180000000041",
+                "nome": "REJANE MARIA LINHARES ARA\u00daJO PAL\u00c1CIO"
+            },
+            "totalBensDeclarados": "R$ 60.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=PI&sq_cand=10366",
+                    "ano": "2006"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/171?x=1405201573000180000000034",
+                    "documento": "1 - certidao1404583803606.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/172?x=1405201573000180000000034",
+                    "documento": "2 - certidao1404583803607.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/173?x=1405201573000180000000034",
+                    "documento": "3 - certidao1404583803607.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/174?x=1405201573000180000000034",
+                    "documento": "4 - certidao1404583803608.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/175?x=1405201573000180000000034",
+                    "documento": "5 - certidao1404583803608.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/176?x=1405201573000180000000034",
+                    "documento": "6 - certidao1404583803608.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/177?x=1405201573000180000000034",
+                    "documento": "7 - certidao1404583803609.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/178?x=1405201573000180000000034",
+                    "documento": "8 - certidao1404583803609.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/PI/candidato/180000000034/idarquivo/3875?x=1405201573000180000000034",
+                    "documento": "9 - certidao1405189203781.pdf"
+                }
+            ],
+            "naturalidade": "PALMEIRAIS",
+            "cnpj": "20570268000176",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/PI/candidato/180000000034",
+            "numeroProtocolo": "84062014",
+            "bens": [
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "TERRENO DE 01 HAC NO PARQUE FRONTEIRA, NA DIVISA DO MUNICIPIO DE DEMERVAL LOB\u00c3O COM CASA CONSTRUIDA"
+                }
+            ],
+            "limiteGastos": "R$ 20.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "54",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405201573000"
+            },
+            "id": "180000000034",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "PPL",
+            "nomeCompleto": "NETO SAMBAIBA",
+            "nascimento": "09/07/1953",
+            "status": "Aguardando julgamento",
+            "codigo": "54",
+            "nomeUrna": "NETO SAMBAIBA",
+            "partido": "PPL"
+        }
+    }
+}

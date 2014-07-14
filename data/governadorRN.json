@@ -1,0 +1,678 @@
+{
+    "governadorRN": {
+        "200000000016": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000016/idarquivo/80?x=1404573748000200000000016",
+                    "documento": "1 - proposta_governo1404421590729.pdf"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "numeroProcesso": "123-46.2014.6.20.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "200000000017",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000017",
+                "nome": "PAULO ROBERTO DE OLIVEIRA"
+            },
+            "totalBensDeclarados": "R$ 376.650,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=17612&sqCandidato=3794",
+                    "ano": "2008"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000016/idarquivo/81?x=1404573748000200000000016",
+                    "documento": "1 - certidao1404421590730.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000016/idarquivo/82?x=1404573748000200000000016",
+                    "documento": "2 - certidao1404421590731.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000016/idarquivo/83?x=1404573748000200000000016",
+                    "documento": "3 - certidao1404421590732.jpg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000016/idarquivo/84?x=1404573748000200000000016",
+                    "documento": "4 - certidao1404421590732.jpg"
+                }
+            ],
+            "naturalidade": "CAMPINA GRANDE",
+            "cnpj": "20557901000196",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RN/candidato/200000000016",
+            "numeroProtocolo": "192092014",
+            "bens": [
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "LOTEAMENTO JARDINS AMISTERD\u00c3"
+                },
+                {
+                    "valor": "R$ 40.000,00",
+                    "nome": "TOYOTA ETIOS COR PRATA"
+                },
+                {
+                    "valor": "R$ 62.200,00",
+                    "nome": "SOLU\u00c7OES SERVI\u00c7OS"
+                },
+                {
+                    "valor": "R$ 3.000,00",
+                    "nome": "SALDO EM CONTA CORRENTE"
+                },
+                {
+                    "valor": "R$ 21.450,00",
+                    "nome": "DINHEIRO EM ESP\u00c9CIE"
+                }
+            ],
+            "limiteGastos": "R$ 1.500.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "17",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404573748000"
+            },
+            "id": "200000000016",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "PSL",
+            "nomeCompleto": "ARAKEN",
+            "nascimento": "19/05/1963",
+            "status": "Aguardando julgamento",
+            "codigo": "17",
+            "nomeUrna": "ARAKEN",
+            "partido": "PSL"
+        },
+        "200000000242": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000242/idarquivo/1385?x=1404928061000200000000242",
+                    "documento": "1 - proposta_governo1404591046793.pdf"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "numeroProcesso": "374-64.2014.6.20.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "200000000243",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000243",
+                "nome": "F\u00c1BIO BERCKMANS VERAS DANTAS"
+            },
+            "totalBensDeclarados": "R$ 8.333.820,08",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RN&sq_cand=10072",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=200000000179&sgUe=RN",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000242/idarquivo/1386?x=1404928061000200000000242",
+                    "documento": "1 - certidao1404591046793.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000242/idarquivo/1387?x=1404928061000200000000242",
+                    "documento": "2 - certidao1404591046794.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000242/idarquivo/1388?x=1404928061000200000000242",
+                    "documento": "3 - certidao1404591046794.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000242/idarquivo/1389?x=1404928061000200000000242",
+                    "documento": "4 - certidao1404591046795.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000242/idarquivo/1390?x=1404928061000200000000242",
+                    "documento": "5 - certidao1404591046795.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000242/idarquivo/1391?x=1404928061000200000000242",
+                    "documento": "6 - certidao1404591046796.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000242/idarquivo/1392?x=1404928061000200000000242",
+                    "documento": "7 - certidao1404591046796.pdf"
+                }
+            ],
+            "naturalidade": "NATAL",
+            "cnpj": "20570434000134",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RN/candidato/200000000242",
+            "numeroProtocolo": "195092014",
+            "bens": [
+                {
+                    "valor": "R$ 9.090,91",
+                    "nome": "50% DE UM PR\u00c9DIO RESIDENIAL NA RUA GIACOMO PALUMBO, LAGOA SECA, EM NATA/RN"
+                },
+                {
+                    "valor": "R$ 96.775,68",
+                    "nome": "50% DE UM EDIFICIO COMERCIAL NA RUA JO\u00c3O PESSOA, EM NATAL/RN"
+                },
+                {
+                    "valor": "R$ 7.272,72",
+                    "nome": "50% DE UM PR\u00c9DIO COMERCIAL NA AV DUQUE DE CAXIAS, EM NATAL/RN"
+                },
+                {
+                    "valor": "R$ 4.086.993,00",
+                    "nome": "31 APARTAMENTOS, SENDO 2 NO RESIDENCIAL VELEROS E 29 NO RESIDENCIAL JANGADAS, EM PARNAMIRIM/RN"
+                },
+                {
+                    "valor": "R$ 604.120,38",
+                    "nome": "UM APARTAMENTO RESIDENCIAL NA AV GOV SILVIO PEDROZA, EM NATAL/RN"
+                },
+                {
+                    "valor": "R$ 270.000,00",
+                    "nome": "UMA CASA NO COND. RES. PORTO BRASIL L-05, PIRANG, EM PARNAMIRIM/RN"
+                },
+                {
+                    "valor": "R$ 24.625,66",
+                    "nome": "50% DE UMA CASA NA AV HERMES DA FONSECA, EM NATAL/RN"
+                },
+                {
+                    "valor": "R$ 945,46",
+                    "nome": "UM TERRENO 4,8HA DENOMINADO S\u00c3O MIGUEL, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 1.454,54",
+                    "nome": "UM TERRENO DENOMINADO S\u00c3O MIGUEL, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 1.454,54",
+                    "nome": "UM TERRENO DENOMINADO VARZEA REDONDA, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 4.545,44",
+                    "nome": "50% DE UM TERRENO RURAL EM BREJO DA MADRE DE DEUS/PE"
+                },
+                {
+                    "valor": "R$ 790.000,00",
+                    "nome": "UM TERRENO VILLA 7, PORTO BRASIL, PIRANGI, EM PARNAMIRIM/RN"
+                },
+                {
+                    "valor": "R$ 270.000,00",
+                    "nome": "UM TERRENO VILLA 6, PORTO BRASIL, PIRANGI, EM PARNAMIRIM/RN"
+                },
+                {
+                    "valor": "R$ 1.672,72",
+                    "nome": "UM TERRENO 7,5HA EM V\u00c1RZEA REDONDA, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 16.181,81",
+                    "nome": "50% DE UM TERRENO NA PROPRIEDADE RURAL FAZENDA SANTO AMARO, EM S\u00c3O GON\u00c7ALO DO AMARANTE/RN"
+                },
+                {
+                    "valor": "R$ 1.581,82",
+                    "nome": "50% DE UM TERRENO EM PASSAGEM DE AREIA, EM PARNAMIRIM/RN"
+                },
+                {
+                    "valor": "R$ 4.981,82",
+                    "nome": "UMA PROPRIEDADE DENOMINADA FAZENDA S\u00c3O MIGUEL, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 3.818,18",
+                    "nome": "UMA PROPRIEDADE RURAL DENOMINADA V\u00c1RZEA REDONDA, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 13.454,54",
+                    "nome": "25% DE UMA PROPRIEDADE RURAL DENOMINADA FAZENDA S\u00c3O LUCAS NO MUNIC\u00cdPIO DE PARNAMIRIM/RN"
+                },
+                {
+                    "valor": "R$ 6.547,46",
+                    "nome": "UMA PROPRIEDADE RURAL DENOMINADA SAUE, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 120.833,00",
+                    "nome": "UM 1/4 DA PROPRIEDADE RURAL 430HA DENOMINADA CAIBERA, EM SERRA DE S\u00c3O BENTO/RN"
+                },
+                {
+                    "valor": "R$ 37.500,00",
+                    "nome": "1/4 DA PROPRIEDADE RURAL DENOMINADA CAIBERA, 150HA, EM SERRA DE S\u00c3O BENTO/R"
+                },
+                {
+                    "valor": "R$ 4.909,08",
+                    "nome": "UMA PROPREDADE DENOMINADA VARZEA REDONDA, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 1.272,22",
+                    "nome": "UMA PROPRIEDADE RURAL E AGRICOLA DENOMINADA CAEIRAS, NO MUNICPIO DE S\u00c3O JOSE DE MIPIBU/RN"
+                },
+                {
+                    "valor": "R$ 48.556,73",
+                    "nome": "UMA PROPRIEDADE RURAL DENOMINADA FAZENDA PITANGA, EM MONTE ALEGRE/RN"
+                },
+                {
+                    "valor": "R$ 3.090,90",
+                    "nome": "50% DE UMA PROPRIEDADE RURAL EM PASSAGEM DE AREIA, EM PARNAMIRIM/RN"
+                },
+                {
+                    "valor": "R$ 1.418,18",
+                    "nome": "UMA PROPRIEDADE RURAL E AGRICOLA DENOMINADA CERCADO DO RIO, MUNICIPIO DE S\u00c3O JOSE DE MIPIBU/RN"
+                },
+                {
+                    "valor": "R$ 62.000,00",
+                    "nome": "UM VE\u00cdCULO KIA SOUL ANO 2010"
+                },
+                {
+                    "valor": "R$ 91.186,04",
+                    "nome": "UM VE\u00cdCULO FIAT FREE MOUNT ANO 2012"
+                },
+                {
+                    "valor": "R$ 272,73",
+                    "nome": "UM CAMINH\u00c3O M. BENZ ANO 1976"
+                },
+                {
+                    "valor": "R$ 176.000,00",
+                    "nome": "UM VE\u00cdCULO HILUX SW4 ANO 2012"
+                },
+                {
+                    "valor": "R$ 703.393,00",
+                    "nome": "808.067,50 A\u00c7\u00d5ES DA SALINA AMARRA NEGRA S/A"
+                },
+                {
+                    "valor": "R$ 11.099,00",
+                    "nome": "11.099 A\u00c7\u00d5ES ORDIN\u00c1RIAS DA CIAL S/A"
+                },
+                {
+                    "valor": "R$ 10.000,00",
+                    "nome": "CAPITAL SOCIAL DA RAIZ ADM. EMP. LTDA"
+                },
+                {
+                    "valor": "R$ 18.000,00",
+                    "nome": "CAPITAL SOCIAL DA R\u00c1DIO AGRESTE LTDA"
+                },
+                {
+                    "valor": "R$ 313.750,00",
+                    "nome": "APORTE PARA AUMENTO DE CAPITAL R\u00c1DIO AGRESTE COMUNICA\u00c7\u00c3O LTDA"
+                },
+                {
+                    "valor": "R$ 47.500,00",
+                    "nome": "CAPITAL SOCIAL DA AGRESTE COMUNICA\u00c7OES LTDA"
+                },
+                {
+                    "valor": "R$ 13.040,78",
+                    "nome": "CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 60.966,29",
+                    "nome": "MASTER DI - BANCO ITAU"
+                },
+                {
+                    "valor": "R$ 282.077,56",
+                    "nome": "FUNDO DE INVESTIMENTO E APLICA\u00c7\u00d5ES - BRADESCO"
+                },
+                {
+                    "valor": "R$ 83.430,79",
+                    "nome": "BB REF DI PLUS EST"
+                },
+                {
+                    "valor": "R$ 15.743,12",
+                    "nome": "INVEST CONTA RESGATE AUTOM - BANCO SANTANDER"
+                },
+                {
+                    "valor": "R$ 6.248,71",
+                    "nome": "SALDO BANC\u00c1RIO EM CONTA CORRENTE - BANCO ITAU"
+                },
+                {
+                    "valor": "R$ 785,56",
+                    "nome": "SALO CONTA CORRENTE - BANCO BRADESCO"
+                },
+                {
+                    "valor": "R$ 5.188,35",
+                    "nome": "SALDO CONTA CORRENTE - CAIXA ECONOMICA FEDERAL"
+                },
+                {
+                    "valor": "R$ 41,36",
+                    "nome": "SALDO CONTA CORRENTE - BANCO SANTANDER"
+                }
+            ],
+            "limiteGastos": "R$ 18.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "55",
+            "composicaoColigacao": "PSD / PT / PC do B / PT do B / PP / PEN / PRTB / PTC",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1404928061000"
+            },
+            "id": "200000000242",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "LIDERADOS PELO POVO",
+            "nomeCompleto": "ROBINSON FARIA",
+            "nascimento": "12/04/1959",
+            "status": "Aguardando julgamento",
+            "codigo": "55",
+            "nomeUrna": "ROBINSON FARIA",
+            "partido": "PSD"
+        },
+        "200000000127": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000127/idarquivo/601?x=1405087517000200000000127",
+                    "documento": "1 - proposta_governo1404586911578.pdf"
+                }
+            ],
+            "ocupacao": "Advogado",
+            "numeroProcesso": "238-67.2014.6.20.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "200000000130",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000130",
+                "nome": "JO\u00c3O DA SILVA MAIA"
+            },
+            "totalBensDeclarados": "R$ 12.414.019,93",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RN&sq_cand=10126",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://divulgacand2010.tse.jus.br/divulgacand2010/jsp/abrirTelaDetalheCandidato.action?sqCand=200000000107&sgUe=RN",
+                    "ano": "2010"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000127/idarquivo/602?x=1405087517000200000000127",
+                    "documento": "1 - certidao1404586911579.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000127/idarquivo/603?x=1405087517000200000000127",
+                    "documento": "2 - certidao1404586911580.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000127/idarquivo/604?x=1405087517000200000000127",
+                    "documento": "3 - certidao1404586911580.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000127/idarquivo/605?x=1405087517000200000000127",
+                    "documento": "4 - certidao1404586911581.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000127/idarquivo/606?x=1405087517000200000000127",
+                    "documento": "5 - certidao1404586911581.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000127/idarquivo/607?x=1405087517000200000000127",
+                    "documento": "6 - certidao1404586911582.pdf"
+                }
+            ],
+            "naturalidade": "RIO DE JANEIRO",
+            "cnpj": "20565087000151",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RN/candidato/200000000127",
+            "numeroProtocolo": "193892014",
+            "bens": [
+                {
+                    "valor": "R$ 3.473.372,75",
+                    "nome": "RESIDECIAL NO ED. BELO MONTE - PETROPOLIS - NATAL RN"
+                },
+                {
+                    "valor": "R$ 1.410.000,00",
+                    "nome": "APTO 600, DO EDIFICIO MAISON PETROPOLES LOC. NA RUA FLORIANO PEIXOTO, 366 PETROPOLES, NATAL/RN"
+                },
+                {
+                    "valor": "R$ 60.000,00",
+                    "nome": "LOTE DE TERRENO NR 984 QDRA 34, LOTEAMENTO BARRA DO RIO EXTREMOZ/RN"
+                },
+                {
+                    "valor": "R$ 55.000,00",
+                    "nome": "LOTE DE TERRENO 985 NA QUADRA 34, POR 810 M2 SITO A PRAIA EXTREMOZ/RN"
+                },
+                {
+                    "valor": "R$ 1.801.995,38",
+                    "nome": "LOTE DE TERRENO SITUADO EM BARRO DO RIO - EXTREMOZ - RN, LOTES 986 E 987 COM INICIO DE CONSTRU\u00c7\u00c3O DE UMA CASA"
+                },
+                {
+                    "valor": "R$ 500.000,00",
+                    "nome": "80% DO PREDIO 2200, NA RUA RAIMUNDO CHAVES - LAGOA NOVA - NATAL RN"
+                },
+                {
+                    "valor": "R$ 714.843,00",
+                    "nome": "UNIDADE N\u00ba 1502 NO EMPREENDIMENTO CONDOMINIAL INFINITY AREIA PRETA, SITO NA AVENIDA SILVIO PEDROZA, 246 AREIA PRETA NATAL/RN"
+                },
+                {
+                    "valor": "R$ 93.799,20",
+                    "nome": "COMPRA DE VEICULO RANGER ROOVER ANO 2011 PLACA NOA7334-RN"
+                },
+                {
+                    "valor": "R$ 160.000,00",
+                    "nome": "VEICULO VOLVO XC, ANO 2010, PLACA NNY-3344"
+                },
+                {
+                    "valor": "R$ 156.000,00",
+                    "nome": "COMPRA DE VEICULO RANGER ROUVER EVOQUE ANO/MOD 13/13, ADQUIRIDO EM SEIS PARCELAS DE R$ 26.000,00"
+                },
+                {
+                    "valor": "R$ 70.000,00",
+                    "nome": "VEICULO FIX MANGENTI PRETA , ANO 2010, PLACA NNN-7333"
+                },
+                {
+                    "valor": "R$ 224.853,00",
+                    "nome": "COTAS DE CAPITAL SOCIAL DA FIRMA EMPRESA JORNAL TRIBUNA DO NORTE LTDA"
+                },
+                {
+                    "valor": "R$ 2.010.000,00",
+                    "nome": "PARTICIPA\u00c7\u00c3O NO CAPITAL DA SOCIEDADE DE TELEVIS\u00c3O COSTA BRANCA"
+                },
+                {
+                    "valor": "R$ 15.225,00",
+                    "nome": "COTAS DE CAPITAL SOCIAL DA R\u00c1DIO CABUGI LTDA"
+                },
+                {
+                    "valor": "R$ 337.250,00",
+                    "nome": "8,8% DO CAPITAL SOCIAL DA TV CABUGI"
+                },
+                {
+                    "valor": "R$ 494,10",
+                    "nome": "OUROCAP BANCO DO BRASIL"
+                },
+                {
+                    "valor": "R$ 250.000,00",
+                    "nome": "CREDITO JUNTO A HENRIQUE JOSE LYRA ALVES"
+                },
+                {
+                    "valor": "R$ 422.000,00",
+                    "nome": "CREDITO JUNTO A EDUARDO JOSE AZAMBUJA ALVES"
+                },
+                {
+                    "valor": "R$ 1.187,50",
+                    "nome": "CONTRIBUI\u00c7\u00c3O PREVID\u00caNCIA PRIVADA VGBL - BRADESCO VIDA E PREVIDENCIA"
+                },
+                {
+                    "valor": "R$ 658.000,00",
+                    "nome": "CREDITO JUNTO A ANDRESSA AZAMBUJA ALVES, FILHA"
+                }
+            ],
+            "limiteGastos": "R$ 40.000.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "15",
+            "composicaoColigacao": "PMDB / PR / PSB / PROS / PDT / SD / PSC / PTB / PPS / PHS / PSDB / PSDC / PRB / PTN / PV / PMN / PRP",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405087517000"
+            },
+            "id": "200000000127",
+            "enderecoWeb": "www.henriquegovernador.com.br",
+            "estadoCivil": "Divorciado(a)",
+            "coligacao": "UNI\u00c3O PELA MUDAN\u00c7A",
+            "nomeCompleto": "HENRIQUE EDUARDO",
+            "nascimento": "09/12/1948",
+            "status": "Aguardando julgamento",
+            "codigo": "15",
+            "nomeUrna": "HENRIQUE EDUARDO",
+            "partido": "PMDB"
+        },
+        "200000000083": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000083/idarquivo/381?x=1405083348000200000000083",
+                    "documento": "1 - proposta_governo1404574431313.pdf"
+                }
+            ],
+            "ocupacao": "Professor de Ensino Superior",
+            "numeroProcesso": "195-33.2014.6.20.0000",
+            "genero": "MASCULINO",
+            "suplente": {
+                "numero": "200000000097",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000097",
+                "nome": "ANT\u00d4NIO RONALDO GOMES GARCIA"
+            },
+            "totalBensDeclarados": "R$ 353.276,30000000005",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/pagina-construcao",
+                    "ano": "2012"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000083/idarquivo/382?x=1405083348000200000000083",
+                    "documento": "1 - certidao1404574431314.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000083/idarquivo/383?x=1405083348000200000000083",
+                    "documento": "2 - certidao1404574431315.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000083/idarquivo/384?x=1405083348000200000000083",
+                    "documento": "3 - certidao1404574431315.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000083/idarquivo/385?x=1405083348000200000000083",
+                    "documento": "4 - certidao1404574431316.pdf"
+                }
+            ],
+            "naturalidade": "NILOPOLIS",
+            "cnpj": "20567997000173",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RN/candidato/200000000083",
+            "numeroProtocolo": "193372014",
+            "bens": [
+                {
+                    "valor": "R$ 220.000,00",
+                    "nome": "TERRENO DE 450 METROS, CAPIM MACIO, NATAL/RN"
+                },
+                {
+                    "valor": "R$ 6.000,00",
+                    "nome": "CARRO GOL MODELO 2002"
+                },
+                {
+                    "valor": "R$ 17.000,00",
+                    "nome": "CARRO UNO MODELO 2010"
+                },
+                {
+                    "valor": "R$ 11.589,98",
+                    "nome": "BANCO DO BRASIL, AG\u00caNCIA 1668-3 CONTA 33805-2"
+                },
+                {
+                    "valor": "R$ 98.686,32",
+                    "nome": "BANCO DO BRASIL AG\u00caNCIA 1668-3 CONTA 33805-2"
+                }
+            ],
+            "limiteGastos": "R$ 200.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "50",
+            "composicaoColigacao": "",
+            "raca": "Branca",
+            "meta": {
+                "lastUpdate": "1405083348000"
+            },
+            "id": "200000000083",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Casado(a)",
+            "coligacao": "PSOL",
+            "nomeCompleto": "PROFESSOR ROB\u00c9RIO PAULINO",
+            "nascimento": "29/05/1957",
+            "status": "Aguardando julgamento",
+            "codigo": "50",
+            "nomeUrna": "PROFESSOR ROB\u00c9RIO PAULINO",
+            "partido": "PSOL"
+        },
+        "200000000001": {
+            "propostas": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/proposta/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000001/idarquivo/3?x=1404567072000200000000001",
+                    "documento": "1 - proposta_governo1404415521810.pdf"
+                }
+            ],
+            "ocupacao": "Enfermeiro",
+            "numeroProcesso": "108-77.2014.6.20.0000",
+            "genero": "FEMININO",
+            "suplente": {
+                "numero": "200000000002",
+                "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/4/UF/RN/candidato/200000000002",
+                "nome": "MARIA DO SOCORRO ALVES RIBEIRO SOUSA"
+            },
+            "totalBensDeclarados": "R$ 157.000,0",
+            "eleicoesAnteriores": [
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicao2006DivCand/procCandidatoCarregarKey.jsp?sg_ue=RN&sq_cand=10203",
+                    "ano": "2006"
+                },
+                {
+                    "detalhe": "http://www.tse.jus.br/sadEleicaoDivulgaCand2008/gerenciarregistrocandidatura/manterCandidato!mostrarRegistroCandidatura.action?codigoUECandidato=17612&sqCandidato=738",
+                    "ano": "2008"
+                }
+            ],
+            "nacionalidade": "Brasileira nata",
+            "docs": [
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000001/idarquivo/4?x=1404567072000200000000001",
+                    "documento": "1 - certidao1404415521812.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000001/idarquivo/5?x=1404567072000200000000001",
+                    "documento": "2 - certidao1404415521813.pdf"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000001/idarquivo/6?x=1404567072000200000000001",
+                    "documento": "3 - certidao1404415521814.jpeg"
+                },
+                {
+                    "endereco": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/certidao/eleicao/2014/idEleicao/143/UE/RN/candidato/200000000001/idarquivo/7?x=1404567072000200000000001",
+                    "documento": "4 - certidao1404415521814.pdf"
+                }
+            ],
+            "naturalidade": "CAMPINA GRANDE",
+            "cnpj": "20558008000185",
+            "url": "http://divulgacand2014.tse.jus.br/divulga-cand-2014/eleicao/2014/idEleicao/143/cargo/3/UF/RN/candidato/200000000001",
+            "numeroProtocolo": "191872014",
+            "bens": [
+                {
+                    "valor": "R$ 120.000,00",
+                    "nome": "CASA PR\u00d3PRIA QUITADA SITUADA NA RUA M\u00d4NICA N\u00d3BREGA DANTAS, 10, NOVA PARNAMIRIM, PARNAMIRIM/RN"
+                },
+                {
+                    "valor": "R$ 37.000,00",
+                    "nome": "RENAULT SANDERO 2013 - FINANCIADO EM 3 ANOS"
+                }
+            ],
+            "limiteGastos": "R$ 60.000,00",
+            "Grauinstrucao": "Superior completo",
+            "numeroUrna": "16",
+            "composicaoColigacao": "",
+            "raca": "Parda",
+            "meta": {
+                "lastUpdate": "1404567072000"
+            },
+            "id": "200000000001",
+            "enderecoWeb": "N\u00c3O INFORMADO",
+            "estadoCivil": "Solteiro(a)",
+            "coligacao": "PSTU",
+            "nomeCompleto": "SIMONE DUTRA",
+            "nascimento": "14/12/1965",
+            "status": "Aguardando julgamento",
+            "codigo": "16",
+            "nomeUrna": "SIMONE DUTRA",
+            "partido": "PSTU"
+        }
+    }
+}
