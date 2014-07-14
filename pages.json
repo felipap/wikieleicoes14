@@ -1,0 +1,313 @@
+{
+    "states": {
+        "AC": {
+            "governador": [
+                "Tião Viana",
+                "Márcio Bittar",
+                "Tião Bocalom"
+            ],
+            "vicegovernador": [
+                "Henrique Afonso"
+            ],
+            "senador": []
+        },
+        "AP": {
+            "governador": [
+                "Camilo Capiberibe",
+                "Waldez Góes",
+                "Jorge Amanajás",
+                "Lucas Barreto",
+                "Bruno Mineiro (político)"
+            ],
+            "vicegovernador": [
+                "Papaléo Paes"
+            ],
+            "senador": [
+                "Gilvam Borges",
+                "Dora Nascimento",
+                "Davi Alcolumbre"
+            ]
+        },
+        "AM": {
+            "governador": [
+                "Eduardo Braga",
+                "José Melo de Oliveira",
+                "Marcelo Ramos"
+            ],
+            "vicegovernador": [
+                "Rebeca Garcia",
+                "Henrique Oliveira",
+                "Mário Lúcio"
+            ],
+            "senador": [
+                "Francisco Praciano",
+                "Marcelo Serafim",
+                "Omar Aziz"
+            ]
+        },
+        "BA": {
+            "governador": [
+                "Rui Costa (político)",
+                "Paulo Souto",
+                "Lídice da Mata"
+            ],
+            "vicegovernador": [
+                "Joaci Fonseca de Góes"
+            ],
+            "senador": [
+                "Geddel Vieira Lima",
+                "Eliana Calmon",
+                "Otto Alencar"
+            ]
+        },
+        "CE": {
+            "governador": [
+                "Eunício Oliveira"
+            ],
+            "vicegovernador": [],
+            "senador": [
+                "Tasso Jereissati"
+            ]
+        },
+        "DF": {
+            "governador": [],
+            "vicegovernador": [],
+            "senador": []
+        },
+        "ES": {
+            "governador": [
+                "Paulo Hartung",
+                "Renato Casagrande"
+            ],
+            "vicegovernador": [
+                "César Colnago"
+            ],
+            "senador": [
+                "Rose de Freitas",
+                "João Coser"
+            ]
+        },
+        "GO": {
+            "governador": [
+                "Marconi Perillo",
+                "Iris Rezende",
+                "Antônio Roberto Gomide"
+            ],
+            "vicegovernador": [],
+            "senador": []
+        },
+        "MA": {
+            "governador": [
+                "Flávio Dino",
+                "Edison Lobão Filho"
+            ],
+            "vicegovernador": [],
+            "senador": []
+        },
+        "MT": {
+            "governador": [
+                "Pedro Taques",
+                "José Geraldo Riva"
+            ],
+            "vicegovernador": [],
+            "senador": [
+                "Jayme Campos"
+            ]
+        },
+        "MS": {
+            "governador": [
+                "Nelson Trad Filho",
+                "Delcídio do Amaral",
+                "Reinaldo Azambuja"
+            ],
+            "vicegovernador": [
+                "Londres Machado"
+            ],
+            "senador": []
+        },
+        "MG": {
+            "governador": [
+                "Pimenta da Veiga",
+                "Fernando Pimentel",
+                "Raymundo Tarcisio Delgado"
+            ],
+            "vicegovernador": [
+                "Antônio Andrade"
+            ],
+            "senador": [
+                "Antônio Anastasia"
+            ]
+        },
+        "PA": {
+            "governador": [
+                "Simão Jatene",
+                "Helder Barbalho"
+            ],
+            "vicegovernador": [
+                "Joaquim de Lira Maia"
+            ],
+            "senador": [
+                "Mário Couto",
+                "Helenilson Pontes",
+                "Paulo Rocha (político)"
+            ]
+        },
+        "PB": {
+            "governador": [
+                "Cássio Cunha Lima",
+                "Ricardo Coutinho",
+                "Vital do Rêgo Filho",
+                "Major Fábio"
+            ],
+            "vicegovernador": [
+                "Roberto Paulino"
+            ],
+            "senador": [
+                "José Maranhão",
+                "Wilson Santiago"
+            ]
+        },
+        "PR": {
+            "governador": [
+                "Beto Richa",
+                "Gleisi Hoffmann",
+                "Roberto Requião"
+            ],
+            "vicegovernador": [
+                "Cida Borghetti",
+                "Haroldo Ferreira",
+                "Rosane Ferreira"
+            ],
+            "senador": [
+                "Álvaro Dias",
+                "Ricardo Gomyde",
+                "Marcelo Almeida"
+            ]
+        },
+        "PE": {
+            "governador": [
+                "João Soares Lyra Neto"
+            ],
+            "vicegovernador": [],
+            "senador": []
+        },
+        "PI": {
+            "governador": [],
+            "vicegovernador": [],
+            "senador": []
+        },
+        "RJ": {
+            "governador": [
+                "Dayse Oliveira",
+                "Anthony Garotinho",
+                "Luiz Fernando Pezão",
+                "Marcelo Crivella"
+            ],
+            "vicegovernador": [
+                "Francisco Dornelles"
+            ],
+            "senador": [
+                "Romário",
+                "Cesar Maia",
+                "Carlos Lupi"
+            ]
+        },
+        "RN": {
+            "governador": [
+                "Henrique Eduardo Alves",
+                "Robinson Faria"
+            ],
+            "vicegovernador": [],
+            "senador": []
+        },
+        "RS": {
+            "governador": [
+                "Tarso Genro",
+                "Ana Amélia Lemos",
+                "José Ivo Sartori",
+                "Vieira da Cunha"
+            ],
+            "vicegovernador": [
+                "Jorge Antônio Dornelles Carpes"
+            ],
+            "senador": [
+                "Beto Albuquerque",
+                "Olívio Dutra",
+                "Lasier Martins"
+            ]
+        },
+        "RO": {
+            "governador": [
+                "Expedito Júnior",
+                "Confúcio Moura"
+            ],
+            "vicegovernador": [],
+            "senador": [
+                "Acir Gurgacz"
+            ]
+        },
+        "RR": {
+            "governador": [],
+            "vicegovernador": [],
+            "senador": []
+        },
+        "SC": {
+            "governador": [
+                "Raimundo Colombo",
+                "Paulo Bauer",
+                "Cláudio Antônio Vignatti",
+                "Gilmar Salgado dos Santos",
+                "Afrânio Boppré"
+            ],
+            "vicegovernador": [
+                "Eduardo Pinho Moreira",
+                "Joares Ponticelli"
+            ],
+            "senador": []
+        },
+        "SP": {
+            "governador": [
+                "Geraldo Alckmin",
+                "Paulo Skaf",
+                "Alexandre Padilha"
+            ],
+            "vicegovernador": [
+                "José Roberto Batochio",
+                "Márcio França"
+            ],
+            "senador": [
+                "José Serra",
+                "Eduardo Suplicy",
+                "Gilberto Kassab"
+            ]
+        },
+        "SE": {
+            "governador": [],
+            "vicegovernador": [],
+            "senador": []
+        },
+        "TO": {
+            "governador": [],
+            "vicegovernador": [],
+            "senador": []
+        }
+    },
+    "generic": {
+        "presidente": [
+            "Dilma Rousseff",
+            "Eduardo Campos",
+            "Aécio Neves",
+            "Luciana Genro",
+            "José Maria de Almeida",
+            "Eduardo Jorge Martins Alves Sobrinho",
+            "José Maria Eymael",
+            "Rui Costa Pimenta",
+            "Levy Fidelix",
+            "Pastor Everaldo"
+        ],
+        "vicepresidente": [
+            "Marina Silva",
+            "Aloysio Nunes"
+        ]
+    }
+}
