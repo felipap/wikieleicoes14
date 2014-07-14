@@ -46,7 +46,7 @@ main = ->
 			if edit.anonymous
 				status += "anonimamente. "
 			else
-				status += "por #{edit.user}" 
+				status += "por #{edit.user}. "
 			status += edit.url
 
 			console.log "\n\n>>>>>>>>>>>>>>>>>>>> #{status}\n\n\n\n\n"
