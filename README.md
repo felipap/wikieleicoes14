@@ -1,5 +1,5 @@
 
-### [@edicoes2014](https://twitter.com/edicoes2014)
+### [@wikieleicoes14](https://twitter.com/wikieleicoes14)
 
 Um bot que tuita sempre que uma edição é feita à página da wikipédia de um candidato nas eleições de 2014.
 

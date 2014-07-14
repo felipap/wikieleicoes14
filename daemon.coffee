@@ -20,7 +20,7 @@ logEdit = (edit) ->
 	console.log what+Array(process.stdout.columns-what.length-who.length+1).join(' ')+who
 
 main = ->
-		
+
 	p = {}
 	for abbr, obj of pages.states
 		for title, names of obj
@@ -38,11 +38,15 @@ main = ->
 		if edit.channel is '#pt.wikipedia'
 			logEdit edit
 
-		if edit.page of p and not edit.robot and Math.abs(edit.delta) > 15
+		if edit.page of p and not edit.robot and Math.abs(edit.delta) > 50
 			logEdit edit
 
-			console.log 'edit to'
-			status = "Página de #{edit.page} foi editada "
+			candidato = p[edit.page]
+			if candidato.ref is "BR"
+				name = "#{edit.page}, candidato(a) a #{candidato.title},"
+			else
+				name = "#{edit.page}, candidato(a) a #{candidato.title} do #{candidato.ref},"
+			status = "Página de #{name} foi editada "
 			if edit.anonymous
 				status += "anonimamente. "
 			else
