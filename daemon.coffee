@@ -27,11 +27,11 @@ main = ->
 
 	# Build map WikiPage → Info
 	p = {}
-	for abbr, obj of pages.states
+	for abbr, obj of pages.candidates.states
 		for title, names of obj
 			for name in names
 				p[name] = { title: title, ref: abbr, lastEdit: new Date(0), lastAuthor: null }
-	for title, names of pages.generic
+	for title, names of pages.candidates.generic
 		for name in names
 			p[name] = { title: title, ref: "BR", lastEdit: new Date(0), lastAuthor: null }
 	console.log p
@@ -61,9 +61,13 @@ main = ->
 			console.log p[edit.page]
 
 			if candidato.ref is "BR"
-				who = "#{edit.page}, candidato(a) a ###{candidato.title},"
+				who = "#{edit.page}, candidato(a) a ##{candidato.title},"
 			else
-				who = "#{edit.page}, candidato(a) a #{candidato.title} do ###{candidato.ref},"
+				switch pages.states[candidato.ref].gen
+					when "F" then prep = "da"
+					when "M" then prep = "do"
+					else prep = "de"
+				who = "#{edit.page}, candidato(a) a #{candidato.title} #{prep} ##{candidato.ref},"
 			status = "Página de #{who} foi editada "
 			if edit.anonymous
 				status += "anonimamente. "
