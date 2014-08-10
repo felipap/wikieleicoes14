@@ -34,7 +34,7 @@ main = ->
 	for title, names of pages.candidates.generic
 		for name in names
 			p[name] = { title: title, ref: "BR", lastEdit: new Date(0), lastAuthor: null }
-	console.log p
+	console.log p 
 
 	# Listen... 'O
 	wikipedia.listen (edit) ->
@@ -43,8 +43,9 @@ main = ->
 		return unless edit.namespace in ['main', 'article'] and edit.channel is '#pt.wikipedia'
 
 		logEdit edit
+		# edit.page = 'Levy Fidelix'
 
-		if edit.page of p and not edit.robot and Math.abs(edit.delta) > 50
+		if edit.page of p and Math.abs(edit.delta) > 50
 		# if true
 		# 	p[edit.page] = { title: 'MOIII', ref: "BR", lastEdit: new Date(0), lastAuthor: null }
 			candidato = p[edit.page]
@@ -67,7 +68,7 @@ main = ->
 					when "F" then prep = "da"
 					when "M" then prep = "do"
 					else prep = "de"
-				who = "#{edit.page}, candidato(a) a #{candidato.title} #{prep} ##{candidato.ref},"
+				who = "#{edit.page}, candidato(a) a #{candidato.title} #{prep}# #{candidato.ref},"
 			status = "Página de #{who} foi editada "
 			if edit.anonymous
 				status += "anonimamente. "
@@ -76,6 +77,7 @@ main = ->
 			status += edit.url
 
 			console.log "\n\n>>>>>>>>>>>>>>>>>>>> #{status}\n\n\n\n\n"
+			return
 			twitter.post 'statuses/update', status: status, (err, d, r) ->
 				if err
 					console.log err
