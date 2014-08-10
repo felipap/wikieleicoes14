@@ -110,7 +110,7 @@
         }
     },
     "candidates": {
-        "state": {
+        "states": {
             "AC": {
                 "governador": [
                     "Tião Viana",

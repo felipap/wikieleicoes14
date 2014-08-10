@@ -36,7 +36,7 @@ main = ->
 			p[name] = { title: title, ref: "BR", lastEdit: new Date(0), lastAuthor: null }
 	console.log p 
 
-	# Listen... 'O
+	# Listen... 'Olorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor
 	wikipedia.listen (edit) ->
 		
 		# Ignore non-portuguese non-articles
